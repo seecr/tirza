@@ -62,21 +62,28 @@ def calculate_groups(cov_matrix, mapping=group_mapping):
     count_edges_matrix = np.zeros(shape=(len_types, len_types))
     for (i, mtype) in enumerate(types):
         for (j, omtype) in enumerate(types):
-            if mtype != omtype:
+            if True:
+            #if mtype != omtype:
                 (sim, count) = calcluate_similarity(cov_matrix, mtype, omtype)
                 sim_type_matrix[i, j] = sim
                 count_edges_matrix[i, j] = count
-    print (sim_type_matrix, count_edges_matrix)
+    #print (sim_type_matrix, count_edges_matrix)
     return (sim_type_matrix, count_edges_matrix)
 
-def output_csv():
-    pass # TODO
+def output_csv(sim_matrix, count_matrix):
+    global types
+    types_header = ",".join(types)
+    np.savetxt("tirza_types_similarity.csv", sim_matrix, delimiter=",",
+            header=types_header)
+    np.savetxt("tirza_count_similarity.csv", count_matrix, delimiter=",",
+            header=types_header)
 
 def main():
     read_type_mapping()
     cov_matrix = read_sim_matrix()
     calculate_svg(cov_matrix)
-    calculate_groups(cov_matrix)
+    (group_sim, count_matrix) = calculate_groups(cov_matrix)
+    output_csv(group_sim, count_matrix)
 
 if __name__ == '__main__':
     main()
