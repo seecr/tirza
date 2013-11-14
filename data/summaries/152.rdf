@@ -1,0 +1,48 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NkQ5LUQ0WTEtRFlSWS1OMTlW">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/56D9-D4Y1-DYRY-N19V"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=56D9-D4Y1-DYRY-N19V&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Diefstal van 16 linkerslippers</dcterms:title>
+        <dcterms:creator>tirza de fockert</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>'Ja, de dief had wel gewoon twee benen'
+Een 26-jarige vrouw uit Ierland heeft dinsdag bij Dubbel D Modeschoenen in Zundert zestien linkerslippers gestolen. De eigenaar vertelt.
+U bent zestien linkerschoenen kwijt?
+"Slippers waren het. Ipanema, van die luxe badslippers voor kinderen, in allemaal verschillende kleurtjes."
+Had de dief twee benen?
+"Ha! Ja, die had ze wel."
+Misschien hebben ze in Ierland een ander gevoel voor mode. U bent niet ook toevallig zestien rechterlaarzen kwijt?
+"Nee hoor, verder was er niets verdwenen. Die slippers hangen bij ons aan een rekje, alleen de linkerexemplaren. Dat doe ik altijd. Mensen hebben dat niet door. Ze heeft gewoon zo'n heel rekje in haar buggy geleegd. Ik zit al 25 jaar in het vak, maar dit is me nog nooit gebeurd."
+De slippers zijn niet aan beide voeten te dragen?
+"Dan draai je alleen maar rondjes. Wat dat betreft, als je slippers gestolen hebt en je ziet thuis pas dat het zestien linkerexemplaren zijn, dan voel je je ook genaaid. Het is voor ons vervelend, maar zij heeft er natuurlijk ook helemaal niets aan."
+U had haar snel in de smiezen?
+"Er staan drie verschillende cameras's op dat rek. We hebben alles heel goed beveiligd. Als je daarop kijkt, ziet het er wel heel grappig uit. Ze gooide wat slippers op de grond, draaide een rondje, stopte er wat in de tas. Ach weet je, we lachen er wel om, maar eigenlijk is het heel triest. Ze had een kindje bij zich, dat vond ik wel heel erg."
+Zijn ze nog wel te verkopen?
+"Met die slippers is verder niets aan de hand, die hangen al weer netjes aan het rek. Toen ik zag wat er gebeurde, ben ik gelijk achter haar aangerend. Ik kon de vrouw na honderd meter in haar nekvel grijpen. Ze is meteen meegenomen naar het bureau. Met kindje, daarom vind ik het ook zo triest. De politie bel ik altijd, zelfs al er schoenveters gestolen worden."
+Linkerschoenveters?
+Kunt u het verschil zien dan?
+</dcterms:description>
+        <dcterms:extent>word, 312, Nieuws; Blz. 4</dcterms:extent>
+        <dcterms:issued>2012-08-23</dcterms:issued>
+        <rdfs:label xml:lang="nl">Diefstal van 16 linkerslippers</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

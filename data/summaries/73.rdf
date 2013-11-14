@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTRHLTRGRjEtRFlSWS1OMTVH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/514G-4FF1-DYRY-N15G"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>In het hoofd van een man die alles verliest</dcterms:title>
+        <dcterms:creator>Belinda van de Graaf</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Regie: Rudolf van den Berg. Met Gijs Scholten van Aschat, Sylvia Hoeks, Johanna ter Steege en Keitumetse Matlabo. In 66 bioscopen.
+Het gaat goed met Tirza. De roman van Arnon Grunberg kreeg drie jaar geleden de Libris literatuurprijs. De toneelbewerking leverde hoofdrolspeler Kees Hulst eerder deze maand de Louis d'Or op. En deze week dingt de verfilming van Rudolf van den Berg mee naar vijf Gouden Kalveren voor beste regie, acteur, actrice in een bijrol, muziek en montage. Er moeten gekke dingen gebeuren willen de eerste twee nominaties voor regisseur Rudolf van den Berg en hoofdrolspeler Gijs Scholten van Aschat niet verzilverd worden. Ach, en anders doet de film ook nog als Nederlandse afgevaardigde mee aan de nominatieronde voor de Oscars - later.
+Waar het om gaat is terecht te komen in het hoofd van een man van middelbare leeftijd die alles kwijt raakt: zijn baan, zijn vrouw, zijn oudste dochter en ten slotte ook zijn jongste dochter, zijn oogappel, Tirza. Van Aschat slaagt erin een man neer te zetten die steeds meer lijdt onder de zwaarte van de eenzaamheid, steeds meer wijn als water drinkt, steeds slordiger en morsiger wordt, en steeds verder wegglijdt uit de werkelijkheid. Hoe dieper hij zelf wegzakt, hoe harder hij roept dat zijn dochter hoogbegaafd is.
+In Jörgen Hofmeester herkennen we de angstige, westerse man die in het Marokkaanse vriendje van zijn dochter het grootste gevaar gaat zien. Het enige dat hij kan bedenken is dat hij op Mohammed Atta lijkt, en dat hij een terrorist is. Het boek dat hij haar voorleest is vast de Koran. In de film werkt de gekte eerst nog komisch, daarna steeds tragischer. Als Hofmeester zijn dochter achterna reist naar Afrika, en uiteindelijk in het niemandsland van de woestijn terecht komt, is er even de herinnering aan Jack Nicholson in Antonioni's 'Professione: Reporter' die ook de Afrikaanse woestijn in trok, om uiteindelijk kermend op zijn knieën in het rode zand te zakken.
+Een dergelijk existentialistisch doolhof wordt 'Tirza' niet. Van den Berg is geen Antonioni, geen meester van de leegte. Aan het slot wil hij alles toch graag uitleggen. En op de een of andere manier haalt dat de angel er ook uit, dat mysterie dat zo netjes wordt opgelost.
+</dcterms:description>
+        <dcterms:extent>word, 370, FILM</dcterms:extent>
+        <dcterms:issued>2010-09-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">In het hoofd van een man die alles verliest</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

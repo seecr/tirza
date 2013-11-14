@@ -1,0 +1,47 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M1NZLUtSMTEtRFlSWS1OMThG">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53SY-KR11-DYRY-N18F"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53SY-KR11-DYRY-N18F&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>buzz</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description> Ooglap te koop
+Het ooglapje dat John Wayne droeg in de oorspronkelijke versie True Grit, de enige film waarmee de westernheld een Oscar verdiende, is te koop. De erven-Wayne bieden het stuk textiel volgende maand aan op een veiling in Los Angeles. In de film speelt Wayne de ruige, beschonken premiejager Rooster Cogburn; een rol die Jeff Bridges, eveneens met ooglapje, begin dit jaar gestalte gaf in de film van de broers Coen naar hetzelfde cultboek van Charles Portis. Op de veiling zullen zo'n 700 memorabilia van Wayne te koop worden aangeboden, onder meer cowboypakken en cowboyhoeden die door de acteur zijn gedragen.
+Sheen terug in beeld
+Charlie Sheen gaat de hoofdrol spelen in A Glimpse Inside the Mind of Charlie Swan III; een film van Roman Coppola, broer van Sofia en zoon van Francis Ford. Van enige typecasting lijkt sprake te zijn. Sheen, die een spectaculaire publieke afbladdering meemaakte als gevolg van overmatig drugs- en drankgebruik,  zal een succesvolle man spelen die veel succes heeft bij vrouwen, totdat zijn vriendin hem verlaat en zijn leven in een neerwaartse spiraal terechtkomt.
+Schwarzenegger ook
+Arnold Schwarzenegger onderhandelt over de hoofdrol in Captive. In deze actiethriller zou hij een rijke Amerikaanse vastgoedmagnaat in Brazilië spelen die wordt ontvoerd. Hij wordt achter in een gekaapte politiebus gegijzeld. De gijzelnemers willen een flinke som losgeld. Dat schrijft de Amerikaanse film- en tv-site Deadline. De opnames van Captive gaan volgend jaar van start. De producenten hebben een budget van 250 miljoen dollar ter beschikking gesteld. De 64-jarige Schwarzenegger heeft zich na zijn vertrek als gouverneur van Californië weer helemaal toegelegd op zijn acteercarrière. Hij tekende vorige week voor een rol in de actiefilm The Expendables 2, waarin hij net als in het eerste deel te zien is als huurling Trench Mauser, naast Sylvester Stallone en Bruce Willis. Die film komt volgend jaar uit. Het jaar erop speelt hij in Last Stand een Amerikaanse sheriff aan de Mexicaanse grens die het moet opnemen tegen een drugskartel. (Novum)
+Hoffman regisseert
+Oké, het heeft even geduurd, maar na een carrière als acteur in theater en film  van vijftig jaar, zal Dustin Hoffman zijn eerste film gaan regisseren. Hoffman strikte Britse grootheden  als Maggie Smith, Tom Courtenay, Michael Gambon, Billy Connolly and Pauline Collins voor  Quartet, een film over drie voormalige operasterren die in hetzelfde bejaardenhuis wonen en elk jaar nog een opera van Verdi uitvoeren. Het scenario is van Ronald Harwood (Taking Sides, The Pianist) die zijn eigen gelijknamige toneelstuk bewerkte.
+Mel Gibsons joodse film
+Acteur-regisseur Mel Gibson ontwikkelt met Joe Eszterhas (Basic Instinct) voor Warner Bros een film over Judas Maccabeus, de joodse rebel wiens zege over het hellinistische Seleucidenrijk wordt gevierd tijdens Hanukkah. Gibson is omstreden wegens verondersteld antisemitisme, ondermeer in zijn film The Passion of the Christ (2004). In 2006 hield de orthodoxe katholiek Gibson in dronken staat een antisemitische tirade tegen een politieagent.
+Gratis
+Amitabh Bachchan, de grootste filmster van India, speelt gratis een rol in de nieuwe versie van The Great Gatsby, die Baz Luhrmann momenteel opneemt in Australië. Bachchan schrijft op zijn blog dat hij de rol beschouwt als een vriendendienst voor Luhrmann, die hem vorig jaar kwam opzoeken in India. De Indiase acteur heeft een kleine rol als schimmige zakenman in de film.
+Tirza naar Euro-Oscar
+De boekverfilming Tirza van Rudolf van den Berg dingt mee naar een European Film Award. De film behoort tot de 45 films die zijn genomineerd voor de prijs, die graag wil uitgroeien tot de Europese variant van de Oscars. Ook de Vlaamse thriller Rundskop, over de hormonenmaffia, dingt mee naar een award. De prijzen zullen op 3 december worden uitgereikt in Berlijn.
+Te laat in Pathé
+Vanaf 1 oktober doet bioscoopketen Pathé de deuren dicht bij het begin van de hoofdfilm. Pathé krijgt te veel klachten over laatkomers.
+</dcterms:description>
+        <dcterms:extent>word, 667, Film; Blz. 8</dcterms:extent>
+        <dcterms:issued>2011-09-14</dcterms:issued>
+        <rdfs:label xml:lang="nl">buzz</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

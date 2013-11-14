@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MVBYLTI5UzEtRFlSWS1OMzMz">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51PX-29S1-DYRY-N333"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Nederlandse film doet het goed bij het publiek; cinema Jann Ruyters</dcterms:title>
+        <dcterms:creator>Jann Ruyters</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Het deed een beetje denken aan het rumoer rond  'Spetters' (1980) van Paul Verhoeven: de kloof in waardering tussen (enkele) critici en fans na de verschijning van 'New Kids: Turbo!' vorige week.
+Snackbarjongeren-film  'Spetters' werd destijds op tv bij Sonja Barend bedolven onder de morele verontwaardiging. Verhoeven had met moeite (na tussenkomst van Joop van den Ende) subsidie los gekregen bij het Productiefonds. Linkse politieke partijen richtten uit boosheid om vermeende homofobie en seksisme in de film de Nederlandse Anti Spetters Actie 1980 op. Een bizarre actie, natuurlijk, temeer daar 'Spetters' dertig jaar na dato een misschien wat zwartgallige maar vooral ook best lieve film is.
+Maar toch, kom daar nog maar eens om anno 2010. 'New Kids: Turbo!', een film die afgronden aan artistieke en morele leegte oproept, bracht vorige week niet meer dan wat opgewonden getwitter teweeg. Wie niet kan lachen om de anarchistische Brabo's in trainingspak is een elitaire, saaie zak en/of blijven hangen in die enge politiek correcte prehistorie waar verlichtere types als 'new kids' Haars en Van der Kuil gelukkig niets meer mee van doen hebben.
+Tja, zie daar maar eens iets tegenin te brengen.
+Net als 'Spetters' (goed voor 1,1 miljoen bezoekers destijds) heeft het door Reinout Oerlemans geproduceerde 'New Kids: Turbo!' vast alleen maar publiek gewonnen door het rumoer. De film behaalde dankzij de hype rondom de tv-serie in het eerste weekend al de status van 'Gouden Film': 100.000 bezoekers. Er kwamen op de openingsdag bijna 33.000 bezoekers kijken, dat is bijna net zoveel als bij de vorige recordhouder: 'Komt een vrouw bij de dokter', die 37.000 bezoekers trok, en ook is geproduceerd door Oerlemans.
+2010 was sowieso een goed jaar voor de Nederlandse film, zo maakte het Nederlands Filmfestival deze week bekend. Maar liefst elf films haalden de status van Gouden Film. Naast 'New Kids' ook nog 'Iep!', 'Gangsterboys', 'Tirza', 'Foeksia de miniheks', 'Briefgeheim', 'Sinterklaas en het pakjesmysterie', 'Sint', 'De Eetclub' en  'Dik Trom'. 'Anubis en de wraak van Arghus' en 'De gelukkige huisvrouw' trokken zelfs meer dan 400.000 bezoekers. Naar het door de critici neergesabelde 'Komt een vrouw bij de dokter' gingen meer dan één miljoen bezoekers, die film heeft nu de achttiende plaats in de lijst van best bezochte Nederlandse films aller tijden.
+Traditiegetrouw ligt de smaak van critici en publiek dichter bij elkaar als het om de  familiefilms en documentaires gaat. Zo trok de geprezen documentaire 'Janine' over violiste Janine Jansen al meer dan 10.000 bezoekers.
+</dcterms:description>
+        <dcterms:extent>word, 431, FILM</dcterms:extent>
+        <dcterms:issued>2010-12-16</dcterms:issued>
+        <rdfs:label xml:lang="nl">Nederlandse film doet het goed bij het publiek; cinema Jann Ruyters</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

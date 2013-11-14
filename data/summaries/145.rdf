@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M0c2LU1GRjEtRFlSWS1ONEtU">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53G6-MFF1-DYRY-N4KT"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53G6-MFF1-DYRY-N4KT&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Ferry Doedens (GTST) krijgt Gay Media Award Amsterdam GTST-acteur Ferry ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Ferry Doedens (GTST) krijgt Gay Media Award
+Amsterdam GTST-acteur Ferry Doedens ontvangt morgen tijdens de Mister Gay Netherlands-verkiezing de Gay Media Award. De prijs wordt uitgereikt door http://Gay.nl, tv-zender OutTv en maandblad Gay &amp; night. Doedens krijgt de award omdat hij homoseksualiteit op een positieve manier in de media onder de aandacht heeft gebracht.
+Parade heeft dit jaar hoge luisterbomen
+Amsterdam Op de Parade staan voor het eerst drie luisterbomen van viereneenhalve meter hoog. Er is een gedichtenboom met gedichten van Nico Dijkshoorn, een columnboom met verhalen van onder anderen Aaf Brandt Corstius en Herman Koch en een Luisterboom voor kinderen met Ziezo'tjes, voorgelezen door Annie M. G. Schmidt.
+Sylvia Hoeks gaat in Duitse film spelen
+Amsterdam Sylvia Hoeks gaat een rol spelen in de Duitse komedie Vatertag. Ze speelt iemand die gebrekkig Duits spreekt. De film moet volgend jaar in de Duitse bioscopen draaien. Hoeks was shooting star (aanstormend talent) tijdens het filmfestival van Berlijn. De Tirza-actrice won in 2007 een Gouden Kalf voor haar bijrol in Duska.
+Police Academy-acteur Bubba Smith overleden
+Amsterdam De Amerikaanse acteur Bubba Smith is gisteren op 66-jarige leeftijd overleden. Smith, die op hoog niveau American football speelde, is vooral bekend van zijn rol als de sterke, maar zacht pratende agent Moses Hightower in de reeks Police Academy-films. Ook speelde hij in series als Good times, Charlie's angels en Half Nelson. (AP)
+kunst
+&amp; media
+Engeland censureert om afluisterschandaal
+Amsterdam Een aflevering van de satirische The daily show is in Groot-Brittannië niet uitgezonden, omdat er fragmenten van het parlementaire debat over het afluisterschandaal in te zien waren, en dat mag niet. Een boze presentator Jon Stewart wees erop dat Channel 4 wel live autopsies, oversekste tieners en toiletpraat mag uitzenden.
+</dcterms:description>
+        <dcterms:extent>word, 311, Kunst En Media; Blz. 20</dcterms:extent>
+        <dcterms:issued>2011-08-04</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

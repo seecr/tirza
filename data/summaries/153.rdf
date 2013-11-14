@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzE2LUQ1WDEtSkM4Vy1ZM1lS">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5316-D5X1-JC8W-Y3YR"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5316-D5X1-JC8W-Y3YR&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Sylvia Hoeks 'Shooting star' in Shanghai AMSTERDAM Sylvia Hoeks is ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Sylvia Hoeks 'Shooting star' in Shanghai
+AMSTERDAM Sylvia Hoeks is één van de vier Shooting stars die zijn uitgenodigd door het Shanghai Internationaal Filmfestival. De jonge Europese acteurs zullen deze maand tijdens het grootste filmevenement in China deelnemen aan een internationaal sterrenprogramma. Hoeks speelde in ondere andere de films Tirza en De storm.
+Leonard Cohen wint Spaanse literaire prijs
+OVIEDO De Canadese zanger en liedjesschrijver Leonard Cohen (77) heeft de Spaanse Príncipe de Asturiasprijs voor de letteren gekregen. De prijs bedraagt 50.000 euro. De stichting Príncipe de Asturias reikt elk jaar prijzen uit in acht categorieën. Eerdere winnaars waren Woody Allen, J.K. Rowling en pianist Daniel Barenboim.
+Directeur en dj Niels Hoogland weg bij 538
+HILVERSUM Na ruim zestien jaar verlaat dj Niels Hoogland Radio 538. Hoogland was programmadirecteur en presenteerde op vrijdag- en zondagavond. Hij was verantwoordelijk voor de programmering van het station en digitale 538-zenders. Onder zijn leiding werd Radio 538 marktleider. Hij laat weten dat het tijd is voor iets nieuws. (ANP)
+Scorsese maakt film over Taylor en Burton
+NEW York Regisseur Martin Scorsese zal waarschijnlijk een film regisseren die is gebaseerd op de tumultueuze relatie tussen Elizabeth Taylor en Richard Burton. Productiemaatschappij Paramount heeft de rechten verworven van het boek Furious love, dat het liefdesleven van Taylor en Burton beschrijft. Taylor overleed in maart dit jaar.
+Atsma quizmaster in thriller Dick Maas
+Amsterdam Barry Atsma en Pierre Bokma spelen de hoofdrollen in de nieuwe film van Dick Maas, de thriller Quiz. De opnamen beginnen in augustus. Bokma speelt de ontvoerder van quizmaster Atsma. Maas is nog op zoek naar twee actrices voor de rollen van de assistente van de quizmaster en diens echtgenote. (ANP)
+</dcterms:description>
+        <dcterms:extent>word, 304, Kunst En Media; Blz. 32</dcterms:extent>
+        <dcterms:issued>2011-06-04</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

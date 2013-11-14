@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M01NLTI0NzEtRFlSWS1OM0NZ">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53MM-2471-DYRY-N3CY"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53MM-2471-DYRY-N3CY&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Jan Smit is een must-see-factor'</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Ate de Jong is de beoogd regisseur van Jan Smits acteerdebuut Het bombardement. Tot voor kort was hij zakelijk leider bij het Filmfonds. Hij pleit voor invoering van een stresstest, waarbij subsidieaanvragen voor 'grote films' niet langer op kwaliteit worden beoordeeld.
+Vreselijk is het, écht vreselijk, maar Ate de Jong (Een vlucht regenwulpen, Drop Dead Fred) móet het zeggen. 'Kwaliteit is nauwelijks nog een maatstaf voor succes. En de regisseur en het scenario zijn slechts van marginaal belang bij het inschatten van een hit. Af-schu-we-lijk.'
+Hij werkt aan een essay over zijn intendantschap voor het Filmfonds, een functie waarin hij naar eigen inzicht 3 miljoen subsidie mocht verdelen over verschillende Nederlandse films. De Jong (1953), tevens beoogd regisseur van Jan Smits acteerdebuut Het bombardement, pleit voor de invoering van een (door hem gemaakt) puntensysteem, waarbij elk nieuw filmplan aan een stresstest wordt onderworpen. Dit om vooraf te kunnen bepalen of een film het überhaupt wel in zich heeft om een 'publieksfilm' (boven de 250 duizend bezoekers) of zelfs 'commerciële film' (boven de 600 duizend) te worden.
+'Het Filmfonds ging daarbij vooral uit van het scenario, en dat is een verouderde benadering. Bij auteursfilms kun je dat doen, dan is het juist. Maar bij grote films kun je niet zeggen dat het script zo belangrijk is. Het is daarom goed dat de criteria van het Fonds onlangs zijn verbreed.' Wel relevant is volgens De Jong: 'een must-see factor, een bepaalde moraal en een Hollands gevoel.' Maar allereerst moet de doelgroep veel nauwkeuriger worden bepaald, in niches. 'Bij Het Bombardement zijn dat er twee: jongeren tussen de
+16 en 22, van wie het vrouwelijk deel voor de romantiek gaat, en de mannen voor de spectaculaire beelden. En dan is er de subdoelgroep van historisch geïnteresseerden; de 40-60 groep. Maar ook die niches moet je vervolgens weer onderverdelen: deze film zal bijvoorbeeld eerder scholieren dan studenten aanspreken.'
+Tirza bijvoorbeeld, door het Filmfonds gesubsidieerd in de hoedanigheid van 'brede publieksfilm', kón volgens De Jongs rekenmodel helemaal geen groot succes worden. 'Dat zit 'm in branding vreselijk woord. Die film zit in de intellectuele hoek. Mijn zusjes hebben geen idee wie Arnon Grunberg is. Dan zit er een ongebruikelijk seksueel element in, waarmee nog een deel kijkers weg-valt die vinden dat niet leuk. De hoofdpersoon is boven de 50, dus jongeren kap je af én er zit geen specifiek Nederlands gevoel in.'
+Vooraf schatte De Jong Tirza op 150 tot 160 duizend bezoekers. Het werden er 190 duizend. 'Ik was iets te krenterig, maar het was geen publieksfilm. Met kwaliteit heeft dat niks te maken, het is geen waardeoordeel. Maar je moet weten wat je maakt.' Zijn eigen film, Het bombardement, schat hij vooraf op 1 miljoen bezoekers. 'Maar in mijn stuk stel ik duidelijk dat de maker zoiets niet zelf kan inschatten die is te betrokken. Of Jan Smit een must-see-factor is? Dat is hij.'
+</dcterms:description>
+        <dcterms:extent>word, 495, V Opening; Blz. 3</dcterms:extent>
+        <dcterms:issued>2011-08-25</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Jan Smit is een must-see-factor'</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

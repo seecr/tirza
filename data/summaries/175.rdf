@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NEtKLUdWWDEtRFlSWS1OM0tU">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54KJ-GVX1-DYRY-N3KT"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54KJ-GVX1-DYRY-N3KT&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Leeuwenact wekt boosheid</dcterms:title>
+        <dcterms:creator>Van een verslaggever</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>AMSTERDAM Het Kerstcircus in Carré heeft zich de woede van dierenliefhebbers op de hals gehaald, nu het een act met liefst zestien leeuwen in het programma heeft opgenomen.
+Het gaat om 'leeuwenkoning' Martin Lacey, die op het circusfestival in Monte Carlo een Gouden Clown won, een soort Oscar van de circuswereld. Hij laat de leeuwen ook door brandende hoepels springen.
+Tirza Elias van de Amsterdamse Partij voor de Dieren (PvdD), die al eerder protesteerde, noemt de leeuwenact een 'negatieve uitzondering' in Amsterdam, waar de laatste jaren steeds minder evenementen met wilde dieren worden georganiseerd. Al in 2009 heeft Centrum in een richtlijn vastgesteld voor in de binnenstad om 'geen vergunning af te geven voor evenementen met dieren in de openbare ruimte'. Voor Carrés Kerstcircus wordt een uitzondering gemaakt.
+Ook op Twitter kan de leeuwenkoning op negatieve reacties rekenen. 'Ik vind dit met die leeuwen echt niet leuk, zo zielig', 'Zestien leeuwen in het kerstcircus van Carré, is dat nog van deze tijd?', en: 'Vindt iedereen het ook zo leuk en normaal dat er leeuwen op een krukje zitten?'
+Overigens melden zich ook, weliswaar in mindere mate, sympathisanten: 'Laat de leeuwen maar komen', twittert een bezoeker.
+De première van het kerstcircus was 22 december en de show is voor het laatst te zien op 8 januari. Ondertussen heeft Elias de sponsors van Carré al opgeroepen 'hun verantwoordelijkheid te nemen' en gaat ze met het bestuur van Carré in overleg.
+Carré was vanochtend niet bereikbaar voor commentaar.
+Behalve het Kerstcircus geven ook de levende kerststallen rond deze tijd van het jaar aanleiding voor hevige discussies binnen de stadsdelen zijn kamelen, pony's en paarden tussen de kribbe en de drie wijzen nog wel gewenst?
+De stadsdelen Noord en Nieuw-West, waar vorig jaar nog wel kerst-evenementen met dieren plaatsvonden, hebben daar nu van afgezien. Noord heeft de twee levende kerststallen en het rendier van vorig jaar vervangen voor een kerstman met paard. Nieuw-West houdt de kerstbijeenkomst op het Delflandplein dit maal zonder levende kerststal.
+Alleen West en Oost hebben nog kerststallen met levende dieren. De PvdD heeft opheldering gevraagd aan het stadsdeelbestuur van West. Stadsdeel Oost heeft laten weten het gebruik van dieren bij evenementen te ontmoedigen door geen subsidie aan deze evenementen te verstrekken. Op de kerstmarkt van het stadsdeel zelf zijn geen dieren ingezet.
+Voor de commercieel ingehuurde levende kerststal bij de kerk op IJburg, waar een optocht met kamelen aan voorafging, is volgens het stadsdeel geen vergunning aangevraagd. Op verzoek van de werkgroep van de Partij voor de Dieren zal stadsdeel Oost de kerk op IJburg hierover aanspreken.
+leeuwen, is dat nog van deze tijd?
+Dierenwelzijn Dierenvrienden ergeren zich aan Kerstcircus in Carré
+</dcterms:description>
+        <dcterms:extent>word, 468, Amsterdam; Blz. 17</dcterms:extent>
+        <dcterms:issued>2011-12-29</dcterms:issued>
+        <rdfs:label xml:lang="nl">Leeuwenact wekt boosheid</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

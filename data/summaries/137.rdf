@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MlA2LTE4QjEtSkM4Vy1ZME1C">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52P6-18B1-JC8W-Y0MB"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52P6-18B1-JC8W-Y0MB&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Scholten van Aschat genomineerd voor Louis d'Or Amsterdam. Gijs Scholten ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description> Scholten van Aschat genomineerd voor Louis d'Or
+Amsterdam. Gijs Scholten van Aschat maakt kans op de Louis d'Or 2011 voor de meest indrukwekkende, mannelijke dragende rol in een toneelstuk. De 51-jarige acteur is genomineerd voor zijn rol als Richard in Richard III van Orkater, zo maakte de organisatie gisteren bekend.
+De jury noemt de rol van Van Aschat 'in alle opzichten swingend' en spreekt van een acteerprestatie die ,,uitmunt in een meeslepende helderheid." Behalve op het toneel is Van Aschat ook regelmatig in films te zien, meest recentelijk in Tirza (Novum)
+Distributeur VS koopt ´Sint´ van Dick Maas
+Amsterdam. De horrorfilm Sint van Dick Maas komt in Amerikaanse bioscopen. De distributeur IFC heeft op het Tribeca-filmfestival in New York, waar de film nu te zien is, de Amerikaanse filmrechten gekocht, schrijft de krant Los Angeles Times. Amerikanen zien de film over de moordlustige Sinterklaas als een horrorversie op het verhaal van de Kerstman. In de film, in het Engels getiteld Saint,moordt een bloeddorstige Sint, gespeeld door Huub Stapel, er lustig op los. In plaats van pakjes door schoorstenen te laten duwen door Pieten, moordt deze Sint er lustig op los. Op het Tribeca-festival is ook de Nederlandse film Black Butterflies met Carice van Houten en Rutger Hauer te zien, evenals de korte film Kus met Thijs Römer. (Novum)
+Meest kostbare single van de Sex Pistols
+Londen.  De meest waardevolle single ooit gemaakt is van de punkband Sex Pistols. Verzamelaars zijn bereid om voor een exemplaar van de single God Save The Queen uit 1976 dat de groep opname voor het label A&amp;M, maar die nooit is uitgebracht, brengt in goede staat een bedrag van 9000 euro op. Het Britse tijdschrift Record Collector heeft een lijst gemaakt van de meest waardevolle vinylplaten.
+Bassist TV on the Radio overleden
+Londen.  De bassist van de artrockband TV on the Radio, Gerard Smith, is overleden aan longkanker. Smith was 36. Dat heeft de groep bekend gemaakt op hun website. Smith speelde mee op het nieuwe album van de band Nine Types of Light, maar moest bij een recente promotietournee al verstek laten gaan. De band heeft voor komende week alle optredens afgezegd. (NRC)
+</dcterms:description>
+        <dcterms:extent>word, 363, Cultuur; Blz. 21</dcterms:extent>
+        <dcterms:issued>2011-04-23</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

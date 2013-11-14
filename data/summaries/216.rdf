@@ -1,0 +1,61 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NTkzLVNLSDEtRFlSWS1OMEtT">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5593-SKH1-DYRY-N0KS"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5593-SKH1-DYRY-N0KS&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Kind minder dagen naar opvang door bezuinigingen Driekwart kinderopvangbedrijven ziet terugloop, dertien bedrijven gingen failliet in de eerste maanden van 2012</dcterms:title>
+        <dcterms:creator>Van onze verslaggeefster Evelien Flink</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Van onze verslaggeefster
+Evelien Flink
+AMSTERDAM Ouders schroeven het aantal dagen terug waarop ze hun kinderen naar de opvang brengen. In de eerste drie maanden van 2012 hebben de bezuinigingen op de kinderopvangtoeslag geleid tot een terugloop bij 75&amp;nbsp;procent van de ondernemers in de kinderopvang.
+In de eerste maanden van 2012 zijn al 13&amp;nbsp;kinderdagverblijven failliet gegaan in heel 2011 waren het er 28. Dit blijkt uit gegevens van het faillissementsregister en een enquête van de Brancheorganisatie Kinderopvang.
+Minister Kamp van Sociale Zaken bezuinigt dit jaar 400 miljoen euro op kinderopvang door ouders meer te laten betalen. En de vergoeding wordt gebaseerd op het aantal werkuren van de ouder met de kortste werkweek. Vanwege de gestegen kosten van kinderopvang is 20 procent van de ouders minder gaan werken, volgens cijfers van vakcentrale FNV.
+Estro, moedermaatschappij van ruim 597 'locaties' voor kinderopvang en buitenschoolse opvang, ziet op meerdere plaatsen in Nederland land de groepsgrootte slinken. 'De groepen zijn soms zo klein dat we ze zouden willen samenvoegen', zegt woordvoerster Monique Schumans. 'Vooral op woensdag en vrijdag, de dagen dat thuis werken onder ouders populair is.'
+Kinderopvang Nederland, de moedermaatschappij van onder meer de ketens Partou en Allio, kampt gemiddeld met een vraaguitval van 10&amp;nbsp;procent. 'In dunbevolkte gebieden komen er zeker sluitingen aan', zegt directievoorzitter Pico Kuiper.
+Wachtlijsten worden steeds korter. Jessica Haije, oprichter van kinderdagverblijfketen Kids &amp; Zo in Amsterdam, heeft die van haar zien smelten als sneeuw voor de zon. 'Op het hoogtepunt was onze wachttijd drie jaar. In IJburg hebben we nu plek vrij.'
+Het ministerie van Sociale Zaken herkent het beeld van terugloop niet. 'Ons eigen onderzoek toont nog een stijging in het aantal aanvragen voor kinderopvangtoeslag, het aantal moeders dat werkt en het aanbod in de kinderopvang', zegt woordvoerder Friso Fennema.
+Uit cijfers van het Landelijk Register Kinderopvang en Peuterspeelzalen blijkt dat in 2011 ruim duizend nieuwe opvangcentra de deuren openden. 'Maar dat het aantal vestigingen toeneemt, wil nog niet zeggen dat er meer vraag is', reageert woordvoerder Fleur Imming van Brancheorganisatie Kinderopvang.
+'Minister Kamp baseert zijn cijfers op oud onderzoek van het Centraal Planbureau', zegt Tweede Kamerlid Ineke van Gent van GroenLinks, die fel tegen de bezuinigingen is. 'Hij verzwijgt dat datzelfde CPB waarschuwt niet nog meer te bezuinigen op kinderopvang, omdat de gevolgen voor de branche steeds groter worden.'
+Yvonne Settels (35)
+Daphne van der Knijff-Looman (35)
+Ilse Verwijmeren (31)
+n Gezin: getrouwd met Joris (35), moeder van Quinten (5), Simon (2) en Tirza (1)
+n Functie: medewerker octrooiadministratie
+n Opvang: was 4 dagen, wordt 3,5
+n Woont in: Elst
+'Toen we geld over bleken te houden als ik minder zou werken, was de keus simpel. Vroeger betaalden we per maand 369 euro aan kinderopvang, nu 558. Omdat ik het minst verdien was het logisch dat ik minder ging werken. Vanaf 1 mei blijf ik een extra dagdeel thuis. Per saldo gaan we er een tientje op vooruit. Liefst zou ik nog minder werken, maar dat was op mijn werk niet bespreekbaar. Je moet toch ook een beetje aan je carrière denken, zeker als vrouw. De overheid maakt vaker thuisblijven zo wel heel aantrekkelijk. Meer rust, meer geld, meer tijd met je kinderen: je moet je werk wel heel belangrijk vinden om dat niet te verkiezen.'
+n Gezin: verloofd met Jouke (41), moeder van Lieke (4) en Lukas (2)
+n Functie: marketing-communicatiemedewerker
+n Opvang: was 3 dagen, wordt 2
+n Woont in: Nieuwveen
+'We hebben gedubd over minder werken. Ik zou teruggaan naar twee dagen, dan kan ik net zo goed niet gaan. Voor Jouke is het ook geen optie. Hij werkt fulltime voor een Brits bedrijf; dat vaders thuisblijven om op te passen, is daar not done. Wij betalen 800 euro per maand aan opvang. Een dag minder, dat is netto 250 euro serieus geld. Op het schoolplein hoor ik dat veel moeders ermee worstelen. Sommigen proberen onderling iets te regelen: neem jij ze dinsdag, dan doe ik vrijdag. Na veel gepuzzel hebben wij nu besloten de kinderen één dag per week bij opa en oma onder te brengen. We hebben het ze alleen nog niet gevraagd. Ik hoop dat ze het in de krant lezen.'
+n Gezin: getrouwd, moeder van Thura (5) en Ivar (2)
+n Functie: interieurarchitect (zzp'er)
+n Opvang: was 4 dagen, wordt 3
+n Woont in: Nootdorp
+'Voor mij was niet geld de belangrijkste reden om te minderen, maar onzekerheid: hoe gaat het bij zzp'ers? Ik wil niet per ongeluk te veel of te weinig toeslag aanvragen. Als zzp'er krijg ik alleen opvang vergoed voor uren die ik aantoonbaar gebruik voor mijn bedrijf. Voor werknemers is dat makkelijker. Bij een 20-uurscontract heb je recht op toeslag over 20 uur, ook bij ziekte of vakantie. Dit geldt niet voor zzp'ers. Je krijgt als zzp'er ook géén toeslag over werktijd die je besteedt aan kolven. Werknemers mogen hieraan, tot 9&amp;nbsp;maanden na de geboorte, een kwart van hun werktijd besteden. Heel oneerlijk. Er is al zo'n gebrek aan kolfruimte als je ergens werkt, komt dit er ook nog bij.'
+</dcterms:description>
+        <dcterms:extent>word, 854, Ten Eerste; Blz. 2</dcterms:extent>
+        <dcterms:issued>2012-03-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">Kind minder dagen naar opvang door bezuinigingen Driekwart kinderopvangbedrijven ziet terugloop, dertien bedrijven gingen failliet in de eerste maanden van 2012</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

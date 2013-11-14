@@ -1,0 +1,59 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OEtXLTE4MzEtSkM4Vy1ZMVdU">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58KW-1831-JC8W-Y1WT"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58KW-1831-JC8W-Y1WT&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Tirza Brems</dcterms:title>
+        <dcterms:creator>RINKE VERKERK</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Van de week
+Dit is de week van Tirza Brems (46). Dinsdag worden de winnaars bekendgemaakt van de jaarlijkse Hema ontwerpwedstrijd. Brems, conceptmanager innovatie bij Hema, is juryvoorzitter.
+Hoeveel past er in tien rolcontainers?
+"Wat?"
+Jullie kregen tien rolcontainers met ontwerpen binnen voor de wedstrijd.
+"Ja! We dachten ook even van: zóóó... In totaal ontvingen we ongeveer vierhonderd ontwerpen."
+Dit jaar is het thema 'Organiseer je leven'. Hoe beslis je welke ontwerpen je van tafel gooit?
+"Elk jaar worden sokkenklemmetjes ingestuurd. Wel handig, niet origineel. Ik hou ook niet van half uitgewerkte ontwerpen. Handgeschreven kladjes accepteren we zelden."
+Jullie hebben vast verhitte discussies.
+"Ja, je hebt allemaal zo je favorieten. Ik let op de haalbaarheid van een ontwerp. Na dinsdag is het de bedoeling dat ik winnaars begeleid bij het verwezenlijken van hun plan, dus het moet maakbaar en ook verkoopbaar zijn. Van eerdere jaren zijn de decolletéportemonnee en de HEMand niet meer uit het assortiment weg te denken."
+Gebruikt u eigenlijk sokkenklemmetjes?
+"Weet je, ik ben jaren sokken-inkoper geweest bij Hema. Ik raak nóóit meer sokken kwijt."
+U werkt al sinds 1992 bij Hema, maar u lijkt me geen Hema-typje. U draagt geen lieve kleurtjes.
+"Dat is heel grappig, want bijna alles wat ik draag is van Hema. Van mijn broek en deze ketting tot dit hemdje en mijn ondergoed... Alles behalve mijn jasje en schoenen. Deze broek had ik voor vijf keer zoveel ergens anders kunnen kopen, maar waarom zou ik?"
+Wat vindt u van Nederlands design in het algemeen?
+"Ik vind het zo frappant dat Nederlandse ontwerpers in het buitenland bekender zijn dan hier. Zoals het zeer talentvolle duo Scholten &amp; Bajings. Zij ontwierpen vorig jaar een auto voor Mini op Il Salone in Milaan! Stefan Scholten zit dit jaar in de jury. Wij hebben echt goede designers, maar in Nederland is het al snel: doe maar gewoon, dan is het al gek genoeg. In de waardering voor vormgeving ligt voor Hema een taak."
+Eén van Hema's motto's is: omdat gewoon zo mooi kan zijn. Hoe kan uitgerekend de Hema iets betekenen voor ontwerpers die de grenzen van het gewone overschrijden?
+"Jeetje, goede vraag. Ik vind sowieso dat onze stylisten altijd iets bijzonders maken van ontwerpen. Om de vraag te beantwoorden: met de ontwerpwedstrijd bieden we een podium aan jonge ontwerpers. Daarnaast is er ook de publieksprijs, waarbij we een groot publiek laten nadenken over vormgeving. Het kan altijd beter. Daar denk ik veel over na."
+Zo zette u met Katja Schuurman de Return to Sendercollectie op, met producten uit ontwikkelingslanden. Maakt een eerlijke collectie dingen beter?
+"In het geval van de Return to Sendercollectie werken we met producenten die qua stijl goed bij Hema passen. De winst vloeit naar hen terug. Daarmee kunnen zij zichzelf en hun omgeving beter maken, dus ik denk het wel eigenlijk."
+U bent Amsterdamse van geboorte. Hoe diep zit de liefde?
+"Ik ben opgegroeid in Oud-Zuid en daar woon ik nog. Sommigen zouden zeggen: dat is niet echt Amsterdam, maar ik voel een hechte band met deze stad. Hema zit hier trouwens al vanaf 1926."
+Met welk nieuw product gaat u de stad blij maken binnenkort?
+"Breiwol! Met heel toffe kleuren. We hebben ook een enorme bol, waarmee je precies één trui of kussen kunt breien. Ik denk dat het een hit zal worden."
+Maar eerst de ontwerpwedstrijd. Hoe ziet u week eruit?
+"Ik moet mijn speech schrijven, bedenken wat ik zal aantrekken. En dan de winnaars bekendmaken en aan de slag gaan met hun ontwerpen. Vind ik het leuk? Ja!"
+'Bijna alles wat ik draag is van Hema'
+</dcterms:description>
+        <dcterms:extent>word, 593, PS van de week; Blz. 6</dcterms:extent>
+        <dcterms:issued>2013-06-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">Tirza Brems</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

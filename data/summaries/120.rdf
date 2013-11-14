@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MUZELVJKOTEtRFlSWS1ONTI0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51FD-RJ91-DYRY-N524"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>literaire quiz Jaap de Berg</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>66 ,,Toen God de wereld schiep, vergat Hij Zeeland.
+Hij maakte de continenten, de oceanen, de oerwouden en de poolkappen, maar aan Zeeland kwam hij niet toe.
+Toen ze vijf was, had ze het voor het eerst gehoord. Van verbazing had ze een halve minuut haar adem ingehouden, want ze was geboren in Zeeland.
+Op de zesde dag was de schepping klaar, maar de plek in Noord-Europa waar Rijn en Maas in zee uitkwamen, had nog niet eens een rudimentaire vorm. Als een onvolgroeide foetus lag het tegen de rest van het werelddeel aan, het was geen land, maar ook geen zee. Het was een onbegaanbare, kale moeraswoestenij waar mens en dier tot het einde der tijden diep in de modder zouden wegzakken."\
+Van welke roman is dit het begin?
+a) 'De verdronkene' (Margriet de Moor); b) 'De overstroming' (Mariët Meester); c) '1953' (Rik Launspach)
+67 Bioscopen verspreiden of verspreidden kaarten met de tekst 'Mijn dochter is niet bij de huur inbegrepen'. Dit citaat komt uit (een film, gebaseerd op)
+a) 'Tirza' van Arnon Grunberg; b) 'Het schnitzelparadijs' van Khalid Boudou; c) 'Verborgen gebreken' van Renate Dorrestein
+68 Welke Engelse schrijver ligt niet begraven in Westminster Abbey?
+a) Rudyard Kipling; b) Charles Dickens; c) Jane Austen
+69 Het Oera Linda-boek is een vervalsing;  het bevat
+a) een zg. Oudnoorse heldensage; b) een zg. eeuwenoude Friese kroniek;
+c) een zg. middeleeuwse geschiedenis van Indonesië
+Oplossing onder de kruiswoordtest.
+</dcterms:description>
+        <dcterms:extent>word, 237, DEVERDIEPING</dcterms:extent>
+        <dcterms:issued>2010-11-11</dcterms:issued>
+        <rdfs:label xml:lang="nl">literaire quiz Jaap de Berg</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

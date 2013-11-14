@@ -1,0 +1,55 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OFA4LU41NjEtRFlSWS1OME05">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58P8-N561-DYRY-N0M9"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58P8-N561-DYRY-N0M9&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>De tocht van de Warnow naar het Noorderlicht</dcterms:title>
+        <dcterms:creator>H.H. ter Balkt</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Eén enkele kon de wereld dit geheim verklaren:Hij die een ziel schonk aan de kinderen van het leem.
+Gérard de Nerval
+De langharige ossen bij de grens met Noord-Korea,
+de tractorrijders in China en de ploegende boerin
+aan de overkant van de grens: onder de regenlucht
+voer toen de Warnow uit Stonehaven naar het noorden
+Hoei-whoeah, blies de doodsbleke wind na Stonehaven
+over de overgeblevenen op hun loodsbootscheepje
+door de wind- en stormslinger: Noorderlicht, wij komen
+Massief roterend zijn de zware stormraderen
+en bijtender dan de worm die het walvisbot klieft
+Wij waren met acht, drie bleven: Tirza, Aernout en Peter
+Gedenkschriften de golven, regen en wind de muziek
+Gedenkschriften Onleesbaar voortaan maar hoorbaar
+Muziek brokkelend als een wand, en gregoriaans fluisteren
+Arm van een hijskraan was hun mast en vaar dan
+uit de kolk vandaan en verder, Warnow, met de hoorns
+van de potvissen en grienden en de fluisterende hoge golven
+De drie nu een mythe in de lucht van Stonehaven
+En Middlesbrough, van Whitby en Stonehaven
+Roest-Leguanen steken de kop op uit de zee
+En, Taliesin, wiens idee was de wind, niet het mijne.
+</dcterms:description>
+        <dcterms:extent>word, 245, Achterpagina</dcterms:extent>
+        <dcterms:issued>2013-06-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">De tocht van de Warnow naar het Noorderlicht</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

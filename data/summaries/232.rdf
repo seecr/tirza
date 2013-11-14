@@ -1,0 +1,56 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NVlXLTRCNzEtSkM4Vy1ZMkY3">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55YW-4B71-JC8W-Y2F7"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55YW-4B71-JC8W-Y2F7&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Spinoza in nieuw jasje</dcterms:title>
+        <dcterms:creator>Marc van Dijk</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Een Latijns handschrift van Spinoza's hoofdwerk de 'Ethica' werd in 2010 in het Vaticaan ontdekt. De tekst is nu verschenen in een nieuwe vertaling. Een film en een muziekstuk over het leven van de filosoof zijn in de maak.
+Het nieuws ging eind 2010 de hele wereld over: de Nederlandse onderzoeker Leen Spruit had een onbekend Latijns handschrift van Spinoza ontdekt in de bibliotheek van het Vaticaan. Spinoza voltooide zijn hoofdwerk de 'Ethica' in 1675, twee jaar voor zijn dood. Hij hield het handschrift verborgen, uit angst voor vervolging door kerk en overheid. En nu dook het na al die eeuwen op in het hol van de leeuw, het archief van de Inquisitie.
+Het handschrift bleek bij nader inzien niet van Spinoza zelf te zijn. Zijn oorspronkelijke manuscript van de 'Ethica' werd na de postume publicatie in 1677 weggegooid, maar een vriend had het al gekopieerd. Kenners dachten dat ook deze kopie verloren was gegaan, tot Spruit zijn vondst deed.
+Uiteraard vroeg de vondst om nader onderzoek en een nieuwe vertaling. Het was al bekend dat Spinoza's vrienden de 'Ethica' hadden geredigeerd toen ze het werk na Spinoza's dood uitgaven. Ze plaatsten er tussenkopjes in en verbeterden fouten. Maar niemand wist precies hoever die ingrepen gingen.
+Eerst verzorgden Leen Spruit en Pina Totaro een integrale versie van het manuscript in het Latijn (uitgeverij Brill, 2011). Daarna was de beurt aan latinist Corinna Vermeulen, die een vertaling in hedendaags Nederlands maakte, die vorige week verscheen. Werpt deze vertaling nu een heel nieuw licht op Spinoza's denken? "Nee", zegt de vertaler. "Het zijn allemaal details, het is niet zo dat er in het manuscript ineens een heel andere filosofie opduikt. Gelukkig niet."
+De details hangen in de meeste gevallen samen met Spinoza's nogal slordige Latijn. Zijn vrienden corrigeerden heel wat stilistische en grammaticale zonden. Dat leverde volgens vertaler Vermeulen nog steeds geen tekst op 'die las als Cicero', maar het resultaat was wel beter dan Spinoza's eigen ongepolijste, hoekige tekst.
+Bij het redigeerproces ging onbedoeld ook wel eens inhoud verloren, blijkt nu. Vermeulen: "Spinoza's vrienden haalden wel eens een mooi beeldend, maar vreemd gebruik van een woord weg."
+Bovendien zwakten ze graag formuleringen af of gaven ze een eigen interpretatie. Zo hield Spinoza erg van het woord conflare ('fabriceren, bij elkaar verzinnen') en daar maakten zijn vrienden meestal iets neutraals van als componere ('samenstellen'). Ook voegden ze rustig ergens 'meestal' toe als ze een bewering te kras vonden, veranderden 'niet' in 'niet goed', 'het goede' in 'iets goeds' of 'van mening zijn' in 'weten'. Terwijl Spinoza het over een praatziek persoon (garrulus) in het algemeen had, maakten zijn vrienden er een vrouw van (garrula).
+Corinna Vermeulen streefde bij haar vertaling drie doelen na: helderheid, hedendaags Nederlands en trouw aan Spinoza's stijl. Vermeulen: "Onder helderheid versta ik ook precisie en trouw aan Spinoza's idioom. Ik denk dat deze vertaling in een behoefte voorziet, want details zijn in de filosofie niet onbelangrijk."
+Vermeulen heeft wel eens op Spinoza's nonchalante Latijn zitten mopperen, zegt ze, "maar ik heb ook met heel veel plezier zijn hoekige stijl in het Nederlands weergegeven. Het kan dus gebeuren dat de lezer valt over een zin die niet goed loopt, een onelegante herhaling of iets wat uit de spreektaal komt, zulke dingen heb ik er expres in gelaten zolang de helderheid maar niet in het gedrang kwam."
+Benedictus de Spinoza: 'Ethica'. Vertaling: Corinna Vermeulen. 320 blz.; uitgeverij: Boom. EUR 39,90
+Fragment uit de tekst, ontdaan van 'storende open deur'
+Waar in het oorspronkelijke manuscript van Spinoza 'vitalis' staat, staat in de editie van Spinoza's vrienden 'rationalis'. De vertaling van de eerste editie luidt: 'Geen leven dus is redelijk zonder begrip, en de dingen zijn alleen goed voorzoover zij den mensch helpen een geestesleven te leiden, dat op begrijpen berust.'
+Volgens vertaler Corinna Vermeulen is 'geen enkel leven is rationeel zonder begrip' een storende open deur. Zij vertaalt op basis van Spinoza's Latijnse manuscript: 'Geen enkel leven is dus vitaal zonder begrip en de dingen zijn alleen goed voor zover ze de mens helpen om het leven van de geest te genieten dat door begrip wordt gedefinieerd.'
+Theo Loevendie: Hij heeft nooit water bij de wijn gedaan
+Componist Theo Loevendie (1930), oud-hoofdleraar aan drie conservatoria, is al zijn hele leven gefascineerd door Spinoza, zowel door zijn filosofie als door zijn persoon. "Ik ben een Amsterdammer. Wat zich hier in mijn stad in de zeventiende eeuw allemaal afspeelde, heb ik altijd vrij opmerkelijk gevonden."
+Loevendie werd zonder God of godsdienst opgevoed, en heeft nooit veel begrepen van mensen die God zagen als een man op een wolk. Spinoza gaf hem woorden voor een andere zienswijze. "Spinoza was voor mij in filosofisch opzicht zeer verhelderend; hij holde het godsbegrip als het ware uit tot de natuurwetten. En hij heeft oog voor het mysterie dat 'God of de Natuur' voor ons is, ondanks die wetten."
+De componist bewondert Spinoza's standvastigheid. "In een tijd waarin iedereen nog in God geloofde, durfde hij stelling te nemen. Dat leidde ertoe dat hij op zijn 23ste moest voorkomen voor de hoge heren van de synagoge en verbannen werd. Hij heeft nooit water bij de wijn gedaan."
+Omdat Spinoza hem al een slordige vijftig jaar intrigeert, wil Loevendie absoluut nog een muziekstuk aan hem wijden. Dat plan is al oud, maar inmiddels is er een premièredatum geprikt, in oktober 2014. Een opera wordt het niet, wél een oratorium. Loevendie: "De keuze voor een oratorium hangt samen met mijn kijk op Spinoza's leven. Volgens mij is er in zijn leven niet genoeg drama te vinden voor een opera. Daar heb je moord en doodslag voor nodig. Spinoza zat toch vrij ascetisch op zijn kamertje te schrijven."
+Rudolf van den Berg: Ik zie veel parallellen met onze tijd
+Film maken is een vak van lange adem. Rudolf van den Berg (1949), regisseur en scenarioschrijver van onder andere 'Tirza' en 'Süskind', werkt inmiddels aan 'de zoveelste' versie van een scenario over het leven van Spinoza. En nog steeds neemt zijn liefde voor de tegendraadse denker toe.
+Het project werd geboren toen een producent Van den Berg een paar jaar geleden vroeg of hij een documentaire wilde maken over Spinoza. "Ik zei direct 'ja', terwijl ik toen niet bijzonder veel van hem wist, maar het weinige dat ik wist, was al voldoende."
+Het idee voor de documentaire groeide uit tot een speelfilm. Van den Berg: "Hoe meer ik me in Spinoza verdiepte, hoe meer parallellen ik zag met onze eigen tijd op het hinderlijke af. Hij was de zoon van politieke vluchtelingen, hij moest als jochie zijn ouders helpen om zich verstaanbaar te maken in het Nederlands, precies zoals veel allochtone kinderen nu. En hij bevond zich midden in een roerige tijd vol conflicten over de vrijheid van meningsuiting."
+Spinoza speelt daarin volgens de regisseur een heldenrol. Want hoewel hij zijn omstreden teksten onder een andere naam publiceerde, wist iedereen binnen korte tijd wie ze geschreven had. En zijn boeken werden internationale bestsellers. Van den Berg: "Hij zette niet alleen de samenleving op zijn kop, maar ook de filosofie."
+</dcterms:description>
+        <dcterms:extent>word, 1208, Religie en Filosofie; Blz. 6</dcterms:extent>
+        <dcterms:issued>2012-06-26</dcterms:issued>
+        <rdfs:label xml:lang="nl">Spinoza in nieuw jasje</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

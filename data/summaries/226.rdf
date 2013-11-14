@@ -1,0 +1,46 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzVDLTNGVDEtRFlSWS1OM0hE">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/575C-3FT1-DYRY-N3HD"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=575C-3FT1-DYRY-N3HD&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>SGP houdt vol: Geen vrouw in de Kamer </dcterms:title>
+        <dcterms:creator>Tirza de Fockert en Bart van Zoelen </dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>De eerste vrouw die namens de SGP zitting zal nemen in de Tweede Kamer zal nog lang op zich laten wachten. De streng-christelijke partij zal formeel alle barrières voor vrouwen slechten, zoals moet van de rechter. Maar het uitgangspunt blijft: politiek is louter een mannenzaak. 
+De SGP blijft vrouwen politiek buitenspel zetten. Dat wordt zonneklaar na lezing van het interview dat partijvoorzitter Maarten van Leeuwen gisteren gaf aan het in SGP-kringen veel gelezen Reformatorisch Dagblad. ,,Artikel 10 van ons beginselprogramma, waarin staat dat de vrouw het regeerambt niet toekomt, blijft ongewijzigd,  stelt Van Leeuwen onomwonden. Alleen formeel hoeft de partij de regels schrappen die het vrouwen onmogelijk maken om op een kieslijst van de SGP te komen. In de praktijk reserveren de gereformeerde mannenbroeders de te verdelen zetels in de Tweede Kamer, Provinciale Staten en de gemeenteraden dan nog steeds louter voor zichzelf. De SGP kan namelijk niet verplicht worden om mogelijke vrouwelijke kandidaten ook daadwerkelijk op de kieslijsten te zetten.
+De SGP hoopt op deze wijze toch te voldoen aan de uitspraak van het Europees Hof voor de Rechten van de Mens (EHRM), dat in juli bepaalde dat de SGP vrouwen (in theorie) moet toelaten tot haar kieslijsten. De Hoge Raad in Nederland was eerder al tot eenzelfde conclusie gekomen.
+De SGP is principieel tegen het passief kiesrecht voor vrouwen, omdat ze uit de bijbel opmaken dat  de man het hoofd van de vrouw is . Van Leeuwen wilde zijn uitspraken gisteren niet verder toelichten. Daarvoor is het wachten op het definitieve besluit dat het SGP-bestuur in januari wil nemen. ,,Maar dit zijn de denklijnen die we nu gaan uitwerken.  
+Of dit betekent dat vrouwen straks sterk ontmoedigd worden om zich überhaupt kandidaat te stellen, wil niemand hardop zeggen. Wel zegt Van Leeuwen dat hij vertrouwt op de  innerlijke overtuiging  die alle SGP-leden delen. Die is volgens hem belangrijker dan  hetgeen er in reglementen staat .
+GeWETENSDRANG
+,,Dat riekt naar gewetensdwang,  zegt historicus Henk Post. In 2009 promoveerde hij op de omgang van de uit 1918 stammende partij met het vrouwenkiesrecht. ,,De SGP is altijd zo voor gewetensvrijheid voor gelovigen, maar nu het gaat om hun eigen partij oefenen ze morele druk op hun leden uit. 
+Post is er ondanks alles van overtuigd dat over een paar jaar wel degelijk vrouwen in de SGP-bankjes van de Tweede Kamer zullen zitten. ,,Dat houdt de partij toch niet tegen. Je ziet dat steeds meer SGP-jongeren vrouwen passief stemrecht willen geven.   Ook de voorzitter van de SGP-jongeren Jacques Rozendaal beaamt dat. ,,Je ziet al een paar jaar dat een meerderheid van onze leden voor is. 
+De huidige SGP-top lijkt er op te rekenen dat de vrouwelijke leden eenvoudigweg niet willen. Voorzitter Van Leeuwen verwijst daarvoor naar de feministen van de Clara Wichmannstichting die de zaak voor de rechter hebben gebracht. ,,Uit het enkele feit dat onder onze leden geen vrouw te vinden was die dit proces wilde voeren, blijkt wel dat de aandrang van binnenuit er in de praktijk niet is.  
+Riet Grabijn-Van Putten vindt het partijstandpunt van haar partij  absolute onzin.  Als SGP-lid vocht zij een jarenlange strijd uit binnen de partij voor vrouwenrechten. In 2006 werd het lidmaatschap opengesteld voor vrouwen. Ze zegt zeker te weten dat in 2013 ook het passief kiesrecht voor SGP-vrouwen geregeld zal zijn. Volgens haar is de strijd gestreden en zullen de SGP-mannenbroeders vrouwen een volwaardig lidmaatschap moeten geven.
+Een andere mogelijkheid is dat vrouwen zich wel kandidaat stellen, maar op onverkiesbare plaatsen worden gezet. ,,Maar dan komen ze er met voorkeursstemmen wel in,   zegt Grabijn-Van Putten. ,,Kijk maar naar Tineke Huizinga van de ChristenUnie.   Die werd in 2002 het eerste vrouwelijke Kamerlid van de kleine christelijke partijen door via voorkeursstemmen een hoger geplaatste man te verdringen.
+,,Ach, de vrouwen van de mannen die tegen zijn, die volgen vaak hun echtgenoot,   lacht Grabijn-Van Puitten. ,,Maar ik kan je garanderen dat er genoeg gewone SGP-vrouwen zijn die wel de gemeenteraad of de Kamer in willen.  
+Vandaag buigen de leden zich tijdens het jaarlijkse partijcongres in Amersfoort over de vrouwenkwestie.
+Vrouw mag op kieslijst, maar maakt weinig kans op zetel
+</dcterms:description>
+        <dcterms:extent>word, 716, Algemeen Dagblad - Nieuwsdienst; Blz. 3</dcterms:extent>
+        <dcterms:issued>2012-11-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">SGP houdt vol: Geen vrouw in de Kamer </rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzQzLTI3TjEtRFlSWS1ONTY0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5743-27N1-DYRY-N564"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5743-27N1-DYRY-N564&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>pubers versus de klassiekers</dcterms:title>
+        <dcterms:creator>Matthea Westerduin</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Wat zegt de leeslijst middelbare scholieren nog?Amal Harrachi ( 17, 6-vwo Leidsche Rijn College in Utrecht) over De Steniging. Door Matthea Westerduin
+'Bij literatuur denk ik aan boeken als Tirza van Grunberg: langdradig met types die uitgebreid beschreven worden. Frénk van der Lindens De steniging is dat niet, daarom spreekt het mij aan. Literatuur houdt dingen vaag, zodat je er verder over nadenkt. Ik ben iemand die wil weten hoe alles in elkaar zit en vind het prettig dat aan het einde alles duidelijk is.
+'Priscilla, de hoofdpersoon, zou je buurmeisje kunnen zijn. Misschien niet helemaal, want zij vermoordt iemand, maar haar jeugd en eenzaamheid zijn herkenbaar. Van der Linden schrijft over alledaagse en actuele onderwerpen, over cultuurverschillen en jeugdtrauma's. Ik vind dat leuk om te lezen. Veel boeken gaan over de geschiedenis; dat zijn van die langdradige verhalen.
+'In De steniging wordt alles omgedraaid. De Marokkaanse ongelovige Karim wordt aan het begin vermoord, gestenigd. Hij is goed geïntegreerd en zijn vriendin Priscilla niet. Dat vind ik mooi. Ik herken me eerder in hem dan in Priscilla. Ik ben ook goed geïntegreerd, spreek goed Nederlands, heb Nederlandse vrienden, maar ben wel islamitisch opgevoed.
+'Soms denk ik over die culturele verschillen na. Bijvoorbeeld als we een opdracht moeten maken voor school. Je krijgt dan vanzelf groepjes met alleen Nederlanders of met alleen allochtonen. Er zijn een paar gemixte groepjes. Ik zit bij die laatste.
+'Voor mijn lijst Nederlands ben ik niet veel boeken tegengekomen die over de multiculturele samenleving gaan, behalve Alleen maar nette mensen. Ik denk dat jongeren zich daarin sneller herkennen. Ik heb geen Priscilla's in de klas, maar het komt wel vaak voor dat kinderen door een ouder verlaten worden.
+'Dat is meteen het moment dat me het meest raakte: toen Priscilla door haar moeder in de steek werd gelaten. Niet dat ik moest janken of zo, maar Priscilla wordt zo vaak alleen gelaten, dat blijft je bij. Het zegt jongeren meer dan een beschrijving van een oude man in Tirza.'
+Frénk van der Linden: De steniging. Contact; 302 pagina's; EUR 12,-.
+</dcterms:description>
+        <dcterms:extent>word, 355, Boeken; Blz. 6</dcterms:extent>
+        <dcterms:issued>2012-11-24</dcterms:issued>
+        <rdfs:label xml:lang="nl">pubers versus de klassiekers</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

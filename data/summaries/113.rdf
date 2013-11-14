@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MjFNLUoySzEtRFlSWS1OMFYw">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/521M-J2K1-DYRY-N0V0"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=521M-J2K1-DYRY-N0V0&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'The King's Speech' dé Oscar-kandidaat; Ook veel nominaties voor  'True grit'</dcterms:title>
+        <dcterms:creator>Van onze redactie cultuur &amp; media</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>amsterdam - De film 'The King's Speech'  maakt dit jaar kans op twaalf Oscars. De film, die vertelt hoe de  Britse koning George VI (vertolkt  door Colin Firth) in de jaren dertig  van zijn stotterprobleem afkwam, is onder meer genomineerd in de categorieën beste  film, beste acteur, beste regie en  beste script.
+Na  'The King's Speech' heeft de  western 'True Grit' van de broers  Joel en Ethan Coen de meeste nominaties gekregen, ondermeer  voor beste film, beste regie, beste  scenario en beste acteur (Jeff Bridges). De thriller 'Inception' en het  drama 'The Social Network', over  de opkomst van Facebook, hebben elk acht nominaties ontvangen.
+Firth ('The King's Speech') strijdt  in de categorie beste acteur onder  anderen tegen Javier Bardem ('Biutiful'), Jesse Eigenberg ('The Social  Network') en James Franco ('127  Hours').
+In de categorie beste actrice zijn  Annette Bening  ('The Kids are all  right'), Natalie Portman ('Black  Swan') en Michelle Williams ('Blue  Valentine') genomineerd. In de categorie beste film zijn  ook  genomineerd: 'Toy Story 3', 'Winter's Bone', 'True Grit', 'Inception' en ' The Fighter'. De laatste  is de slotfilm van het Internationaal Film  Festival Rotterdam (IFFR).
+Op de regie-Oscar maken Danny Boyle ('127 Hours'), David Fincher ('The Social Network'), Tom Hooper ('The King's Speech'), Darren Aronofsky ('Black Swan') en Joel en Ethan Coen ('True Grit') kans.
+Nederland maakt dit jaar geen  kans op een Oscar. In de voorselectie viel 'Tirza', de inzending voor  beste niet-Engelstalige speelfilm,  al af.  De Oscaruitreiking heeft op  27 februari plaats in Los Angeles.
+</dcterms:description>
+        <dcterms:extent>word, 269, ECONOMIE</dcterms:extent>
+        <dcterms:issued>2011-01-26</dcterms:issued>
+        <rdfs:label xml:lang="nl">'The King's Speech' dé Oscar-kandidaat; Ook veel nominaties voor  'True grit'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

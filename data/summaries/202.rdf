@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M1hILTU0ODEtSkM4Vy1ZNDdC">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53XH-5481-JC8W-Y47B"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53XH-5481-JC8W-Y47B&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Literatuur is niet meer dan cognitieve pornografie</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>In The Times Literary Supplement las ik onlangs een prettig verontrustend essay van Gregory Currie, hoogleraar filosofie in Nottingham. Bij eerste lezing dacht ik aan een niksbegrijpende Droogstoppel, maar bij herlezing ging ik geestelijk steeds weer anders zitten, hetgeen wijst op vruchtbaar ongemak. Zijn betoog komt hier op neer: wij lezen grote schrijvers en zeggen graag over hun werk 'wat een inzicht, wat een wijsheid, zo veel kennis over de menselijke natuur' waarbij we denken aan Henry James of Louis Couperus of Marcel Proust. We denken immers graag dat literatuur ons iets onderwijst over onszelf. Over de gelaagdheid van ons morele denken en handelen, over de complexiteit van emoties als liefde en haat. U zult zeggen dat u Mulisch helemaal niet leest om waar dan ook wijzer over te worden. Maar is dat wel houdbaar? Vinden we echt dat we helemaal niets, maar dan ook niets, opsteken van fictie?
+De meeste mensen zullen hier toch wel aan een klein beetje didactiek willen toegeven. De vraag is nu: biedt fictie eigenlijk wel inzicht in de menselijke natuur? Hebben schrijvers die kennis wel in huis? En blijkt de kennis, aldus opgedaan, ook werkelijk iets waard als we hem meenemen naar de wetenschapper om hem daar te laten onderzoeken, zoals je naar 'Kunst en Kitsch' gaat met een schilderijtje om te laten checken wat het waard is?
+Is er uit de literatuur iets op te vissen dat qua systematiek en zeggingskracht naast Freuds model van de menselijke geest geplaatst kan worden? Nu is Freuds model een ongelukkig voorbeeld, maar niet het enig beschikbare. We worden toch wel een ietsje wijzer over onszelf door de vele waarnemingen die psychologen in de afgelopen jaren gedaan hebben in experimentele situaties. De rare streken van professor Stapel met zijn verzonnen verband tussen vlees eten en hufterigheid dreigen volstrekt ten onrechte onze blik te vertroebelen op het vele dat wél bereikt is in experimentele psychologie. Ik denk bijvoorbeeld aan Ap Dijksterhuis' Het slimme onbewuste (denken met gevoel) en dat is maar één titel uit een indrukwekkende overvloed.
+Je zou het betoog van Currie kunnen ondergraven met de bewering dat literatuur de mens op een ander niveau bestudeert dan de experimenteel psycholoog, maar hij schuift dat terzijde. Het gaat de schrijver en de experimenteel psycholoog immers allebei om de handelende mens. Het is niet zo dat de schrijver zich alleen maar bezighoudt met de gewrichten, terwijl de experimenteel psycholoog zich stort op de pupilwijdte van de snikkende Gerda. Nee, het gaat hen beiden om de snikkende Gerda.
+En nu een paar voorbeelden uit die experimentele psychologie waarin wat mensen doen, wordt beïnvloed door aspecten van een situatie die niet één schrijver ooit in fictie heeft gebruikt of zou kunnen gebruiken, want het lijkt zo 'onwaarachtig' of 'onwaarschijnlijk' dat een lezer er niets mee zou kunnen. Maar dit zijn wél de mechanismen die ons doen en laten in feite beïnvloeden.
+Hier gaan we: als u wat milder gestemd wilt zijn over de mensen in uw omgeving, houd dan een warme kop koffie in uw hand. Wilt u als horecawerker meer fooi, herhaal dan de bestelling in precies dezelfde woorden die de klant gebruikt. Wilt u winnen bij Triviant, denk dan vijf minuten aan een professor. Als u dezelfde hoeveelheid tijd besteedt aan een hooligan dan scoort u slechter bij Triviant. Wilt u iemands sympathie winnen, doe ze dan na, in gebaren, houding, formuleringen. Nee, deze ruiken misschien wel naar Stapel, maar ze komen niet uit zijn goochelwinkel.
+Literatuur gaat over oorzaak en gevolg en die moeten in een betekenisvol verband geplaatst worden. 'Gerda kon Henk niet uitstaan omdat hij een Duitse herder had, voor haar een moreel dieptepunt in dier-appreciatie'. Dat is invoelbaar. En daar kunnen nog wat lagen onder. 'Duitse herders associeerde ze nog altijd met razzia's. Het lot van haar ouders liet haar nooit los'.
+Maar experimentele psychologie toont aan dat de oorzaken en gevolgen die onze keuzes bepalen dikwijls volstrekt idioot zijn, dat wil zeggen, betekenisloos in de literaire zin van dat woord. Literatuur is nou juist die stroom van betekenissen, die baaierd van begrijpelijkheden, waardoor je snapt dat Prousts Odette nooit bij hem thuis ontvangen kan worden, of dat Reve niet van de drank af komt of waarom Becketts Murphy geen baantje wil.
+Maar wetenschap gaat niet over wat als begrijpelijk overkomt. Wetenschap is immers verrassend in precies die zin waarin de fictieschrijver dat niet is. Het gewelddadige gebeuren in 'Tirza' is wel verrassend, maar er is al eerder gemoord op geliefden. De verrassing volgend uit een eerste kennismaking met 'The origin of species' is van een heel andere orde. Wat je daar leest lijkt nergens op. Wat goed past in Currie's plaatje is het feit dat schrijvers zich in hun leven niet onderscheiden door grote mensenkennis.
+Currie beschrijft literatuur tenslotte als 'cognitieve pornografie', waarbij het dit keer niet om zogenaamde seks gaat, maar om zogenaamde kennis.
+Ik heb eigenlijk geen weerwoord.
+Wetenschap is immers verrassend in precies die zin waarin de fictieschrijver dat niet is
+</dcterms:description>
+        <dcterms:extent>word, 851, Religie en Filosofie; Blz. 12</dcterms:extent>
+        <dcterms:issued>2011-10-01</dcterms:issued>
+        <rdfs:label xml:lang="nl">Literatuur is niet meer dan cognitieve pornografie</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

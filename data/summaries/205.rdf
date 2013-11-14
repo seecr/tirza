@@ -1,0 +1,48 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NE0wLUY5VjEtSkM4Vy1ZMEJQ">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54M0-F9V1-JC8W-Y0BP"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54M0-F9V1-JC8W-Y0BP&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Voor fans van papieren boeken</dcterms:title>
+        <dcterms:creator>NOUSKA DU SAAR Paul Disco, marketingdeskundige</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Nu ook The American Book Center de deuren heeft gesloten, is Athenaeum Boekhandel op het Spui de laatst overgebleven boekhandel in Amsterdam.
+Een sfeervolle Amsterdamse boekwinkel binnenstappen, verdwalen tussen de boekenkasten en met je vinger over een rij kaften strijken is niet meer van deze tijd. Maar Athenaeum Boekhandel op het Spui weerstaat de overmacht van de markt voor digitale teksten voor apps en e-readers en houdt zijn winkelformule aan. En die is al sinds 1966 hetzelfde: het verkopen van boeken.
+Directeur Maarten Asscher: "Ondertussen is het een soort galerie van boeken, want in de winkel liggen per titel slechts een paar exemplaren. Die drukken we zelf."
+De boekencollectie kan voor een tentoonstelling doorgaan sinds uitgevers in 2016 collectief besloten vanwege teruglopende verkoopcijfers geen boeken meer te drukken. Teksten worden alleen nog opgemaakt voor downloads op tablets, e-readers of andere media. Liefhebbers van traditionele offline boeken kunnen bij C-points terecht om een gedownload boek te laten drukken, mét omslag.
+In het vorige decennium waren de digitalisering en de economische crisis reden voor boekwinkels om vestigingen te sluiten en online te gaan verkopen. Athenaeum bleef uiteindelijk als enige in Amsterdam over. Volgens Asscher komt dit door Atheneums online community, waar weblogs van schrijvers zijn te vinden, en een doordachte marketingstrategie.
+"We werkten destijds samen met de Hogeschool en Universiteit van Amsterdam om van het Spui een actief cultureel en intellectueel centrum te maken," aldus Asscher. "Alles in Amsterdam moest toeristisch entertainment zijn; dit is onze tegenbeweging."
+Na de fusie van de onderwijsinstituten zetelt nu het Hoger Onderwijs Netwerk Amsterdam tegenover Asschers winkel. Op allerlei plaatsen op en rond het Spui worden debatten en bijeenkomsten georganiseerd. Auteurs laten geregeld van zich horen in een debat of boekpresentatie. "Het Spui is een trekpleister voor intellectueel toerisme geworden."
+En dat pakt goed uit voor Atheneum: jonge mensen vinden nog de weg naar de winkel. Hoewel de vijftienjarige Shannon van Beek ontkent dat ze een intellectuele toerist is. "Ik koop gewoon een boek voor mijn vader, die spaart boeken. Hij heeft zelfs een boekenplank op zolder hangen." Voorzichtig pakt ze een boek van een plank en strijkt over de kaft Tirza van Arnon Grunberg. "Er hangt een rustieke sfeer, die heb je niet bij C-points."
+Een deur verder ligt het Athenaeum Nieuwscentrum, waar een imposante collectie tijdschriften klaar ligt om gedownload te worden. Asscher: "Kranten zijn al lang niet meer de primaire nieuwsbron. Men wil newsflashes digitaal krijgen, maar voor begrip en achtergrond zijn gedrukte media nog steeds onontbeerlijk."
+De eenzame positie van de laatste boekhandel heeft voordelen: nostalgische boekenliefhebbers uit vorige generaties komen er graag. Asscher: "Nostalgie is een reden om te komen, maar voor jongeren is dat iets anders. Zij zien de boekhandel als een ontmoetingsplaats en plek om nieuws te kijken. Ook komen mensen gewoon omdat ze nieuwsgierig zijn."
+Athenaeum Boekhandel Winkel op het Spui enige in Amsterdam die nog gedrukt leesvoer verkoopt
+"Het papieren boek is uitontwikkeld," zegt marketingdeskundige Paul Disco. "Maar mijn hersenen zijn er sinds mijn jeugd aan gewend om van papier te lezen. De generaties na mij leerden van zowel papier als scherm te lezen. Zij zullen minder snel naar een boekhandel lopen voor een gedrukt boek."
+Ook de boekuitgevers zelf zijn een grote bedreiging, zegt Disco. "In de afgelopen tien jaar zijn consumenten meer en meer gaan bepalen wat ze te horen of zien krijgen. Uitgevers kunnen dit nauwelijks veranderen, maar ze zouden er wel op kunnen inspelen, bijvoorbeeld door het voor iedereen mogelijk te maken een boek van zijn eigen leven te maken." Uitgevers hebben volgens Disco veel laten liggen. "Alleen een boek maken en een fraaie introductie zijn niet genoeg."
+Disco ziet het papieren boek dezelfde kant opgaan als de postzegel. Maar de behoefte om te communiceren is met de opmars van elektronische post niet kleiner geworden, net zoals de behoefte aan verhalen niet kleiner wordt. "We hoeven niet te denken dat de natuurlijke behoefte van de mens om te willen leren, zal verdwijnen."
+'Uitgevers faalden' 'Mijn vader spaart boeken. Hij heeft zelfs nog een plank op zolder'
+'Het gaat met het boek dezelfde kant op als met de postzegel'
+</dcterms:description>
+        <dcterms:extent>word, 734, Specials; Blz. 16</dcterms:extent>
+        <dcterms:issued>2011-12-31</dcterms:issued>
+        <rdfs:label xml:lang="nl">Voor fans van papieren boeken</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

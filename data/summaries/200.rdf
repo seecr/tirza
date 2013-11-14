@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M1A0LTdHUjEtRFlSWS1ONTNS">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53P4-7GR1-DYRY-N53R"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53P4-7GR1-DYRY-N53R&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Weerzien met Katja; Producenten uit verre landen zien hun product hier in winkel liggen</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Guatemala, Kenia, India, Bangladesh, Zuid-Afrika, een bonte verzameling aan nationaliteiten kwam samen om een week lang trainingen en workshops te volgen in productontwikkeling en prijsopbouw, een vakbeurs te bezoeken, kennis uit te wisselen en dus eigen producten in de winkel te zien liggen. Behalve dat dit de producenten een  trots  gevoel heeft gegeven, begrijpen ze hierdoor ook de Europese smaak.  Ze houden hier van hele felle kleuren en kleine, functionele dingen , aldus Karen Isdaryono uit Indonesië.
+ In Indonesië is het genoeg als het vooral mooi is en we durven niet al te kleurrijk te zijn , vervolgt Isdaryono. Met een team van zo n veertien naaisters tovert ze het vinyl van oude billboards om tot bruikbare spullen als tassen en etuis.  Ik ben heel trots de producten hier in de winkel te zien liggen. Het is goed te weten dat ze in de Europese markt passen. Het bedrukte billboardvinyl wordt namelijk niet gewassen voordat we het hergebruiken. Dat maakt onze spullen uniek én kleurrijk. 
+Dat heeft Isdaryono goed gezien, want bij Hema, waar de Return to Sender-producten worden verkocht, doen vooral kleurrijke en ambachtelijk gemaakte producten het goed.  Mensen moeten kunnen zien dat een product handgemaakt is, zo onderscheidt het zich van de gewone Hema-range , zegt Tirza Brems, concept manager innovatie en Return to Sender van Hema.  En kleurrijke producten doen het in het algemeen goed bij ons. 
+Hema is vanaf de oprichting, vijf jaar geleden, betrokken geweest bij de stichting. Designers van de keten kijken samen met Return to Sender en de producenten hoe producten moeten worden vormgegeven, willen ze hier verkopen. Brems:  Daarbij kijken we naar de cultuur van een land en traditionele ambachten als borduren en weven. Maar we doen wel aanpassingen om aan de West-Europese smaak te voldoen. Want hoe mooi een product ook is, als je het zo hier in de winkel zet, ziet het er toch een beetje vreemd uit. 
+Maya-vrouwen in Guatemala weven onder meer kussenhoesjes voor Hema.  Met hun weefmethode en hun kleuren, maar met ons streeppatroon , zegt Brems. Tussendoor komen soms nieuwe ideeën op.  Ze willen vaak niet op de foto. Daardoor zagen we ze vaak van achteren met gekleurde pompoenen in hun haar. Daar hebben we sleutelhangers met lintjes van gemaakt. 
+Vreemd vinden Juana Hu Mateo en Juana Esperanza Canay Galindo uit Guatemala dat helemaal niet.  Het is juist heel mooi om traditionele kleding op een andere manier te presenteren en vorm te geven , zeggen de twee.  We zijn heel trots om zoiets van Chajulense, onze streek, terug te zien in de winkel. We hebben nooit de mogelijkheid gehad om onze talenten te etaleren en dan nu meteen in een internationale, voor ons prestigieuze, winkelketen. Een mijlpaal. 
+Het is voor het eerst dat de vrouwen buiten Guatemala zijn.  Dat is een bijzondere ervaring, maar ook het ideeën uitwisselen tijdens de trainingen. De lessen die we hebben geleerd, kunnen we overbrengen op onze organisatie thuis.  Katja Schuurman had nooit verwacht de producenten op Nederlandse bodem te zien.  Het is mooi dat mensen uit zo veel verschillende landen hier samen zijn om zich te ontwikkelen en van elkaar te leren. Iedereen heeft in het leven iemand nodig om verder te komen, wij ook. 
+Het programma dat de producenten hebben gevolgd, is verzorgd in samenwerking met het CBI (Centre for the Promotion of Imports from developing countries), van Buitenlandse Zaken, dat de import vanuit ontwikkelingslanden bevordert. Hiermee hopen de organisaties dichter bij het doel van Return to Sender te komen, namelijk dat producenten met de juiste kennis en vaardigheden zichzelf kunnen bedruipen.  We leren ze bijvoorbeeld wat ze moeten doen om aan nieuwe klanten te komen, door bijvoorbeeld de beurs Tendence in Frankfurt te bezoeken , zegt Yolanda Netto van het CBI.  En hoe je de juiste prijsstelling bepaalt, hoe de markt eruitziet en wat deze wil. 
+Fietsen  Op die manier is Abdul Kassim uit Kenia zijn gerecyclede sieraden anders gaan bekijken.  Ik zie de sieraden niet meer als mijn product maar als onderdeel van de markt , zegt hij enthousiast.  Die markt begrijp ik nu meer. Ik weet nu hoe ik waarde kan toevoegen aan een product, zodat het beter verkoopt.  Ook de Indonesische Karen Isdaryono heeft een fantastische ingeving.  Al die fietsen hier, zo veel. We gaan fietstassen maken. Als ik hier niet was geweest, had ik dit nooit geweten. 
+</dcterms:description>
+        <dcterms:extent>word, 732, Winkelen; Blz. 20</dcterms:extent>
+        <dcterms:issued>2011-09-01</dcterms:issued>
+        <rdfs:label xml:lang="nl">Weerzien met Katja; Producenten uit verre landen zien hun product hier in winkel liggen</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

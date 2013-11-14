@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MUsxLVlUUjEtSkM4Vy1ZNEcx">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51K1-YTR1-JC8W-Y4G1"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Etentjes aan lange keukentafels, met tussendoor een paar doden</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>  De Eetclub     Regie: Robert Jan Westdijk. Met Bracha van Doesburgh, Thom Hoffman, Halina Reijn, Angela Schijf en Birgit Schuurman. 
+In 109 bioscopen. 'De Eetclub' van Saskia Noort en 'Tirza' van Arnon Grunberg lijken door de respectievelijke verfilmingen opeens op elkaar. Welgestelde Nederlanders houden zich vooral op in luxueuze woonkeukens, ingericht door duurbetaalde binnenhuisarchitecten. Aan de meterslange keukentafels wordt witte wijn gedronken. Heel veel witte wijn. En tussendoor vallen er doden. M aar waar regisseur Rudolf van den Berg in Gouden Kalf-winnaar 'Tirza' nog wel zijn best deed om verschillende lagen in het existentialistische drama aan te boren, daar blijft Robert Jan Westdijk in 'De Eetclub' opvallend aan de oppervlakte. Aantrekkelijke dertigers vertolken de vijf villabewoonsters die zich hebben verenigd in een eetclub. Van de doorgewinterde Halina Reijn tot de acterende zangeres Birgit Schuurman, allemaal hebben ze hetzelfde geheimzinnige lachje om de gesloten lippen. Bracha van Doesburgh is de nieuwste aanwinst in de wijk. Eerst is ze opgetogen als ze voor de eetclub wordt uitgenodigd, maar als kort na elkaar twee leden van de  vriendenkring onder mysterieuze omstandigheden overlijden, kan het zoeken naar de daders beginnen. Hortend en stotend  wordt de film een  soort kruising tussen 'Moordwijven' van Dick Maas, de RTL-serie 'Gooische Vrouwen' en de KRO-reeks 'Bij ons in de PC', zonder de snedige humor van de laatste twee. Westdijk filmt het allemaal als een lange, uitgerekte commercial.  De asperges en aardbeien die de dames bereiden, hebben dezelfde glans als de auto's van hun makelaars en plastisch chirurgen. Thom Hoffman en Bracha van Doesburgh behoren tot dezelfde eetclub   
+</dcterms:description>
+        <dcterms:extent>word, 289, FILM</dcterms:extent>
+        <dcterms:issued>2010-11-25</dcterms:issued>
+        <rdfs:label xml:lang="nl">Etentjes aan lange keukentafels, met tussendoor een paar doden</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

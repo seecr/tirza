@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NVY3LU04TTEtSkM4Vy1ZMDkz">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55V7-M8M1-JC8W-Y093"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55V7-M8M1-JC8W-Y093&amp;csi=263237&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Antiheld wordt valselijk beschuldigd van terrorisme</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Jaap Goedegebuure
+Arnon Grunbergs  De man zonder ziekte  raast af op een adembenemend beklemmend slot
+ Iemand moest Jozef K. belasterd hebben, want zonder dat hij iets kwaads had gedaan, werd hij op een morgen gearresteerd.  Met die beroemde zin begint Franz Kafka zijn roman Het proces, om te eindigen met een scène waarin de hoofdpersoon door twee gerechtsdienaren wordt afgemaakt  als een hond . In de tussenliggende pagina s raken we met Jozef K. steeds verder verstrikt in een web van vermeende schuld en niet te ­bewijzen onschuld.
+Het kan niet anders of Arnon Grunberg heeft bij het schrijven van zijn roman De man zonder ziekte de klassieke kafkaëske situatie voor ogen gehad. Samarendra Ambani, zoon van een Indiase vader en een Zwitserse moeder en architect van beroep, wordt tijdens zakenreizen in Irak aangezien voor een Amerikaanse spion en hardhandig verhoord door leden van een schimmige paramilitaire organisatie. Na zijn vrijlating is hij zo geconditioneerd door de vernederingen dat hij zijn vriendin vraagt om hem  hond  te noemen en haar urine op zijn lijf te lozen.
+Nauwelijks wijzer geworden van deze ervaring maakt Samarendra vervolgens een reis naar Dubai, om te assisteren bij de voltooiing van een door hem ontworpen bibliotheek. Dat er onder het gebouw een bunker is voorzien, bevreemdt hem, maar bange gedachten komen er hoegenaamd niet bij hem op. Hij zal pas begrijpen waar de behoefte aan zulke ruimten vandaan komt als hij er zelf in wordt opgesloten, beschuldigd van deelname aan een door de Israëlische geheime dienst georganiseerde moord op een Hamasleider (een werkelijke, uit 2010 daterende gebeurtenis waarvan Grunberg dankbaar gebruik heeft gemaakt). Zonder overtuigende bewijzen wordt hij ter dood veroordeeld. Nadat hij nog een verzuchting heeft geslaakt die vrijwel letterlijk uit Het proces is overgenomen ( Zijn alle mogelijkheden uitgeput? ) zien we hem ten slotte, net als Jozef K., tussen twee gerechtsdienaren op weg naar zijn executie gaan, met een zekere gretigheid, alsof hij van lieverlede in zijn schuld is gaan geloven.
+Samarendra Ambani is een van die typische antihelden waar Grunberg een voorkeur voor heeft. Net als Jörgen Hofmeester (Tirza) en Ronald Oberstein (Huid en haar) meent hij lijf en leven onder controle te hebben. Zijn werk gaat hem boven alles, maar hij is wellevend genoeg om tegemoet te komen aan de verlangens van zijn vriendin of geld opzij te leggen voor de behandeling van zijn gehandicapte zus. Voor het feit dat hij als een geolied radertje meedraait in de mondiale machinerie is hij blind. Dat wordt hem fataal.
+Arnon Grunberg komt wat later op stoom dan het geval was in zinderende geschiedenissen als De asielzoeker en De joodse messias. Maar wanneer de verwikkelingen eenmaal op gang zijn, razen ze af op een beklemmend slot. En daarbij houdt de auteur ons weer in een adembenemende wurggreep, ook nu we langzamerhand gewend zijn geraakt aan zijn trucs.
+De man zonder ziekte, Arnon Grunberg, Nijgh &amp; Van Ditmar, 224 blz.,   17,50.
+Op weg naar zijn executie lijkt het of hij van lieverlede in zijn schuld is gaan geloven
+Iraakse troepen in de provincie Anbar, bij de grens met Syrië.
+</dcterms:description>
+        <dcterms:extent>word, 526, Persoonlijk - Boeken; Blz. 68</dcterms:extent>
+        <dcterms:issued>2012-06-09</dcterms:issued>
+        <rdfs:label xml:lang="nl">Antiheld wordt valselijk beschuldigd van terrorisme</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

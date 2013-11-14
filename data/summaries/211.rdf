@@ -1,0 +1,46 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NEI3LU02NzEtRFlSWS1OMDM2">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54B7-M671-DYRY-N036"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54B7-M671-DYRY-N036&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>vertrekhal V van Vinex</dcterms:title>
+        <dcterms:creator>Toine Heijmans</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Twee dagen wachten in vertrekhal drie. Schiphol is een plek van de constante emotie waar tijdzones in elkaar schuiven en over elkaar heen.
+Twee dagen bracht ik wachtend door op Schiphol. De eerste dag was er mist, de tweede dag was er geen mist. Waarom je moet wachten op Schiphol is vaak in nevelen gehuld. Je bent er hulpeloos in de handen van de luchtvaartmaatschappijen en hun kwikzilveren personeel, van de schermen met hun onwillige vertrekinformatie. Vertraagd/delayed. Zodra je een kaartje hebt gekocht, doen ze met je wat ze willen. Daar kun je boos of verdrietig over worden, maar het helpt niks.
+Kalmte kan u redden, zegt mijn schoonmoeder.
+Zo heb ik twee dagen zitten wachten in vertrekhal drie, tot ik het gevoel kreeg er te wonen. Nutteloos druppelden de uren voorbij. Iedereen begon op elkaar te lijken: mensen op weg van het een naar het ander, mensen op weg van het ander naar het een. Ze hielden hun verhalen voor zichzelf; die vervliegen toch maar in de droge lucht. Ik heb niemand hard zien lachen of hard zien huilen. Schiphol is een plek van de constante emotie waar tijdzones in elkaar schuiven en over elkaar heen.
+Vlucht MS758 delayed/vertraagd, raadpleegt u de borden voor informatie.
+Schiphol is ook de wereld zoals de mens hem zou willen scheppen. Alles is er premium, of zou dat moeten zijn: premium internet, premium lounges, premium giftshops, premium omroepstemmen, premium paardenstaarten van premium stewardessen; zo zien ze het er graag. Ze doen er alles aan om niet toe te geven dat Schiphol ook maar een busstation is. Een luxe, exclusieve luchtbel moet het zijn, en als je er twee dagen in leeft en ademhaalt, ga je nog geloven dat ie echt bestaat.
+Als archeologen over tweeduizend jaar Schiphol ontdekken, zullen ze denken dat wij leefden als in de nadagen van het Romeinse Rijk: behangen met goud en diamanten, overladen door premium horloges, overlevend op sushi en kreeft en doppio's. Verzopen in decadentie, dat volk van de 21ste eeuw.
+Ik kocht een doodgewone espresso in een kartonnen bekertje met een koek, en betaalde 5 euro 50 met mijn creditcard. Doosje Pringles: 3 euro 50, alleen op vertoon van uw boarding pass. Anderhalf uur internet: 12 euro.
+De verkopers in de winkels dragen sjaaltjes, het liefste van Hermès. Wie in de gewone wereld draagt nog sjaaltjes? Misschien is het een teken van onderscheid tussen gewone mensen, en premium mensen. Zelfs de beveiligers proberen er zo premium mogelijk uit te zien: schouders naar achteren, blik scherp en rustig alsof ze een grote Amerikaanse beroemdheid beschermen. Rihanna, misschien. Of Jay-Z. Daar dromen ze denk ik weleens van. Het is mooi om belangrijk werk te doen, in de tussenwereld.
+Twee dagen in de biosfeer Schiphol en ik was bijna Jörgen Hofmeester geworden, het karakter uit Arnon Grunbergs Tirza, die na zijn ontslag elke dag naar Schiphol afreist om er zogenaamd mensen uit te zwaaien. Of binnen te zwaaien. Ik begon mijn doel uit het oog te verliezen. Waar ging ik ook alweer heen? Het maakt niet uit waarom je op Schiphol bent; iedereen is toch maar in transit. Met hun telefoon of computer zijn ze verbonden met de echte wereld: een digitale navelstreng.
+Vijf keer bestelde ik een doppio bij precies hetzelfde meisje, maar ze herkende me niet.
+Vlucht MS758, vertraagd/delayed tot 17.45. Of 18.45, of 19.45, wat was het, de tijd begon langzaam om me heen te draaien. Had ik net gegeten, of niet? Waar kon ik ook alweer mijn telefoon opladen? Attentie alstublieft voor een gatewijziging: vlucht MS758 naar G9 of G4 of H2. Naar Caïro of New York of Bamako of Guangzhou.
+Het vliegtuig vertrok. Ik vergat nog bijna in te stappen.
+Wie in de gewone wereld draagt nog sjaaltjes?
+</dcterms:description>
+        <dcterms:extent>word, 612, V Opening; Blz. 11</dcterms:extent>
+        <dcterms:issued>2011-11-25</dcterms:issued>
+        <rdfs:label xml:lang="nl">vertrekhal V van Vinex</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

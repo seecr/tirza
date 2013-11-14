@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzZZLVNUWDEtRFlSWS1ONTI1">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/536Y-STX1-DYRY-N525"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=536Y-STX1-DYRY-N525&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Zomerprijsvraag: schrijf zelf een allesverterende samenvatting</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>In Brideshead Abbreviated, de verzameling 'digested reads' van John Crace die hierboven besproken wordt, zijn maar zes boeken opgenomen die niet in het Engels geschreven zijn. En voorspelbaar genoeg zit daar geen enkele Nederlandse roman tussen.
+Ziehier de uitdaging voor de lezers van Boeken. Hoe moeilijk is het om een allesverterende samenvatting te schrijven van De advocaat van de hanen, in de stijl van A.F.Th. van der Heijden? Wie draait er zijn hand niet om voor een pastiche van De avonden, die in maximaal 500 woorden het hele boek weergeeft?  Welke epigoon van Arnon Grunberg is in staat om Tirza  in de stijl van de meester tot op het bot te ontleden? Hoe parodieer je Connie Palmens  De wetten of Lucifer  als je tegelijkertijd de verhaallijn moet vasthouden? Wie verbetert onherstelbaar  Saskia Noorts  De  eetclub, Kluuns Komt een vrouw bij de dokter of Kochs Het diner in de stijl van het origineel? En kan Mulisch'  Ontdekking van de hemel niet heel erg een digested read gebruiken?
+Doe mee aan de zomerprijsvraag van NRC Boeken en maak kans op de gehele Penguin Mini Modern Classics Box (zie hiernaast).  Lezers van wie de inzending geplaatst wordt ontvangen  een exemplaar van  Brideshead Abbreviated. Stuur uw inzending, die dus niet langer mag zijn dan 500 www, liefst via de mail naar boeken@nrc.nl, of per brief naar: Redactie Boeken NRC, t.a.v. Maike Cannon, Postbus 3372 1001 AD Amsterdam, onder vermelding van: Zomerprijsvraag.
+De jury bestaat uit Boeken-redacteuren Maartje Somers, Pieter Steinz en Arjen Fortuin. De uitslag staat in de bijlage Boeken van 19 augustus. Over die uitslag kan niet worden gecorrespondeerd.
+Ter inspiratie: al John Crace' Digested Reads, van Dan Brown tot Amy Chua, van Henning Mankell tot de memoires van Bush, zijn te lezen op guardian.co.uk/books/series/digestedread.
+</dcterms:description>
+        <dcterms:extent>word, 303, Boeken</dcterms:extent>
+        <dcterms:issued>2011-07-01</dcterms:issued>
+        <rdfs:label xml:lang="nl">Zomerprijsvraag: schrijf zelf een allesverterende samenvatting</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

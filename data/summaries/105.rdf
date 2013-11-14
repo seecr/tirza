@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzdHLUY3TTEtRFlSWS1OMTFG">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/577G-F7M1-DYRY-N11F"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=577G-F7M1-DYRY-N11F&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Uur U voor bejubeld Metropole Orkest </dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>tirza de fockert
+den haag Het Metropole Orkest kreeg donderdag twee nominaties voor een Grammy Award, maar er is weinig reden tot feest. Biedt de politiek vandaag het orkest geen financiële strohalm, dan valt op 1 augustus definitief het doek.
+,,De champagneflessen zijn dicht gebleven,  zegt Marc Altink, woordvoerder van het Metropole Orkest. Natuurlijk is hij blij met de nominaties voor de prestigieuze muziekprijs, de 13de en 14de die het orkest in zijn 67-jarige bestaan ontving. Maar wrang is het wel, want hun voortbestaan hangt aan een zijden draadje. ,,Staat er maandag geen politicus op die zegt `het Metropole Orkest mag niet verdwijnen', dan is het volgend seizoen einde oefening. 
+Vandaag debatteert de Tweede Kamer over de mediabegroting. Het Metropole Orkest werd altijd uit deze pot gefinancierd, maar in 2011 besloot toenmalig minister Van Bijsterveldt dat het orkest op eigen kracht verder moet.
+SP-Kamerlid Jasper van Dijk wil het orkest helpen. ,,Het is een megapopulair orkest. Nu moet het ineens zelfstandig, terwijl dat eerst niet mocht.''
+</dcterms:description>
+        <dcterms:extent>word, 176, Algemeen Dagblad - Nieuwsdienst; Blz. 8</dcterms:extent>
+        <dcterms:issued>2012-12-10</dcterms:issued>
+        <rdfs:label xml:lang="nl">Uur U voor bejubeld Metropole Orkest </rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

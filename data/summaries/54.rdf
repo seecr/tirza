@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTJTLUM0MDEtSkM4Vy1ZNEhS">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/512S-C401-JC8W-Y4HR"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>De vader  van Tirza  als uitgeholde mens</dcterms:title>
+        <dcterms:creator>Jann Ruyters</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Ja, zijn dochters van 22 en 20 hebben de film al gezien en zijn heel trots, vertelt Rudolf van den Berg met een glimlach. ,,De jongste was in tranen. Ze kennen het boek. Ik ben er natuurlijk een paar jaar mee bezig geweest en soms begon ik dan wel over dingen, maar ik moest het niet in mijn hoofd halen om parallellen te trekken naar onze verhouding. Daar moesten ze niets van hebben."
+Een vader als die van Tirza is ook niet het ideaalbeeld van een dochter. Jörgen Hofmeester (Gijs Scholten van Aschat) mag in de eerste scène van Van den Bergs verfilming van Grunbergs bestseller zijn dochter liefhebbend uitzwaaien op Schiphol, helemaal goed is het niet met deze vijftiger in Amsterdam-Zuid. Op zijn werk, een uitgeverij, is hij overbodig geworden, zijn vrouw heeft hem al enige jaren eerder verlaten voor een jeugdliefde, zijn oudste dochter is tot Jörgens ongenoegen een bed &amp; breakfast in Frankrijk begonnen ('met haar hersens!').
+,,Wat hem troostte aan zijn bestaan was dat het achter hem lag", schrijft Grunberg. Hofmeester leeft alleen nog voor zijn oogappel, zijn jongste dochter, de 'hoog-hoogbegaafde' Tirza, die cello speelt en aan wie hij als kind Dostojewski voorlas.
+Alleen: Tirza is nu achttien. En ze wil na haar eindexamenfeest naar Namibië met haar vriendje Choukri, een Marokkaan. Choukri, in de film een zeer beschaafde jongen met studentikoos uiterlijk, werkt als een rode lap op Jörgen. ,,Hij lijkt op Mohammed Atta", blijft hij maar zeggen tegen zijn dochter op haar eindexamenfeest. ,,Hou nou eens op met dat ge-Atta", valt Tirza uit bij de derde keer.
+Regisseur Rudolf van den Berg maakte eerder naam met films naar bekende boeken. Hij verfilmde 'Zoeken naar Eileen' van Leon de Winter en 'De avonden' van Gerard Reve.  Met de verfilming van 'Tirza' waagt van den Berg zich opnieuw aan een boek waarbij je, als je het leest, niet meteen aan een film gaat denken.
+'Tirza' vertelt het verhaal van de zondeval van Hofmeester geheel vanuit het perspectief van de superieure Hofmeester, die zichzelf als een modelvader ziet maar die een uiterst onbetrouwbare verteller blijkt in wie waan en werkelijkheid samen opgaan.  Als hij van zijn dochter, die naar Namibië lijkt afgereisd, maar niets hoort, belandt de steeds wanhopiger Hofmeester in de Namibische woestijn, vergezeld door kindprostituee Kaisa ('do you want company, sir?').
+,,Toen ik 'Tirza' voor een tweede keer las, drong zich heel sterk dat beeld van die wanhopige man en dat zwarte meisje in de woestijn naar voren", vertelt van den Berg.  ,,Dat is film, die weidsheid en die verdooldheid. Ik ben een expressionist. Ik maak mijn keuzes niet op thematische gronden.  Ik ben op zoek naar beelden die je erin zuigen. Vaak weet je dan pas later wat het betekent."
+Van den Berg besloot om Hofmeesters zoektocht in Afrika, die in het boek pas op het laatst plaats vindt, naar voren te halen. De reis naar Afrika diende als metafoor voor Hofmeesters toestand. Bij het schrijven van het scenario liet zij zich onder meer inspireren door 'Heart of darkness' van Joseph Conrad.
+Van den Berg: ,,'Heart of darkness' gaat over de westerse mens die in de gruwelijkheid van de wilde zichzelf herkent. Kurtz is een verlicht iemand die een humanistisch rapport schrijft over omgang met de Afrikanen, maar aan het einde van dat rapport staat dan in ballpoint gekladderd: 'uitroeien die beesten'. Grunberg  heeft hij het daar ook steeds over.  Hofmeesters ex jent hem: 'slaapt het beest?'. De vertaler (Bas Heijne) schrijft in zijn nawoord bij 'Heart of darkness' dat wanneer de collectieve identiteit wordt afgeschaft en de mens op zichzelf is teruggeworpen, dat dan bij veel mensen de bodem uit hun persoonlijkheid valt. Hij heeft het over 'de uitgeholde mens'. Dat is volgens mij een mooie typering van Hofmeester: 'de uitgeholde mens'. Hofmeesters bestaan ligt aan stukken. Wat gebeurt er dan met iemand?"
+De zoektocht in Namibië, de relatie met het meisje Kaisa, krijgen in de film zo meer nadruk dan in het boek, maar het hart van Van den Bergs film ligt toch in Amsterdam-Zuid, bij de scènes tussen de drie disfunctionele gezinsleden (vader, dochter, moeder), in Grunbergiaans gestoorde dialogen. Sylvia Hoeks is goed als dochter Tirza die wel steeds geïrriteerder raakt ('nee pap, nu even geen Spinoza en Dostojewski, het is feest') maar nog niet oppikt dat haar vader over de schreef gaat.
+De scènes tussen haar en Gijs Scholten van Aschat die Hofmeester speelt, tonen de schurende intimiteit tussen een vader en een grote dochter die de stap naar de volgende fase nog niet hebben gezet. Sterk zijn ook de scènes tussen Scholten van Aschat en de pinnige Johanna ter Steege als Hofmeesters ex, Tirza's moeder die na jaren plotseling weer op de drempel staat om zich Hofmeesters leven weer binnen te ruzieën.
+Van den Berg:  ,,Voor de rol van Johanna heb ik wel tien actrices van die leeftijd gezien, allemaal goed. Maar Johanna bezit die gelaagdheid. Ze heeft iets wat die Bergmanactrices ook hebben, een aanwezigheid voor de camera, die maakt dat je de situatie in wilt, zonder dat ze iets zegt ook. Acteurs als Dustin Hofman en Robert de Niro hebben dat ook, maar Johanna heeft het in extreme mate."
+Voor Van den Berg was  'Tirza' puur plezier. Een weg uit de duisternis juist voor een filmer die jarenlang geen enkel plan verwezenlijkt kreeg. De samenwerking met producenten Koolbergen en San Fu Matha ('Zwartboek') verliep nu uitstekend. Het Filmfonds was meteen heel enthousiast over het scenario; de regisseur kon een beroep doen op de telescoopsubsidie waarmee je direct de helft van je film gefinancierd hebt. ,,De sfeer in het Filmfonds is erg veranderd. Vroeger begonnen ze altijd meteen over aantallen kaartjes, nu kijken ze veel meer naar dramaturgische kwaliteit."
+Ook het filmen in Afrika ging goed. Van den Berg: ,,We filmden met een Zuid-Afrikaanse ploeg en dat was geweldig, heel professioneel,  zo'n filmploeg daar werkt echt als een militaire operatie. Dat hebben ze volgens mij van de Engelsen geleerd. Geen requisiet ontbrak. Hier in Nederland is het ook goed, maar meer een schoolreisje. Ik wil niet voortdurend hoeven uitleggen waarom iets moet. In Afrika hoeft dat niet. Gewoon omdat ik het zeg, wel zo efficiënt."
+'De sfeer in het Filmfonds is erg veranderd, vroeger begonnen ze over aantallen kaartjes'
+</dcterms:description>
+        <dcterms:extent>word, 1083, DEVERDIEPING</dcterms:extent>
+        <dcterms:issued>2010-09-22</dcterms:issued>
+        <rdfs:label xml:lang="nl">De vader  van Tirza  als uitgeholde mens</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

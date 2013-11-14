@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy83WTI0LUhKRDAtWTlNNi1IM0Qz">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/7Y24-HJD0-Y9M6-H3D3"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>wat leeft?</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Manifest tegen plagiaat
+Günter Grass, Christa Wolf en andere Duitse schrijvers maken zich boos over de knip-en-plak generatie, die plagiaat niet meer als doodzonde zegt te beschouwen. (Ze doelen daarbij op vooral Helene Hegemann, zie Trouw van 6 maart). Hun 'Leipziger verklaring' is het gesprek van de dag op de Duitse boekenbeurs die donderdag van start ging.
+(die zeit online)
+Carl Cneut genomineerd
+De Vlaamse illustrator Carl Cneut is genomineerd voor de Hans Christian Andersen Award, zo'n beetje de Nobelprijs voor kinderboeken. De prijs werd eerder gewonnen door Annie M.G. Smith en Max Velthuijs. Een Belg won de prijs nog nooit.
+Nu al roman van de eeuw
+Met nog negentig jaar te gaan is 'Tirza' van Arnon Grunberg alvast uitgeroepen tot roman van de 21ste eeuw. Dat blijkt uit een  enquête van het weekblad De Groene Amsterdammer waaraan ruim veertig schrijvers, recensenten, publicisten, academici en uitgevers mededen.
+</dcterms:description>
+        <dcterms:extent>word, 153, BOEKEN; Blz. 92</dcterms:extent>
+        <dcterms:issued>2010-03-20</dcterms:issued>
+        <rdfs:label xml:lang="nl">wat leeft?</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

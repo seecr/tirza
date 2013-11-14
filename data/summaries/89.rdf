@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MVdULUQ2NDEtSkM4Vy1ZNTVQ">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51WT-D641-JC8W-Y55P"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=51WT-D641-JC8W-Y55P&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Grunberg schrijft Duits toneelstuk</dcterms:title>
+        <dcterms:creator>Wilfred Takken</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/nrc"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Arnon Grunberg gaat een toneelstuk schrijven voor de Münchner Kammerspiele, het Duitse stadstheater dat wordt geleid door de Nederlandse regisseur Johan Simons. Het stuk gaat Kerstmis 2012 in première in München en heeft als werktitel: Eine Bayerische Orgie (Een Beierse orgie). De titel kan een verwijzing zijn naar een seksschandaaltje vorig jaar rond twee voetballers van Bayern München. Voor het toneelstuk gaat Grunberg vier maanden in München wonen.
+Sinds Johan Simons vorige zomer naar München vertrok, nam hij verschillende Nederlandse talenten met zich mee, onder wie acteur Pierre Bokma. Simons maakte eerder bij NTGent een toneelversie van Grunbergs romans De asielzoeker.
+Grunberg wilde eigenlijk acteur en toneelschrijver worden. Voor hij in 1993 doorbrak met Blauwe maandagen had hij al veertien toneelstukken geschreven. Zijn toneeldebuut Koningen Frambozenrood (1988) werd gespeeld door Toneelgroep Amsterdam. Hierna volgden nog tientallen stukken, maar hij werd nooit een succesrijk dramaschrijver. Wel werden romans met succes voor toneel bewerkt, zoals vorig jaar Tirza.
+Grunberg wordt ook in Duitsland uitgegeven. In 2002 ontving hij de NRW-Literaturpreis.
+</dcterms:description>
+        <dcterms:extent>word, 195, KUNST; Blz. 9</dcterms:extent>
+        <dcterms:issued>2011-01-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">Grunberg schrijft Duits toneelstuk</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

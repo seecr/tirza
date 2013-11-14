@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzlSLVY4MTEtRFlSWS1OMUJG">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/539R-V811-DYRY-N1BF"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=539R-V811-DYRY-N1BF&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Nederlandse  arthouse- films ?  Nee, bedankt; Peter de Bruijn over film</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Als een boom in het bos omvalt en er is niemand in de buurt die dat kan horen, maakt de omvallende boom dan geluid? Dat is een beroemd filosofisch gedachtenexperiment. De vraag is of iets wat niet wordt waargenomen, wel echt bestaat. Over het merendeel van de Nederlandse arthousefilms valt dezelfde vraag te stellen: bestaan ze eigenlijk wel, want waargenomen worden ze niet of nauwelijks.
+Dat probleem is niet nieuw, maar in het recent verschenen jaarverslag van het Nederlands Filmfonds doen de cijfers toch weer pijn aan de ogen. Bij de toekenning van het Gouden Kalf aan Joy van Mijke de Jong was er al een hevige discussie of een film met zo weinig aantrekkingskracht op bioscoopbezoekers, wel de beste Nederlandse film van het jaar kon zijn. De teller staat uiteindelijk op 2.974 bezoekers. Wat opvalt is dat het nauwelijks iets uitmaakt of een film positieve dan wel negatieve recensies kreeg, of succes had op buitenlandse filmfestivals. Hunting &amp; Zn. van Sander Burger werd positief onthaald, met name door het fenomenale acteren van Dragan Bakema en Maria Kraakman. De film haalde filmfestivals in Rotterdam, Londen en New York. Toch kwamen er een schamele 932 mensen kijken. R U There van David Verbeek ging naar Cannes en speelt in een hip, eigentijds milieu (de wereld van professionele gamers). De tellers blijft steken op 3.169 bezoekers. C'est déjà l'été kwam in de Tijger Competitie van het filmfestival Rotterdam; een eer voor filmmaker Martijn Maria Smits. Bezoekers: 591. Met 8.889 en 7.336  bezoekers halen Schemer en De vliegenierster van Kazbek al  respectievelijk de derde en vierde plaats van best bezochte arthousefilms in Nederland. Op de eerste en tweede plaats staan Tirza (180.577) en Nothing Personal (68.533); de top vijf wordt afgesloten door Vreemd bloed (4.182).
+Op deze kwestie (extra urgent nu de regering zo'n sterke nadruk legt op publieksbereik als voorwaarde voor financiering) zijn al heel wat analyses losgelaten. Het zou de Nederlandse kunstzinnige film ontbreken aan een professioneel marketing- en publiciteitsapparaat. Of arthousefilms zouden meer met aansprekende, sensationele gimmicks moeten werken, die in één zin zijn samen te vatten. Maar de beste aanname is toch gewoon dat  Nederlandse arthousefilms niet interessant genoeg zijn. Niet alleen Henk en Ingrid laten arthousefilms  links liggen, ook de ontwikkelde, cultureel geïnteresseerde burgers, Roderik en Evelien, lopen er straal aan voorbij.
+Aan twee eisen moet een goede film voldoen, volgens de gevierde auteur Michael Haneke die er wél in slaagt een publiek te vinden voor zijn vaak strenge films: vorm en inhoud moeten identiek aan elkaar zijn, én kunst moet communiceren. Dat eerste zit vaak wel goed, maar op het tweede punt, dat van de communicatie, valt nog veel te winnen. Niet in de marketing, maar in de films zelf.
+</dcterms:description>
+        <dcterms:extent>word, 472, Cultureel Supplement</dcterms:extent>
+        <dcterms:issued>2011-07-14</dcterms:issued>
+        <rdfs:label xml:lang="nl">Nederlandse  arthouse- films ?  Nee, bedankt; Peter de Bruijn over film</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

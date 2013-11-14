@@ -1,0 +1,50 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NTRWLUY4UDEtSkM4Vy1ZM01I">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/554V-F8P1-JC8W-Y3MH"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=554V-F8P1-JC8W-Y3MH&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>A.F.Th. van der Heijden versus Arnon Grunberg Multatuli (1820-1887) versus ...</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>A.F.Th. van der Heijden versus
+Arnon Grunberg
+Multatuli (1820-1887) versus
+Conrad Busken Huet (1826-1886)
+Als zelfbenoemd strijder tegen het onrecht dat de bevolking van Nederlands-Indië door de Nederlandse kolonisatoren werd aangedaan meende Multatuli dat hij steun en sympathie genoot van de non-conformistische criticus Busken Huet.
+Maar toen die zich door de regering een mooie baan in de Oost liet bezorgen, verbrak Multatuli alle banden.
+De 'solide bondgenoot' had zich laten kennen als een 'gemeen sujet'.
+In werkelijkheid was Multatuli, die er stiekem op rekende dat men hem aan het hoofd van de kolonie zou plaatsen, gewoon jaloers.
+Joost Zwagerman versus
+Michaël Zeeman (1958-2009)
+Michael Zeeman, criticus en erudiet, had al nooit veel op met de Maximalen en hun voorman Joost Zwagerman. Ze waren hem te lawaaiig en te weinig intellectueel. In zijn televisieprogramma 'Zeeman met boeken' werd Zwagermans roman 'Chaos en rumoer' publiekelijk geëxecuteerd. Zwagerman schreef een column voor de Volkskrant, werkgever van Zeeman, waarin hij Zeeman de maat nam. Het stuk werd geweigerd, waarop Zwagerman meldde: "Dit was mijn laatste bijdrage." Een dreigement dat hij overigens niet uitvoerde.
+Gerard Reve (1923-2006) versus
+Harry Mulisch (1927-2010)
+Vanwege zijn interesse in de acties van de provo's, die in de jaren zestig Amsterdam op stelten zetten, noemde Reve de in een sportauto rijdende Mulisch 'een gemotoriseerde relletjesvoyeur'.
+Ook leefde hij zich uit in aan koningin Juliana toegeschreven rijmpjes als 'Het werk van Mullis is niets als vullis'. Op een zeker ogenblik was Mulisch het gejen zat; bovendien stoorde hij zich aan Reve's half-gespeelde, half-serieuze racisme.
+Dus haalde hij flink uit en schreef, zogenaamd in één nacht, het dertig pagina's lange pamflet 'Het ironische van de ironie'. De conclusie begint met de verzuchting 'Zie, het wordt alweer licht. Naar de hel met hem!'
+Jeroen Brouwers versus
+Rudy Kousbroek (1929-2010)
+De hevige vete tussen Rudy Kousbroek en Jeroen Brouwers speelde zich af tussen twee voormalige jappenkampslachtoffers. Brouwers had in zijn roman 'Bezonken rood' (1981) een gruwelijk beeld geschetst van zijn kampverleden maar Kousbroek verweet hem in 'De tomatenketchup-Tjideng van Jeroen Brouwers' dat hij overdreef en aan een Oostindisch kampsyndroom leed en de waarheid niet wilde onderzoeken. Eind 1988 vroeg Brouwers zich in een hatelijk artikel in De Tijd nog af waar dat alles verklarende boek van Kousbroek over de jappenkamp dan wel bleef.
+A.F.Th. van der Heijden kreeg het in 2007 aan de stok met Arnon Grunberg, die in een brief in Humo en Het Parool de literaire kwaliteiten van zijn confrater in twijfel had getrokken. A.F.Th. meldde op zijn beurt dat hij niet verder dan pagina 100 in Grunbergs roman 'Tirza' was gekomen vanwege de vele inconsistenties. De ruzie escaleerde toen beiden genomineerd werden voor de AKO-prijs en A.F.Th. om profylactische redenen weigerde in dezelfde ruimte als Grunberg te verkeren.
+</dcterms:description>
+        <dcterms:extent>word, 494, Letter en Geest; Blz. 2</dcterms:extent>
+        <dcterms:issued>2012-03-10</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

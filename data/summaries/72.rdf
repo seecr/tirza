@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy83WTNNLTlXMjAtWTlNNi1IMkM0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/7Y3M-9W20-Y9M6-H2C4"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>theater</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Meisjes van Mussolini
+Drie danseresjes van Nederlandse komaf worden in het Italië van Mussolini omgeturnd tot zangeressen. Als Trio Lescano boeken ze veel succes, tot in 1943 iemand ontdekt dat ze joods zijn. Ze duiken onder, maar na de oorlog keert de roem niet meer terug en raken ze in vergetelheid. Terwijl in Italië aan een tv-serie over het trio wordt gewerkt, zet Orkater hun leven op toneel.
+'De meisjes van Mussolini' o.r.v. Lidwien Roothaan, toernee t/m 1 juni, www.orkater.nl
+Weekblad de Groene Amsterdammer riep 'Tirza' van Arnon Grunberg al uit tot het beste boek van deze eeuw. Nou ja, het eerst decennium. De verfilming gaat binnenkort draaien, terwijl het Nationale Toneel 'Tirza' op de planken brengt. 'Schaamteloos vitaal', constateert Trouw-recensente Hanny Alkema. 'En daarmee pijnlijk'.
+'Tirza' o.r.v. Johan Doesburg, toernee t/m 12 juni, www.nationaletoneel.nl, www.tirzaoptoneel.nl of 070-3181444
+Het moderne dansgezelschap anouk van dijk dc (zonder hoofdletters) liet zich voor zijn nieuwe voorstelling inspireren door de zwartwittekeningen van beeldend kunstenaar Nik Christensen. Grimmig of juist hoopvol, in de stilte vóór of juist ná de storm ligt de beklemming.
+'Wowwowwonders in me' , toernee t/m 25 mei, www.anoukvandijk.nl
+Dansgroep Amsterdam trekt met nieuw werk van Krisztina de Châtel, Itzik Galili en Liat Waysbort langs de zalen. De een liet zich inspireren door de film Waltz with Bashir over een massamoord op Palestijnse vluchtelingen, de ander laat de dansers nazitten door een lichtgevende kubus en de derde speelt met de iconografie rond Elvis. Prima gedanst, maar niet zo raak als we van een jong dynamisch gezelschap verwachten, vindt Trouw-recensent Sander Hiskemuller.
+'Raak', toernee t/m 13 juni, www.dansgroepamsterdam.nl
+Nanette Edens heeft slechts een stoel en een bril nodig om verschillende stadia en personages uit het leven van haar personage vorm te geven. Ze maakt het publiek deelgenoot en machteloze toeschouwer van een intiem familierelaas, droom en nachtmerrie tegelijk. Afwisselend meeslepend, beangstigend en geestig is dit deel uit een vierluik van schrijver/regisseur Frans Strijards.
+'Hé jij daar...' door De Voortzetting, toernee t/m 22 april, www.devoortzetting.nl
+Deze voorstelling over dominee Frans Haverschmidt is een beetje een rommeltje, oordeelt recensente Rinske Wels. Te veel losse ideetjes, te veel talent.
+'Piet Paaltjens', regie Han Römer, toernee t/m 29 mei, http://www.toptheater.nl
+</dcterms:description>
+        <dcterms:extent>word, 417, DEGIDS</dcterms:extent>
+        <dcterms:issued>2010-03-27</dcterms:issued>
+        <rdfs:label xml:lang="nl">theater</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

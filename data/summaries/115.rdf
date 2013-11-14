@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTdXLU5DWTEtSkM4Vy1ZNDBG">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/517W-NCY1-JC8W-Y40F"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>film</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Briefgeheim
+Opnieuw een Jan Terlouw-verfilming, maar anders dan Oorlogswinter is dit echt een kinderfilm. Eva vermoedt dat haar vader crimineel is en gaat met haar vrienden op onderzoek uit. Prettig ongecompliceerd. Briefgeheim was deze week de openingsfilm van het jeugdfilmfestival Cinekid.
+Regie: Simone Dusseldorp
+Julia Roberts is ongelukkig. Het duurt even voor dat tot de kijker doordringt, want ze blijft Julia Roberts. Zeven miljoen mensen lazen het boek over de vrouw die alles heeft maar toch op zoek gaat. Maar het ongeluk is Roberts' kracht toch niet. En het exotische decor helpt ook al niet mee.
+Regie: Ryan Murphy
+Verfilming van het boek van Arnon Grunberg. Een man van middelbare leeftijd raakt  alles kwijt: baan, vrouw en ten slotte ook zijn jongste dochter, zijn oogappel, Tirza. Hij reist haar achterna naar Afrika. Zijn gekte is eerst komisch, maar wordt gaandeweg steeds tragischer.
+Regie: Rudolf van den Berg
+Nederlandse regisseur Ludi Boeken maakte film over Duitse boeren die in de Tweede Wereldoorlog joodse onderduikers verstopten. Met eenvoudige, doeltreffende middelen wordt de angst voor ontdekking voelbaar.
+Regie: Ludi Boeken
+Pratend en zingend kijken de hoofdrolspelers van destijds terug op de paspoortaffaire rond Ayaan Hirsi Ali in 2006. De politica zelf, maar ook Femke Halsema en Rita Verdonk doen mee. Fascinerende, gelaagde, rijke film over de politiek die je twee, drie keer kan zien.
+Regie: Robert Oey
+In de tweede film van Anton Corbijn speelt George Clooney een zwijgzame huurmoordenaar. Mooi gefilmd, maar de romantiek van de eenzame cowboy komt niet helemaal uit de verf.
+Regie: Anton Corbijn.
+</dcterms:description>
+        <dcterms:extent>word, 280, DEGIDS</dcterms:extent>
+        <dcterms:issued>2010-10-16</dcterms:issued>
+        <rdfs:label xml:lang="nl">film</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

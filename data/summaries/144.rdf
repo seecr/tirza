@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzNHLUhHSzEtSkM4Vy1ZM0I2">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/533G-HGK1-JC8W-Y3B6"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=533G-HGK1-JC8W-Y3B6&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Verzet afschieten damherten groeit</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>door Nienke Oort AMSTERDAM, woensdag De weerstand tegen de plotselinge ommezwaai van de gemeente Amsterdam om toch in te stemmen de damherten in de Amsterdamse Waterleidingduinen (AWD) af te gaan schieten groeit. Vanuit alle hoeken krijgt de gemeenteraad brandbrieven met smeekbedes toch vooral vast te houden aan het oude standpunt: namelijk om de overlast op een diervriendelijke en effectieve manier te bestrijden.
+Zo hebben vier samenwerkende dierenbelangenorganisaties gezamenlijk een voorstel geschreven om akkoord te gaan met afschot van damherten af te wijzen.  Het voorstel is in strijd met het gemeentelijk beleid van Amsterdam, enkele maanden geleden. Het gaat bovendien om een zeer dieronvriendelijk voorstel dat geen oplossing biedt om de overlast daadwerkelijk effectief tegen te gaan. Ook is het vanwege de tonnen die de gemeente al heeft geïnvesteerd in maatregelen die wel effectief en diervriendelijk zijn, pure geldverspilling om nu akkoord te gaan met afschot. 
+Ook de werkgroep Amsterdam van de Partij voor de Dieren is verbijsterd over het feit dat de gemeenteraad wil instemmen met het afschieten van de damherten.
+Volgens het college blijft het aantal verkeersongelukken ondanks het plaatsen van hekken en wildroosters toenemen. De afrastering van de AWD is echter nog lang niet voltooid.  De Amsterdamse gemeenteraad heeft tot nu steeds gezegd dat er geen sprake kan zijn van afschot zolang het gehele gebied niet van een deugdelijke omheining is voorzien , aldus werkgroepvoorzitter Tirza Elias.
+Het ontbreken van hekken op meerdere plaatsen rond de AWD is vooral het gevolg van het gebrek aan medewerking door de gemeenten Bloemendaal en Noordwijk bij het verlenen van de benodigde vergunningen. Ook is een aantal hekken niet goed geplaatst waardoor de damherten er gemakkelijk overheen kunnen springen.
+Volgens Elias is de AWD het enige gebied in de twee provincies waar damherten nog ongestoord kunnen leven.  Jagen zal veel stress onder de kuddes aanrichten, waardoor een deel van de dieren het gebied zal proberen te ontvluchten. 
+</dcterms:description>
+        <dcterms:extent>word, 342, Amsterdam; Blz. 11</dcterms:extent>
+        <dcterms:issued>2011-06-15</dcterms:issued>
+        <rdfs:label xml:lang="nl">Verzet afschieten damherten groeit</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

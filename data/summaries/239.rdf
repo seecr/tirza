@@ -1,0 +1,73 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MVdULUQ2NDEtSkM4Vy1ZNTRQ">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51WT-D641-JC8W-Y54P"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=51WT-D641-JC8W-Y54P&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Toneel maakt me nerveuzer dan film'; Actrice Johanna ter Steege speelt voor het eerst sinds lange tijd een komische rol, op toneel</dcterms:title>
+        <dcterms:creator>Kester Freriks</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/nrc"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+,,Al van begin af aan was ik verliefd op de filmcamera en vertrouwd met het genre film", zegt actrice Johanna ter Steege. Na lange tijd niet op het toneel te hebben gestaan, vertolkt ze nu een rol in het nieuwe Nederlandse toneelstuk Overlast van dichter en vertaler Erik Bindervoet en zijn vrouw, vertaalster Michèle Bernard.
+Ter Steege repeteert met medespeler Wim Bouwens in Theater Bellevue in Amsterdam. Aanstaande zondag is de première. Ter Steege (Wierden, 1961) verwierf bekendheid met haar rol als Saskia Wachter in Spoorloos (1988). Van begin af aan was ze betrokken bij het toonaangevende gezelschap De Trust van regisseur Theu Boermans. Van hem leerde ze het ambacht van het toneelspelen. Johanna ter Steege: ,,Dat heeft mijn grote aandacht. Kennis van het acteervak is het belangrijkste."
+Op 28-jarige leeftijd verliet u het gezelschap De Trust om in Berlijn te gaan filmen. Waarom?
+,,Dankzij Spoorloos kwam mijn carrière in een stroomversnelling. Mijn omgang met de camera was tamelijk moeiteloos. Ik werd verliefd op het genre film en liet inderdaad het toneel achter me. Ik wilde graag internationaal werken en dan moet je beschikbaar zijn. Je kunt niet tegen een filmregisseur zeggen dat je eerst aan je toneelverplichtingen moet doen. Beschikbaarheid is een vereiste."
+Dichter en filmessayist Willem Jan Otten schreef over Spoorloos dat die elk jaar op het Nederlands Filmfestival vertoond moet worden.
+,,Ik vind dat een mooi idee, hoewel elk jaar erg veel is. Niet zo lang geleden zag ik de film terug. Het eerste dat me opviel is dat we nu een ander gevoel voor ritme hebben. In Spoorloos vallen lange stiltes, alles is veel rustiger, niet alleen de stijl van monteren maar ook de manier van praten.
+,,Meer dan theater geeft film een tijdsbeeld. Aan film kun je zien hoe de tijd en de tijdsgeest veranderen. Speel je een bewerking van Shakespeare, dan is het altijd in het nu. Film houdt een tijdsbeeld vast. Destijds kwam de film als een schok. Het kwaad in de mens wilde men niet accepteren. Daarover gaat de film: over een man die pas weet dat hij een goed mens is als hij het kwaad in zichzelf heeft toegelaten. De informatie lag destijds meer verborgen. Nu worden we overspoeld door informatie."
+Hoe was het om uzelf terug te zien in een film van meer dan twintig jaar oud?
+,,Wat me erg opviel, is de onbezonnenheid en de bravoure waarmee ik speelde. Dat zou ik nu niet meer kunnen. Ouder worden heeft als voordeel dat je meer ervaring hebt, dat je kunt putten uit een breder arsenaal aan theatermiddelen."
+Ooit heeft u in een interview gezegd dat toneelspelen voor u een spel is ,,op leven en dood". Zou u dat nu nog zeggen?
+,,Dat was in de beginjaren van mijn carrière. Nu zou ik eerder zeggen: ,,Spelen met het leven als inzet en met de kennis van nu." In mijn toneelschooljaren was ik gepassioneerd van theater, ik zette alles op alles. Nu neem ik meer afstand. Dat betekent niet dat ik minder intens speel. Integendeel. De stijl wordt anders,  rijker."
+U bent van begin af aan betrokken geweest bij De Trust van Theu Boermans. U speelde eens in De Meeuw van Tsjechov alle bijrollen en sprak in Twents dialect. U bent geboren vlak bij Wierden...
+,,Dat was een extreme vorm van typecasting. Alsof ik als boerendochter alleen plat praat. Daarmee doe je de boerenstand en mijn afkomst tekort. Wij waren geïnteresseerd in cultuur, in boeken. Maar het paste bij de regiestijl van Boermans: rauw, authentiek, oprecht. Zo min mogelijk afstand tussen jou en de rol."
+Hoe is het om als eerste een uitvoering te geven van een nieuw Nederlands toneelstuk?
+,,Overlast is mede op mijn initiatief ontstaan. Ik ken het vertaalwerk van Erik Bindervoet. Ik mocht voordragen uit zijn vertaling van Finnegans Wake van James Joyce. Zijn spel met taal vol gedachtensprongen vind ik schitterend. Ook vertaalde hij De laatste dagen der mensheid van Karl Kraus voor toneelgroep 't Barre Land. Dus de link met theater was er. Ik had hem al eens gevraagd om een monoloog voor mij te schrijven, maar daar kwam het nooit van."
+Is het belangrijk dat een toneelrol dicht bij uw persoonlijke leven staat?
+,,In het stuk repeteren twee acteurs een Japans toneelstuk, Het Goedgemutste Koppel. Ze stappen in en uit hun rol. Soms zit de ene speler nog in zijn rol en staat de ander daar weer buiten. Zo schieten en flitsen we voortdurend heen en weer. Het is een speels stuk. Ik ben blij dat er dankzij Michèle Bernard ook een vrouwelijke stem in het toneelstuk zit. Net als Erik Bindervoet zelf kan het personage Wim Bouwvoet behoorlijk doordraven. En ik met mijn toneelnaam Jo Steeghart houd hem in het gareel. Ik put niet zozeer uit persoonlijke bronnen, zo'n actrice ben ik niet. Wel probeer ik al mijn ervaring in te zetten om een rol vele kanten te geven.
+,,Bij zo'n eerste opvoering wil je zo tekstgetrouw mogelijk zijn, dat is wel een vereiste. Er zijn verschillende versies geschreven en tijdens al die versies is er veel contact geweest. Ik ben erg blij dat het geen monoloog is geworden, want dat is zo eenzaam. Bij film ben ik dat al voldoende, misschien niet eenzaam maar wel alleen."
+Wat is er zo eenzaam aan filmen?
+,,Vanwege filmopnamen ben ik veel in het buitenland geweest, daar ben je per definitie een buitenstaander. Op de set staan is een wonderlijke ervaring. Allereerst is er de camera die je aanwezigheid registreert. Op dat ogenblik heb je vooral contact met de cameraman. Na het opnemen van de shots overleg je met de regisseur en de tegenspelers. Die cirkel maak ik altijd."
+Wat maakt een nieuw Nederlands stuk tot een goed toneelstuk?
+,,Dat je gespannen blijft uitzien naar wat er komt. En dat de toneelsituatie duidelijk is. Voor mij komt daar nog bij de kwaliteit van het taalgebruik. Bij een eerste try-out van een toneelvoorstelling, zoals deze week, ben ik veel nerveuzer. Al die mensen, ze leven, ademen, hebben straks een mening!"
+Is Overlast een ingewikkeld stuk? Noh theater, stuk in een stuk dat is gebaseerd op een Japanse theatertekst...
+,,Je kunt het zo ingewikkeld maken als je wilt. Je kunt ook de situatie duidelijk spelen en dan kom je op het volgende: een acteursechtpaar bereidt een toneelstuk voor en de man en vrouw raken verstrikt in hun relatie. Ze kunnen hun eigen leven en dat van de theaterpersonages die ze spelen niet uit elkaar houden."
+Bent u bekend met het Japanse theater?
+,,Nee. Vorig jaar tijdens het Holland Festival hebben we een Japanse voorstelling gezien. Gestileerd en traag. Ik had er weinig mee, vond geen toegang. Op een gegeven moment draag ik in Overlast een kimono en houd ik mijn hand vlak boven mijn hoofd, zo, alsof ik in de verte tuur. Dat is in Japan een uitdrukking voor verdriet. Dat ziet er dan super Japans uit."
+Karina Kroft regisseert het stuk. Welke afspraken zijn er gemaakt om tot die snelle, dynamische vorm te komen?
+,,De belangrijkste afspraak is alles te ,,omarmen", zoals Karina het noemt. Dat betekent dat alles wat er gebeurt tussen Wim en mij meteen in het spel wordt betrokken. Omdat de wisselingen zo snel zijn, weet ik als Jo Steeghart niet waar Wim zich bevindt. Is hij de acteur die een rol instudeert van Het Goedgemutste Koppel of is hij de werkelijke Wim Bouwens? Ook reacties uit het publiek betrekken we in ons spel. Dat geeft een enorme vrijheid. We hebben een keer geprobeerd de voorstelling strikt achter de vierde wand te spelen, dus zonder een enkele toespeling op het publiek. Dat werkte niet. Overlast heeft die wisselwerking tussen spelers en publiek nodig."
+Tijdens de repetitie greep uw tegenspeler naar zijn tekstboek. Hiermee suggereerde hij dat hij echt zijn tekst kwijt is.
+,,Tijdens een repetitie is het altijd boeiend de grens tussen werkelijkheid en spel op te sporen.  Dan is er ook nog altijd ikzelf als actrice die zich ergens bevindt tussen haar persoonlijkheid en het personage dat ze instudeert. Al repeterend proberen we die niveaus te vinden en vorm te geven. Op een gegeven moment gaat dat vanzelf. Dan kom je terecht in de vaart, de flow van de voorstelling. Ergens zeg ik de zin: ,,Ik ben dan wel actrice, maar ik heb ook gevoelens hoor." Zo'n zin geeft aan dat ik al acterend boven mijn rol sta. Dat spel met schijn en werkelijkheid is geweldig om te doen. In het repertoire zoals ik dat tot nu toe vertolkte, kon dat nooit. Dat was zwaar en heftig. Ik snakte naar lichtheid."
+Uw stijl is beweeglijk. Anders dan in uw eerdere toneel- en filmrollen.
+,,Ik wilde graag komedie spelen, dat heb ik jarenlang gemist. In een komedie kun je telkens iemand anders zijn. Je zet een herenhoed op en bent een man. Je trekt een jurkje aan en bent een andere vrouw. Dat speelse van komedie boeit me al vanaf de toneelschool. Dit keer dus geen diepgravend drama."
+Het stel uit Overlast verwacht visite van de nieuwe buren. Ter voorbereiding spelen ze vast een toneelstukje waarin de buren kamerplanten zijn.
+,,Ja, er zijn van die bevriende echtparen die bij elkaar op bezoek komen en dan altijd ruzie krijgen. Met dat gegeven spelen we. Ik denk dat dat herkenbaar is. De buren vormen een nieuw dramatisch element in het toneelstuk. Maar je ziet ze nooit. Dat hoeft ook niet. Wij spelen dat echtpaar. Aan het slot wijs ik naar het buurhuis en zeg dat de buren seks hebben. Daarmee probeer ik mijn man te verleiden. Hij geeft niet toe en vlucht  weg. Ik gebruik de buren als spiegel van mijn eigen tekort aan liefde en aandacht. Ik bedoel natuurlijk: het tekort aan liefde van mijn personage."
+Ter Steege in films
+1979-1984: Academie voor Drama en Kunst, Kampen
+1984-1988: Toneelschool Arnhem
+1988: Spoorloos. Regie: George Sluizer. Bekroond met de Felix Award (Berlijn) voor de beste bijrol
+1990: Vincent &amp; Theo. Regie: Robert Altman
+1992: Dear Emma, Sweet Böbe. Regie: Itsvan Szabo
+1995: Tot ziens/Goodbye. Regie: Heddy Honigman. Beste actrice in Locarno
+2003: Verder dan de maan. Regie: Stijn Coninx
+2005: Guernsey. Regie: Nanouk Leopold
+2010: Tirza. Regie: Rudolf van den Berg
+</dcterms:description>
+        <dcterms:extent>word, 1680, KUNST; Blz. 8</dcterms:extent>
+        <dcterms:issued>2011-01-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Toneel maakt me nerveuzer dan film'; Actrice Johanna ter Steege speelt voor het eerst sinds lange tijd een komische rol, op toneel</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

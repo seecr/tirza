@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NkY2LUs2MzEtSkM4Vy1ZM1lH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/56F6-K631-JC8W-Y3YG"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=56F6-K631-JC8W-Y3YG&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Actie geëist tegen dumpen vrouwen</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>AMSTERDAM - De gemeente moet meer maatregelen nemen tegen het dumpen van vrouwen en kinderen in Marokko en andere landen. GroenLinks Amsterdam dient hiervoor een initiatiefvoorstel in. Jaarlijks worden tientallen vrouwen en kinderen in de zomervakantie door hun man achtergelaten in het land waar ze oorspronkelijk vandaan komen, zonder paspoort of verblijfs-papieren. Hoeveel het er precies zijn is onbekend, betrouwbare cijfers ontbreken. 
+"Elk jaar is het dezelfde rituele dans," zegt raadslid Fenna Ulichki. "We schrikken van de schrijnende verhalen van vrouwen en kinderen die door hun man zonder papieren zijn achtergelaten in Marokko of Turkije. Maar ondertussen onderneemt de politiek weinig om er iets tegen te doen. Het wordt dan ook tijd dat we ons pro-actief gaan opstellen om deze kwetsbare groep te beschermen." GroenLinks komt daarom met een aantal voorstellen om vrouwen in Amsterdam beter te beschermen tegen onvrijwillige achterlating in het land van herkomst. Allereerst moet er een einde komen aan de mogelijkheid dat iemand zonder toestemming uitgeschreven kan worden bij de Gemeentelijke Basis Administratie (GBA). Uitschrijving kan gevolgen hebben voor de verblijfsvergunning. Vrouwen kunnen nu door hun partner worden uitgeschreven, zonder dat ze daar zelf van op de hoogte zijn. Wanneer het vermoeden bestaat dat onvrijwillig is uitgeschreven, wordt in Amsterdam nu een adresonderzoek gedaan. GroenLinks wil dat vrouwen uit risicolanden voortaan persoonlijk aangifte moeten doen en dat het verzoek naar het adres van de vrouw in het buitenland gaat. Ook pleit de partij voor uitbreiding van het steunpunt Huiselijk Geweld met een meld- en adviespunt waar vrouwen terecht kunnen voor informatie en juridische ondersteuning bij achterlating. Daarnaast moet onderzocht worden hoeveel vrouwen jaarlijks tegen hun wil worden achtergelaten en om welke herkomstlanden het gaat, om zo tot een effectieve aanpak te kunnen komen. Ook landelijk staat de aanpak van ongewenste achterlating op de agenda. De PvdA wil mannen die hun vrouw of kind in het buitenland dumpen, strafbaar stellen.
+'We schrikken van de schrijnende verhalen uit Marokko en Turkije'
+</dcterms:description>
+        <dcterms:extent>word, 361, Amsterdam; Blz. 25</dcterms:extent>
+        <dcterms:issued>2012-08-25</dcterms:issued>
+        <rdfs:label xml:lang="nl">Actie geëist tegen dumpen vrouwen</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

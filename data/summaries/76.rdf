@@ -1,0 +1,53 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81Mks4LTJNRjEtSkM4Vy1ZNEY2">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52K8-2MF1-JC8W-Y4F6"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52K8-2MF1-JC8W-Y4F6&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>dvd top 10 Deze week het meest verhuurd bij Movie ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>dvd top 10
+Deze week het meest verhuurd bij Movie Center in Amsterdam
+1. (1) El secreto de sus ojos
+Juan José Campanella
+2. (2) The social network
+David Fincher
+3. (4) Another year
+Mike Leigh
+4. (7) Unstoppable
+Tony Scott
+5. (3) Lo sono l'amore
+Luca Guadagnino
+6. (6) Tirza
+Rudolf van den Berg
+7. (9) Mother and child
+Rodrigo Garcia
+8. (-) Fair game
+Doug Liman
+9. (-) Potiche
+François Ozon
+10. (5) Machete
+Robert Rodriguez
+
+</dcterms:description>
+        <dcterms:extent>word, 66, Agenda; Blz. 37</dcterms:extent>
+        <dcterms:issued>2011-04-09</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MUJXLThUQzEtSkM4Vy1ZMUZC">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51BW-8TC1-JC8W-Y1FB"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Zijn moeder noemt  hem een onmens; Arnon Grunberg neemt zichzelf in 'Huid en haar' genadeloos de maat</dcterms:title>
+        <dcterms:creator>Jaap Goedegebuure</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Arnon Grunbergs nieuwe roman 'Huid en haar' begint als een satirische comedy of morals. Plaats van handeling is een congres over de Holocaust; in de hoofdrollen zien we de Amerikaanse historica Lea en de Nederlandse, deels in Amerika en deels in Leiden docerende econoom Roland Oberstein. Zij heeft wel zin in een galant avontuur, hij houdt de boot af. Omdat hij niet snel genoeg hapt, levert ze zich gewillig over aan een collega. Ze weet maar al te goed dat seks met haar wettige echtgenoot, de New Yorkse politicus Jason, er niet meer in zit. Spoedig zal haar blijken dat hij het liever met een jongeman doet. Ze moet de buitenkans dus te baat nemen.
+Na terugkeer in de States zullen Lea en Roland, wiens Amsterdamse vriendin Violet inmiddels vreemd is gegaan, alsnog iets met elkaar krijgen. Maar dan zijn we al een goede honderd pagina's verder en vragen we ons af waarom Grunberg zijn intrige zo geleidelijk op gang brengt en zo breed uitspint. Antwoord zullen we pas krijgen als we zijn aangeland bij de finale van deze wrange klucht. Dan heeft de auteur ons indringend laten zien dat deze schijnbaar weldenkende mensen, die hun claims op elkaars tijd, aandacht en lichaam zo gladjes beargumenteerd voor het voetlicht brengen, au fond kille en zielloze figuren zijn. Dan pas weerkaatst de schrille noot van het begin: de zwaarte van de aan volkerenmoord gewijde congresagenda, afgewisseld met frivoliteiten en banale praatjes, klinkt opnieuw door in het slotakkoord: een studente die zich als lustobject aan Roland heeft opgedrongen en bij een verkapte poging tot zelfmoord haar nek gebroken heeft, laat zich op haar ziekenhuisbed nog maar eens door hem betrekken in sadomasochistische spelletjes.
+De Holocaust in één adem genoemd met de erotische genoegens van academische toeristen: het is een absurdistische kunstgreep waarop Grunberg het patent heeft, getuige romans als 'Gstaad 95-98' en 'De Joodse messias'. Hij laat Lea met horten en stoten werken aan een biografie van Rudolf Höss, commandant van het vernietigingskamp Auschwitz, een project dat ze met Roland bespreekt als ging het om een gedeelde hobby.
+Dat de ethische implicaties van het onderwerp niet al te diep tot haar doordringen blijkt wanneer ze haar demente grootvader naar het zogenaamd euthanasievriendelijke Nederland transporteert, in de hoop soepel van hem af te komen. De man komt onderdak bij Rolands oude moeder en blijkt aan het slot van de roman nog altijd in leven.
+Qua compositie is deze zwarte zedenkomedie geënt op een procedé waar menige televisiesoap op drijft: elk hoofdstuk vormt een sequentie die inzoomt op twee of drie personages. In elk volgend hoofdstuk wordt gewisseld van plaats en personages. Die opbouw stelt Grunberg in staat om de technische middelen uit te buiten waarin hij, begonnen als toneelauteur, het sterkst is: de dialoog en de enscenering. Je hoort en ziet het allemaal alsof je in het theater of de bioscoop zit, en het zou je helemaal niet verbazen als 'Huid en haar' net als 'Tirza' de opstap bood naar een toekomstig drama- of filmscript.
+Uiteindelijk is het Roland die in al deze scènes het scherpst profiel krijgt. Hij is na verwant aan Jörgen Hofmeester, de antiheld uit 'Tirza', met dit verschil dat hij nog lang niet lijdt aan gefnuikte ambities en gefrustreerd vaderschap. Integendeel, hij leeft uitsluitend voor zijn werk en geniet van de erkenning die hij ervoor krijgt. Zijn enige zoon heeft hij achtergelaten bij zijn ex, en als hij   naar hem moet omkijken doet hij dat tegen heug en meug. Hij prijst zich gelukkig dat hij niets wil wat hij niet krijgen kan, en krijgt wat hij wel wil. De ambitie iets te willen zijn dat niet binnen zijn bereik ligt ziet hij als een bron van te vermijden leed. Van een woord als 'intermenselijkheid' krijgt hij koude rillingen, want daarachter kan volgens hem niets anders schuilgaan dan algehele achterlijkheid. En andermans verdriet mijdt hij als de pest.
+Deze gerobotiseerde nuchterling mag dan heel tevreden zijn met zichzelf, zijn omgeving beschouwt hem als een nauwelijks te hanteren ijskonijn (zijn moeder spreekt zelfs van 'onmens'), een man die wel heel vriendelijk doet maar het niet echt is, die mensen waardeert zodra ze ophoepelen en hem de gelegenheid geven om zich aan zijn werkverslaving over te geven.
+Wie Grunberg een beetje volgt (wat gelet op zijn blogs en krantenberichten niet al te moeilijk is), ziet op afstand dat hij aan de hand van Roland en diens karikaturaal aangezet portret zichzelf genadeloos de maat neemt. Net als hijzelf woont Roland ver van vrienden en familieleden in de Verenigde Staten, en is hij een onstuitbare workaholic. Net als Grunberg citeert Roland Auschwitzoverlevende Tadeusz Borowski, die geleerd had dat het opgeven van de hoop een eind zou maken aan de collaboratie van het slachtoffer met zijn beul. Of Grunberg samen met Roland eindigt met het plengen van tranen is een vraag die we maar moeten laten aan zijn interviewers en biografen.
+Het woord intermenselijkheid bezorgt hem   koude rillingen
+Nog voor zijn veertigste jaar geldt Arnon Grunberg (1971) als een van Nederlands belangrijkste schrijvers. Afgezien van de P.C. Hooftprijs en de Prijs der Nederlandse Letteren zijn vrijwel alle gangbare literaire onderscheidingen al aan hem toegekend.  Naast romans, verhalen en essays schrijft hij dagelijks columns en blogs en gaat hij regelmatig, al dan niet undercover, op reportage in verre buitenlanden. Hij blinkt uit in controverses, mystificaties en opvallende publiciteitsstunts. Halverwege zijn carrière verschool hij zich enige tijd achter het heteroniem Marek van der Jagt. Alleen al het onder die naam gepubliceerde werk (verzameld in de bundel 'Ik ging van hand tot hand') omvat bijna achthonderd pagina's.
+</dcterms:description>
+        <dcterms:extent>word, 1010, BOEKEN; Blz. 95</dcterms:extent>
+        <dcterms:issued>2010-10-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">Zijn moeder noemt  hem een onmens; Arnon Grunberg neemt zichzelf in 'Huid en haar' genadeloos de maat</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjowODkzOTM0MjI=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:089393422"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Hadithi za wanyama kutoka Tanzania; 14 dierenverhalen</dcterms:title>
+        <dcterms:alternative>Dierenverhalen uit Tanzania</dcterms:alternative>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:094825718">
+            <skos:altLabel>Schipper, Tirza</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:094825777">
+            <skos:altLabel>Beaufort, Corinne de</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:09516703X">
+            <skos:altLabel>Boigues, Geneviève</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>1990</dcterms:date>
+        <dcterms:publisher>Argraphie, Parijs</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:extent>44 p</dcterms:extent>
+        <dcterms:subject>romans en novellen ; vertaald</dcterms:subject>
+        <dcterms:subject>Swahili (taal)</dcterms:subject>
+        <dcterms:identifier>2907009400</dcterms:identifier>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

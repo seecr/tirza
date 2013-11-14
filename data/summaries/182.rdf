@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NVczLVk1NzEtSkM4Vy1ZNDc3">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55W3-Y571-JC8W-Y477"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55W3-Y571-JC8W-Y477&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Haringtraditie op Nyenrode</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Uit voorzorg had de organisatie van de Nationale Haringpartij op kasteel Nyenrode in Breukelen grote tenten laten neerzetten op het terrein om de duizend vips te laten schuilen voor eventuele regen, die een dag eerder in ons land voor zo n overlast zorgde. Maar precies op het moment dat de oudste haringpartij   opgericht in 1961   klokslag zes uur gisteravond begon, braken de wolken. De zon daalde warm neer op de gasten, onder wie prof . mr . Pieter  van  Vollenhoven  en twee van zijn zoons, de prinsen  Pieter -Christiaan  en Floris .
+Zij namen net als de staatssecretarissen Joop  Atsma  en Halbe  Zijlstra  ongedwongen een harinkje bij de stal van Sail Vlissingen 2013 waar locoburgemeester Jacques  Damen  en commissaris van de Koningin in Zeeland Karla  Peijs , de koninklijke gasten uitnodigde om volgend jaar naar de stad van Michiel  de  Ruyter  te komen.  Ik sta niet op de nieuwe CDA-verkiezingslijst, maar ga meteen door voor een volgende kabinetspost , lachte Atsma. Voormalig staatssecretaris Sharon  Dijksma  was dolgelukkig met haar vier maanden oude dochter Tirza . Iedereen genoot van de muziek van de NS Harmonie, Kleintje Pils en de steelband van het Korps Mariniers.
+De nieuwe commandant luchtstrijdkrachten, luitenant-generaal Alexander  Schnitger , sprak met Paul  Riemens  van de Luchtverkeersleiding Nederland en KLM-directeuren Pieter  Elbers  en Camiel  Eurlings . Tv-reiziger Erica  Terpstra  had net als op het AmsterdamDiner een oranje outfit aan. VVD-coryfee Hans  Wiegel  nam gezellig een jenever. Ondernemer George  Banken  vertelde dat hij via zijn advocaat Mark  Bannenberg  beslag had laten leggen op de Aston Martin van groenondernemer Henk  Keilman , met wie hij een financieel conflict heeft.  Ik heb de auto van de parkeerplaats van Hilton Amsterdam laten wegslepen , vertelde Banken.
+Het was weer zien en gezien worden op de Nationale Haringpartij. Vooraf had de high tea plaats, waar na een pakkende toespraak van juryvoorzitter Hans  Plesman  de Communication Award 2012 werd uitgereikt aan Emmelie  Koster . Zij zette haar carrière als advocaat opzij om overal ter wereld pop-up galleries te organiseren om jonge kunstenaars een kans te geven, onder de naam No Man s Art Gallery. Prof. Martin  Scholten  van de Universiteit Wageningen was positief over de bijdrage die de visserij in de toekomst kan leveren aan het wereldvoedselvraagstuk.  Jaarlijks wordt circa 100 miljoen ton vis gevangen. En dat is niet te veel, we vissen de zeeën niet leeg , aldus Scholten.
+Hoofdingenieur-directeur Ingwer  de  Boer  van Rijkswaterstaat meende dat Nederland er trots op mag zijn internationaal koploper te zijn in visserij en de watersector. Hij voorspelde dat bedrijven in ons land vele miljarden kunnen verdienen.
+ Wereldwijd gaat er 120 miljard euro om in de watersector, en dat verdubbelt binnenkort. Wij kunnen daar een flink deel van meepikken door onze deskundigheid, want onze delta is de veiligste ter wereld en geldt als voorbeeld. 
+Opvallende aanwezige was oud-rechter Pieter  Kalbfleisch , momenteel verwikkeld in een juridische affaire over meineed inzake Chipshol. Hij verwachtte daar dit jaar nog een positieve uitkomst van. Hij werd door iedereen warm verwelkomd.  Gelukkig heb ik nog heel veel vrienden. 
+</dcterms:description>
+        <dcterms:extent>word, 542, 1; Blz. 4</dcterms:extent>
+        <dcterms:issued>2012-06-13</dcterms:issued>
+        <rdfs:label xml:lang="nl">Haringtraditie op Nyenrode</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy83WFk0LVNGRjEtMlI1NC1UMDFO">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/7XY4-SFF1-2R54-T01N"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>tv zondag</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>PRAATSHOWS
+Kunststof TV Ellen ten Damme, Joost Zwagerman en Kees Hulst zijn te gast bij Joost Karhof in Kunststof TV. Ellen ten Damme zingt weer in het Nederlands. Dichter Ilja Leonard Pfeijffer schreef een aantal teksten voor haar en ze laat horen wat die samenwerking heeft opgeleverd. Het boekenweekgeschenk is dit jaar van Joost Zwagerman.
+Zwagermans andere nieuwe boek 'Beeld Verplaatst' bevat twintig jaar van zijn gedichten over beeldende kunst van Nederlandse kunstenaars.
+Acteur Kees Hulst vertelt over zijn hoofdrol in een van de opvallendste toneelpremières van dit seizoen: Tirza (17.35 uur, Nederland 2).
+CULTUUR
+Sylvana's Choice Jazz- en popzanger Wouter Hamel praat met Sylvana Simons over zijn muziek. In Japan wordt Hamel inmiddels op handen gedragen. Aan de hand van videoclips, zijn eigen opnamen een terugblik op zijn avontuur in dat land (17.10 uur, Nederland 2).
+DOCUMENTAIRE
+The Life and Times of Allen Ginsberg  In deze nieuwe versie van de bekroonde documentaire van Jerry Aronson volgen we de befaamde beatdichter tot aan zijn dood in 1997.
+In 1955 vertolkte de dichter Allen Ginsberg met zijn gedicht Howl de grootste angst van zijn generatie. Het gedicht is nog altijd een baken en een omslagpunt in de tijd. Ginsberg werd hiermee de icoon van de Beat Generation, waarvan ook Jack Kerouac, Timothy Leary en William Burroughs deel uitmaakten. Simon Vinkenoog, een goede vriend van Ginsberg, vertaalde het gedicht Howl in het Nederlands (13.00 uur, Nederland 2).
+</dcterms:description>
+        <dcterms:extent>word, 246, MEDIA</dcterms:extent>
+        <dcterms:issued>2010-03-06</dcterms:issued>
+        <rdfs:label xml:lang="nl">tv zondag</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

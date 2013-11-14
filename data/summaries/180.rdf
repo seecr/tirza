@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NkI1LVBUMzEtSkM4Vy1ZMlkw">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/56B5-PT31-JC8W-Y2Y0"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=56B5-PT31-JC8W-Y2Y0&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Bier verbroedert hip en grijs</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>De kleine buurtboerderij in het Westerpark leek zaterdag de hipste plek van de stad, met de bijna duizend mensen van het Kimchi Farm Festival. Rond zeven uur waren alle fusten leeg.
+Op het weiland naast buurtboerderij Ons Genoegen in het Westerpark zijn de zwarte schapen enigszins van slag. Luidkeels blaten ze naar de mensen die zich op grasveld rond de boerderij in het zonnetje hebben verzameld. Jonge gezinnen met baby's, hippe twintigers en dertigers met merkzonnebrillen en verstokte bierfanaten met verfomfaaide baarden zijn op deze zonnige zaterdag in groten getale naar het Westerpark gekomen voor het Kimchi Farm Festival, een feestje met ambachtelijk gemaakt bier, eten en muziek.
+Al rond vier uur zijn er honderden mensen. Op het middenveld staan lange rijen voor de verschillende standjes met ambachtelijk gemaakte kaas, samosa's, chocolade en bier, de hoofdmoot van het festival. Het is er in 25 soorten.
+Charles, een Brit van midden veertig met een grote bos grijze krullen, staat te glunderen voor de stand van thuisbrouwerij James Brewery. "Oh mijn hemel, ze hebben zelfs Engels ale!" zegt hij opgewonden, terwijl hij in zijn hand nog een vol glas espresso stout heeft. Ondertussen stoot zijn Oostenrijkse vrouw hem aan, of hij een Duits biertje voor haar kan vinden. Op haar schouders zwaait hun dochtertje met haar in rode regenlaarzen gestoken beentjes, tot één van de laarsjes rakelings langs vaders hoofd vliegt. "We geven haar aardbeien om haar rustig te houden," zegt Charles lachend. Nee, niet het ambachtelijke aardbeienijs van Hanna en Tom, dat hier ook wordt geschept. Daar zitten madam jeanettes in. "Maar het citroen-cheesecakeijs vond ze heerlijk."
+Ondanks de naam ontbreekt de kimchi een Zuid-Koreaans gerecht van gefermenteerde groenten. Wel zijn er worst van Brandt &amp; Levie, soep en chips van 'vergeten groenten', verfrissende koffiedrankjes van de Espressofabriek, kaas van De Groene Griffioen en bier. Heel veel bier. Negen thuisbrouwers presenteren hun brouwsels, met intrigerende namen als Beach Buggy, Minimal Poofter, Brass Monkey IPA en Drinksmakelijk.
+Het collectief Oedipus Brewing heeft maar liefst veertien soorten meegenomen. Rick Nelson (26), één van de brouwers van Oedipus en oprichter van Kimchi Radio, is organisator van het festijn. Op blote voeten rent hij de hele dag over het veld om te zorgen dat alles gesmeerd loopt. Hij had al langer de wens alle thuisbrouwers mensen die op kleine schaal experimenteren met brouwen van bier bij elkaar te brengen. "Niet op zo'n typisch bierfeestje met een karig hapje, maar met goed eten en muziek." Hij is enigszins overdonderd door het succes. "Er zijn zoveel verschillende mensen. Niet alleen oude mannen met baarden, maar heel veel twintigers en dertigers met gezinnen. En er wordt volop gedanst. Op een bierfeest!"
+Maar op de bijna duizend bezoekers die uiteindelijk op het festival afkomen, is de organisatie niet berekend. Al om vijf uur zijn de kleinste brouwers door hun bier heen, om zeven uur moeten de nog altijd toestromende bezoekers bij de kassa teleurgesteld worden. De meegebrachte zeshonderd liter bier is bijna op. Voor de eetstandjes staan lange rijen. Vrijwilligers trachten de dorstigen met 'gewone' biertjes tevreden te stellen.
+Langzaam loopt het terrein leeg. Op naar het volgende feestje.
+Kimchi Farm Festival Feestje van brouwers en liefhebbers loopt aangenaam uit de hand
+'Oh, mijn hemel, ze hebben zelfs echt Engels ale' 'En er wordt volop gedanst op een bierfeest!'                               
+</dcterms:description>
+        <dcterms:extent>word, 585, Amsterdam; Blz. 9</dcterms:extent>
+        <dcterms:issued>2012-08-13</dcterms:issued>
+        <rdfs:label xml:lang="nl">Bier verbroedert hip en grijs</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

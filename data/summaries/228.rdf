@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzVELVdWRjEtRFlSWS1ONDYy">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/575D-WVF1-DYRY-N462"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=575D-WVF1-DYRY-N462&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>SGP-vrouwen slechts welkom op papier</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERTBART VAN ZOELEN</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>De eerste SGP-vrouw in de Tweede Kamer zal nog lang op zich laten wachten. De streng christelijke partij zal formeel alle barrières voor vrouwen slechten, zoals moet van de rechter. Maar de boodschap blijft: politiek is een mannenzaak.
+De SGP blijft vrouwen politiek buitenspel zetten. De streng gereformeerde partij zal binnen haar statuten alle formele belemmeringen voor vrouwen uit de weg ruimen, zoals moet van de rechter. Maar de zetels in de Tweede Kamer, de Provinciale Staten en de gemeenteraden houden de mannenbroeders lekker voor zichzelf. Die boodschap leek partijvoorzitter Maarten van Leeuwen gisteren af te geven in een interview met het Reformatorisch Dagblad. "Artikel 10 van ons beginselprogramma, waarin staat dat de vrouw het regeerambt niet toekomt, blijft ongewijzigd," zei hij. Alleen formeel zal de partij de regels schrappen die het vrouwen onmogelijk maken om op een kieslijst van de SGP te komen, zei Van Leeuwen. Daarmee hoopt de SGP strikt juridisch te voldoen aan de uitspraak van het Europees Hof voor de Rechten van de Mens (EHRM). Dat bepaalde in juli dat de SGP vrouwen moet toelaten op haar kieslijsten. De Hoge Raad in Nederland was eerder al tot deze conclusie gekomen, maar de SGP was daartegen in beroep gegaan. De SGP is principieel tegen het passief kiesrecht voor vrouwen, omdat de partij uit de Bijbel opmaakt dat 'de man het hoofd van de vrouw is'. Van Leeuwen wilde zijn uitspraken gisteren niet verder toelichten. Daarvoor is het wachten op het definitieve besluit dat het SGP-bestuur in januari wil nemen. "Maar dit zijn de denklijnen die we nu verder gaan uitwerken." Of dit betekent dat vrouwen straks sterk worden ontmoedigd om zich überhaupt kandidaat te stellen, wordt niet duidelijk. Wel zegt Van Leeuwen dat hij vertrouwt op de 'innerlijke overtuiging' die alle SGP-leden delen. Die is volgens hem belangrijker dan 'hetgeen er allemaal in reglementen staat'. "Dat riekt naar gewetensdwang," zegt historicus Henk Post. In 2009 promoveerde hij op de omgang van de uit 1918 stammende partij met het vrouwenkiesrecht. "De SGP is altijd zo voor gewetensvrijheid voor gelovigen, maar nu het gaat om hun eigen partij oefenen ze morele druk op hun leden uit." Post is ervan overtuigd dat over een paar jaar vrouwen in de SGP-bankjes van de Tweede Kamer zullen zitten. "Dat houdt de partij toch niet tegen. Je ziet dat steeds meer SGP-jongeren vrouwen passief stemrecht willen geven." Ook de voorzitter van de SGP-jongeren Jacques Rozendaal beaamt dat. "Je ziet al een paar jaar dat een meerderheid van onze leden voor is." De SGP lijkt erop te rekenen dat de vrouwelijke leden eenvoudigweg niet willen. Voorzitter Van Leeuwen verwijst daarvoor naar de feministen van de Clara Wichmannstichting die de zaak voor de rechter hebben gebracht. "Uit het enkele feit dat onder onze leden geen vrouw te vinden was die dit proces wilde voeren, blijkt wel dat de aandrang van binnenuit er in de praktijk niet is." "Absolute onzin," vindt Riet Grabijn-van Putten. Als SGP-lid vocht zij een jarenlange strijd uit binnen de partij voor vrouwenrechten. In 2006 werd het lidmaatschap opengesteld voor vrouwen. In een recent interview met Opzij zei ze zeker te weten dat in 2013 ook het passief kiesrecht voor SGP-vrouwen geregeld zal zijn. "De strijd is gestreden, ze zullen vrouwen een volwaardig lidmaatschap moeten geven." Een andere mogelijkheid is dat vrouwen zich wel kandidaat stellen, maar op onverkiesbare plaatsen worden gezet. "Maar dan komen ze er met voorkeursstemmen wel in," zegt Grabijn-Van Putten. "Kijk maar naar Tineke Huizinga van de ChristenUnie." Die werd in 2002 het eerste vrouwelijke Kamerlid van de kleine christelijke partijen door via voorkeursstemmen een hoger geplaatste man te verdringen. "Ach, de vrouwen van de mannen die tegen zijn, die volgen vaak hun echtgenoot," zegt Grabijn-Van Putten lachend. "Maar ik kan je garanderen dat er genoeg gewone SGP-vrouwen zijn die wel de gemeenteraad of de Kamer in willen."
+'Steeds meer SGP-jongeren willen vrouwen passief stemrecht geven'
+</dcterms:description>
+        <dcterms:extent>word, 673, Nieuws; Blz. 6</dcterms:extent>
+        <dcterms:issued>2012-11-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">SGP-vrouwen slechts welkom op papier</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

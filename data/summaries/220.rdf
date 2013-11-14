@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NjBSLVBEUDEtRFlSWS1OMkNY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/560R-PDP1-DYRY-N2CX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=560R-PDP1-DYRY-N2CX&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Het lijkt soms wel poëzie</dcterms:title>
+        <dcterms:creator>ROB SCHOUTEN</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Een novelle van een zeldzaam kaliber, al is Uphoffs gewaagde aanpak vast niet aan iedereen besteed
+Wie schrijft er nu nog novellen? Het genre is de laatste decennia door Nederlandse auteurs schromelijk verwaarloosd. En dat terwijl het in het verleden zulke prachtige resultaten opleverde: 'Werther Nieland' van Gerard Reve bijvoorbeeld of 'Bouwval' van Frans Kellendonk. De vier novellen die W.F. Hermans begin jaren tachtig uitgaf, lijken ongeveer de laatste Nederlandse novellen die ertoe deden. En met de afzonderlijk uitgegeven novelle lijkt het al helemaal gedaan. Misschien zien uitgevers het toch vooral als een ongewenste kostenpost. Maar ook voor schrijvers is het een ondankbaar genre; in een roman kun je je nog wel eens een vlakke passage permitteren, maar de novelle schreeuwt om een hoog soortelijk gewicht.
+Hier is er dan toch weer een, van Manon Uphoff, en het is direct ook een uitzonderlijk exemplaar. 'De ochtend valt' beantwoordt weliswaar aan de voornaamste (maar ongeschreven) regels voor een novelle, de hoofdpersonen worden direct getoond op een crisismoment, het verhaal heeft een enkelvoudige intrige, de karakters zijn eerder statisch dan dat ze zich ontwikkelen. Maar voor het overige heeft 'De ochtend valt' een gewaagd, haast experimenteel karakter.
+Centraal staat een gezin waar de moeder is weggelopen, een thema dat ook in bijvoorbeeld 'Tirza' van Grunberg en 'De bekoring' van Hans Münstermann een hoofdrol speelt, maar anders dan bij die schrijvers gaat het Uphoff niet om de motieven van de moeder of de verslagenheid bij de achterblijvers. Zij probeert bij monde van haar hoofdpersoon de reactie op zo'n gebeurtenis helemaal van binnenuit te beschrijven. Wat voor effect heeft de scheiding op het gedachteleven, de ervaringswereld van een kind. En zo wordt de eerste helft van het verhaal helemaal opgestookt aan impressionistische, verbrokkelde fragmenten, aan gespreksflarden en visuele indrukken. Zo bijvoorbeeld als de ik zijn familieleden onderzoekend aankijkt: "Het lijkt of pah's handen een beetje anders zijn. De huid een beetje anders, van een andere structuur, ik ben verbaasd dat ik het niet eerder heb gezien. Maar hoe anders, dat kan ik niet zeggen. En terwijl we eten, observeer ik hen. Glenns gezicht is breed en bleek. Zijn ogen licht, die liggen diep in zijn langwerpig hoofd. Zijn lippen vol, 'van karmozijn', hebben dezelfde lijnen als die van mah, die van Natalee meer die van pah. Ook hun wenkbrauwen zijn van pah, net als Glenns neus, de wangen juist van mah.' Het lijkt soms wel poëzie.
+Hoewel allerlei kleine gebeurtenissen in het achtergelaten gezin passeren, het kleine zusje dat vloerreiniger heeft opgedronken, het konijn dat niemand meer te eten geeft en dat sterft, is dit toch geen verhaal in de klassieke zin des woords. Wat Uphoff beschrijft zijn golven van geluk en ongeluk, de haast chemische gewaarwording van de werkelijkheid, die hele mist van een tere en broze kindertijd waarin zo nu en dan iets helder oplicht maar ook veel nauwelijks verwoordbaar blijkt. En zo kom je er pas na een tijdje achter dat je in het hoofd van de oudste zoon Michael zit, nog weer later dat-ie als volwassene uit zijn herinneringen put en nog weer later dat het verhaal zich in Engeland afspeelt. Als volgt vat Michael zijn poging om het verleden te filteren samen: "Dichtbij en op enorme afstand, ik kijk ernaar, een zoet organisch bestaan waarin ik ze wilde vasthouden, ze precies zo wilde houden als ze waren."
+Uphoff praat haar lezers bepaald niet naar de mond met een hapklare, meeslepende geschiedenis, ze probeert de werktuiglijkheid van het menselijk geheugen in kaart te brengen. Het resultaat is een eigenaardig, bijzonder stukje proza, vast niet aan iedereen besteed maar van een zeldzaam kaliber.
+Manon Uphoff: De ochtend valt. De Bezige Bij, Amsterdam; 64 blz. EUR 14,90
+</dcterms:description>
+        <dcterms:extent>word, 638, Letter en Geest; Blz. 27</dcterms:extent>
+        <dcterms:issued>2012-06-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">Het lijkt soms wel poëzie</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

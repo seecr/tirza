@@ -1,0 +1,47 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzhKLURXOTEtRFlSWS1ONERO">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/578J-DW91-DYRY-N4DN"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=578J-DW91-DYRY-N4DN&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>`mijn generatie gelooft in hard werken' </dcterms:title>
+        <dcterms:creator>MARK ROOS </dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Gijs Scholten van Aschat speelt de komende maanden in het tweeluik Na de repetitie/Persona van Toneelgroep Amsterdam. De 53-jarige karakteracteur maakt deel uit van de succesvolle generatie acteurs die maar niet van de podia is af te slaan. `Ik denk dat wij het idee delen dat je door hard werken en het perfectioneren van je vakmanschap ver kunt komen.' 
+Gijs Scholten van Aschat en leeftijdgenotenzijn niet van het podium af te slaan
+Hij speelde de afgelopen maand drie keer in New York in het stuk Romeinse tragedies, waar hij de rol van collega Fedja van Huêt overnam, en was druk met de repetities en try-outs voor het nieuwe stuk Na de repetitie/Persona in Luik en Amsterdam. En in die drukte werd hij ook nog eens geconfronteerd met de onverwachte dood van zijn vriend, collega en generatiegenoot Jeroen Willems, die maandag werd begraven.
+Het leven van Gijs Scholten van Aschat (53) heeft kortom minder hectische maanden gekend, hoewel hij gewend is aan een druk bestaan. Ruim 30 jaar staat hij al op de planken en speelt hij in films en tv-series. Daarnaast debuteerde hij enkele maanden geleden als schrijver met de novelle Beretta Bobcat en was hij dit seizoen met onder anderen Viggo Waas en Peter Heerschop te zien in het succesvolle RTL-programma Mannen van een zekere leeftijd. ,,Ik heb ooit met het idee rondgelopen een sabbatical te nemen, maar die rustperiode heeft maar één maand geduurd, omdat ik de hoofdrol kon spelen in de speelfilm Tirza.''
+In Na de repetitie, het eerste deel van het door Ivo van Hove geregisseerde tweeluik bij Toneelgroep Amsterdam, speelt Scholten van Aschat een theaterregisseur die zo bezeten is van zijn vak dat hij de grip op de realiteit is kwijtgeraakt. In het stuk, gebaseerd op een tv-film van Ingmar Bergman, wordt de regisseur verliefd op een jonge actrice. Scholten van Aschat: ,,Het is een lichtelijk eigenwijze en egocentrische man. De kern is: de regisseur zit gevangen in zijn eigen theatrale wereld en is bang voor de gewone wereld.''
+Of hij zich iets kan voorstellen bij die situatie? ,,Jazeker. Die bezieling, jezelf dwangmatig afsluiten van de werkelijkheid, dat heb ik ook wel. En ik niet alleen. Veel mensen die een vak uitoefenen waar ze zich vol overgave in storten, of dat nu hockeyers, vioolbouwers of acteurs zijn, nemen het gewone leven als het ware op de koop toe. Ze belanden in een vreemde situatie als ze even geen werk hebben. Dan moeten ze opeens beslissen over zaken waar ze nooit eerder over hebben nagedacht. Acteur zijn is toch een vorm van bewustzijnsvernauwing. Elke avond spelen, altijd in de huid van een ander kruipen: eigenlijk een heel overzichtelijk en veilig leven.''
+De volhardendheid en bevlogenheid die hij in zijn werk aan de dag legt, is misschien wel typerend voor zijn generatie, waartoe ook succesvolle collega's als Peter Blok, Pierre Bokma, Mark Rietman, Victor Löw, Hans Kesting en Jaap Spijkers behoren.
+Op eigen kracht
+,,Wij zijn de generatie na de babyboomers. Allemaal rond de 50, bijna allemaal afkomstig van de Toneelacademie in Maastricht, allemaal op eigen kracht tot wasdom gekomen en nog steeds tot over de oren in het werk. Waarom deze generatie het zo goed doet? Ik denk een combinatie van toeval, talent en nuchterheid. We delen het idee dat je door hard werken en het perfectioneren van je vakmanschap ver kunt komen.''
+Volgens Scholten van Aschat was het ten tijde van succesvoorstelling Cloaca in 2002 dat hij en zijn medespelers Peter Blok, Pierre Bokma en Jaap Spijkers besloten eerlijk naar elkaar te zijn. ,,Dus kritiek op elkaar leveren omdat we elkaar alles gunnen en niet uit jaloezie. Ik weet dat Jeroen Willems graag de hoofdrol wilde spelen in Tirza omdat het een van zijn favoriete boeken was. Hij mocht niet eens auditie doen, omdat ik de rol al had. Voor de binnenkort te verschijnen film Boven is het stil waren de rollen omgedraaid. We bleven in de laatste auditieronde met zijn tweeën over, waarna hij werd gekozen. En weet je: dat voelde als gerechtigheid.''
+Scholten van Aschat denkt dat zijn generatie veel te danken heeft aan de jaren '70. ,,Daar wordt wel eens lullig over gedaan maar voor een acteur in spe waren het geweldige tijden. Met goeie muziek en geweldige films: Jaws, Apocalypse Now, de cyclus van The Godfather, Taxi Driver, The French Connection: allemaal films die én heel goed én commercieel succesvol waren. Die hebben mij, als beginnend acteur, heel erg geïnspireerd en hebben mijn smaak gevormd. Op de Toneelacademie verzilverde ik dat, werd ik als mens gevormd en kon ik gaan oogsten.''
+Bezuinigingen
+Scholten van Aschat heeft de tijden zien veranderen. Zijn zoons, filmacademiestudent Jeroen (25), acteur Reinout (23) en dochter Bibi (20), die kunstgeschiedenis studeert, willen alle drie gaan werken in een sector die onder druk staat door aanstaande bezuinigingen. ,,Jammer is dat ze wellicht een onzeker bestaan tegemoetgaan. Tegenwoordig wordt alles afgemeten aan materialistische waarden en verkoopcijfers. Als ik dan zeg dat immateriële zaken als kunst en cultuur er net zo hard toe doen, word je gelijk weggezet als vaag of zweverig. Terwijl ik toch echt denk dat cultuur goed is voor de ontwikkeling van de creativiteit, de fantasie en de sociale vaardigheden.''
+Na de repetitie/Persona is tot en met 15 juni op tournee in Nederland, België, Duitsland, Frankrijk en Luxemburg. Scholten van Aschat is ook te zien in De Russen van Toneelgroep Amsterdam, 5 t/m 13 januari.
+`Voor een acteur in spe waren de jaren '70 geweldige tijden' 
+</dcterms:description>
+        <dcterms:extent>word, 914, Algemeen Dagblad - Cultuur; Blz. 31</dcterms:extent>
+        <dcterms:issued>2012-12-15</dcterms:issued>
+        <rdfs:label xml:lang="nl">`mijn generatie gelooft in hard werken' </rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

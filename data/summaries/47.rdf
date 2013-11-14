@@ -1,0 +1,48 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjoyNjM4NjQ3ODI=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:263864782"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Nog veel te doen, al heel veel bereikt; samenwerking onderwijs en jeugdzorg in Rotterdam: voortgangsrapportage 2003</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:073994006">
+            <skos:altLabel>Bogaart, Peter van den</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:241575095">
+            <skos:altLabel>Kuijvenhoven, Tirza</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:074724894">
+            <skos:altLabel>Veen, Dolf van</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:date>2004</dcterms:date>
+        <dcterms:publisher>Garant, Antwerpen</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:extent>154 p</dcterms:extent>
+        <dcterms:subject>Jeugdhulpverlening</dcterms:subject>
+        <dcterms:subject>jeugdzorg</dcterms:subject>
+        <dcterms:subject>Onderwijs</dcterms:subject>
+        <dcterms:subject>Onderwijs, Opvoeding</dcterms:subject>
+        <dcterms:subject>onderwijsbegeleiding</dcterms:subject>
+        <dcterms:subject>Rotterdam</dcterms:subject>
+        <dcterms:subject>Rotterdam (stad)</dcterms:subject>
+        <dcterms:subject>Samenwerking</dcterms:subject>
+        <dcterms:subject>Sociologie, Statistiek</dcterms:subject>
+        <dcterms:identifier>9044115820</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

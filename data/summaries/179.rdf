@@ -1,0 +1,47 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NjZTLTVENzEtRFlSWS1OMUY5">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/566S-5D71-DYRY-N1F9"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=566S-5D71-DYRY-N1F9&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Het is met die scooters één grote klerezooi'</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>De scootergarage op de Tugelaweg zorgt al jaren voor overlast. Omwonenden hebben er genoeg van, maar volgens het stadsdeel is er niets aan te doen.
+Het terras van Ruk en Pluk op de hoek van de Linnaeusstraat en de Tugelaweg ligt er verlaten bij. Eén man zit in het zonnetje de krant te lezen. Hij schrikt op van de scooter die rakelings lang hem over het trottoir rijdt en die een auto die de Tugelaweg op draait, maar net kan ontwijken.
+Scooters domineren het begin van de Tugelaweg. Oorzaak is Scooter Services Amsterdam, de garage die naast Ruk en Pluk zit. Aan beide kanten van de weg staan tientallen scooters op het trottoir. Monteurs sleutelen op parkeerplaatsen aan kapotte exemplaren, klanten rijden onder luid geronk de garage in en uit.
+"Nu valt het nog mee, maar je moet zaterdag eens komen. Dan rijden ze je continu van de sokken," zegt Frans Ondunk, voorzitter van de Huurdersvereniging Groot Oost (HVGO). Namens buurtbewoners diende hij deze week een klacht in bij stadsdeel Oost, wegens misbruik van de openbare weg, geluidsoverlast, benzinestank en brandgevaar.
+Een woordvoerder van het stadsdeel bevestigt dat er de laatste maand meer klachten zijn binnengekomen over de scootergarage.
+Scooter Services Amsterdam begon in 2006 als een eenmanszaak voor reparatie en verkoop. Maar het bedrijf is uitgegroeid tot een bloeiende zaak, met toenemende overlast tot gevolg. De scooters hebben de hele straat overgenomen, vinden omwonenden.
+Ook voor de uitbaters van café Ruk en Pluk is de werkplaats een doorn in het oog. Klanten blijven weg van het terras, vanwege de scooters die over het trottoir razen. Barvrouw Jannie de Bruin: "Het is helemaal uit de klauwen gelopen."
+Frustrerend is de vrijheid die het bedrijf krijgt om zijn waar uit te stallen, terwijl het café aan strenge regels gebonden is. "Ik mag mijn terras nog geen centimeter verschuiven, maar zij bouwen hier de hele straat vol met die scooters. Het is daar één grote klerezooi buiten. "
+Grootste zorg is het brandgevaar. In de tuin liggen banden en scooteronderdelen twee meter hoog opgestapeld. Er zijn volgens diverse omwonenden al twee binnenbrandjes geweest. De Bruin: "Er slapen wel gewoon mensen boven. Ze lopen daar met sigaretten in en uit. Dat hele pand gaat zomaar de lucht in."
+Eigenaar Bobby Perotti vindt het allemaal wel meevallen. "We proberen de overlast te beperken. Ik heb borden neergezet om ervoor te zorgen dat klanten niet over de stoep rijden. Maar ja, ik ben geen politieagent."
+Dat er brandjes zijn geweest, ontkent hij. "Ik begrijp dat het vervelend is voor mensen, maar veiligheid staat bij ons voorop. En als er problemen zijn, proberen we die op te lossen."
+Ook bij het stadsdeel bestaat begrip voor de frustraties van buurtbewoners. Woordvoerder Casper Itz zegt echter dat de garage voor zover hij weet geen wetten overtreedt. "De werkplaats mag er volgens het bestemmingsplan zijn. En ze mogen hun waar overal uitstallen, mits ze de openbare weg niet versperren."
+Wel zal het stadsdeel de buurt en de opslagplaats in het bijzonder in de gaten houden. "We zullen de komende tijd extra controleren."
+Voor Ondunk is het een uitgemaakte zaak. Legaal of niet, wat hem betreft past de garage niet binnen een woonwijk. "Zet ze in een loods waar ze de ruimte hebben."
+Volgens ons overtreedt scootergarage geen wetten, zegt stadsdeel                               
+</dcterms:description>
+        <dcterms:extent>word, 558, Amsterdam; Blz. 17</dcterms:extent>
+        <dcterms:issued>2012-07-28</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Het is met die scooters één grote klerezooi'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

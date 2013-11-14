@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81ODg0LTlOVDEtRFlSWS1ONFJY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5884-9NT1-DYRY-N4RX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5884-9NT1-DYRY-N4RX&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>In het midden</dcterms:title>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Horizontaal. 1: Bloedstollend 3. Kan je een worst of snaar van maken 6. Noemde Rutte een 'Tsjakka-premier' 9. __ Pound, Amerikaanse dichter 10. Hoe ging het? 11. 'Europa blijft zorgenkind op voorjaarsbijeenkomst __' 13. Grootste hertensoort 15. Stad in India 17. __ Banks, supermodel 19. Die Portugees staat morgen in de verdediging tegen Dortmund 20. Kraaide de haan in de Bijbel 22. Letterkundigen 23. Daar __ je dan... 24. Geboorteplaats van Abraham 25. Past voor papier of rook 26. Que __, __, Doris Day 27. Zo saai mag eigenlijk niet 28. Het vrouwelijke in ChinaVerticaal: 1. Addo of Van Tijn 2. Mislukt 3. Ram 4. __ Gent 5. Buurland van Mozambique 6. Javaanse havenstad 7. Kuifaap 8. Russische echtgenote van Willem II 12. Force __ 13. Gasten 14. Daarin schitterde Joan Collins 16. Snelste loper ter wereld 18. Past voor last of voering 19. De eerste niet-westerse is een feit 20. Genotmiddel 21. De weg van Pinkeltje 25. Staanplaats
+Oplossing van gisteren HORIZONTAAL: 1. BOSTON 5. VETBOL 9. BADU 10. IE 11. OMSLAG 13. UURTJE 15. MEVR 17. ZALM 21. SILO 22. ACTE 24. PLOERT 25. EWBANK 28. WS 29. ETRE 30. INA 31. TINTEN 32. SIERENVERTICAAL: 1. BIO 2. SMS 3. OBAMA 4. NAGELATEN 5. VUURETERS 6. TIRZA 7. BETAS 8. LEEM 12. MUSIL 14. JL 16. VIC 18. CLOWN 19. HOEST 20. GEWEI 21. SPIJT 23. ANNE 26. AIR 27. KAN IN HET MIDDEN:  SCHALIEGAS
+</dcterms:description>
+        <dcterms:extent>word, 222, Media</dcterms:extent>
+        <dcterms:issued>2013-04-23</dcterms:issued>
+        <rdfs:label xml:lang="nl">In het midden</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

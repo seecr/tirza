@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81Mk1OLVdWTTEtSkM4Vy1ZM01K">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52MN-WVM1-JC8W-Y3MJ"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52MN-WVM1-JC8W-Y3MJ&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Als filmstad op jacht naar inkomsten</dcterms:title>
+        <dcterms:creator>Van onze verslaggever John Wanders</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Van onze verslaggever
+John Wanders
+DEN HAAG Ondanks de forse bezuinigingsopdracht voor de gemeenten steekt Den Haag deze collegeperiode anderhalve ton per jaar extra in het naar de stad lokken van tv- en filmproducties. In 2020 hoopt Den Haag als filmstad samen met het nabijgelegen Rotterdam regelmatig het stadsdecor te zijn van zowel Hollywood- als Bollywood-producties.
+Het voornaamste argument van het college van B &amp; W, dat deze week tot de extra investeringen besloot, is dat het aan tv- en filmproducties gespendeerde overheidsgeld zich ruimschoots terugverdient. De lokale economie profiteert aantoonbaar.
+De spin-off van films als Tirza, Sonny Boy, Alle Tijd en Pizzamaffia is het meervoud van de overheidsinvestering, zegt een gemeentewoordvoerster: 'We staken 150 duizend euro in Tirza. Er kwam voor de Haagse ondernemers 400 duizend euro uit.' De laatste twee jaar zijn 22 films en series (deels) in Den Haag gedraaid.
+Rotterdam en Amsterdam hebben ook een eigen filmbeleid als citymarketing en stimulering van de lokale economie. De rijksoverheid kan via versoepeling van de belastingvoorwaarden voor buitenlandse filmproducenten meehelpen met het naar Nederland halen van filmproducties, stelt de gemeente Den Haag vast.
+Duitsland geldt als voorbeeld. In de regio Berlijn werken 13 duizend mensen bij film- en tv-bedrijven, aldus het Haagse college: 'Jaarlijks worden in en rond Berlijn 300 films opgenomen.'
+'Nederlandse film- en televisieproducenten zien Den Haag meer en meer als serieuze filmstad', zegt D66-wethouder Marjolein de Jong (Cultuur, Binnenstad en Internationaal). Den Haag zegt een 'pleisterplaats' te willen zijn voor 'filmtoeristen'.
+Begin vorig jaar stelde Den Haag een 'filmcoördinator' aan die tv- en filmproducenten facilitaire ondersteuning biedt, zoals hulp bij het verkrijgen van (parkeer)vergunningen, het zoeken naar geschikte filmlocaties, het boeken van hotelkamers, het ondersteunen van setbezoeken, premières en perspresentaties.
+Ook tv-projecten blijken lucratief. Zo schat Den Haag de pr-waarde van het goed bekeken BNN-programma Wie is Di-rect? op 173 duizend euro. De gemeente subsidieerde de zoektocht naar een zanger voor de Haagse popgroep Di-rect met 40 duizend euro.
+</dcterms:description>
+        <dcterms:extent>word, 368, Binnenland; Blz. 13</dcterms:extent>
+        <dcterms:issued>2011-04-16</dcterms:issued>
+        <rdfs:label xml:lang="nl">Als filmstad op jacht naar inkomsten</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

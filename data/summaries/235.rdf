@@ -1,0 +1,57 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NkNXLUZQSDEtSkM4Vy1ZMEJC">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/56CW-FPH1-JC8W-Y0BB"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=56CW-FPH1-JC8W-Y0BB&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Terug naar de natuur, midden in de stad</dcterms:title>
+        <dcterms:creator>tekst TIRZA DE FOCKERT foto marc driessen</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>In De Tuintjes in Zuid wordt driftig getuinierd. Zes jongens en meisjes drommen om de pedagogische medewerker heen, die met opgestroopte mouwen een slastekje plant. Daarna mogen de kinderen het zelf proberen. Voorzichtig haalt een jongen met blonde krullen een plantje uit het zwarte bakje. "Worm gezien," schreeuwt een meisje opgewonden. Het tuinieren wordt even stilgelegd om het krioelende beestje te bewonderen.
+"Sommige kinderen weten niet wat een radijsje is of dat een wortel uit de grond komt," zegt Inés Sanchez, manager van het kinderdagverblijf. "Bij ons oogsten ze hun eigen komkommer, die ze vervolgens 's middags op brood eten."
+De Tuintjes in Zuid is het nieuwe kinderdagverblijf dat sinds januari is gehuisvest in de oude panden van het Hofnarretje. Met een groen beleid. Kinderen gaan minimaal één keer per dag naar buiten, werken in de eigen moestuin of gaan met de bolderkar naar het nabijgelegen Sarphatipark.
+"Zeker in de stad is het belangrijk dat kinderen buiten spelen en veel in aanraking komen met de natuur," zegt Sanchez. "Maar in de kinderopvang gebeurde dat lange tijd amper. Deze tuin was helemaal betegeld. Dan kun je op een fiets rondrijden, maar dat is weinig inhoudelijk."
+Groene kinderdagverblijven zijn in Amsterdam in opkomst. En niet alleen in de stad staan buiten spelen en natuureducatie voor de allerjongsten hoog in het vaandel, ook elders in het land wordt steeds meer met groene kinderopvang geëxperimenteerd.
+"Natuur in de kinderopvang is net als het minirokje. Eens in de zoveel jaar is het in de mode, en dan verdwijnt het weer," zegt Ellen Lensink van stichting Groen Cement. "Wij willen ervoor zorgen dat de natuur permanent een speerpunt van kinderdagverblijven wordt."
+Groen Cement is een platform dat mensen uit de kinderopvang en professionals van natuur- en milieuorganisaties bij elkaar brengt, om zo natuureducatie op kinderdagverblijven te verbeteren. Daar is veel vraag naar, zegt Lensink. Maar de afstand tussen de twee sectoren is groot en veel kinderdagverblijven weten niet goed hoe ze moeten vergroenen.
+Reden voor de stichting om met vakblad Kinderopvang 2014 uit te roepen tot Jaar van de Groene Kinderopvang. In het komende jaar gaan ze een keurmerk ontwikkelen om het natuurbeleid binnen de kinderopvang te stroomlijnen. Want groen mag hot zijn in de sector, een eenduidige invulling van wat een kinderdagverblijf groen maakt, ontbreekt nog.
+De mogelijkheden zijn legio, blijkt uit een rondgang langs enkele nieuwe groene kinderdagverblijven. De één heeft een uitgebreide tuin met een natuurspeelplaats, de ander een eigen moestuin of een babyhuisje: een soort konijnenhok waarin baby's in de frisse lucht kunnen slapen.
+Kinderopvang Basja heeft zo'n babyhuisje in de tuin staan. De allerjongsten slapen er in de zomer én de winter, als onderdeel van het concept Groeien in het groen.
+Basja, onderdeel van Estro, verhuisde eind juni van de Veerstraat naar de Sloterkade. "Een goede aanleiding om eindelijk een groen stempel op onze kinderopvang te kunnen zetten," zegt locatiemanager Wiep van Maanen.
+De ruime, deels betegelde tuin van Basja is omringd door bomen. Achterin ligt de moestuin, waar de wat oudere kinderen bietjes, radijsjes en tomaten hebben geplant. In de tuin staan geen speeltoestellen. Wel een grote boom, paden van houtschors, een zandbak en een groene heuvel. Van kunstgras.
+"Dat is niet echt groen natuurlijk, behalve de kleur," zegt Van Maanen verontschuldigend. "Maar omdat de tuin zo in de schaduw ligt, wordt een veld van echt gras één grote modderpoel."
+Ook bij Basja spelen de kinderen elke dag buiten, ongeacht het weer. In de eigen tuin, in het Vondelpark of op de natuurspeelplaats om de hoek. Van Maanen: "Het idee is altijd: een groen kinderdagverblijf moet met dieren. Dat hoeft helemaal niet, je kunt zoveel in de stad. Amsterdam is één van de groenste hoofdsteden."
+Naast het spelen in de natuur leren kinderen bij Basja op speelse wijze afval scheiden, eten ze voornamelijk biologisch en is het meubilair en speelgoed zo veel mogelijk van duurzame materialen.
+"Het is belangrijk om kinderen op jonge leeftijd natuur bij te brengen," zegt Van Maanen. "Zeker in de stad. Ouders willen dat ook graag, maar lange tijd was er in de kinderopvang weinig ruimte voor nieuwe concepten. Het was ook niet nodig, de kinderdagverblijven zaten toch wel vol."
+Nu door de bezuinigingen in de sector steeds meer kinderdagverblijven leeglopen, worden ze gedwongen beter te luisteren naar de wensen van ouders, stelt Van Maanen.
+Voor Suzanne Huis waren de ervaringen met de opvang van haar eigen kinderen een belangrijke reden zelf een kinderdagverblijf te beginnen. "Ik miste de p's van people en planet, het leek alleen gericht op profit," zegt Huis, die twaalf jaar als docente beeldende vorming voor de klas stond.
+In maart opende ze met Martine Stam Kleinlab, aan de Beitelkade in Noord. Midden op een industrieterrein. "Het lijkt misschien een vreemde plaats, maar we wilden juist een industriële locatie. De kinderen hebben veel ruimte en we zorgen voor weinig overlast," zegt Huis.
+De entree naar Kleinlab is een natuurspeeltuin, met een doolhof van wilgentenen en planten, een paddenpoel, een kruidentuin en een grote zandbak met een waterloop. Binnenkort komt daar misschien een kas bij, waarin de kinderen hun eigen groente in kunnen verbouwen.
+De naam Kleinlab staat voor klein laboratorium. "Kinderen moeten onderzoeken, we gaan mee in hun fantasie," zegt Huis, die zich voor het pedagogische beleid liet inspireren door de Italiaanse pedagoog en filosoof Loris Malaguzzi en de Joods-Poolse pedagoog Janusz Korczak.
+En de natuur is daar een belangrijk en vooral logisch onderdeel van, vindt Huis. Net als dat ze de aandacht voor duurzaamheid eigenlijk heel logisch vindt. Binnen Kleinlab wordt zo veel mogelijk gebruik gemaakt van hout en andere duurzame materialen en Kleinlab heeft een warmte-terugwininstallatie. Het eten is biologisch, de kinderen helpen mee om het te maken. Momenteel is Huis in gesprek met een afvalverwerkingsbedrijf uit Velsen-Noord om de luiers te recyclen.
+In Noord blijkt de visie van Huis en Stam aan te slaan. Tijdens de opening in maart verwachtte ze een handvol mensen. In no time stond de straat vol bakfietsen en was het pand gevuld met enthousiaste ouders. "Maar het spannendste was hoe de kinderen zouden reageren," zegt Huis. "Ze gingen direct spelen en wilden niet meer terug naar huis. Een groter compliment konden we niet krijgen."
+Suzanne Huis in de tuin van haar kinderdagverblijf Kleinlab, op een industrieterrein in Noord. 'De kinderen hebben veel ruimte en we zorgen voor weinig overlast.'
+'Natuur in de kinderopvang is net als het minirokje. Eens in de zoveel jaar is het in de mode' Komkommers telen in de moestuin, dagelijks buiten spelen, het hele jaar slapen in de open lucht: groene kinderdagverblijven zijn in opmars.                                                     
+</dcterms:description>
+        <dcterms:extent>word, 1149, PS Kind; Blz. 2</dcterms:extent>
+        <dcterms:issued>2012-08-21</dcterms:issued>
+        <rdfs:label xml:lang="nl">Terug naar de natuur, midden in de stad</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

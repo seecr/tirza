@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NFc1LUdGMjEtSkM4Vy1ZNFlX">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54W5-GF21-JC8W-Y4YW"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54W5-GF21-JC8W-Y4YW&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Wat hebben mensen met psychische problemen aan Charlie Chaplin, Gustave ...</dcterms:title>
+        <dcterms:creator>Edwin Kreulen</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Wat hebben mensen met psychische problemen aan Charlie Chaplin, Gustave Flaubert of Mike Leigh? Veel, vindt psychologe en filmfanaat Marieke Nijmanting, die de beschrijvingen van 99 boeken en films bundelde in het net verschenen boek 'Casussen voor de therapeutische praktijk'.
+Een wat droge titel die de aardige inhoud geen recht doet. Films en boeken zijn volgens Nijmanting goede media om mensen inzicht te geven in hun situatie. Je kunt heel verstandig en verstandelijk praten over je eigen problemen, maar films en boeken leiden wellicht sneller naar het gevoel. Ze 'kruipen onder de huid', zegt de psychologe. Of het nou gaat om een klassieke Franse roman als 'Madame Bovary' of een moderne film als 'Brokeback Mountain', dat maakt niet uit.
+Zit je angstig vast in een vervelende situatie of relatie? De Zweedse film 'As it is in heaven', over een dirigent die een ingeslapen religieus dorp nieuw leven inblaast via het kerkkoor, inspireert tot verandering. Raak je in paniek wanneer je kinderen volwassen worden en de deur uitgaan? Lees 'Tirza' van Arnon Grunberg, om te voorkomen dat je deze bij voorbaat verloren strijd net zo fanatiek gaat voeren als deze hoofdpersoon.
+Het boek geeft een aantal suggesties per thema, zoals angst, verslaving, persoonlijkheidsproblemen en leeftijdsfaseproblematiek. Nijmanting heeft niet alleen aan volwassenen gedacht. Zo is 'Sjakie en de chocoladefabriek' als boek en als film voor kinderen niet alleen leuk, maar mogelijk ook nuttig om ze erop te wijzen waartoe een eetverslaving kan leiden.
+Doelgroep van het boek zijn psychologische hulpverleners, maar wie er zelf in wil bladeren kan ook interessante bronnen vinden. In dat geval had een bijsluiter geen kwaad gekund: een film als 'Revolutionary Road' kan dan wellicht heel aardig inzicht geven in het huwelijk van twee gefrustreerde mensen, het is voor de lezer niet aan te raden de eigen relatie dezelfde destructieve kant op te sturen. Nijmanting levert wel een lijstje vragen erbij voor therapeuten, zoals 'wat zou jij deze hoofdpersoon adviseren?' Terecht plaatst ze kanttekeningen bij werken die een bepaalde stoornis wel heel eenzijdig belichten, zoals de Hollywoodfilm 'Rain Man', die de indruk wekt dat autisten allemaal geniaal zijn. Toch is het niet altijd duidelijk wat nu volgens de psychologe precies de boodschap of het nut is van sommige werken die zij aanraadt. Soms laat een film dat zelf ook in het midden, geeft Nijmanting toe. De Deense film 'Festen' geeft een spectaculair beeld van een zoon die het seksueel misbruik door zijn vader bespreekbaar maakt, maar of iedereen met nare jeugdervaringen baat zou hebben bij deze aanpak, is de vraag.
+Los van alle therapeutische bijbedoelingen kan dit boek ook gewoon gezien worden als een interessante opsomming van psychologisch interessante werken, waarbij vooral de keuze van films er uitspringt.
+Marieke Nijmanting: Casussen voor de therapeutische praktijk. Uitgeverij SWP, Amsterdam. ISBN 9789088502545; 267 blz., 29,50 euro.
+Therapeutisch naar de film, meer dan alleen gezellig
+</dcterms:description>
+        <dcterms:extent>word, 506, Gezondheid en Zorg; Blz. 6</dcterms:extent>
+        <dcterms:issued>2012-02-03</dcterms:issued>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

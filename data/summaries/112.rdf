@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy83WU1ILVhIVzEtMlI1NC1UMzRK">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/7YMH-XHW1-2R54-T34J"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>theater</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Schemerlicht
+Leiden in het schemerlicht: Leidse theatermakers laten zich inspireren door bijzondere locaties, zoals Begraafplaats Groenesteeg of de Meelfabriek. Het spel speelt zich af in de avond in de overgang van licht naar donker. In de schemering gebeuren de dingen die het daglicht niet verdragen, toont de stad haar andere kant. Het publiek vaart met boten van de ene naar de andere locatie.
+5 juni, Leidse binnenstad, inschrijven: www.schemerstad.nl, kosten: EUR 20 p.p.
+Oerol is de perfecte plek om kunstenaars, muzikanten en theatermakers met nieuw werk en nieuwe voorstellingen op Terschelling te zien. Het festival brengt elk jaar tientallen premières en diverse producties uit haar eigen Atelier. Dit jaar is '10 dagen zilte luchtspiegelingen' de leidraad voor de honderden voorstellingen, muziekoptredens en straattheateracts.
+11 t/m 20 juni, Terschelling. Meer informatie: www.oerol.nl
+Vindt u van opera's de happy ends af en toe ook onbegrijpelijk, de personages vreemd en verhaallijnen ongeloofwaardig? Bij Stand-Up Opera mag de bezoeker kiezen wie, waarom en waar welke avonturen  beleeft. Vele bekende aria's en duetten uit beroemde opera's gemixed tot nieuw werk.
+5 juni, Operadagen Rotterdam. Theaterwalhalla, 18 uur. Sumatraweg 9-11 in Rotterdam. Info: tel: 010 - 2152 134 en www.theaterwalhalla.nl
+Jörgen Hofmeester is alles kwijt: vrouw, vermogen en baan. Zijn jongste dochter Tirza is de enige voor wie hij nog leeft. Ook die droom gaat aan diggelen als het meisje thuiskomt met haar nieuwe vriend Choukri, in wie Hofmeester niemand anders kan zien dan terrorist Mohammed Atta. Hij ziet zijn zorgvuldig geconstrueerde leven veranderen in een nachtmerrie.
+5 juni, Koninklijke Schouwburg in Den Haag, 8 juni, De Lampegiet in Veenendaal en 9 juni in de Rotterdamse Schouwburg.
+</dcterms:description>
+        <dcterms:extent>word, 303, DEGIDS</dcterms:extent>
+        <dcterms:issued>2010-06-05</dcterms:issued>
+        <rdfs:label xml:lang="nl">theater</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

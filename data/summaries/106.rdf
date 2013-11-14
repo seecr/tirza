@@ -1,0 +1,62 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81Mk5ZLVJWQzEtRFlSWS1OMDk0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52NY-RVC1-DYRY-N094"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52NY-RVC1-DYRY-N094&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Grote Gijs ( 50+) Toneel; Profiel Acteur Gijs Scholten van Aschat</dcterms:title>
+        <dcterms:creator>Hein Janssen</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>'Er zijn momenten dat ik me aantrekkelijk voel. En er zijn evenveel momenten dat ik me een oud varken waan.' Dat antwoordde acteur Gijs Scholten van Aschat (51) ooit in een interview op de vraag of hij zichzelf aantrekkelijk vindt.
+Aantrekkelijk en een oud varken tegelijk het is een even diplomatiek als gepast antwoord. Het onderstreept de vele kwaliteiten van deze acteur die met evenveel gemak een goedgebekte charmeur als een oud varken speelt, tenminste als dat varken synoniem is voor een beetje slonzige, tikkeltje ongure mannen. Mannen in de war vaak, onthechte mannen, getergde mannen.
+Dit seizoen speelde hij twee van deze rollen en beide waren hoogtepunten in zijn carrière: Jörgen Hofmeester in de film Tirza (naar de roman van Arnon Grunberg) en Richard III van Orkater, waarbij Shakespeares koningsdrama was doorsneden met muziek van Tom Waits.
+Gretigheid en spelplezier, dat was wat je zag in Richard III, als surplus op zijn alom bekende speltechniek, zijn fenomenale tekstbehandeling en fysieke lenigheid. In die groot gemonteerde voorstelling was hij de stuwende kracht en het stralend middelpunt; hij jongleerde met Shakespeares verzen en gaf schwung aan Waits' muziek. Gekleed in legerjas, schotse kilt en getooid met baard, was hij een gedreven, gruizige koning met hoogst aantrekkelijke kanten, en tegelijk een menselijk varken met gevaarlijke trekjes.
+Minimale mimiek
+Waar zijn koningsrol in al zijn kwaadaardigheid ook exuberant en uitzinnig is, zo in zichzelf opgesloten acteert hij als de vader van Tirza, de man die overbodig is geworden. Door het rammelende scenario gaat de film helemaal niet meer over een vader-dochterrelatie, of over dat meisje dat met haar Marokkaanse vriendje vanuit Amsterdam-Zuid de wereld intrekt. Bij Scholten gaat het over een man in de war die in Namibië aan de hand van een klein donker meisje alle grenzen overschrijdt.
+De camera zoomt veelvuldig in op zijn gegroefde gelaat, en Scholten laat met een minimale mimiek zien dat er van alles in dat gepijnigde hoofd om gaat. De demonen vliegen heen en weer, hij probeert ze met man en macht te temmen, de controle niet te verliezen. Maar hij zit al in een schemergebied, waaruit geen weg terug is. Adembenemend te zien hoe deze toneelacteur een groot filmacteur is geworden.
+'Dat blijft wel een grote wens, een mooie grote filmrol. Ik heb het gevoel dat ik daar nog wat zou kunnen laten zien, iets dat ik nooit eerder heb gedaan. Ik heb heel wat aan me voorbij laten gaan omdat ik toch steeds voor toneel koos.' Dat zei hij in 2007 en drie jaar later speelde hij Jörgen Hofmeester in Tirza.
+Inactieve periode
+Het is oogstjaar voor Gijs Scholten van Aschat, dat moge duidelijk zijn. Vlak na de premières van Tirza en Richard III trad hij in september toe tot het vaste ensemble van Toneelgroep Amsterdam. Op uitnodiging van directeur Ivo van Hove, die hiermee een kwaliteitsimpuls aan zijn gezelschap gaf en Scholten bovendien losweekte uit een wat zoekende, inactieve periode. Na twintig jaar bijna onafgebroken toneel te hebben gespeeld, had hij besloten er een jaar tussenuit te gaan. In zijn eentje op de fiets naar Spanje, het hoofd leeg fietsen, de rollen doorspoelen.
+Veel tijd om op verhaal te komen kreeg hij niet, want hij moest bij zijn nieuwe groep snel aan de bak. Zijn eerste rol in bij Toneelgroep Amsterdam dit seizoen was in Kinderen van de zon van Maxim Gorki. Over een gezelschap van half-intellectuelen en kunstenaars die zich van maatschappij en werkelijkheid hebben afgekeerd en malle fratsen uithalen met de liefde. Ook hier speelde hij een man die zijn mislukte leven metbombarie tracht te verdoezelen, maar hij liet ook de komische kant van zijn personage zien. Scholten van Aschat, dat wordt nog wel eens vergeten, kan ook een komediant zijn, zoals hij eerder al in stukken van Feydeau (Franse klucht) en Alan Ayckbourn (Engels blijspel) bewees.
+Nu is hij te zien in Nooit van elkaar, een toneelstuk van Jon Fosse, dat uit weinig handeling en veel taal bestaat: korte zinnetjes, veel herhalingen. Zijn tegenspeler is Chris Nietvelt en tussen die twee acteerstijlen ligt een wereld van verschil. Nietvelt is in deze rol zo lucide dat ze met haar frêle gestalte bijna wegzweeft, en daardoor past zij zo goed in dit droomspel over vermeend huwelijksbedrog. Als Scholten op komt, is hij er ook meteen, concreet en aards, terwijl hij een man zou moeten zijn die misschien alleen nog maar in de herinnering bestaat.
+Bij Toneelgroep Amsterdam heeft hij een nieuw toneelthuis gevonden. Daarvoor was hij nogal zwervende af en toe een tv-serie, veel filmrollen maar niet die ene grote, als freelance-acteur opduikend bij Het Toneel Speelt, Orkater en natuurlijk het Nationale Toneel, het gezelschap waaraan hij lange tijd verbonden was. Daar in Den Haag speelde hij vele rollen uit het klassieke en moderne repertoire; van Hamlet tot Decadence, een moderne satire van Steven Berkoff over de nouveau riche waarin hij ongekend komisch was en waarvoor hij de Louis d'Or ontving. Later bij Art &amp; Pro van Frans Strijards speelde hij ook in stukken van Tsjechov en daarin was hij wonderwel op zijn plaats met zijn melancholieke oogopslag, zijn branie en bravoure die op drijfzand rusten. De manier waarop hij in Oom Wanja de rol van Astrov speelde, de plattelandsdokter met zijn onhaalbare idealen en wanhopige liefdesperikelen, is onvergetelijk. Dat is deze acteur ten voeten uit: vorm geven aan tegenstrijdige verlangens.
+Van het ene stuk in het andere rollen, het is wat veel acteurs graag doen alles voor het vak. Maar daarin schuilt ook het gevaar van routine, dat het acteren inwisselbaar wordt, misschien zelfs sleets. Hoe virtuoos hij in al die jaren ook speelde, af en toe werd het iets te letterlijk het etaleren van talent, in de zin van: kijk nou eens wat ik allemaal kan! Zoals in Les Liaisons Dangereuses (2008) als Graaf Valmont. Op papier een geknipte rol voor hem: de vuige verleider, de charmeur met duistere kanten. Hij nam keurig alle bochten in het stuk, vloog er niet één keer uit, schakelde voorbeeldig van de ene stemming naar de andere, maar het was voorspelbaar, en niet verrassend.
+Generatie-Bokma
+'Kijken jonge acteurs tegen u op?', vroeg een journalist in 2005 aan hem. 'Ik heb een zekere positie. Ja, dat denk ik wel. Het is mij goed vergaan, zoals het veel acteurs van mijn generatie goed is vergaan', was zijn antwoord. Tot die generatie behoren ook Pierre Bokma (1955), Mark Rietman (1960), Hans Kesting (1960) en Jeroen Willems (1962). Allemaal acteurs die kiezen voor het theater, maar regelmatig ook opduiken in tv-series, films, en soms zelfs reclame de stemmen van Kesting en Scholten van Aschat ondersteunen menig reclamespotje. Van die generatie is Scholten van Aschat misschien wel de meest solide acteur, en op dit moment zeker ook de meest avontuurlijke, gezien zijn herstart als vijftigplusser en de hernieuwde energie die daaruit lijkt op te borrelen.
+Met Bokma is hij goed bevriend, een vriendschap die al dateert vanaf het moment dat ze op de Toneelschool in Maastricht zaten. Samen hebben ze een Shakespeare-programma gemaakt op huiskamerformaat. En Scholten kan, net als Bokma, en in weerwil van zijn imago van gentleman-actor, in het openbaar soms ineens malicieus zijn als hem iets niet zint een kritische recensie, een relativerend tegengeluid.
+In juni is hij met Toneelgroep Amsterdam te zien in De Russen, een marathonvoorstelling waarin Tom Lanoye Platonov en Ivanov van Tsjechov samenvoegt. Daarna wacht hem een nieuw avontuur: de hoofdrol in In Ongenade, de toneelbewerking J.M. Coetzees roman Disgrace. Ook al zo'n man verdwaald in een vijandig continent, met een ingewikkelde vader-dochterverhouding en een botsing van culturen die zich voor een deel ook in zijn hoofd afspeelt. Voor Gijs Scholten van Aschat is het oogstjaar nog niet voorbij. Hein Janssen
+Nooit van elkaar van Toneelgroep Amsterdam is te zien in Stadsschouwburg Amsterdam van 16 t/m 19 mei; de film Tirza is onlangs op dvd uitgebracht; Richard III van Orkater wordt in augustus/september hernomen in Stadsschouwburg Amsterdam.
+Gijs Jan Abraham Scholten van Aschat (51) is de zoon van een bankdirecteur. Hij werd afgewezen voor de Toneelschool in Amsterdam maar toegelaten op de Toneelacademie in Maastricht. Daar ontmoette hij studiegenoten als Pierre Bokma, Maria Goos en Peter Blok.
+*&amp;ensp;Zijn toneelcarrière begint bij de Haagse Comedie waar hij onder meer speelt in Midzomernachtsdroom; bij de opvolger daarvan, het Nationale Toneel, wordt hij een van de gezichtsbepalende acteurs.
+Belangrijke rollen zijn die in Decadence (1994), Design for Living (1996), Hamlet (1999) en Huis &amp; Tuin (2003).
+*&amp;ensp;Bij het grote publiek wordt hij vooral bekend door zijn aandeel in televisieseries als Pleidooi (advocaten), Oud Geld (bankiersfamilie) en de film Tirza.
+*&amp;ensp;Met ingang van seizoen 2010-2011 maakt hij deel uit van Toneelgroep Amsterdam.
+*&amp;ensp;De prijzenkast: Louis d'Or (voor Decadence), Arlecchino, Gouden Kalf (voor Oud Geld), Johan Kaart-prijs (voor Huis &amp; Tuin). Scholten van Aschat is tevens drager van de Albert van Dalsum-ring die hij in 2004 krijgt van Pierre Bokma.
+*&amp;ensp;Gijs' zoon Reinout is ook acteur en was te zien in Gooische Vrouwen en binnenkort in de film De Heineken Ontvoering.
+*&amp;ensp;Bijnamen: Gijs de Grote, Holle Bolle Gijs.
+Nominatie Louis d'Or Voor zijn rol van Richard III is Gijs Scholten van Aschat genomineerd voor de Louis d'Or, de belangrijkste toneelprijs voor een acteur in Nederland. 'Een in alle opzichten swingende rol, waar het spelplezier vanaf spat en die uitmunt in een meeslepende helderheid', zegt het juryrapport. De overige nominaties voor de toneelprijzen worden morgen, zaterdag 23 april, bekendgemaakt in Opium, het kunst- en cultuurprogramma van de AVRO op Radio 1, 14.30 uur.
+Vorm geven aan tegenstrijdige verlangens, dat is deze acteur ten voeten uit
+Het is oogstjaar voor Gijs Scholten van Aschat. Zijn herstart heeft de avontuurlijke acteur nieuwe energie gegeven. Door Hein Janssen Foto Joost van den Broek
+</dcterms:description>
+        <dcterms:extent>word, 1664, V Opening; Blz. 2</dcterms:extent>
+        <dcterms:issued>2011-04-22</dcterms:issued>
+        <rdfs:label xml:lang="nl">Grote Gijs ( 50+) Toneel; Profiel Acteur Gijs Scholten van Aschat</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

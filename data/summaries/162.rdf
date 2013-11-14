@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MjI4LUhYRzEtSkM4Vy1ZMDU4">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5228-HXG1-JC8W-Y058"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5228-HXG1-JC8W-Y058&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Hij klinkt zo redelijk en normaal; Herman Koch portretteert in 'Zomerhuis met zwembad' de nieuwe reactionair</dcterms:title>
+        <dcterms:creator>Rob Schouten</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Met 'Het diner' scoorde Herman Koch in 2009, na een aantal aardige maar niet bijzonder opmerkelijke romans, een heuse bestseller die ook in de kritiek op overwegend positieve recensies kon rekenen. Het verhaal ging over een moreel dilemma: hoe pakken elitaire ouders hun ontspoorde zonen  aan, die een zwerfster hebben vermoord?
+Het verhaal sprak aan vanwege de populaire en misschien wel populistische vraag naar de onrust van deze tijd. Dat kwam denk ik mede door de opbouw, als een klassiek drama in vijf bedrijven, geordend volgens de gangen van het diner, besloten met een epiloog. Ook de aloude eenheid van tijd werd van stal gehaald: het verhaal speelt zich binnen één etmaal af. En verder kent het slechts één vertelperspectief. Het verhaal zat kortom strak in z'n vel. Dat Koch soepel kon schrijven wisten we al, maar de strenge compositie gaf het boek  kennelijk ook precies de tijdloze vorm die de hedendaagse thematiek  kon gebruiken.
+Kochs jongste roman 'Zomerhuis met zwembad' vertoont thematische overeenkomsten met 'Het diner': het gaat ook weer over ouderlijke zorg en verantwoordelijkheid. Maar de vorm is minder streng, het verhaal waaiert vele kanten op. Wel is er steeds één hoofdpersoon aan het woord, in wiens beurtelings heldere en troebele gedachtenwereld Koch zich met veel inlevingsvermogen heeft verplaatst.
+Marc Schlosser, huisarts, is een cynicus. Hij geeft het zelf toe. Iedere patiënt krijgt van hem twintig minuten. ,,Patiënten verwarren tijd met aandacht. Ze denken dat ik ze meer aandacht geef dan andere huisartsen. Maar ik geef ze alleen maar meer tijd. Wat ik moet weten heb ik na een minuut gezien." Als puntje bij paaltje komt kan alleen zijn eigen gezin hem wat schelen, de rest is zo'n beetje de boze buitenwereld.
+Terloops kom je achter allerlei hebbelijkheden van de man. Zo boezemen sommige medische afwijkingen  hem vrees en afkeer in, hij wantrouwt kunstenaars en creativiteit, en stiekem heult hij met biologische ideeën die bijvoorbeeld homoseksualiteit als onnatuurlijk beschouwen. Onder een dun laagje beschaafde tolerantie gaat zo een fikse onvrede met de wereld schuil.
+Als de grote toneelspeler Ralph Meier zijn praktijk bezoekt en beide gezinnen vriendschap sluiten gaat het mis. Tijdens een gezamenlijke vakantie begint Marc zich in stilte steeds meer te ergeren aan de vrije, luidruchtige, artistieke levensstijl van de overweldigende Ralph en zijn vrienden, die hij tegelijkertijd verafgoodt en verafschuwt. Als dan Marcs dochter Julia op het strand wordt aangerand, is de boot aan. Hij verdenkt de geile Ralph van de wandaad, alhoewel er geen enkel bewijs voor is, en jaagt hem ten slotte op slinkse wijze, als huisarts zeg maar, de dood in.
+Ook 'Zomerhuis met zwembad' is een moralistische vertelling geworden. Een zedenschets over libertijnse vrijheidsdrang en hang naar maatschappelijke orde, zoals die tegenwoordig zo hard botsen. Tegenover de behoudende, illusieloze Marc staan zijn tegenvoeters, acteurs en creatievelingen die met begerige blikken naar vrouwen en meisjes loeren. Dat Marc zelf ook een oogje heeft op Ralphs vrouw Judith verandert aan zijn afkeer niks. Hij is in wezen een hypocriet  die, om het zo maar eens te zeggen, de balk in zijn eigen ogen niet ziet.
+Een vergelijking met Grunbergs roman 'Tirza' is intussen onontkoombaar: ook hier een door de maatschappij bedreigde middelbare vader die zijn dochter niet wil loslaten. Maar Jörgen Hofmeister uit 'Tirza' is een zieke en verknipte figuur, Marc Schlosser komt veel minder pathologisch over. Hij lijkt meer iemand uit de school van de psychiater Theodore Dalrymple, iemand die uitsluitend mensen zelf verantwoordelijk houdt voor hun daden, niet de maatschappij. Hij klinkt vooral redelijk en normaal. ,,Ik wil mezelf niet op een hoger moreel plan stellen dan de mannen die zich tot kleine meisjes aangetrokken voelen. Alle mannen voelen zich tot kleine meisjes aangetrokken. Ook dat is de biologie. We kijken naar die meisjes met het oog op nageslacht: of zij binnen afzienbare tijd in staat zullen zijn het voortbestaan van de menselijke soort te waarborgen. Maar het was een andere stap om die aantrekkingskracht in de praktijk te brengen. De biologie had haar waarschuwingssystemen: bij kleine meisjes stonden alle seinen op rood. Niet doen! Afblijven! Wie toch doorgaat maakt iets kapot."
+Daar kun je niet veel op tegen hebben, en toch proef ik in Kochs boek kritiek op deze hedendaagse moralist, deze aanhanger van Dalrymple en Buikhuizen met zijn afkeer van de permissive society, die meent voor eigen rechter te mogen spelen. Eigenlijk handelt Marc uit een primitief soort paniek, omdat zijn grondgebied wordt aangetast, en de gevolgen van zijn rechtvaardigheidsgevoel zijn dan ook averechts: onrechtvaardig.
+Zo gaat 'Zomerhuis met zwembad' ten slotte aan de hand van een mislukte vakantie over de geest van deze tijd en de vernietigende kracht van onze oerinstincten. De geboren verteller Koch heeft er, het wekt geen verwondering, best een sappig verhaal van gemaakt, dat leest als een trein. Meer dan in 'Het diner' permitteert hij zich losse eindjes, bijvoorbeeld als Marc en zijn medebestuurder voor de lol een arme campinghouder die ze van dierenmishandeling verdenken, van de weg rijden. 'Zomerhuis met zwembad' mist zodoende wel een beetje de strakke regie, maar dat typeert  ook  de vrije val waarin de maatschappij lijkt te zijn geraakt. Marc Schlosser weet niet meer waar hij aan toe is, en klampt zich krampachtig vast aan zijn vooroordelen. De moderne reactionair, geen twijfel mogelijk.
+Voor de lol rijdt
+hij  een vermeende dierenbeul van de weg
+</dcterms:description>
+        <dcterms:extent>word, 961, BOEKEN; Blz. 81</dcterms:extent>
+        <dcterms:issued>2011-01-29</dcterms:issued>
+        <rdfs:label xml:lang="nl">Hij klinkt zo redelijk en normaal; Herman Koch portretteert in 'Zomerhuis met zwembad' de nieuwe reactionair</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

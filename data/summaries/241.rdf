@@ -1,0 +1,54 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NFMwLTA5SjEtRFlSWS1OM0sw">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54S0-09J1-DYRY-N3K0"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54S0-09J1-DYRY-N3K0&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Lang leve de oorlog Film; Beschouwing Nederlandse oorlogsfilms</dcterms:title>
+        <dcterms:creator>Bor Beekman</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Nederlandse oorlogsfilms zijn weer in zwang. Is Nederland dan nog niet oorlogsmoe? Nee, weet de filmindustrie. 'De Tweede Wereldoorlog is ons grootste collectieve trauma.' Door Bor Beekman
+'Films met het Oorlogswintergevoel', zo omschrijft Dorien van de Pas, hoofd speelfilm van het Filmfonds, de jongste niche binnen de Nederlandse oorlogsfilm. Ze bedoelt: een jeugdfilm over de oorlog, maar dan wel volwassen genoeg om jong én oud aan te spreken. Zoals Oorlogswinter van Martin Koolhoven uit 2008, naar het boek van Jan Terlouw, met om en nabij een miljoen bezoekers.
+Succes dien je zo snel mogelijk te kopiëren. Zo doen ze dat in Hollywood, zo doen ze dat hier. Dus kocht producent Johan Nijenhuis de rechten op een verfilming van het jeugdboek Oorlog zonder vrienden, over een jongen met een vader bij de NSB. En nam collega David Bijker het jeugdboek Oorlogsgeheimen in productie, over een jongetje en zijn buurmeisje in een onder de bezettingsperikelen lijdend Limburgs dorpje.
+Beide speelfilmprojecten zijn momenteel 'in ontwikkeling' bij Van de Pas. 'Als iets een succes is', zegt het hoofd speelfilm, 'zien we die titel de jaren daarna vaak als referentie terugkeren in de voorstellen van de producenten.'
+Vorig jaar besloten twee producenten, los van elkaar, dat het tijd werd voor een verfilming van het bombardement van Rotterdam. Om ruzie te voorkomen gaf het Filmfonds beide partijen wat geld voor de ontwikkeling, en besloot verder te gaan met het meest veelbelovende project. Dat was het door Ate de Jong te regisseren liefde-in-oorlogstijd-epos Het bombardement (beoogde verschijning in de bioscoop met Kerst 2012), met de Volendamse zanger Jan Smit in de hoofdrol. De verliezende producent, NL Film, werkt nu aan een verfilming van het leven van oorlogsheld Wally van Hall, 'de bankier van het verzet'.
+'Is Nederland niet oorlogsmoe?', vroeg producent San Fu Maltha zich enkele jaren geleden af, voor hij de helse klus op zich nam om het benodigde budget van &amp;discReturn;
+17 miljoen euro bijeen te schrapen voor Paul Verhoevens Zwartboek (2006), de duurste Nederlandse productie ooit.
+Het is een vraag die om de zoveel tijd terugkeert in de Nederlandse filmwereld. Filmpionier Rudi Meyer, die op de vlucht voor Hitler vanuit Duitsland in Nederland belandde, stelde 'm al begin jaren zestig 'die Menschen willen nu ja toch geen oKorlog meer!' (zoals opgetekend in het naslagwerk Hollands Hollywood van Henk van Gelder), maar liet zich alsnog overhalen om het uitstekend bezochte De overval te produceren; Nederlands eerste WOII-klassieker, over de historische bevrijding van verzetslieden uit de Leeuwardense gevangenis.
+Niks moe, ondervond ook Maltha: 'het tegenovergestelde bleek waar.' De oorlogsfilm was na de jaren zeventig (Soldaat van Oranje, Pastorale 1943) en tachtig (De aanslag) iets uit zicht geraakt, wat sommige critici deed uitroepen dat de Nederlandse filmer eindelijk eens om zich heen keek, in plaats van achterom. Maar voor Zwartboek stroomde het publiek toe, en ook de internationale markt bleek geïnteresseerd. Sindsdien is de Nederlandse oorlogsfilm weer in zwang, zoals ook de Nederlandse inzending voor de Oscars van dit jaar, Sonny Boy, laat zien.
+Zwartboek was Maltha's eerste oorlogsfilm. Sindsdien produceerde hij Oorlogswinter en het geflopte De vliegenierster van Kazbek, over de bezetting op Texel. Bij Het Bombardement, met Jan Smit, is hij betrokken als coproducent. 'Heb ik iets met oorlog? Ja, heb ik. Mijn grootvader zat in het verzet. Als je ze optelt zat élke Nederlander bij het verzet, maar van mijn grootvader weet ik zeker dat het zo was. En ik kom uit Rotterdam, dus mijn band met het bombardement hoef ik niet uit te leggen.'
+Deze week gaat het door Maltha geproduceerde oorlogsdrama Süskind in première, over de man die de Jodendeportatie vanuit de Hollandsche Schouwburg in goede banen hielp leiden, maar tegelijk langs de achterdeur honderden kinderen liet ontsnappen. Rudolf van den Berg (De avonden, Tirza) probeerde zijn biografische film al jaren van de grond te tillen, zonder veel succes. 'Omdat Süskind een Duitser was, dacht ik: daar kunnen we een Duitse acteur voor casten, en dan moet het mogelijk zijn er een Nederlands-Duitse coproductie van te maken. Nou, no way. Geen enkel Duits fonds wilde met ons in zee.'
+Geef maar op, was het eerste wat Maltha tegen de regisseur zei, toen hij als producent instapte. 'Duitsland is Holocaustmoe.' Voor Zwartboek wist de producent nog wel wat Duitse miljoenen te regelen. 'Maar met zo ongelofelijk veel pijn en moeite dat ik bij Oorlogswinter al direct zei: afkappen, we doen het zonder.'
+Maltha stelde ook voor om het beoogde budget van Süskind flink naar beneden bij te stellen, tot zo'n 4,5 miljoen euro, eigenlijk te weinig voor een periodefilm van enig formaat. Van den Berg: 'Verhoeven zou hebben gezegd: nou, dan doe ik het niet. En gelijk heeft hij, eigenlijk, maar ik zei: ja. Maltha was realistisch, zonder hem was er nooit een film gekomen.'
+Zo veel speelfilms als er worden gemaakt over de Tweede Wereldoorlog, zo schamel is het aanbod over recentere oorlogen waarbij Nederland is betrokken. Niet zo vreemd, meent filmer Ate de Jong, die onlangs een 'stresstest' presenteerde waarmee hij bezoekcijfers van Nederlandse films op voorhand meent te kunnen voorspellen. 'De Tweede Wereldoorlog is ons grootste collectieve trauma en in feite de enige constante in de Nederlandse filmgeschiedenis. In Srebrenica en Afghanistan is ook strijd gevoerd, maar die conflicten hebben zich niet geworteld in onze gemeenschap. Het is cru, maar voor de meeste Nederlanders liggen ze emotioneel te ver van hun bed. Wanneer je het commercieel bekijkt, is de doelgroep voor zo'n film beperkt.'
+De Jong vindt dat hij met de regie van Het bombardement, over een onmogelijke liefde tijdens de bommenregen op Rotterdam, iets toe kan voegen aan het bestand van oorlogsfilms. 'Die gaan in Nederland bijna altijd over verzetshelden of Joodse onderduikers. Deze film gaat over volksmensen, arbeiders. De oorlog overkomt ze.'
+Pas na jaren research voelde regisseur Van den Berg zich voldoende zeker om de werkelijkheid waar nodig los te laten of aan te vullen, en te dramatiseren. 'Süskind is geen reconstructie. De deportatiescène bijvoorbeeld, daarbij wilde ik de angst en paniek voelbaar maken. In werkelijkheid ging het er bij het vertrek niet zo chaotisch aan toe, denk ik. Maar ik probeer een innerlijke waarheid zichtbaar te maken, en die was heel naar. Mensen werden als oud vuil in wagons gepropt, ontmenselijkt.'
+Zijn Holocaustdrama mocht geen herhaling van zetten worden, stelt Van den Berg in een persverklaring: 'Zo belicht Süskind het onderbelichte aspect van het Joodse verzet tegen de deportaties. Bijna net zo onbekend is de onverschilligheid waarmee Nederland een deel van zijn staatsburgers liet afvoeren.'
+Tegelijk, en dat past goed in de Hollandse oorlogsfilmtraditie, is de hoofdpersoon geen volbloed held. 'Süskind is er ingerommeld, in dat verzet', zegt de regisseur. 'Hij stond niet voor zijn principes. We zien hem een film lang worstelen met dilemma's. Beroerd werd hij er van, maar er was geen weg terug. Zo zijn honderden kinderen gered.'
+Van den Berg hoopt dat zijn film ook veel jongeren zal bereiken. Producent Maltha liet daartoe speciale lespakketten maken. 'Uit eigen portemonnee betaald, want de benaderde stichtingen noem ze allemaal maar op &amp;mdash; zagen er niks in.' Het goede nieuws: als iemand in Nederland al oorlogsmoe is, dan in ieder geval niet de scholen. Inmiddels hebben er al 350 ingetekend.
+'Mijn opa zat in het verzet. Als je ze optelt zat élke Nederlander bij het verzet, maar van mijn grootvader weet ik zeker dat het zo was.' Producent San Fu Maltha licht zijn band met oorlogsfilms toe.
+Geef maar op, was het eerste wat Maltha tegen de regisseur zei, toen hij als producent instapte. 'Duitsland is Holocaustmoe'
+'Verhoeven zou hebben gezegd: nou, dan doe ik het niet. En gelijk heeft hij, eigenlijk'
+</dcterms:description>
+        <dcterms:extent>word, 1321, V Opening; Blz. 10</dcterms:extent>
+        <dcterms:issued>2012-01-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">Lang leve de oorlog Film; Beschouwing Nederlandse oorlogsfilms</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

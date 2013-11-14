@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MlZILTJXRjEtRFlSWS1OM0RI">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52VH-2WF1-DYRY-N3DH"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52VH-2WF1-DYRY-N3DH&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Matthäus-Passion op 1 in Radio 4 Top 400 AMSTERDAM Radio ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Matthäus-Passion op 1 in Radio 4 Top 400
+AMSTERDAM Radio 4 draait volgende week de 400 favoriete klassieke muziekwerken van de luisteraars. Net als vorig jaar staat de Matthäus-Passion op nummer 1, gevolgd door het Requiem van Mozart. Het Requiem van Fauré heeft de Brandenburgse concerten van Bach naar de vierde plaats verdrongen.
+Acteurs voor Sleefilm 'Razend' bekend
+AMSTERDAM De rollen voor de film Razend, naar het boek van Carry Slee, zijn verdeeld. Abbey Hoes (16, Tirza) speelt Roosmarijn, de hoofdrol. De zeventienjarige Ko Zandvliet (Sonny Boy) speelt Sven. Ook Ariane Schluter, Sander de Heer, Olga Zuiderhoek, Thijs Römer en Hugo Maerten spelen mee.
+Nederlandse filmmaker wint prijs in Belgrado
+AMSTERDAM De Nederlandse filmmaker Boris Gerrets heeft op het Beldocs Filmfestival in Belgrado de Fipresciprijs gewonnen, uitgereikt door internationale filmcritici. Gerrets maakte People I could have been and maybe am met zijn mobiele telefoon, over mensen die hij ontmoette in Londen. (ANP)
+Zelfportret Warhol voor 27 miljoen euro geveild
+NEW YORK Het eerste zelfportret van de Amerikaanse kunstenaar Andy Warhol heeft op een veiling van Christie's in New York 38.440.000 dollar (27,1 miljoen euro) opgebracht. Vooraf was geschat dat het werk, Selfportrait uit 1963-64, tussen de 14 en 21 miljoen euro zou opbrengen.
+</dcterms:description>
+        <dcterms:extent>word, 219, Kunst En Media; Blz. 21</dcterms:extent>
+        <dcterms:issued>2011-05-13</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

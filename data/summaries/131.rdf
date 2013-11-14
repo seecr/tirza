@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81ODcyLVRIMzEtSkM4Vy1ZMlBO">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5872-TH31-JC8W-Y2PN"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5872-TH31-JC8W-Y2PN&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Organiseer  je leven</dcterms:title>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Zo'n vierhonderd studenten van vormgevingsopleidingen in Nederland kraakten hun creatieve hersens om voor de Hema ontwerpwedstrijd 2013 dat ene goed vormgegeven product te bedenken. Afgelopen dinsdag konden we zien hoe de jury zich boog over tafels vol inventieve oplossingen. 
+De ontwerpen moeten het voor iedereen leuker en makkelijker maken het dagelijks leven beter te organiseren. 'Organiseer je leven' was dit jaar dan ook het thema van de wedstrijd. Een goede vondst biedt vaak een oplossing van een herkenbaar probleem. Tijdens een rondgang langs de tafels vol ideeën zagen we opvallend veel oplossingen voor het opbergen van sleutels en het organiseren van kruidenpotjes. Een tas met lichtjes erin zodat je op zoek naar je sleutels niet in het duister hoeft te tasten. Diversen clipjes om sokkenparen als duo de wastrommel in te laten gaan.  Onze missie is bijzondere eenvoud. Bovendien moet een klant meteen begrijpen hoe iets werkt. Als er veel uitleg nodig is, dan is een product niet geschikt voor de Hema , zo vertelt Tirza Brems, juryvoorzitter en conceptmanager bij de Hema, die wel meer opbergmogelijkheden had verwacht te zien. Vierhonderd spitsvondigheden. Wat maakt een ontwerp geschikt voor de schappen van de Hema?  Is het innovatief? Het moet niet te veel lijken op iets wat al op de markt is , zegt René van Leeuwen, inkoper van onder meer sport-, fiets- en autoartikelen.  Soms is iets zo simpel dat het lijkt dat het al bestaat, maar dan is het er nog niet. Dat is interessant.  Ons oog valt op een fietsslot in de vorm van de bekende Hema-worst. Het bestaat nog niet, maar of het handig is?
+</dcterms:description>
+        <dcterms:extent>word, 269, Winkelen; Blz. 21</dcterms:extent>
+        <dcterms:issued>2013-04-18</dcterms:issued>
+        <rdfs:label xml:lang="nl">Organiseer  je leven</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

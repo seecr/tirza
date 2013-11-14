@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MjE4LTZWVzEtRFlSWS1OMlcw">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5218-6VW1-DYRY-N2W0"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5218-6VW1-DYRY-N2W0&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Geen titel</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/parool"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Nederlandse film 'Tirza' geen kans op Oscar
+LOS ANGELES Tirza maakt geen kans op een Oscar. De film komt niet voor op de shortlist voor de Oscarnominaties. Tirza was de belangrijkste Nederlandse inzending. De nominaties worden op 25 januari bekendgemaakt. De Oscars worden op 27 februari uitgereikt. Karakter was in 1997 de laatste Nederlandse film die een Oscar won.
+Cyprus krijgt icoon terug van Boy George
+LONDEN De Cypriotisch-orthodoxe kerk heeft een icoon met daarop een afbeelding van Christus teruggekregen van zanger Boy George. De voormalige zanger van de Culture Club had het kunstwerk al 26 jaar in zijn bezit, maar het bleek gestolen te zijn in 1974. Boy George kocht het icoon in 1985 van een Londense kunsthandelaar. (ANP)
+DJ Tîësto krijgt eigen radioshow bij BNN
+Amsterdam DJ Tiësto krijgt een eigen radioshow bij BNN op 3FM. Het programma Tiësto's club life zal vanaf april elke zaterdagnacht te horen zijn van 00.oo tot 02.00 uur. DJ Tiësto is een van 's werelds populairste diskjockeys. Het toonaangevende Engelse dancetijdschrift Mixmag verkoos hem gisteren tot beste dj aller tijden.
+Bob Dylan sluit contract af voor zes boeken
+Amsterdam De Amerikaanse singer-songwriter Bob Dylan heeft met uitgeverij Simon &amp; Schuster een contract afgesloten voor zes boeken. Twee ervan zijn autobiografisch en vormen een vervolg op zijn in 2004 verschenen Chronicles volume one, dat door critici zeer goed werd ontvangen. Publicatiedata zijn nog niet bekend.
+Boek van paus Benedictus is bestseller
+VATICAANSTAD Het nieuwste boek van paus Benedictus XVI, dat eind november verscheen, is al bijna een miljoen keer verkocht. Het boek Het licht van de wereld is geschreven door een Duitse journalist op basis van urenlange gesprekken met de paus. Het boek kwam in achttien talen uit. De Duitse vertaling verkoopt het best. (ANP/AFP)
+</dcterms:description>
+        <dcterms:extent>word, 304, KUNST EN MEDIA; Blz. 20</dcterms:extent>
+        <dcterms:issued>2011-01-20</dcterms:issued>
+        <rdfs:label xml:lang="nl">Geen titel</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

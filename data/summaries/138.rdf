@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81Mk03LVlHRjEtRFlSWS1OMEpY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52M7-YGF1-DYRY-N0JX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52M7-YGF1-DYRY-N0JX&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Tragikomedie vol witte wijn en tobbende dertigers</dcterms:title>
+        <dcterms:creator>Belinda van de Graaf</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Alle Tijd
+Regie: Job Gosschalk. Met Paul de Leeuw en Karina Smulders. In 97 bioscopen.
+Er is in Nederland een nieuw genre in opmars, het witte wijn-drama. Redelijk welgestelde dertigers en veertigers, veelal gespeeld door een mix van BN'ers uit de theater-, film- en tv-wereld, kampen met relatieperikelen en ander leed (meestal ziekte en dood) en blussen dat af met grote glazen chardonnay.
+In 'Alle Tijd' is er witte wijn bij de oesters en witte wijn bij de appeltaart. In films als 'Tirza', 'De Eetclub', 'Loft', 'Gooische Vrouwen' en ook het recente 'Black Butterflies' zagen we gelijksoortige ontkurkings- en benevelingsrituelen. De films zien er ook allemaal even glossy uit, als commercials, misschien dat het daarom zo opvalt.
+Paul de Leeuw, die in 'Alle Tijd' de alleenstaande, homoseksuele leider van een jeugdorkest speelt, wordt zelfs verliefd op de dronkaard die op een zonnig terras over hem heen kotst. Voormalig castingdirector Job Gosschalk, die hier debuteert als scenarist en regisseur, weet aan zo'n scène verder weinig sjeu te geven. Hij valt terug op uitgemolken grappen over de corpulentie van zijn hoofdrolspeler.
+Het succesvolle 'Alles is Liefde', waarvoor Gosschalk vier jaar geleden het idee aanleverde, beschikte met Kim van Kooten in ieder geval over een begaafde scenarist. Het klikt wel tussen Paul de Leeuw en Karina Smulders die zijn zusje speelt, een studente psychologie die ook worstelt met relaties en die in het tumult ontdekt dat ze zwanger is, borstkanker heeft en snel zal sterven.
+Natuurlijk is een existentiële tragikomedie over eenzaamheid, vriendschap, liefde en het verglijden van de seizoenen welkom. In Engeland hebben ze daarvoor wel een meester als Mike Leigh die met het verwante 'Another Year' het behagen achter zich laat, en het diepe in gaat.
+</dcterms:description>
+        <dcterms:extent>word, 298, De Verdieping; Blz. 11</dcterms:extent>
+        <dcterms:issued>2011-04-14</dcterms:issued>
+        <rdfs:label xml:lang="nl">Tragikomedie vol witte wijn en tobbende dertigers</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

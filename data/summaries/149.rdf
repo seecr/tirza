@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NUdGLUM4RDEtRFlSWS1OMjcw">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55GF-C8D1-DYRY-N270"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55GF-C8D1-DYRY-N270&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Clairy Polak en Peter van Ingen keren volgend televisieseizoen niet ...</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Clairy Polak en Peter van Ingen keren volgend televisieseizoen niet meer terug bij het programma 'Buitenhof'. Het politieke praatprogramma krijgt in het nieuwe seizoen twee andere presentatoren. Polak, die het programma de afgelopen zes jaar presenteerde, keert terug naar de radio. Vanaf 3 september volgt zij Maartje van Weegen op als presentator van het Radio 4-programma 'De Klassieken'. Van Weegen kondigde vorige week aan met pensioen te gaan. Peter van Ingen wil weer programma's gaan maken voor de VPRO. Polak en Van Ingen denken dat 'Buitenhof' met de komst van twee andere politieke interviewers een nieuwe impuls zal krijgen.
+Nederlandse scholieren hebben in België de Benelux Wiskunde Olympiade gewonnen. Ze gingen zondag naar huis met zeven van de zestien medailles. De zeventienjarige Jetze Zoethout uit 6 vwo van het Christelijk Gymnasium Beyers Naudé in Leeuwarden behaalde van alle deelnemers de hoogste score. Hij won daarmee een gouden medaille.
+De wedstrijd voor middelbare scholieren uit België, Nederland en Luxemburg werd voor de vierde keer gehouden, dit keer voor het eerst in België. Elk team bestond uit de beste tien leerlingen van het land. De Nederlanders wonnen twee gouden, drie zilveren en twee bronzen medailles.
+Gijs Bleijenberg neemt afscheid als hoogleraar bij het UMC St Radboud in Nijmegen. De klinisch psycholoog gaat met pensioen. Bleijenberg heeft zich het grootste deel van zijn werkzame leven bezig gehouden met chronische vermoeidheid en de behandeling ervan. Hij ontwikkelde een vorm van cognitieve gedragstherapie (CGT) die effectief is bij mensen met het chronisch vermoeidheidssyndroom. Later bleek dat ook andere mensen die chronisch moe zijn, baat hebben bij vormen van deze therapie. Samen met zijn medewerkers ontwikkelde hij effectieve vormen van CGT voor kankergerelateerde vermoeidheid, voor chronische vermoeidheid bij MS-patiënten en bij neuromusculaire ziekten.
+Sylvia Hoeks speelt de hoofdrol in de nieuwe film 'The Best Offer' van de Italiaanse regisseur Giuseppe Tornatore. De opnamen zijn begonnen en vinden plaats in Wenen en Noord-Italië. De film komt volgend jaar uit. Hoeks speelde onder meer in 'Duska' (2007), 'Tirza' (2010) en 'De bende van Oss' (2011). Voor haar rol in 'Duska' won ze een Gouden Kalf. De actrice is momenteel ook te zien in de Nederlandse serie 'Bloedverwanten'.
+</dcterms:description>
+        <dcterms:extent>word, 391, Vandaag; Blz. 2</dcterms:extent>
+        <dcterms:issued>2012-04-24</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

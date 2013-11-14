@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzIwLUJLSzEtSkM4Vy1ZMEM3">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5320-BKK1-JC8W-Y0C7"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5320-BKK1-JC8W-Y0C7&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Arnon Grunberg schrijft Groot Dictee</dcterms:title>
+        <dcterms:creator>Van onze verslaggever Jonathan Witteman</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Van onze verslaggever
+Jonathan Witteman
+Amsterdam Arnon Grunberg schrijft dit jaar het Groot Dictee der Nederlandse Taal. De in New York woonachtige schrijver volgt Tommy Wieringa op, die de Vlaamse en Nederlandse taalpuristen vorig jaar vergastte op 'Geüpgradede Hoekse en Kabeljauwse twisten' en 'tenhemelschreiende geblabla van de muezzins'.
+Het dictee, dat toe is aan de 22ste editie, vindt op woensdag 14 december plaats in de Eerste Kamer.
+Grunberg (40) brak in 1994 door met zijn debuutroman Blauwe Maandagen. Hij kreeg onder meer de AKO Literatuurprijs voor zijn romans Fantoompijn (2000) en De asielzoeker (2004) en won zowel de Gouden Uil als de Libris literatuurprijs met Tirza (2007). Grunberg schrijft en schreef voor Vrij Nederland, Humo, VPRO-gids, NRC Handelsblad en Wordt Vervolgd een blad van Amnesty International. Sinds vorig jaar heeft hij een dagelijkse column op de voorpagina van de Volkskrant.
+De slotzin van een van zijn Voetnoten klinkt met terugwerkende kracht als een dictee-poëtica: 'Dat de eugenetica het Nederlandse integratiedebat bespaard is gebleven, komt doordat de voormannen van dat debat hier te lande de taal van de agressieve voetbalsupporter hanteren: moeilijke woorden zijn verboden.'
+Het Groot Dictee wordt georganiseerd door de Volkskrant, NTR, de VRT en De Morgen. De presentatoren zijn de Nederlander Philip Freriks en de Belgische Martine Tanghe. De afgelopen jaren schreven onder meer Gerrit Komrij, Jan Wolkers, Martin Bril en Kees Fens de dicteetekst.
+</dcterms:description>
+        <dcterms:extent>word, 249, Ten Eerste; Blz. 5</dcterms:extent>
+        <dcterms:issued>2011-06-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">Arnon Grunberg schrijft Groot Dictee</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,50 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NDQyLTc5WTEtRFlSWS1OMFJX">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5442-79Y1-DYRY-N0RW"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5442-79Y1-DYRY-N0RW&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Uitputtend enthousiasme; Recensie Special edition Dvd rabat</dcterms:title>
+        <dcterms:creator>Bor Beekman</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>DVD
+JJJJJ
+RABAT
+Regie Jim Taihuttu, Victor Ponten.
+Met Nasrdin Dchar, Achmed Akkabi, Marwan Kenzari.
+Best lollig, dat de crew steeds de camera's moet verbergen als er ergens agenten langs rijden
+'Alsof je vijf uur lang aan het vingeren bent', zo vat Jim Taihuttu (30), de verbaal meest sterke helft van het regisseursduo achter de roadmovie Rabat, de kunst van het filmen samen. 'Een soort van heel lang voorspel'. Immers: dagenlang oefenen en repeteren voor één gelukte opname.
+Het is een van de inzichten uit de special edition dvd-uitgave van de Nederlandse film, die onlangs hoofdrolspeler Nasrdin Dchar bekroond zag met het Gouden Kalf voor beste acteur.
+De toegevoegde making of-documentaire duurt even lang als de speelfilm (100 minuten), en is zelf ook weer een roadmovie (of roaddocu). Zo lang achter de schermen verblijven is een uitputtende ervaring, hoe aanstekelijk het enthousiasme van de jonge filmmakers en cast ook is. Best lollig, dat de crew steeds de camera's moet verbergen als er ergens agenten langs rijden, omdat er weer eens geen filmvergunning geregeld is maar na drie keer is dat punt wel gemaakt. Tegelijk behoort zo'n reis in een roadmovie ook nét wat te lang te zijn, zodat personages hun maskers laten vallen, en hun diepste wezen tonen. Dat er weinig leuker of zwaarder is dan met een ploegje gelijkgestemden en een ernstig gebrek aan financiën een speelfilm op te nemen, tonen de beelden onomstotelijk aan. Ook als er na afloop helemaal niks met de film gebeurt, redeneren de betrokkenen in de docu, was het allemaal de moeite waard geweest.
+De filmmakers waren met eerdere filmprojecten al langs elk denkbaar financieringsloket geweest, en overal afgewezen. Dus besloten ze Rabat eerst te maken, en daarna te zien of iemand geïnteresseerd was (inmiddels 60duizend bezoekers). In een 'statement' bij de release stelde Taihuttu zich niet te herkennen in het huidige filmaanbod uit Nederland, dat 'altijd jaren achter loopt'. In Duitsland, Frankrijk en Engeland, daar werden wél interessante films gemaakt over het nieuwe Europa. 'Dat heb ik hier nog niet gezien'.
+Het idee voor Rabat ontstond uit een bijbaantje van Taihuttu, die ooit in een Venlose pizzeria werkte en bevriend raakte met zijn Marokkaanse collega's. Die gaven hoog op van hun geboortedorp en thuisland, maar toen Taihuttu met hen meeging op vakantie viel hem op dat zijn vrienden daar 'gewoon hardcore toeristen waren'. Ze hoorden nergens helemaal thuis, als kinderen van migranten. 'De uitdaging was om daar een film over te maken zonder dat die film daar over ging' aldus Taihuttu en mederegisseur Victor Ponten (30) op de dvd.
+Dat is ietwat cryptisch geredeneerd, maar glashelder voor wie de lovende recensies van de film las. Rabat werd onthaald als eerste Nederlandse film die terloops over multicultuur handelt, die de frictie van migratie niet uitvergroot, maar als normale werkelijkheid integreert in het spel en scenario. Verwaterde vriendschap is het hoofdthema van de film, waarin drie jeugdvrienden een Mercedes van Nederland naar Marokko rijden. Dchar (Tirza) speelt de introspectieve van het stel, Achmed Akkabi (Alibi, De president) de clown, Marwan Kenzari (Loft) de verongelijkte.
+De jury van het Nederlands Film Festival had het drietal evengoed gezamenlijk een Kalf kunnen geven Akkabi en Kenzari doen niet voor Dchar onder.
+Ook te zien op de dvd: videoclips en korte films die Taihuttu en Ponten onder hun bedrijfsnaam Habbekrats maakten. Nasrdin Dchars geruchtmakende Kalverenspeech is niet aan de dvd-uitgave toegevoegd. Wel laat de acteur zich uit over de mores op de filmset, waar geen tijd was om te lanterfanten: 'Shit moet gewoon gedraaid worden, als je je shit niet draait, ben je gewoon fucked'.
+Het kan zo op een bordje in de hal van de filmacademie.
+Rabat is verkrijgbaar op dvd en Blu-ray, en draait ook nog in verschillende filmhuizen in het land, en op de Amsterdam Film Week (1-6 november).
+Film
+De jury van het Nederlands Film Festival had het drietal evengoed gezamenlijk een Kalf kunnen geven
+</dcterms:description>
+        <dcterms:extent>word, 668, V Opening; Blz. 5</dcterms:extent>
+        <dcterms:issued>2011-10-27</dcterms:issued>
+        <rdfs:label xml:lang="nl">Uitputtend enthousiasme; Recensie Special edition Dvd rabat</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

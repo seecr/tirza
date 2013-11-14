@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NkZLLUhUUDEtRFlSWS1ONEtK">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/56FK-HTP1-DYRY-N4KJ"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=56FK-HTP1-DYRY-N4KJ&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Hanengevecht</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Verslaggever Patrick Meershoek beklaagt zich er in de krant van maandag over dat de partijen tijdens het dierenverkiezingsdebat in club Bitterzoet het al snel eens waren over een verbod op wilde dieren in het circus. In harmonie de zaken met elkaar regelen hoort volgens hem namelijk niet thuis in de campagne. Liever had hij een hanengevecht gezien met voorspelbare retorische trucjes, zoals welke kandidaat in zijn vrije tijd stiekem kiloknallers koopt. Maar ja, met bijna allemaal vrouwen en 'hun aangeboren neiging tot onderhandelen' zat dat er niet in. Het is jammer dat Meershoek er zo over denkt, want het zoeken naar overeenstemming is nu juist waar het in deze tijd van toenemende polarisatie zo aan ontbreekt. Het dierenverkiezingsdebat laat zien dat politiek bedrijven wel degelijk tot mooie resultaten kan leiden. Wie weet zou de wereld een stuk beter af zou zijn als wat meer vrouwen en wat minder haantjes het in de politiek voor het zeggen zouden hebben. Tirza Elias, Amsterdam
+Togo's president
+Fijn dat jullie maandag op de buitenlandpagina's aandacht besteedden aan het kleine land Togo. Maar de foto die erbij staat is niet van de president, maar van zijn overleden vader. Heel onzorgvuldig. Leon Dussey, Amsterdam
+Werner moet zich schamen
+Lucille Werner 'ergert zich wezenloos aan vrouwelijke politieagenten die achter een bosje staan met een snelheidspistool' (Het Parool van zaterdag). Ik vroeg mij af of ze zich minder ergert wanneer er een mannelijke politieagent staat? En waar dat verschil in ergernis dan zit? Qua boete maakt het niets uit, hoor! Trouwens fijn dat Lucille nog even het bedrag noemt van haar recentste boete, 259 euro. Daar kan men uit opmaken dat ze is gepakt bij een snelheidsovertreding van bijna dertig kilometer per uur. Van iemand die met 54 kilometer per uur is geflitst waar 50 is toegestaan, zou ik het gemopper kunnen aanhoren, maar iemand die een dusdanig forse overtreding maakt zou zich eigenlijk alleen maar diep moeten schamen. Nathalie Terol
+Vroeg op voor de vuilnis
+Ik verbaas me weer eens over oplossingen die achter het bureau worden bedacht, ongetwijfeld door een ijverige beleidsambtenaar. Als bewoner van De Pijp zie ik ze ook wel eens, de scharrelaars die in het vuilnis zoeken naar bruikbare dingen. Als ze geen rotzooi maken en wat nuttigs meenemen, mogen ze dat van mij. Dat is nuttig hergebruik. Als student heb ik vroeger zo een flink deel van mijn inboedel bij elkaar gescharreld. Maar nu moeten we in De Pijp van onze bestuurders op vuilnisdagen om zes uur opstaan om het vuilnis buiten te zetten. En er komen vanaf half september maar liefst acht voorlichters in de avonduren langs om die proef toe te lichten. Die vuilnisophaalgebieden zijn vrij klein. Zou het niet veel efficiënter zijn om 's avonds en 's nachts één of twee handhavers op een scooter door die wijk te laten rijden om de rommelmakers op de bon te slingeren? Als je dat een paar weken doet en het daarna zo af en toe herhaalt, zou dat veel effectiever kunnen zijn, denk ik. En misschien kost het zelfs minder. Peter Goedkoop, Amsterdam
+</dcterms:description>
+        <dcterms:extent>word, 511, Het Laatste Woord</dcterms:extent>
+        <dcterms:issued>2012-08-29</dcterms:issued>
+        <rdfs:label xml:lang="nl">Hanengevecht</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

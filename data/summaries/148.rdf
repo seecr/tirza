@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MURDLTI3VzEtRFlSWS1OMDI0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51DC-27W1-DYRY-N024"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>film</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Cell 211
+Een van de spannendste films van het jaar. Een beginnende bewaarder raakt tijdens zijn rondleiding in de gevangenis  bewusteloos. Als hij wakker wordt, is er een opstand uitgebroken. Alleen door zich voor te doen als een van de gedetineerden, kan hij wellicht zijn leven redden.
+Regie: Daniel Monzón.
+Umay vlucht met haar zoon vanuit Turkije terug naar haar familie in Duitsland. Daar keren haar ouders en broers zich van haar af, bang  voor de reacties in de Turkse gemeenschap. Goed geacteerd melodrama dat soms iets te hard aan je benen trekt.
+Regie: Fea Aladag.
+Ger Beukenkamp levert het ene na het andere scenario af over het koningshuis. Voor het eerst draait het nu om Beatrix, die probeert uit eerbetoon aan prins Claus een zin over steun aan Afrika in de Troonrede te krijgen. Premier Balkenende houdt dat tegen. Pure fictie.
+Regie: Peter de Baan
+Een prikkelende film die met een perfecte timing inspeelt op de populariteit van Facebook, het gratis internetmedium dat wereldwijd inmiddels meer dan 500 miljoen gebruikers heeft en na zes jaar zo'n 25 miljard euro waard is. De film tekent het portret van een eenzame nerd, die  door zijn sociaal netwerk  miljardair is, maar zijn weinige vriendschappen kapotmaakt.
+Regie: David Fincher
+Opnieuw een Jan Terlouw-verfilming, maar anders dan 'Oorlogswinter' is dit echt een kinderfilm. Eva vermoedt dat haar vader crimineel is en gaat met haar vrienden op onderzoek uit. Prettig ongecompliceerd.
+Regie: Simone Dusseldorp
+Julia Roberts is ongelukkig. Het duurt even voordat tot de kijker doordringt, want ze blijft Julia Roberts. Zeven miljoen mensen lazen het boek over de vrouw die alles heeft maar toch op zoek gaat. Maar het ongeluk is Roberts' kracht toch niet. En het exotische decor helpt ook al niet mee.
+Regie: Ryan Murphy
+Verfilming van het boek van Arnon Grunberg. Een man van middelbare leeftijd raakt  alles kwijt: baan, vrouw en ten slotte ook zijn jongste dochter, zijn oogappel, Tirza. Hij reist haar achterna naar Afrika. Zijn gekte is eerst komisch, maar wordt gaandeweg steeds tragischer.
+Regie: Rudolf van den Berg
+</dcterms:description>
+        <dcterms:extent>word, 358, DEGIDS</dcterms:extent>
+        <dcterms:issued>2010-11-06</dcterms:issued>
+        <rdfs:label xml:lang="nl">film</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MFcxLTU1MTEtRFlSWS1OMjFN">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/50W1-5511-DYRY-N21M"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Een lawine aan nieuwe Nederlandse films film 2010-2011</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>In het najaar komt traditiegetrouw een lawine aan nieuwe Nederlandse films los. Het Vlissingse festival Film by the Sea, gewijd aan film &amp; literatuur, bijt op 10 september het spits af met de nieuwe film van Anton Corbijn. De Nederlandse filmer en fotograaf maakte na zijn bejubelde debuut 'Control' een film met George Clooney. In 'The American' draait het om een wapenhandelaar die moeite heeft om uit het wereldje te stappen. De Nederlandse gezichten in de Amerikaanse productie zijn van Johan Leysen en Thekla Reuten. Het dertigste Nederlands Film Festival trakteert twee weken later op een heel andere bestseller-verfilming: 'Tirza', naar de roman van Arnon Grunberg over een werkloze, gescheiden man uit Amsterdam-Zuid (Gijs Scholten van Aschat) die in Namibië op zoek gaat naar zijn jongste dochter (Sylvia Hoeks). 'Tirza' staat onder regie van oudgediende Rudolf van den Berg die eerder romans verfilmde van Gerard Reve ('De avonden') en Leon de Winter ('Zoeken naar Eileen').
+Een andere kanshebber op een Gouden Kalf is 'Lang &amp; Gelukkig', de nieuwe familiefilm van Pieter Kramer en Arjan Ederveen, waarin klassieke sprookjesfiguren als Assepoester en Roodkapje vrolijk knipogen naar de actualiteit. En 'Janine' is - u raadt het al - een documentair portret van de populaire violiste Janine Jansen waarin regisseur Paul Cohen zich onder meer buigt over het spanningsveld tussen kunst en commercie.
+Eindelijk ook weer eens iets moois uit Turkije. 'Honey' van Gouden Beer winnaar Semih Kaplanoglu is gesitueerd in Oost-Anatolië, en vertelt in oogstrelende beelden het verhaal van het jongetje Yusuf dat samen met zijn vader, een imker, het bos intrekt totdat vader op een dag niet meer terugkeert. Het Filmmuseum, tegenwoordig Eye Film Instituut, brengt de film samen met de twee andere delen van de Turkse trilogie over opgroeien en volwassen worden in oktober in de bioscoop.
+Julia Roberts reist dit najaar de wereld over als Liz Gilbert, hoofdpersoon van het populaire damesboek 'Eat Pray Love', over een gescheiden Amerikaanse vrouw die op exotische locaties in Italië, India en Bali weer in balans hoopt te komen.
+Ook David Finchers 'Social Network' ligt ten grondslag aan een succesverhaal, misschien wel het grootste van de afgelopen jaren. Fincher buigt zich over het verhaal van Mark Zuckerberg die in 2004 op 20-jarige leeftijd de sociaalnetwerksite Facebook oprichtte,  bedoeld als communicatiemiddel voor medestudenten op Harvard, maar inmiddels gebruikt door 500 miljoen behoeftigen.
+Clooney in de nieuwe  Corbijn.
+</dcterms:description>
+        <dcterms:extent>word, 421, </dcterms:extent>
+        <dcterms:issued>2010-08-26</dcterms:issued>
+        <rdfs:label xml:lang="nl">Een lawine aan nieuwe Nederlandse films film 2010-2011</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,47 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozMTU4MDc4MDY=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:315807806"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Leven-de verhalen!; over mensen en dieren die veel meemaken</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:31580775X">
+            <skos:altLabel>Wessels-Reijerse, Monique</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:315807741">
+            <skos:altLabel>Beekhuis, Tirza</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>2008</dcterms:date>
+        <dcterms:publisher>Bohn Stafleu van Loghum, Houten</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Speltherapeutische verhalen om mensen met een verstandelijke beperking te helpen in het omgaan met en uiten van emoties.</dcterms:description>
+        <dcterms:extent>227 p</dcterms:extent>
+        <dcterms:subject>Compact-discs</dcterms:subject>
+        <dcterms:subject>creatieve therapie</dcterms:subject>
+        <dcterms:subject>Emoties</dcterms:subject>
+        <dcterms:subject>Geestelijk gehandicapten</dcterms:subject>
+        <dcterms:subject>Geneeskunde</dcterms:subject>
+        <dcterms:subject>Gesproken boeken</dcterms:subject>
+        <dcterms:subject>Proza (romans/novellen)</dcterms:subject>
+        <dcterms:subject>romans en novellen ; oorspr. - Nederlands</dcterms:subject>
+        <dcterms:subject>Speltherapie</dcterms:subject>
+        <dcterms:subject>Therapeutische verhalen</dcterms:subject>
+        <dcterms:subject>Verhalen</dcterms:subject>
+        <dcterms:subject>Verhalenbundels</dcterms:subject>
+        <dcterms:identifier>9789031348480</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

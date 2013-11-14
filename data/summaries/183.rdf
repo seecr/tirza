@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NVY5LUtDQzEtRFlSWS1ONTBY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55V9-KCC1-DYRY-N50X"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55V9-KCC1-DYRY-N50X&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Waar kan fiets dan wél staan?' Tweeduizend fietsen weggehaald</dcterms:title>
+        <dcterms:creator>tirza de fockert</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Sinds 19 maart mogen fietsen niet onbeperkt op of rond het Leidseplein staan. Mensen die bij het Raamplein wonen, voelen zich gedupeerd. 'De problemen met het Leidseplein worden op ons afgewenteld.'
+Op de tafel van mevrouw Bruin ligt een hele stapel oranje stickers van Stadstoezicht, die ze elke week van haar fiets mag peuteren. Doet ze dat niet, dan kan haar fiets binnen zeven dagen worden verwijderd. Vanuit haar woning op de Marnixstraat houdt ze haar fiets op de fietsparkeerplaats op het Raamplein nauwlettend in de gaten. "Ik word er paranoïde van."
+Haar fiets is nog niet weggehaald. Fietsen van buren zijn dat wel, zegt Bruin. "Wij zijn er de dupe van dat de regels zijn verscherpt."
+Fietsen mogen bij 'een parkeervoorziening' hooguit zeven dagen staan. Alle andere fietsen kunnen al na twee dagen worden verwijderd. Het stadsdeel mag op momenten dat er voldoende fietsparkeerplaatsen zijn, fietsen weghalen. Op uitgaansavonden zijn er nooit voldoende parkeerplaatsen.
+Bruin: "Wat ik niet begrijp: de overlast is 's avonds, maar het stadsdeel haalt alleen overdag fietsen weg, wat dan vooral fietsen van bewoners zijn." Als ze met vakantie is, loopt ze een groot risico dat haar fiets er bij thuiskomst niet meer staat. De fiets naar boven sjouwen zal niet gaan, met vier steile trappen.
+Het stadsdeel snapt best dat de nieuwe regels voor bewoners vervelend zijn. "Maar we moeten er ook voor zorgen dat er op uitgaansavonden voldoende fietsparkeerplaatsen zijn. We zijn er niet op uit om bewoners te pesten," zegt een woordvoerder van het stadsdeel. "We zijn erg zorgvuldig met het verwijderen. Alleen fietswrakken en fietsen die er te lang staan, halen we weg."
+Bruin gelooft daar niets van. "Kijk maar op het Fietsdepot in Westpoort. Daar staan honderden fietsen die van het Raamplein komen, soms met kinderzitjes en al."
+Het controleren of fietsen niet te lang op of vlak bij het plein staan, is een probleem. Zo werd eerst met tie-wraps gewerkt en daarna met stickers, wat het een stel dieven, die zich voordeden als handhavers, erg gemakkelijk maakte die fietsen te stelen. Het vertrouwen van bewoners in de nieuwe regels werd er niet groter op.
+Die diefstal is onfortuinlijk, erkent het stadsdeel. "We zijn heus niet doof voor klachten, maar als we iets voor bewoners willen regelen, moet het wel kunnen." Zo is het heel lastig om voor een bepaalde groep mensen een uitzondering te maken.
+Tegelijkertijd vindt hij dat bewoners van het Raamplein en omgeving zich wat socialer mogen opstellen. "We wonen hier toch allemaal samen in de stad? Hoeveel moeite is het je fiets een gracht verder aan een paal te zetten?"
+Dat is onzin, vinden omwonenden, want waar kun je je fiets dan in hemelsnaam neerzetten? Zo is het verboden je fiets aan 'gemeentelijk bezit' vast te ketenen.
+Fietschaos Leidseplein Omwonenden: stadsdeel haalt onze fietsen weg voor feestgangers
+Stadsdeel Centrum is 19 maart begonnen met het Actieplan fietsparkeren Leidseplein. De regels voor het parkeren van fietsen en scooters zijn daarbij veel strenger geworden: fietsen buiten 'parkeervoorzieningen' worden, afhankelijk van de plaats waar ze staan, direct of na twee dagen verwijderd, evenals fietsen die langer dan zeven dagen op zo'n officiële parkeerplaats staan. Doel is een einde te maken aan de fietschaos op en rond het plein. De regels gelden van het Raamplein tot het Barlaeus. Tot dusver zijn tweeduizend fietsen verwijderd. Ongeveer zeshonderd daarvan waren wrakken.
+</dcterms:description>
+        <dcterms:extent>word, 575, Amsterdam; Blz. 16</dcterms:extent>
+        <dcterms:issued>2012-06-09</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Waar kan fiets dan wél staan?' Tweeduizend fietsen weggehaald</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

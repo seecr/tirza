@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTRYLTJUSjEtSkM4Vy1ZMlhK">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/514X-2TJ1-JC8W-Y2XJ"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Carice lijkt Meryl Streep wel; Al haar rollen worden goud Atsma is echte verrassing</dcterms:title>
+        <dcterms:creator>Jann Ruyters</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>utrecht - Filmster Carice van Houten kan haar drie Gouden Kalveren verhuizen van het aanrecht naar de woonkamer. Ze won gisteravond haar vierde Gouden Kalf voor haar rol in 'De Gelukkige Huisvrouw' en heeft daarmee het setje poten voor de nieuwe salontafel compleet. De jury prees de actrice, die iedere rol met een prijs bekroond ziet als was ze Meryl Streep, om haar 'overrompelende spel'.
+Ook regisseur Rudolf van den Berg werd gisteravond voor de vierde maal bekroond, dit keer voor zijn regie van de Grunberg-verfilming 'Tirza'. Van den Berg won eerder Gouden Kalveren voor 'For my Baby' (1997), 'Bastille' (1984) en de documentaire 'Sal Santen Rebel' (1982). Toch was het een welkome prijs voor de regisseur die jarenlang geen filmproject meer van de grond kreeg.  Hij is al weer druk bezig met de voorbereidingen voor zijn volgende speelfilm 'Suskind'.
+De prijs voor de beste film ging naar 'Joy', de derde film in de succesvolle moeilijke-meisjes-trilogie van regisseuse Mijke de Jong. Een keuze die in Utrecht eerder deze week nog enige discussie opriep, omdat de jury onder leiding van ex-Volkskrant hoofdredacteur Pieter Broertjes geen nominatie voor beste film overhad voor 'Tirza'. Producent San Fu Malta ('Tirza') verweet de jury publiekelijk dat ze geen verstand had van film.
+'Joy' wist van de liefst zeven nominaties er gisteravond drie te verzilveren. De film won ook de prijs voor het beste scenario, voor Helena van der Meulen, en de beste vrouwelijke bijrol voor Coosje Smid.
+De grootste verrassing van de avond was de echter de bekroning van Barry Atsma voor zijn rol van de vervelende, ontrouwe echtgenoot in de Kluun-verfilming 'Komt een vrouw bij de dokter'. De jury was onder de indruk: ,,Beetje bij beetje gaan we van deze man houden en zijn we bijna zover dat we hem zijn zonden vergeven."
+De prijs van de Nederlandse Filmkritiek ging naar 'Schemer' , de film van Hanro Smitsman, geïnspireerd op de moord op de Nijmeegse Maja Bradaric. De jury van filmcritici prees de film als 'een belofte voor de toekomst', die  met zijn thema van uitsluiting  'iets te melden heeft over de hedendaagse samenleving' en 'van begin tot einde beklemmend en spannend blijft'.
+NEDERLAND 8 Moord op Maja inspiratiebron voor 'Schemer'
+Beste Speelfilm: 'Joy'
+Beste Regie: Rudolf van den Berg
+Beste Scenario: Helena van der Meulen
+Beste Acteur: Barry Atsma
+Beste Actrice: Carice van Houten
+Prijs van de Nederlandse Filmkritiek: 'Schemer'
+</dcterms:description>
+        <dcterms:extent>word, 408, VANDAAG</dcterms:extent>
+        <dcterms:issued>2010-10-02</dcterms:issued>
+        <rdfs:label xml:lang="nl">Carice lijkt Meryl Streep wel; Al haar rollen worden goud Atsma is echte verrassing</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

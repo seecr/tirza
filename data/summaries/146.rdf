@@ -1,0 +1,48 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NDhDLVM0SzEtSkM4Vy1ZNDJZ">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/548C-S4K1-JC8W-Y42Y"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=548C-S4K1-JC8W-Y42Y&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Als singer-songwriter Chagall (23) naar een onbewoond eiland wordt verbannen, ...</dcterms:title>
+        <dcterms:creator>JOLANDA TE ROLLER</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Als singer-songwriter Chagall (23) naar een onbewoond eiland wordt verbannen, neemt zij de volgende vijf platen mee:
+1. Jamie Woon
+Mirrorwriting
+"Het beste album van het afgelopen jaar. Toen Mirrorwriting in april uitkwam, heb ik hem wel tweehonderd keer gedraaid. Er staan verschrikkelijk goede nummers op, zoals Spirit. De elektronische sound wordt niet boven de liedjes geplaatst of andersom. Ik kan niet ontkennen dat dit album mij ontzettend geïnspireerd heeft voor mijn eigen muziek."
+2. Aretha Franklin
+Greatest hits
+"Ik heb veel met soulmuziek en Aretha Franklin is de moeder van de soul. Ze heeft mooie meezingnummers en met haar zang swingt ze echt de pan uit. Dit is een tijdloos album, daardoor zal ik me met dit album niet snel vervelen op een onbewoond eiland."
+3. Ludwig van Beethoven
+Zesde symfonie
+"Deze muziek zat in een scène met mythische dieren in de film Fantasia, die ik als klein meisje heb gezien. Ik was meteen verliefd op deze muziek. Mijn vader kocht de cd van Beethoven en hij moest van mij áltijd gedraaid worden. Ik zet deze muziek nog steeds op als ik aan het studeren ben. Het voelt dan alsof ik thuis ben."
+4. Alexi Murdoch
+Soundtrack Away we go
+"Dit is de soundtrack van de roadmovie Away we go, waar ik elke week naar luister. De meeste nummer zijn geschreven door Alexi Murdoch. Fijne rustige liedjes met een paar jarenzeventighits erop. Muziek om bij in slaap te vallen."
+5. Harry Belafonte en Nana Mouskouri
+An evening with Belafonte/ Mouskouri
+"Deze hele plaat gaat over de problematiek in Zuid-Afrika. Een paar jaar geleden reed ik twee weken lang met mijn ouders door de woestijn, voor de opnames van de film Tirza, waarvoor ik ook de titelsong heb gezongen. In een plaatselijke muziekwinkel kochten we drie cd's, waar we vervolgens de hele tijd naar geluisterd hebben. Dit album was daar één van. Ik denk dat dit tropische album prima op een onbewoond eiland past."
+www.chagallmusic.com
+</dcterms:description>
+        <dcterms:extent>word, 318, PS Kunst; Blz. 15</dcterms:extent>
+        <dcterms:issued>2011-11-16</dcterms:issued>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

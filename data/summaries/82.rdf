@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTBWLU1DTjEtRFlSWS1OMENY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/510V-MCN1-DYRY-N0CX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Top-toneelprijzen  voor  Hulst en  Kraakman; Publiek kiest voor 'Oog om oog'    Beste bijrollen voor De Walle en Edens</dcterms:title>
+        <dcterms:creator>Van de redactie cultuur &amp; media</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>amsterdam - Kees Hulst en Maria Kraakman hebben de meest prestigieuze toneelprijzen van het jaar gewonnen.
+Hulst kreeg de Louis d'Or voor zijn rol van Jörgen Hofmeester in de voorstelling 'Tirza', naar Arnon Grunbergs gelijknamige boek , bij het Nationale Toneel. De jury prees de technische vaardigheden van Hulst die zijn vaderrol in Tirza licht en lucide speelt, maar dat op het tragische einde juist loslaat. 'Hij neemt de toeschouwer mee in de omstandigheden van een personage van wie je eigenlijk afstand wilt nemen, maar niet kunt'.
+De Theo d'Or was voor Maria Kraakman  als Orlando in de gelijknamige productie van Toneelgroep Oostpool. Ze  werd geroemd omdat ze een haast onspeelbare tekst helder wist te maken met haar fysieke spel en 'weergaloze timing'.
+De prijs voor beste bijrollen  van het afgelopen seizoen gingen naar Stefan de Walle en Nanette Edens.  De Walle kreeg de  Arlecchino  voor zijn rol van Lopachin in 'De Kersentuin' van Anton Tsjechov bij het Nationale Toneel.  Edens  ontving  de Colombina voor haar rol als oudere, wijze vrouw in 'Amora' bij het Zuidelijk Toneel.
+De prijzen werden gisterenavond uitgereikt tijdens het Gala van het Nederlands Theater in de Stadsschouwburg Amsterdam. Het publiek koos als beste voorstelling de productie 'Oog om oog' van onderanderen  Linda van Dyck en Victor Löw. Zij wonnen de AVRO Toneel Publieksprijs.
+De beste jeugdproductie was volgens de jury 'Woeste hoogten, rusteloze zielen' van Theater Artemis en Theater Antigone.
+</dcterms:description>
+        <dcterms:extent>word, 247, NEDERLAND</dcterms:extent>
+        <dcterms:issued>2010-09-13</dcterms:issued>
+        <rdfs:label xml:lang="nl">Top-toneelprijzen  voor  Hulst en  Kraakman; Publiek kiest voor 'Oog om oog'    Beste bijrollen voor De Walle en Edens</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

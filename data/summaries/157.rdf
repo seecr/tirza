@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81ODcyLVA4SDEtRFlSWS1OMThZ">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5872-P8H1-DYRY-N18Y"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5872-P8H1-DYRY-N18Y&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>kort nieuws kunst en media</dcterms:title>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Strik voor RTL-lied Koningin van alle mensen
+Amsterdam - Het Nationaal Comité Inhuldiging heeft het lied Koningin van alle mensen, een initiatief van RTL Boulevard, beloond met de officiële erkenning: een Gouden Strik. Aan het lied op de melodie van 15 Miljoen mensen van Fluitsma &amp; Van Tijn doen achttien bekende Nederlandse artiesten mee, onder wie René Froger en Willeke Alberti.
+Nederlands dj-duo (18) remixt hit Aguilera
+Amsterdam - Het jonge Nederlandse dj-duo TV Noise, bestaande uit Jasper Gelderblom en Jelmer ten Hoeve (beiden 18 jaar), is door het management van Christina Aguilera benaderd om een officiële remix te maken voor het nummer Let there be love. Dat nummer is afkomstig van Aguilera's recent verschenen album Lotus.
+Nasrdin Dchar (Rabat) krijgt nieuwe hoofdrol
+Amsterdam - Acteur Nasrdin Dchar (Rabat, Tirza, Süskind) gaat de hoofdrol spelen in het misdaaddrama De infiltrant. De film is het speelfilmdebuut van Shariff Korver. Het scenario is geschreven door Rogier de Blok (My life on Planet B en R U there). Dchar (1978) won in 2011 het Gouden Kalf Beste Acteur voor de film Rabat.
+Eerste Series Weekend opent met Borgen 3
+Amsterdam - Het eerste Amsterdam Series Weekend opent op vrijdag 24 mei met de eerste twee afleveringen van het derde seizoen van de populaire Deense serie Borgen. Het weekeinde is een afgeleide van het Amsterdam Film Weekend. Er zullen ook een aantal complete series worden gedraaid. Het festival vindt plaats op het Westergasterrein.
+Rob Ruggenberg wint Prijs van de Jonge Jury
+Amsterdam - Jeugdboekenschrijver Rob Ruggenberg heeft met IJsbarbaar de Prijs van de Jonge Jury gewonnen. Toneelschrijfster Enne Koens is met Vogel de winnaar van de Jonge Jury Debuutprijs. Ruim zevenduizend jongeren tussen de twaalf en vijftien jaar oud brachten hun stem uit. De initiator van de prijs is de Stichting Lezen.
+</dcterms:description>
+        <dcterms:extent>word, 307, Kunst En Media</dcterms:extent>
+        <dcterms:issued>2013-04-18</dcterms:issued>
+        <rdfs:label xml:lang="nl">kort nieuws kunst en media</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

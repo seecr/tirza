@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MVhWLVNCVzEtRFlSWS1ONDNG">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51XV-SBW1-DYRY-N43F"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=51XV-SBW1-DYRY-N43F&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Inception boeit elke keer weer'; UITSLAG film van het jaar 2010</dcterms:title>
+        <dcterms:creator>Bor Beekman</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/vk"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>'Zwaar overschat', constateert lezer Hans Kip uit Amsterdam, die Inception hét dieptepunt van 2010 noemt. Maar als er sprake is van overschatting bij het wegen van Christopher Nolans futuristische droomthriller, dan is sprake van een collectieve dwaling. Want hoewel enkele inzenders van de film van het jaar-verkiezing de mening van Kip delen ('lege huls'), werd Inception door de lezers van de Volkskrant en http://Cinema.nl met ruime cijfers verkozen tot beste film van 2010.
+'Boeit elke keer weer en kan telkens op een ander niveau worden gewaardeerd', aldus een inzender uit Rotterdam, die Inception drie keer in de bioscoop zag. Ook het aandeel van hoofdrolspeler Leonardo DiCaprio wordt veelvuldig geroemd: 'nu definitief de Marlon Brando/Robert De Niro van onze generatie'.
+Jacques Audiards Un prophète neemt de tweede plaats in. Zelfs lezers die aangeven wat bedenkingen te hebben bij het snoeiharde Franse gevangenisdrama, plaatsen de film hoog op hun lijst. Marianne Huisman uit Warmond: 'Voor mijn gevoel te zwaar gewelddadig, maar desondanks is het een film die geweldig prachtig laat zien hoe een wat timide jongen in de gevangenis tot een krachtige volwassene uitgroeit, met een ernstig criminele toekomst.'
+Anderen hadden minder moeite met het geweld. Paul van der Meer, uit Leiden: 'Ik weet niet of je het een hoogtepunt mag noemen, maar de moord met het scheermesje in Un prophète bezorgde mij heerlijke ijskoude rillingen.'
+De derde plaats op de lijst wordt ingenomen door het werk van een debutant: A Single Man, van couturier (en inmiddels erkend regisseur) Tom Ford. Mevrouw Heijkoop uit Boskoop, over de scène waarin acteur Colin Firth over de telefoon verneemt dat zijn vriend is omgekomen: 'Het verdriet dat hij daar laat zien is overweldigend.' Meerdere lezers spreken de hoop uit dat Ford de mode laat voor wat het is, en zich voortaan enkel nog richt op celluloid.
+Van de meer komische bedoelde films, die er bij het jaarlijkse verdelen van de Oscars én in deze lijst soms wat bekaaid vanaf komen, staat de jongste Pixar-productie bovenaan: de animatiefilm Toy Story 3 ook de hoogst geëindigde sequel in de lijst. Lezer Tom van Klingeren uit Amsterdam moest 'bijna huilen' tijdens de bloedstollende scène waarin het speelgoed de verbrandingsoven in schuift.
+De eerste, min of meer Nederlandse film bevindt zich op plaats 12; The American van Anton Corbijn, met George Clooney als huurmoordenaar. Met Tirza (24), Sinterklaas en het pakjesmysterie (25) én De gelukkige huisvrouw (29) eindigen zo vier films van Nederlandse makers in de top 30 een uitstekende score. Wat daarbij opvalt: over de Nederlandse films correspondeert u met meer emotie. Zo worden Dick Maas horrorfilm Sint (33 'walgelijk!') en de Brabantse revolte New Kids: Turbo! (38 'een knaller!') even hartstochtelijk vervloekt als geprezen. Ook De gelukkige huisvrouw, waarin het hoofdpersonage Lea (Carice van Houten) doordraait na een gruwelbevalling, maakte veel los. Anneke Kalfsterman uit Linschoten: 'Voor al die vrouwen die denken dat ze gek zijn en er niet over durven praten, laat deze film zien dat het niet abnormaal is'. Veel klachten waren er over de 'beperkte zichtbaarheid' van Gouden Kalf-winnaar Joy.
+Dat de omgeving waarin de film getoond wordt, meespeelt bij het genot, of het ontbreken ervan, blijkt uit veel reacties. Mariette Raeven uit Deurne zag haar voorstelling van The Kids are All Right beïnvloed door 'een paar mensen in de Verkadefabriek in Den Bosch die echt om alles lachten. Dit was super irritant!'. Hans Schutte uit Amersfoort ergerde zich ook, maar dan weer tijdens de vertoning van Millennium 2: de vrouw die met vuur speelde (p19), aan die 'twee vrouwen die elkaar voortdurend en op harde toon het verhaal aan het uitleggen waren'.
+Overigens zijn er ook veel lezers die zich storen aan het elkaar: over op fluistertoon uitleggen hoe de plot in elkaar steekt, zoals volgens Corrie van Velzen uit Huizen vaak gebeurt in filmhuizen.
+Mariska Rijkers uit Bergen op Zoom doet een oproep aan de makers van Nederlandse film: 'Daar ik doof ben, kan ik Nederlandse films in de bioscoop niet volgen. Wat kost het nu op een totaalbudget om Nederlands gesproken films te ondertitelen?' Ook gaan er stemmen op voor een 'algemeen chipsverbod' in de bioscoopzaal, en pleit men voor betere bioscoopcommercials. En dat 'een bioscoop in Alkmaar' (namen worden niet genoemd) de pauze heeft heringevoerd, wordt als een kwalijke tendens beschouwd.
+Tot slot: de meest kernachtige omschrijving van het filmjaar 2010 staat op naam van Steef Milathianakis uit Noordwijk. 'Hoogtepunt: Inception. Dieptepunt: mijn vriendin die naast mij in de bioscoop in slaap viel.'
+Er werd 2082 keer online gestemd, en 40 lezers stuurden een briefkaart of briefje met daarop hun puntenscores. De 10 winnaars van de Volkskrant-filmboxen hebben inmiddels bericht ontvangen. Over de uitslag kan niet worden gecorrespondeerd.
+Un prophète als tweede, A Single Man als derde film gekozen door lezers. Door Bor Beekman
+</dcterms:description>
+        <dcterms:extent>word, 831, FILM; Blz. 2</dcterms:extent>
+        <dcterms:issued>2011-01-13</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Inception boeit elke keer weer'; UITSLAG film van het jaar 2010</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozMDQ1NjUwMTY=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:304565016"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Pas op, Tirza!</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:290718139">
+            <skos:altLabel>Kaathoven, Netty van</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:date>2007</dcterms:date>
+        <dcterms:publisher>Van Tricht, Twello</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Tirza (14) leert via het chatten Jochem kennen, een leuke jongen van 19 jaar. Zijn moeder heeft een modellenbureau en zoekt een nieuw meisje. Nu gaat ze Jochem ontmoeten! Verhaal in korte zinnen en gemakkelijke woorden. Vanaf ca. 12 jaar.</dcterms:description>
+        <dcterms:extent>113 p</dcterms:extent>
+        <dcterms:subject>Chatten</dcterms:subject>
+        <dcterms:subject>jeugdboeken ; verhalen</dcterms:subject>
+        <dcterms:subject>Kinderboeken, Stripverhalen</dcterms:subject>
+        <dcterms:subject>Makkelijk-lezen-boeken</dcterms:subject>
+        <dcterms:subject>Meisjesboeken</dcterms:subject>
+        <dcterms:isPartOf rdf:resource="urn:ppn:148247393"/>
+        <dcterms:identifier>9789077822289</dcterms:identifier>
+        <dcterms:identifier>9789077822234</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

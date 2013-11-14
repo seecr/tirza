@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NUpLLTRXNTEtSkM4Vy1ZNDVH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55JK-4W51-JC8W-Y45G"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55JK-4W51-JC8W-Y45G&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Vis voor de toekomst; Smikkelende puppy Tirza brengt baasje op gouden idee</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>URK, vrijdag Druk kwispelend komt Tirza achter de loods van een Urker zeevishandel vandaan gewaggeld. Haar oogjes twinkelen, uit haar bek steken viskoppen met uitpuilende oogjes. De trotse pup neemt haar vangst mee naar een verlaten hoekje, waar ze de vishuiden zorgvuldig neerlegt. Enkele dagen later, als Geert Bakker met Tirza terugkomt op de plek, spoedt de hond zich richting haar schat. Ze inspecteert de inmiddels uitgedroogde vishuiden en begint te smikkelen.
+ Een moment dat ik nooit zal vergeten , glimlacht de 26-jariger Urker trots.  Op dat moment schonk Tirza mij een nieuwe toekomst. Alsof het zo moest wezen.  Net als veel van zijn leeftijdsgenoten leek Geerts toekomst te liggen in de vishandel. De industrie waarin ook zijn ouders werkzaam waren.  Maar de laatste jaren gaat het niet meer zo goed in de visbranche. Zodoende was ik gedwongen mijn marktwagen waarin ik vis aan de man bracht te verkopen. Vertwijfeld vroeg ik me af wat ik dan moest doen, tot Tirza mij het antwoord gaf: ik ging haar bij toeval ontdekte gedroogde vissenhuid verkopen als lekkernij voor honden en katten.  Met succes deed Bakker een beroep op subsidie van het Europese Visserijfonds, dat hem met vijfentwintigduizend euro steunde om zijn unieke vondst verder te ontwikkelen.
+Droogkast  De inventieve Urker visserszoon kocht een droogkast, waarna zijn nieuwe broodwinning kon starten.  Op Urk is door de vele visverwerkende bedrijven logischerwijs ook veel visafval beschikbaar. Tot dusverre werd er nauwelijks iets mee gedaan. De waarde ervan is daardoor nihil. Ideaal voor mij, aangezien ik zodoende goedkoop aan mijn  grondstoffen  kan komen.  Het drogen van de gefileerde vishuiden blijkt het Urker ei van Columbus.  Honden smullen ervan.
+Nu, negen maanden later, ben ik bezig zelf een tweede droogkast te bouwen, want de zaken gaan geweldig. Ik lever wekelijks 200 kilo gedroogde vissenhuiden af aan groothandels voor dierenvoer. Maar dat is nog niet alles. Ook het buitenland toont interesse in Tirza s vondst. Vooral China is zeer geïnteresseerd in de gedroogde vissenhuiden. Het zou prachtig zijn als Nederland hiermee weer een uniek exportproduct rijker is. 
+</dcterms:description>
+        <dcterms:extent>word, 359, 1; Blz. 5</dcterms:extent>
+        <dcterms:issued>2012-05-04</dcterms:issued>
+        <rdfs:label xml:lang="nl">Vis voor de toekomst; Smikkelende puppy Tirza brengt baasje op gouden idee</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,128 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MVhWLVNCVzEtRFlSWS1ONDRH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51XV-SBW1-DYRY-N44G"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=51XV-SBW1-DYRY-N44G&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Film van het jaar 2010 1 INCEPTION 2 UN PROPHÈTE ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/vk"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Film van het jaar 2010
+1 INCEPTION
+2 UN PROPHÈTE
+3 A SINGLE MAN
+4 EL SECRETO DE SUS OJOS
+5 ANOTHER YEAR
+6 THE SOCIAL NETWORK
+7 THE HURT LOCKER
+8 WINTER'S BONE
+9 A SERIOUS MAN
+10 TOY STORY 3
+11 SHUTTER ISLAND
+12 THE AMERICAN
+13 Yo, Tambien
+14 Des hommes et des dieux
+15 Harry Potter and the Deathly Hallows (part 1)
+16 Where the Wild Things Are
+17 Up in the Air
+18 Fantastic Mr. Fox
+19 Millennium 2: De vrouw die met vuur speelde
+20 Io sono l'amore
+21 Kick-Ass
+22 The Ghost Writer
+23 Haar naam was Sarah
+24 Tirza
+25 Sinterklaas en het pakjesmysterie
+26 Millennium 3: gerechtigheid
+27 Submarino
+28 The Road
+29 De gelukkige huisvrouw
+30 Lebanon
+31 The Kids Are All Right
+32 Alice in Wonderland
+33 Sint
+34 An Education
+35 De eenzaamheid van de priemgetallen
+36 Loft
+37 Exit Through the Gift Shop
+38 New Kids: Turbo!
+39 Mr. Nobody
+40 The Imaginarium of Dr. Parnassus
+41 Ajami
+42 Bad Lieutenant: Port of Call New Orleans
+43 Cell 211
+44 Sherlock Holmes
+45 Agora
+46 Machete
+47 Nowhere Boy
+48 Crazy Heart
+49 Potiche
+50 The Men Who Stare at Goats
+51 Lourdes
+52 Greenberg
+53 The Killer Inside Me
+54 Dogtooth
+55 You Will Meet a Tall Dark Stranger
+56 Majesteit
+57 Alamar
+58 Honey (Bal)
+59 The Illusionist
+60 Scott Pilgrim vs. The World
+61 Invictus 431
+62 Despicable Me / Verschrikkelijke ikke
+63 Lang
+64 Catfish
+65 Air Doll
+66 Soul Kitchen
+67 Robin Hood
+68 How to Train Your Dragon
+69 The Lovely Bones
+70 The Book of Eli
+71 Copie conforme
+72 Eyes Wide Open
+73 Die Fremde
+74 Iep!
+75 Four Lions
+76 Gainsbourg (vie héroïque)
+77 Janine
+78 Mother
+79 Eat Pray Love
+80 J'ai tué ma mère
+81 The Chronicles of Narnia: The Voyage of the Dawn Treader
+82 Shrek Forever After
+83 Dik Trom
+84 Salt
+85 Uncle Boonmee Who Can Recall His Past Lives
+86 Sex
+87 Harry Brown
+88 Le refuge
+89 Twilight Saga: Eclipse
+90 Prince of Persia: The Sands of Time
+91 My Queen Karo
+92 De eetclub
+93 Rapunzel
+94 The A-Team
+95 Life During Wartime
+96 Buried
+97 Vincere
+98 Iron Man 2
+99 The Town
+100 Het geheim
+De volledige uitslag (alle 332 films en de punten die ze hebben gekregen) is te vinden op http://cinema.nl)
+</dcterms:description>
+        <dcterms:extent>word, 327, FILM; Blz. 3</dcterms:extent>
+        <dcterms:issued>2011-01-13</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,44 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NUdHLVhZODEtRFlSWS1OMFA4">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55GG-XY81-DYRY-N0P8"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55GG-XY81-DYRY-N0P8&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Ik wil elke scène iets hoger tillen'</dcterms:title>
+        <dcterms:creator>Mark Moorman</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Actrice Sylvia Hoeks (28) speelt de hoofdrol in de nieuwe film van Oscarwinnaar Giuseppe Tornatore (Cinema Paradiso). 'Ik kan zo veel van deze mensen leren.'
+'Ze waren al heel lang op zoek naar de actrice die de hoofdrol in The best offer kon spelen. Het is een scenario van Tornatore zelf, waar hij heel lang aan heeft gewerkt, een heel spannend script, dat als een soort puzzel in elkaar zit. Ik mag eigenlijk niets over mijn rol vertellen, want anders zou ik al een paar essentiële dingen verklappen."
+De Nederlandse actrice Sylvia Hoeks zit momenteel in een Weense hotelkamer, in afwachting van haar eigen scènes. In The best offer staat ze tegenover grote acteurs als Donald Sutherland (Klute, The hunger games) en Oscarwinnaar Geoffrey Rush (Shine, The king's speech). Via IMDB (Internet Movie DataBase) is niet meer terug te vinden dan dat de nieuwe film van Tornatore in de hoogste regionen van de kunstmarkt speelt.
+Het is in elk geval een scenario dat Hoeks de komende maanden naar filmsets in Rome, Milaan, Triëst en Praag zal voeren. "Nee, dat is helemaal niet vervelend."
+"Het was Geoffrey Rush die me uiteindelijk heeft gevonden; hij had via mijn agent mijn showreel met fragmenten uit mijn werk gezien en bracht dat onder de aandacht van Giuseppe. Geoffrey Rush! Van hem ben ik al jaren fan, sinds Shine. En nu sta ik elke dag met hem op de set en kan ik van dichtbij zien hoe zulke mensen werken. Ik kan zo veel van deze mensen leren."
+Hoeks vloog naar Rome om auditie te doen. "Ik had een halve dag om een scène van drie pagina's in het Engels te leren. Spannend wel, maar er zijn zo veel dingen zenuwslopend aan dit vak. Ik vond het al heel leuk om naar Rome te gaan."
+En nu ze de rol heeft, de vrouwelijke hoofdrol nog wel tussen die giganten, moet ze zich af en toe in de arm knijpen. En dan wordt de filmmuziek ook nog eens geschreven door de legendarische Italiaanse componist Ennio Morricone.
+"Ik probeer zelf elke scène naar een iets hoger niveau te tillen en dat is niet moeilijk als je door zulke bevlogen, ervaren mensen omringd wordt. Het zijn niet alleen de acteurs. Giuseppe is een enorm bevlogen man die elk radertje in dat script kent, die ieder personage kent als de ribben in zijn eigen lijf. Zet mij maar op zo'n set neer; daar leef ik voor."
+Ze vergelijkt Tornatore met Nederlandse regisseurs als Jos Stelling en Alex van Warmerdam, "mannen die alles voor hun rekening nemen om een geheel eigen wereld te creëren. Als actrice heb je dan het gevoel in hun brein te zitten."
+Het is heel snel gegaan met Hoeks. Frank Ketelaar, de maker van de succesvolle televisieserie Overspel, meldde al dat hij heel blij was dat hij haar voor de tweede serie had kunnen strikken, die deze zomer wordt opgenomen, want hij voorzag een internationale carrière. Hoeks, voormalig model, speelde in Nederlandse speelfilms als De storm, Tirza en De bende van Oss (waarvoor ze zojuist weer 'beste actrice werd op het filmfestival van Luik) en in series als Vuurzee en Overspel. Later dit jaar is ze te zien in De Nederlands-Russische coproductie Het meisje en de dood van Jos Stelling en de Duitse komedie Vatertage.
+Druk? Welnee! "Ik geniet van dit vak en ik hoop het op mijn tachtigste nog steeds te doen. Dan ga ik omaatjes spelen."
+'Ik ben al jaren fan van Geoffrey Rush; nu werk ik elke dag met hem' 'Ik geniet van dit vak; ik hoop het op mijn tachtigste nog te doen'                               
+</dcterms:description>
+        <dcterms:extent>word, 567, Kunst En Media; Blz. 9</dcterms:extent>
+        <dcterms:issued>2012-04-24</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Ik wil elke scène iets hoger tillen'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>
