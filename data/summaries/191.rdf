@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OE1ILTNKUzEtRFlSWS1OM1BY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58MH-3JS1-DYRY-N3PX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58MH-3JS1-DYRY-N3PX&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>`Mijn naam op een verpakking.</dcterms:title>
+        <dcterms:creator>RENSKE BAARS </dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Amsterdam Fluitketel Le Lapin won in 1990 de eerste prijs in de ontwerpwedstrijd en is nog steeds te verkrijgen bij Nederlands bekendste winkel. Tirza Brems, conceptmanager innovatie en nieuwe markten bij de HEMA en huidig jurylid, snapt heel goed waarom de op een konijn lijkende fluitketel nog steeds een topontwerp is. ,,Hij past op alle punten bij onze filosofie: de kwaliteit is goed voor een relatief lage prijs, hij ziet er mooi uit en heeft een uniek systeem waarmee je met één hand de ketel kan optillen en het fluitje kan uitzetten. Dat had in de jaren '90 nog geen enkele ketel. Je was altijd aan het klooien met een doekje en verbrandde vaak je handen. Met Le Lapin was dat over.''
+Het is niet voor niks daarna overgenomen door andere ontwerpers. ,,Daaraan kan je wel zien dat het goed is,'' vindt Brems.
+Het thema voor de ontwerpwedstrijd van dit jaar is `organiseer je leven'. Brems legt uit: ,,Iedereen is druk en dan is het fijn als er oplossingen zijn die het leven een beetje makkelijker maken, zodat je meer tijd overhoudt voor leukere dingen.''
+Ze mag eigenlijk niets zeggen over de ontwerpen die zijn binnengekomen, maar wil toch een klein tipje van de sluier oplichten. ,,Het zijn vooral kleine producten, slimmigheidjes. Denk aan een klok die je helpt met je agenda. Of iets waardoor je je sokken niet meer kwijtraakt. Maar dan wel op een HEMA-manier. Mooi, goed en voor een redelijke prijs.''
+Studente Hiske Elferink, nu aan het bikkelen voor de laatste weken van haar studie Interaction Design aan de TU Delft, deed vorig jaar mee aan de wedstrijd. Zij kreeg veel publiciteit met haar `decolleté portemonnee', een idee dat uit nood werd geboren. Zelf wist ze, vooral in de zomer tijdens het salsadansen, niet waar ze haar portemonnee moest laten en stopte haar spullen daarom maar in haar bh. ,,Zeker als je gaat zweten, is dat niet fijn. Ik kon soms nauwelijks nog zien welk nummer op het briefje van de garderobe stond.'' Het leverde haar de publieksprijs op en een cv waarmee ze straks na haar studie de boer op kan: ,,Je naam op een verpakking in de winkel, hoe cool is dat!''
+slim idee
+Voor veel deelnemers is de HEMA-wedstrijd een opstapje. Het kartonnen taartplateau Tast Toe van ontwerpster Annet Hennink bijvoorbeeld, ligt nu in tientallen andere winkels. Logisch, stelt Brems, want zo'n slim idee wil iedereen wel verkopen. ,,Dit is een voorbeeld van een ontwerp waarvan ik me niet kon voorstellen dat het nog niet was bedacht. Dat hebben we wel vaker bij deze wedstrijd, het is een teken van een slim ontwerp. De studenten hoeven niet met gloednieuwe ideeën te komen, maar er moet wel een vernieuwend element aan zitten.''
+Het kartonnen plateau is bijvoorbeeld gemakkelijk op te bergen in een keuken, heel praktisch voor een gebruiksvoorwerp dat je meestal maar een paar keer per jaar op tafel zet. ,,Dat vonden we zó ingenieus! Bovendien past het ook gemakkelijk in onze schappen.  Nog zo'n detail waar de gewone sterveling niet op let. ,,Die schappen zijn maar 76 centimeter lang en daar moet het in kunnen liggen.''
+De HEMA maakt vandaag de uitslag bekend van de jaarlijkse ontwerpwedstrijd. Daarbij mogen studenten van designopleidingen ontwerpen insturen voor gebruiksvoorwerpen. Een van de verkoophits van de HEMA, de fluitketel Le Lapin ontstond op die manier.
+ontwerpwedstrijd hema is een paradijs voor jonge designers
+</dcterms:description>
+        <dcterms:extent>word, 558, Algemeen - Nieuwsdienst; Blz. 8</dcterms:extent>
+        <dcterms:issued>2013-06-11</dcterms:issued>
+        <rdfs:label xml:lang="nl">`Mijn naam op een verpakking.</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

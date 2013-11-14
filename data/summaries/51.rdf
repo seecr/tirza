@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjoxODg3MDIxODA=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:188702180"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Groeien in geloof en leven; werkboek voor kleine groepen; bronboek voor kleine groepen als hulpmiddel om te groeien in het christelijk geloof</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:202965449">
+            <skos:altLabel>Smith, James Bryan</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:202965570">
+            <skos:altLabel>Graybeal, Lynda L.</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:18258013X">
+            <skos:altLabel>Keesmaat-Ritmeester, Tirza M.</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>1999</dcterms:date>
+        <dcterms:publisher>Ekklesia, Gorinchem</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:extent>128 p</dcterms:extent>
+        <dcterms:subject>geloofsleven</dcterms:subject>
+        <dcterms:subject>Godsdienst, Godgeleerdheid</dcterms:subject>
+        <dcterms:identifier>9075569130</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

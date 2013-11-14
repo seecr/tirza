@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjoxODM5NDQ0MTA=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:183944410"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Wat komt er na drie... vier!</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:074551019">
+            <skos:altLabel>Dam, Arend van</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:115253947">
+            <skos:altLabel>Jagtenberg, Yvonne</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>1999</dcterms:date>
+        <dcterms:publisher>Van Holkema &amp; Warendorf, Houten</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>De tweeling Jules en Tirza worden vier en zijn dus al heel groot, want ze mogen naar school. Een nieuw broertje of zusje laat ze voelen dat ze al heel veel kunnen. Vanaf ca. 4 jaar.</dcterms:description>
+        <dcterms:extent>72 p</dcterms:extent>
+        <dcterms:subject>Gedichtenbundels</dcterms:subject>
+        <dcterms:subject>jeugdboeken ; verhalen</dcterms:subject>
+        <dcterms:subject>Kinderboeken, Stripverhalen</dcterms:subject>
+        <dcterms:subject>Kleuterverhalen</dcterms:subject>
+        <dcterms:subject>Verhalenbundels</dcterms:subject>
+        <dcterms:isFormatOf rdf:resource="urn:ppn:362496889"/>
+        <dcterms:identifier>9026992297</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

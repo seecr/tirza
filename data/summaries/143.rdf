@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M0tELUJSQjEtRFlSWS1OMDk4">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53KD-BRB1-DYRY-N098"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53KD-BRB1-DYRY-N098&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>De boekverfilming  heeft nu ook een eigen prijs</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Tirza, Sonny Boy en Komt een vrouw bij de dokter; veel recente Nederlandse succesfilms zijn boekverfilmingen. Dat is reden voor het filmfestival Film by the Sea in Vlissingen om een nieuwe prijs voor boekverfilmingen te introduceren. Het Zeeuwse festival, dat plaatsvindt van 9 tot 18 september,  gaat een samenwerking aan met CPNB, de stichting Collectieve Propaganda van het Nederlandse Boek.  De stichting laat het publiek stemmen op zijn favoriete boekverfilming en reikt op basis hiervan de CPNB Film- en Literatuurprijs uit. Twaalf films, waaronder    Oranges and Sunshine van Jim Loach en The Music Never Stopped,  naar een verhaal van Oliver Sacks, dingen mee.
+,,Film en boek zijn door  internet, apps en e-books steeds nauwer met elkaar verbonden", zegt Eppo van Nispen tot Sevenaer, directeur van de CPNB. ,,En door boekverfilmingen kan een breed publiek enthousiast worden gemaakt om te gaan lezen. Dat hopen wij met deze samenwerking te stimuleren." Zelf  vindt Van Nispen tot Sevenaer boeken ,,eigenlijk altijd beter. Omdat je er je eigen fantasie in kwijt kan."
+Voorgaande jaren kwamen bijna alle genres  van het festival voor de publieksprijs in aanmerking. Dit jaar zijn dat alleen de twaalf boekverfilmingen uit de competitie, die ook worden beoordeeld door de vakjury waarin onder anderen  regisseur Paul Verhoeven plaatsneemt.
+Filmfestival Film by the Sea  doet meer om mensen te stimuleren om te gaan lezen. Zo onderhoudt  het festival goede banden   met de Zeeuwse Bibliotheek en boekhandels. ,,Als mensen een boek lenen krijgen ze korting op een ticket voor onze boekverfilmingen", vertelt Leo Hannewijk, directeur van het festival. ,,De boekwinkel De Drvkkery  in Middelburg zorgt dat ze tijdens het festival de boeken die wij in filmvorm vertonen op voorraad heeft."
+Op de laatste zondag van het festival, 18 september, zijn er vier CPNB Film- en Literatuurroutes waarbij het publiek per route drie bijzondere boekverfilmingen uit de competitie kan bekijken.
+</dcterms:description>
+        <dcterms:extent>word, 329, Cultuur</dcterms:extent>
+        <dcterms:issued>2011-08-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">De boekverfilming  heeft nu ook een eigen prijs</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

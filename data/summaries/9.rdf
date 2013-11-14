@@ -1,0 +1,26 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvQ0RSL0NEWDEwMzI=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/CDR/CDX1032"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Sound"/>
+        <rdfs:seeAlso rdf:resource="http://media.cdr.nl/COVER/SMALL/FRONT/CDX1032.jpg"/>
+        <rdfs:seeAlso rdf:resource="http://media.cdr.nl/COVER/SMALL/BACK/CDX1032.jpg"/>
+        <dcterms:title>Recordered</dcterms:title>
+        <dcterms:creator>Piepers, Tirza</dcterms:creator>
+        <dcterms:contributor>Piepers, Tirza</dcterms:contributor>
+        <dcterms:date>2005</dcterms:date>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:extent>1 compact disc</dcterms:extent>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

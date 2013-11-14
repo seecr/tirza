@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjoyOTgzNDM4NTE=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:298343851"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Geloofwaardig opvoeden; op zoek naar richting en ruimte</dcterms:title>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:241684005">
+            <skos:altLabel>Laar-Jochemsen, Tirza van</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:249549557">
+            <skos:altLabel>Gerkema-Mudde, Judith</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>2006</dcterms:date>
+        <dcterms:publisher>De Vuurbaak, Barneveld</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Artikelen over geloofwaardig opvoeden, geschreven vanuit een christelijke invalshoek.</dcterms:description>
+        <dcterms:extent>94 p</dcterms:extent>
+        <dcterms:subject>Christelijke visie</dcterms:subject>
+        <dcterms:subject>geloofsopvoeding</dcterms:subject>
+        <dcterms:subject>Godsdienstige opvoeding</dcterms:subject>
+        <dcterms:subject>Onderwijs, Opvoeding</dcterms:subject>
+        <dcterms:subject>Opstellen</dcterms:subject>
+        <dcterms:subject>Opvoeding</dcterms:subject>
+        <dcterms:isPartOf rdf:resource="urn:ppn:214064182"/>
+        <dcterms:identifier>9055603562</dcterms:identifier>
+        <dcterms:identifier>9789055603565</dcterms:identifier>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

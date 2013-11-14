@@ -1,0 +1,61 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NFA0LVAxTjEtSkM4Vy1ZMzlH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54P4-P1N1-JC8W-Y39G"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54P4-P1N1-JC8W-Y39G&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Na geweld is er geen weg meer terug'; Pieter Kuijpers en Gijs Scholten van Aschat over moralistisch geladen film 'Doodslag'</dcterms:title>
+        <dcterms:creator>Dana Linssen</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Arme Mark Rutte. Een jaar nadat hij had gezegd dat hij de samenleving wilde terugveroveren op de hufters, is er een film die laat zien hoe dat gaat. Of beter gezegd: niet gaat. Doodslag van Pieter Kuijpers (Van God los, TBS) volgt ambulancechauffeur Max (Theo Maassen) nadat hij zich door televisiecabaretier Felix (Gijs Scholten van Aschat) heeft laten opjutten om van zich af te slaan. Precies te doen wat Rutte zegt dus. En dan escaleren de zaken. Max redt een baby en slaat een Marokkaanse jongen dood. Een prikkelende en actuele film over alledaagse dilemma's. Over de dunne scheidslijn tussen held en hufter. Over manipulatie. Over de vraag of woorden gevaarlijker zijn dan daden.
+Felix zegt op een gegeven moment tegen Max: ,,Ik zeg dingen die iedereen zou willen zeggen, maar niet durft. Jij doet dingen die iedereen zou willen doen, maar niet durft." Denken versus doen, is dat het centrale dilemma van de film?
+Gijs van Scholten van Aschat: ,,Als je naar de film kijkt, denk je heel vaak 'wat zou ik doen', of 'doe dat nou niet' of 'waarom doet hij nu dit?' Dat is wat mij aantrok in het script, dat de film al die vragen opwerpt en bij de kijker legt en niet zelf beantwoordt. Veel films werken bevestigend. Ik hou van kunst die vragen oproept."
+Pieter Kuijpers: ,,Mijn moeder zei altijd 'Je kunt de duivel er wel inslaan, maar je slaat hem er nooit meer uit.' Er is een groot verschil tussen wat je zegt en wat je doet. Je wordt afgerekend op wat je doet. Iets doen is onherroepelijk. En dat geldt zeker voor het geweld in de film. Na geweld is er geen weg meer terug. Dat is een vraag die leeft. Dat zie je ook aan die Sire-spot. Ambulancepersoneel aanvallen is de ultieme schoffering."
+Een van de dingen waar de film over gaat is moraal. Goed handelen. Dus gaat het niet toch meer om daden dan om woorden? Een van de sleutelzinnen van de film, geschreven voordat dat zo'n gevleugelde uitspraak in de Tweede Kamer werd, en door bijna alle personages wel een keer in de mond genomen, is 'Doe eens normaal man.'
+Kuijpers: ,,Volgens mij moet de hele maatschappij in therapie. Weer tot tien leren tellen. De emoties, de onderbuik, en de negatieve gevoelens die daar zitten, de haat en de wrok en de jaloezie, die mogen we allemaal maar spuien. Dan wordt de stap om daar daden aan te koppelen steeds kleiner. Maar op het moment dat je de daad bij het woord voegt, ben je de lul, de verliezer. Dan heb je het cynische spelletje dat iedereen speelt verloren, terwijl jij denkt dat je die inbreker in je huis moest doodslaan. Nou doe het maar eens. Iedereen roept van alles, maar de consequenties daarvan zijn heel serieus. En als er dán wat gebeurt zegt men opeens dat het maar een grapje was, of een metafoor."
+En wie is moreel verantwoordelijk? Ook een van de vragen die Felix oproept.
+Scholten van Aschat: ,,We worden gedreven door marktgericht denken. Of we het nu over de kunsten hebben of over de media. Dat heeft sinds Thatcher en Reagan in de jaren tachtig heel veel kapot gemaakt. De markt neukt je in de reet en laat je uitgewoond achter. Als meningen markt worden, bestaat het risico dat je je mening aanpast aan de marktwaarde. De hysterie van de media wordt niet ingegeven door morele verontwaardiging, maar wordt door de markt bepaald. Als je iets zegt wat niemand wil horen, wil niemand bij je adverteren. Dat moet doorbroken worden door een gezamenlijk idee over de wereld waarin we willen leven. Wordt die geregeerd door marktdenken of door een ideaal? Dit is het eerste script dat ik las dat laat zien hoe manipulatief het allemaal is. Felix zegt aan het eind: 'Ik kan alles zeggen, het maakt niet uit, dat is een trucje, daar betalen de mensen voor, daar moet je mij niet op afrekenen.'''
+Dat is tamelijk cynisch. Geen spijt. Geen dieper inzicht.
+Scholten van Aschat: ,,Ik weet niet of jij de afgelopen twintig jaar een politicus die in de problemen is gekomen op een dieper inzicht hebt kunnen betrappen. Dat zie je bij Shakespeare nog wel eens, dat de koning op het einde tot inkeer komt. De enige manier waarop de meeste mensen zich nu nog kunnen permitteren om goed te doen, is als ze hun schaapjes op het droge hebben. Ze hebben iedereen uitgewoond en kunnen nu de mecenas spelen. Dan komt het ze goed uit."
+Kuijpers: ,,Van alles wat je ontdoet van een bepaald ideaal blijft alleen maar een façade van marktwerking over."
+Wat moeten we dan wel doen?
+Kuijpers: ,,Hoe kun je je beschaafd verzetten tegen onbeschaafdheid? Dat is een goede vraag."
+Scholten van Aschat: ,,Misschien moet je gaan huilen."
+En dan zegt Felix 'Wat zit je nu te huilen watje?'
+Scholten van Aschat: ,,Felix draait sowieso alles om."
+Kuijpers: ,,De film draait alles om: cabaretiers spelen serieuze rollen, serieuze acteurs zijn cabaretiers. Eigenlijk is het raar. Volgens de wet mag je nu van alles op het gebied van eigenrichting. Maar toch weet je niet wat je zelf zou doen in zo'n situatie. Als je terugslaat heb je bij voorbaat verloren, dan ben je nog hufteriger dan de hufters."
+Hoe hufterig is de wereld eigenlijk?
+Scholten van Aschat: ,,Als ik bij mezelf kijk valt het eigenlijk wel mee. Het is ook wel heel erg makkelijk om te zeggen dat iedereen zich maar hufterig gedraagt."
+Kuijpers: ,,Alsof de hufters al gewonnen hebben. Dat is een beetje wat Mark Rutte suggereert."
+Scholten van Aschat: ,,Het probleem is dat de elite wordt afgeserveerd en voor schut gezet. Politici zijn geen elite meer. Ik heb het idee dat ze geen boek lezen en niet naar de schouwburg gaan. Hoe kun je dan nog verwachten dat zij moreel leidinggevend zijn?"
+Ligt daar een rol voor de kunst?
+Kuijpers: ,,Ik hoop wel dat  mensen door deze film de mechanismen gaan zien, in de gaten krijgen dat ze zich laten manipuleren. Of ze een ander leven gaan leiden weet ik niet. Ze hebben wel een ander inzicht aangeboden gekregen."
+Scholten van Aschat: ,,Een van de grote waarden in de kunst is de verbeelding.  Ik las laatst ergens dat zonder verbeelding mensen sociaal niet kunnen functioneren. Als je je kunt voorstellen wat het betekent om een klap te krijgen, ben je minder snel geneigd om zelf iemand een klap te geven."
+'Doodslag' draait vanaf donderdag in 50 bioscopen. Morgen is in de bijlage Film een recensie te lezen.
+Kuijpers en Scholten van Aschat
+Regisseur Pieter Kuijpers (1968) maakt met  Van God los in 2003 een overdonderend debuut waarin hij de dunne lijn tussen goed en kwaad, vriendschap en verraad onderzoekt. Door de rauwe combinatie van geweld en religie in die film wordt hij ook wel de Nederlandse Martin Scorsese genoemd, een filmmaker die hij zeer bewondert. Ook zijn films Offscreen, Dennis P. en TBS zijn gebaseerd op ware gebeurtenissen.
+Acteur Gijs Scholten van Aschat (1959) is als filmacteur vooral bekend van zijn rol van Jörgen Hofmeester in Tirza (2010). Zijn filmdoorbraak kwam met het door Maria Goos geschreven Cloaca, dat na een succesvolle theatertournee in 2003 door Willem van de Sande Bakhuyzen voor film werd bewerkt.
+</dcterms:description>
+        <dcterms:extent>word, 1184, Cultuur</dcterms:extent>
+        <dcterms:issued>2012-01-10</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Na geweld is er geen weg meer terug'; Pieter Kuijpers en Gijs Scholten van Aschat over moralistisch geladen film 'Doodslag'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

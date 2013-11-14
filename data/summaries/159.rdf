@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzhELUc2SjEtRFlSWS1OMDlW">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/578D-G6J1-DYRY-N09V"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=578D-G6J1-DYRY-N09V&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Opstelten looft Amsterdam</dcterms:title>
+        <dcterms:creator>MARCEL WIEGMAN EN TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>DEN HAAG- Het kan verkeren: Amsterdam is een voorbeeld voor het softdrugsbeleid in Nederland. Aldus VVD-minister Ivo Opstelten (Veiligheid en Justitie). Opstelten zei dat gisteren in de Tweede Kamer, waar hij uitleg moest geven over de afschaffing van de wietpas, nog voordat die was ingevoerd. Daarvoor in de plaats is een legitimatieplicht gekomen en de eis dat alleen ingezetenen van Nederland in de coffeeshop mogen komen. "Feitelijk een wietpas-de-luxe," aldus SP-woordvoerder Tine Kooimans. 
+
+          
+          Amsterdam is niet van plan de nieuwe regels te handhaven: daar blijven toeristen welkom. Dat is, aldus Opstelten, geen probleem, omdat Amsterdam zo voortvarend is met andere maatregelen tegen drugsoverlast. Opstelten sprak zijn waardering uit voor de beslissing van burgemeester Eberhard van der Laan om blowen op schoolpleinen te verbieden. Ook wees hij erop dat in Amsterdam een derde van de coffeeshops dicht moet en geen één op minder dan 250 meter van een school mag liggen. "Laten we eerst kijken hoe dit uitpakt en dan verder praten over het handhaven van het ingezetenencriterium," zei hij tegen de Kamer. Opstelten stelde Amsterdam ten voorbeeld aan andere gemeenten. Die mogen bij hem op gesprek komen als ze niet meteen willen beginnen met het handhaven van de nieuwe regels. "Maar wie met een briefje komt met 'doen we niet', is aan het verkeerde adres. Ik accepteer niet alles." De minister gaat op verzoek van de Kamer praten met gemeenten die willen experimenteren met kleinschalige wietteelt voor hun coffeeshops, zoals Rotterdam, Utrecht, Leiden, Leeuwarden, Nijmegen, Eindhoven, Tilburg en Breda. Hij zei wel tegenstander te zijn van legalisering van drugs. "Nederland zou zich de grootste juridische problemen op de hals halen en het afvoerputje van Europa worden. Zelfs Amsterdam wil daar niet aan." Veel gemeenten willen door zelf wiet te telen een oplossing bieden voor het feit dat de verkoop van softdrug wordt gedoogd, maar coffeeshops voor de bevoorrading zijn aangewezen op het illegale circuit. Opstelten zal een inventarisatie maken. Die moet over een jaar af zijn. Hij zal daarin ook de stand van zaken onderzoeken in Europa en de Verenigde Staten. De oppositie was geïrriteerd over het feit dat Opstelten al bij voorbaat duidelijk maakte zelf tegenstander te zijn van legale wietteelt. "Dan zijn gesprekken bij voorbaat zinloos," zei Magda Berndsen van D66.
+</dcterms:description>
+        <dcterms:extent>word, 397, Nieuws; Blz. 7</dcterms:extent>
+        <dcterms:issued>2012-12-14</dcterms:issued>
+        <rdfs:label xml:lang="nl">Opstelten looft Amsterdam</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

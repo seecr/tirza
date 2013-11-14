@@ -1,0 +1,50 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81ODlWLTM1NzEtRFlSWS1ONERH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/589V-3571-DYRY-N4DG"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=589V-3571-DYRY-N4DG&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Zoute zigeuners' verdwijnen op weg naar een glimp van het noorderlicht; Zeilboot met deel van vriendengroep na vertrek uit Schotland vermist op de Noordzee</dcterms:title>
+        <dcterms:creator>Hans Steketee</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+,,Het noorderlicht is goed voor je ziel. Ga je mee?" Arnout Brouwer vroeg het in de kroeg, kort nadat hij en een groep vrienden vorig jaar in Arnouts boot naar het Oerol-festival in Terschelling waren gezeild. Daar hadden ze gespeeld met hun band. Waarom niet naar Noorwegen? Jesse den Dulk hoefde niet lang na te denken. ,,Met Arnout kon je de wereld aan", zegt hij.
+Op 17 maart vertrokken ze uit Schiedam, met zijn achten: Arnout (47), anarchist, lasser en baritonsaxofonist; zijn vriendin Tirza en haar tweelingzus Dana, die allebei zingen in bandjes; Dana's Italiaanse vriend Nicola; Jesse (23), die een Rotterdamse animatiestudio runt en gitaar speelt; zijn vriendin Imge; zijn compagnon Adriaan en Peter, een vriend van Arnout en ook muzikant. Imge is met achttien jaar de jongste en is net een kledingatelier begonnen. Peter (50) is de oudste.
+De Warnow is geen gewone zeilboot, maar een door Arnout verbouwd Duits loodsbootje van vijftien meter. De mast is geen mast, maar de arm van een hijskraan, de zeilen zijn van een platbodem geweest. Niet een schip dat erg zeewaardig oogt, maar tot nu toe was het goed gegaan. Tot nu toe. In het Schotse Stonehaven splitste de groep. Jesse, vier anderen en de hond Razzie gingen na een pijnlijk groepsgesprek van boord, en reisden met een omweg terug naar Rotterdam. Arnout, Tirza en 'Peet' zetten de reis naar Noorwegen door. Een week geleden hadden ze moeten aankomen, maar het bleef stil.
+Zondag belde Jesse ongerust de Schotse en de Noorse kustwacht. De Warnow heeft geen satelliettelefoon en geen automatisch baken aan boord dat hun positie doorgeeft. Ze navigeren met een iPhone. Maar niemand heeft een mayday (noodoproep) ontvangen, daarom is het onmogelijk een gerichte zoekactie op te zetten. En de Noordzee is groot. De kustwacht heeft andere schepen dringend gevraagd naar de zeilboot uit te kijken. Schotse en Noorse patrouillevliegtuigen zoeken tijdens hun reguliere vluchten mee.
+Documentaire
+Het idee was: naar Engeland en Schotland, spelen in kroegen en op straat. Arm maar gelukkig. Dan de oversteek en het noorderlicht. The Warnow Experience Aurora, doopten ze op de dag van vertrek de Facebook-pagina die Jesse op hun reis zou bijhouden. Hij hoopt ook een documentaire te maken over hun bestaan als 'zoute zigeuners'. Hij filmt en de muziek die ze spelen, moet ook de soundtrack worden.
+Het scheelde weinig of de reis was al eerder afgelopen. Meteen na vertrek werd de voorspelde windkracht 6 een 8 en zelfs een 9. De iPhone had geen bereik meer en ze konden geen weerbericht binnenhalen.
+Onder zeil ploegden ze naar het noorden, zeeziek. Aan boord was het een puinhoop; alles wat vast zat, kwam los. Na drie dagen besloten ze de haven van Whitby aan te lopen, aan de Engelse Oostkust. Ze startten de motor en verlegden de koers naar het westen, de Warnow surfend in de enorme zeegang.
+Voor Whitby stopte de motor, de koelwaterinlaat was verstopt geraakt. Daarna viel ook de stuurinstallatie uit. Per marifoon vroegen ze om hulp. Die kwam: de lifeboat van Whitby, een grote oranje boot vol gehelmde mannen. Een andere reddingboot was  ook uitgerukt. Het kostte ze een vol uur om een sleeptros over te brengen, waarbij de eerste reddingboot ook averij opliep. De oosterstorm was toen zo hard dat ze Whitby niet meer binnen konden. In vier uur werden ze naar het noorden gesleept, de monding van de Tees in. Die middag meerde de Warnow af in Middlesbrough. Ze haalden de voorpagina van de Whitby Gazette. 'Stormen slopen onze reddingboot' was de kop, met een foto erbij van de Warnow in een woeste zee op sleeptouw. Later zetten ze een vrolijke foto van zichzelf met die krant op Facebook - In the local papers!, staat erbij.
+Ze bleven twee weken in Middlesbrough om de ergste schade te repareren. Arnout is handig. Van de havendienst kregen ze 1.500 liter water, want in hun eigen drinkwatertank was zeewater binnengedrongen. In The Mink speelden 'The Crazy Dutch' al improviserend het dak eraf, in ruil voor gratis bier. ,,We waren beroemd", zegt Jesse. Maar de twijfel was begonnen.
+Gunfactor
+,,Je zit op elkaar, eet, poept, vrijt waar iedereen bij is", zegt Jesse. ,,De gunfactor lag hoog en de vibe was er: we gaan het doen. Maar die storm was heftig. Mijn vriendin wou weg. Dana en Nicola vonden het onverantwoord. We waren geen geoliede machine. Dat van die storm had niet mogen gebeuren."
+Ze vertrokken, bereikten Montrose in Schotland, even ten noorden van Edinburgh. Daar viel het besluit. Ze zouden het Noorse plan opgeven. Ze zouden nog een stukje noordelijker varen, naar Stonehaven, en dan weer afzakken. Dan maar geen noorderlicht. De groep was te belangrijk.
+Maar in Stonehaven hadden Arnout, Tirza en Peter zich bedacht. Ze zouden toch naar Noorwegen gaan. Wie niet meewilde, kon afstappen. ,,Dat betekende voor ons dat het avontuur hier zou eindigen", zegt Jesse. ,,Niet samen uit, samen thuis. Dat deed pijn. Voor hen zou het ook zwaar worden. Ik vertrouwde Arnout wel, maar er was opnieuw harde wind voorspeld."
+Ze namen al hun spullen mee van boord: muziekversterkers, Imge's naaimachine en haar stoffen, een zonnepaneel dat van Dana en Nicola was. ,,Arnout zag zijn boot kaalgeplukt worden. Op het laatst hadden we bijna ruzie over een pak suiker. We hebben nog een keer samen gespeeld, en het zo afgesloten. Om vier uur 's nachts zijn ze vertrokken."
+Dat was op 15 april. Ze hadden geen specifieke haven als bestemming. De wind zou de koers bepalen. Op de dag van vertrek, aan de Schotse kant, heeft Arnouts iPhone nog een elektronische kaart gedownload van Noorse wateren. Daarmee zouden ze aan de overkant enige steun hebben gehad bij het navigeren. Sindsdien ontbreekt elk bericht. Het thuisfront put hoop uit een verhaal dat het Noorse mobiele netwerk had vastgesteld dat een sms'je van Arnouts dochter door diens iPhone was opgepikt. Dat zou betekenen dat ze toen in Noorse wateren waren. Maar het is niet te verifiëren.
+,,Mijn hart zegt dat ze ergens in een fjord voor anker liggen, een beetje vissen, en nog een glimp noorderlicht opvangen", zegt Jesse. ,,Arnout laat wel vaker lang op zich wachten. Krijg je na twee weken een sms'je." Hij wacht even. ,,Maar het is niks voor Peter om niks te laten horen. Zijn meisje zit te wachten en hij is altijd juist heel punctueel."
+</dcterms:description>
+        <dcterms:extent>word, 1068, Binnenland; Blz. 14</dcterms:extent>
+        <dcterms:issued>2013-05-01</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Zoute zigeuners' verdwijnen op weg naar een glimp van het noorderlicht; Zeilboot met deel van vriendengroep na vertrek uit Schotland vermist op de Noordzee</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

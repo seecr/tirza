@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NkI1LVBUMzEtSkM4Vy1ZMlc4">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/56B5-PT31-JC8W-Y2W8"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=56B5-PT31-JC8W-Y2W8&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Heen en weer, vijftig keer</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT zomerwerkers@parool.nl</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Het stille water van de Holysloter Die baadt in het zonlicht. Aan een tafeltje bij de kleine jachthaven geniet Bart John (43) van de zomerse dag. Als er twee gebruinde zestigers aan komen fietsen, springt hond Raja kwispelend in zijn bootje, zijn neus angstaanjagend dicht tegen de motor. "Zwemmen doet hij niet," zegt John lachend. "Maar hij kan al bijna zelf sturen."
+John vaart van half april tot 1 oktober met zijn voetveer van Holysloot naar de weilanden van Broek in Waterland. In juli en augustus elke dag, in de andere maanden op feestdagen en in het weekend. Vanaf de kleine jachthaven van zijn ouders zet hij voetgangers en fietsers het kleine strookje water over. Al 26 jaar, naast zijn werk bij een loodgietersbedrijf in Monnickendam. "In de zomer werk ik zeven dagen per week."
+Zijn grootouders begonnen in 1936 de jachthaven, het voetveer wordt al sinds de achttiende eeuw op een paar jaar halverwege de vorige eeuw na door zijn familie beheerd. "Vroeger waren het vooral mensen die van Broek in Waterland naar de stad moesten om te werken. Tegenwoordig zet ik voornamelijk dagjesmensen over."
+De overtocht duurt nog geen vijf minuten. "Soms ben ik het wel zat, als ik op een dag vijftig keer op en neer ga en steeds maar weer dezelfde vragen krijg. 'Hoe heet dit water, hoe vaak ga je per dag over' dat soort dingen." Maar over het algemeen geniet hij. "Je spreekt toch heel veel mensen, maakt van alles mee." Soms verleiden mensen hem aan het eind van de dag om voor wat extra geld een kleine rondvaart te maken.
+De mooiste vaart van zijn carrière maakte John in 1986, toen hij koningin Beatrix over mocht zetten. "Ze zou eigenlijk met haar hele gevolg naar de overkant, maar ze wilde per se in haar eentje." Bloednerveus was hij. "Ze was heel aardig, maar ik heb de hele oversteek geen woord uitgebracht."
+Het is geen vetpot. Zijn ouders stoppen na deze zomer met de haven. John neemt het bedrijf niet over.
+Of hij nu ook gaat stoppen met het voetveer? "Ik denk er elk jaar weer over, na zo'n hele zomer duizenden keren dat rotstukje op en neer. Maar zodra de winter op zijn einde loopt, kijk ik er toch altijd weer naar uit. Je ontmoet zó veel mensen, je ziet zó veel dingen gebeuren op dat kleine stukje water dat blijft prachtig."
+Terwijl de meeste mensen op vakantie gaan, moeten sommige mensen juist in de zomer aan de slag. Vandaag: de veerbaas van Holysloot.
+</dcterms:description>
+        <dcterms:extent>word, 395, Amsterdam; Blz. 12</dcterms:extent>
+        <dcterms:issued>2012-08-13</dcterms:issued>
+        <rdfs:label xml:lang="nl">Heen en weer, vijftig keer</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

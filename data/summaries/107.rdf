@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MVg2LVZTMzEtSkM4Vy1ZM0Q4">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51X6-VS31-JC8W-Y3D8"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=51X6-VS31-JC8W-Y3D8&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Ik begon voor Kerst al in paniek te raken'; interview Artistiek leider jakop ahlbom</dcterms:title>
+        <dcterms:creator>Harmen Bockma</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/vk"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>AMSTERDAM 'Het was Sisyfusarbeid. Elke keer als we dachten, dít is het, nu hebben we een goede scène, raakten we het weer kwijt. Wat we in de studio hadden bedacht, wilde in de grote zaal niet lukken, waardoor we in grote tijdnood kwamen.'
+De eerste try-out van het nieuwe stuk Dracula zou op 20 januari plaatsvinden, maar woensdag zette artistiek leider en mimespeler Jakop Ahlbom de repetities stop. Definitief, deelde hij de spelers mee, onder wie Kees Hulst en Sylvia Hoeks. 'Ik heb er wakker van gelegen, maar ik moest de conclusie trekken: de poging om tekst en beweging te combineren wil niet slagen.'
+Ahlbom (Zweden, 1971) is tot nu toe een succesvol theatermaker geweest. Hij maakte geprezen stukken als Vielfalt (geselecteerd voor het Theaterfestival van 2008) en De Architect. Bij de Salzburger Festspiele was Innenschau te zien. Het zijn beeldende, vaak surrealistische producties. Het Fonds Podiumkunsten kende hem in 2009 een vierjarige subsidie toe. Dracula zou zijn eerste productie voor de grote zaal zijn geworden.
+Waarover had Dracula moeten gaan?
+'De tekst is gebaseerd op het leven van de acteur Béla Lugosi, die beroemd is geworden door zijn rol van graaf Dracula, maar waarvan hij ook nooit meer is losgekomen. De tijd van Dracula, die van Lugosi en het heden spelen door elkaar. Uiteindelijk gaat het over onderbewuste angsten en verlangens.'
+Heeft u zich vertild aan het idee een stuk voor de grote zaal te maken?
+'Jakop gaat voor groots, met grote namen. Zie je wel, die heeft te veel hooi op zijn vork genomen. Die kritiek zal wel gaan klinken. Onzin. Ik wilde geen grote productie maken om de status, maar om de technische mogelijkheden. In een grote zaal kun je mensen laten vliegen, kun je de zijtonelen gebruiken.'
+Wat is er precies misgegaan?
+'Het is heel moeilijk om dat te benoemen. De chemie was het probleem niet. Maar er ontstond een rare golfbeweging. Wat de ene dag onstond, waren we de volgende dag weer kwijt. In de montage in de grote zaal kwam er niet uit wat we wilden. Ik begon voor Kerst al in paniek te raken. Want we hadden steeds minder tijd.'
+Het is nogal wat om dit tegen een Louis d'Or-winnaar te moeten zeggen.
+'Ik had Kees al eerder gevraagd, voor hij won met zijn rol in Tirza als Jörgen Hofmeester. En het was natuurlijk heel bijzonder dat Sylvia Hoeks, die in de filmversie Tirza speelt, tegenover hem zou staan. Maar ik vind niet dat ik hier het publiek voor mocht laten betalen. Het gaat om de artistieke kwaliteit. Ik moet erachter kunnen staan.'
+U levert geen waar voor de subsidie die u krijgt.
+'Dit mag niet nog een keer geschieden. Maar kunst begint met iets wat er nog niet is, dit kan gebeuren. Je moet de grenzen opzoeken, anders blijf je steken in veilige oplossingen. Ik kan alleen maar hopen dat het respect voor wat ik doe intact blijft.'
+Dracula, de eerste grotezaalproductie van de geprezen theatermaker Jakop Ahlbom, zou op 2 februari in première gaan. Maar hij blies het af. 'Ik moet erachter kunnen staan.'
+</dcterms:description>
+        <dcterms:extent>word, 494, KUNST; Blz. 13</dcterms:extent>
+        <dcterms:issued>2011-01-10</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Ik begon voor Kerst al in paniek te raken'; interview Artistiek leider jakop ahlbom</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,53 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NVdULUNXNzEtRFlSWS1OMks3">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55WT-CW71-DYRY-N2K7"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55WT-CW71-DYRY-N2K7&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Daar eet de vos niet tegenop'</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Het Westerpark kampt met een konijnenplaag. De knaagdieren richten schade aan op begraafplaatsen, sportvelden en schooltuinen. Er iets tegen doen is lastig.
+De schooltuintjes in het Westerpark liggen er treurig bij. Peperplantjes waar niets van over is, uitgegraven dahliabollen, aangevreten radijsjes, geen van de vijfhonderd netjes aangeharkte perceeltjes is gespaard gebleven.
+René Roelofs, educatief medewerker van het complex, zoekt elke week nieuwe manieren om de hardwerkende kinderen van groep zes voor te bereiden op de ravage die ze zullen aantreffen als ze hun bloemen en groenten weer willen verzorgen. "Soms begin ik zelf te huilen als de kinderen binnenkomen. 'Jongens, wat me nu toch gebeurd is!' schreeuw ik dan. Ze vinden me dan zo zielig dat ze zelf vergeten te huilen."
+De grote boosdoeners zijn konijnen. Dertig zijn er laatst op het kleine tuinencomplex geteld. Al maanden houden ze huis op de veldjes, waar kinderen van 25 scholen een jaar leren hoe ze moeten tuinieren.
+Het schooltuinenveld is niet de enige plaats die wordt geteisterd door de knaagdieren. Op en rondom het Westerpark wemelt het van de konijnen. Op de in de buurt gelegen volkstuincomplexen vreten zij de planten op en op de velden van SDZ op de Transformatorweg ruïneren ze het gras door er gangen en kuilen te graven.
+Ook op begraafplaats Sint Barbara houden de konijnen huis. "Het is een ramp; er zitten hier wel honderd konijnen," zegt beheerder Annie Degenkamp. Mensen plaatsen een mooie bos bloemen op een graf en de volgende dag is alles opgevreten." Vroeger had de begraafplaats een jager, maar van stadsdeel West mogen konijnen niet meer worden afgeschoten.
+Het Westerpark en omgeving is niet het enige gebied in Amsterdam waar konijnen welig tieren. "Ik heb er gisteren in het Diemerpark ruim tweehonderd geteld," zegt stadsecoloog Martin Melchers.
+Dat de konijnen een plaag vormen, komt volgens Melchers doordat het voor ze in de stad, met al zijn voedsel, goed toeven is. Bovendien barst het van 'de dumpertjes', tamme konijnen die voor een habbekrats zijn gekocht en die ergens zijn achtergelaten nadat hun baasje op hen is uitgekeken.
+Natuurlijke jagers, zoals vossen, buizerds en reigers, kunnen er niet tegenop eten. "De vossen wonen midden tussen de snacks. Maar ja, die hebben op een gegeven moment ook hun buik vol," zegt Melchers.
+Daarnaast zijn steeds meer konijnen resistent voor de virusziektes myxomatose en viral hemorhagic syndrome (vhs), die de populatie nog enigszins in bedwang hielden.
+Het binnen de perken houden van de konijnenpopulatie wordt dus steeds lastiger. Afschieten mag niet meer. Konijnen zijn beschermd. Bovendien is afschieten een kwestie van symptoombestrijding, zegt Peter van Poelgeest. "Ze fokken dan alleen maar harder."
+Van Poelgeest is provinciaal fauna-adviseur van de Dierenbescherming, Ook hij ziet de laatste jaren een explosieve toename van het aantal konijnen in de stad. "Vooral sportvelden zijn ideaal voor konijnen, met bemest gras en dichte bosschages, waar ze in weg kunnen vluchten. En 's avonds, als de dieren actief zijn, is het er stil. Die velden zijn één gedekte tafel."
+In het verleden heeft hij beheerders van sportterreinen uitgelegd hoe ze kunnen voorkomen dat konijnen kuilen en gangen graven. Door speciale gewassen te planten die de dieren niet lusten, bijvoorbeeld. Of door een groot hek om de velden plaatsen, opdat konijnen er niet bij kunnen komen. Simpele maatregelen, maar die kosten wel geld en dus komt het er niet van. "Ze kiezen uiteindelijk nooit voor een blijvende oplossing."
+Dat is ook de ervaring van Richard Cahuzak, de ambtenaar die zich in stadsdeel West met de konijnenplaag bezighoudt. Hij is druk doende de overlast in het Westerpark in kaart te brengen. Woensdag zal hij bij de schooltuinen over praktische oplossingen praten. Hij vindt het vooral heel schrijnend voor de kinderen, die zo hard hebben gewerkt in hun tuintjes.
+Ook de kuilen in en gangen onder de velden van SDZ hebben voor hem prioriteit. "Daar is sprake van een onveilige situatie, waar snel een oplossing voor moet worden gevonden."
+Tegelijkertijd wordt Cahuzak een beetje moedeloos van al dat geklaag over de konijnen. Sportverenigingen moeten in principe zelf een dergelijke plaag op hun grondgebied voorkomen. Daar doen ze te weinig voor, is zijn ervaring. "Mensen komen pas praten als het te laat is. Dan wordt tegen de gemeente gezegd dat die er iets aan moet doen. Maar ondertussen voeren ze de dieren wel bij."
+Cahuzak zegt zijn best te doen, maar het gaat moeizaam. Konijnenoverlast heeft voor politici geen prioriteit. "Je kunt er niet mee scoren. Er moeten ratten over het Marie Heinekenplein lopen voordat politieke partijen dat hoog op de agenda zetten."
+Het zal dus nog wel even duren voordat een blijvende oplossing voor de overlast wordt gevonden. Ondertussen blijven de konijnen zich vrolijk vermenigvuldigen.
+Overigens ziet niet iedereen ze als een plaag. Bij kinderdagverblijf SamSam op het Westergasfabrieksterrein vinden ze de konijnen heel schattig. Op de kleine speelplaats bij de crèche dartelen de beestjes op hun dooie gemak tussen de speeltoestellen rond. De peuters en kleuters vinden het prachtig. En die kuilen? "Ach, dat is wel goed voor de kinderen. Dan leren ze een beetje dat ze moeten oppassen," zegt een montere crècheleidster.
+'Afschieten mag niet en is zinloos; dan fokken ze alleen maar harder'
+Konijnenplaag Westerpark Dieren richten op schooltuinen, sportvelden en begraafplaats Sint Barbara een ravage aan
+</dcterms:description>
+        <dcterms:extent>word, 913, Amsterdam; Blz. 16</dcterms:extent>
+        <dcterms:issued>2012-06-16</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Daar eet de vos niet tegenop'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

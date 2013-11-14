@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NE4wLVNHUjEtSkM4Vy1ZM1ZH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54N0-SGR1-JC8W-Y3VG"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54N0-SGR1-JC8W-Y3VG&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>HELD  tegen wil en dank; Rudolf van den Berg verfilmt spannende reddingsactie in  Süskind </dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Mooi verhaal voor een film, vond Rudolf van den Berg tien jaar geleden. Een alledaagse, opportunistische Joodse man, die in de Tweede Wereldoorlog met gevaar voor eigen leven een paar honderd Joodse kinderen uit handen van de nazi s redt. Maar Süskind  (over twee weken in première) werd méér dan een vertelling over een held tegen wil en dank. In zijn film geeft de cineast onbegrijpelijke menselijke daden een gevoel en een gezicht.
+ In mijn films heb ik me nog al eens beziggehouden met verwérking van trauma s , zegt Van den Berg.  Maar aan zoiets veelomvattends als een schildering van de Holocaust had ik me zeker niet durven wagen. Bij de geschiedenis van Walter Süskind zou het gaan over bijzondere daden tegen het donkere decor van Nederland in bezettingstijd. Maar als je gaat denken en schrijven, veranderen je inzicht en je uitzicht. Je begrijpt steeds meer waarom je een film wilde maken. Dat gebeurde bij Bastille , bij De Avonden  en laatstelijk bij Tirza . Je koos een verhaal, maar uiteindelijk blijkt het verhaal jou te hebben gekozen.
+ t Is meer een gevoel dan een rationele overweging. Er zijn meer films gemaakt over de Holocaust. Mooie, indringende werkstukken als Schindler s List . Maar daarin wordt vooral getoond hóé Jodendeportaties in zijn werk gingen. Süskind  belicht niet alleen een typerend Nederlands aspect, maar laat meer zien van de aanloop en het bureaucratische mechanisme erachter. Van de gele sterren tot de treinen.
+Complex  107.000 mensen werden weggevoerd. Tachtig procent van de Nederlandse Joden, tegen 38% van de Joden in België en bijna een derde in Frankrijk. Waarom? Heel complex. Dat de koningin en de regering waren uitgeweken, speelde een rol. In dat machtsvacuüm konden de Duitsers vanuit Den Haag gewoon het Nederlandse ambtenarenapparaat aansturen. Bovendien hebben de nazi s de Jodenvervolging duivels sluw aangepakt. Ze legden een groot deel van de organisatie gewoon in handen van de Nederlanders zelf.
+De Joodse Raad dacht dat ze met het aanleggen van hun lijsten mensen kon beschermen. Maar onbedoeld verleenden ze de nazi s daarmee juist een dienst. Een van de wrange dubbelzinnigheden van die periode. Kies maar, zegt SS-leider Aus der Fünten in de film tegen Schouwburg-directeur Walter Süskind, moeten die dertien kinderen op transport of wordt  t het orkestje?
+In die sfeer zijn schurken eerder grijs dan zwart-wit, behalve die ene Jodenjager die zijn geweten heeft uitgeschakeld en het gewoon voor het geld doet. Die nuancering maakte voor mij de gebeurtenissen juist duidelijker: vrijwel niemand kon het duivelse spel van de Duitsers doorzien. Cruciaal was de relatie tussen Aus der Fünten en Süskind. Hun bijna onbestaanbare vriendschap trekt een wezenlijk dramatische lijn door de ontwikkelingen.
+Over hun kameraadschap was weinig bekend. Ook in de verhoren na de oorlog gaat Aus der Fünten daar nauwelijks op in. Van wijlen theaterdirecteur Piet Meerburg heb ik veel gehoord over de persoonlijkheid van zijn toenmalige vriend Walter Süskind, over zijn charme en zijn handigheid. De Aus der Fünten in de film is eenzaam in Amsterdam en heeft behoefte aan wat menselijke warmte. Daarmee pakt Süskind hem in. Als je die twee samen aan de piano ziet, een sentimenteel Duits liedje zingend, dan ervaar je de kracht van film.
+Boeiend  Dat wilde ik met Süskind  bereiken: geen geschiedenisles, maar een aangrijpend menselijk verhaal, met dilemma s waarin je je kan verplaatsen. Dan gaat het er niet om of de stoeltjes in de Schouwburg grijs waren of rood, of dat er op straat een enkel of een dubbel tramspoor liep. Al moeten de belangrijke historische feiten natuurlijk correct zijn. Doorslaggevend is de innerlijke juistheid. 
+Universeel en tijdloos zijn zulke verhalen, knikt Rudolf van den Berg. In zijn volgende film gaat hij nog verder terug in de historie. De zeventiende-eeuwse filosoof Spinoza was ook een held tegen wil en dank.  Een notoire dwarsligger. Staatsvijand nummer één. Met zijn werk wilde hij zichzelf en de mensheid bevrijden van angsten en andere menselijke tekorten. Hij joeg er alle kerkelijke en wereldlijke overheden mee tegen zich in het harnas."
+Een luchtiger, meer fantasierijke film, verwacht Van den Berg, al zal humor er niet de hoofdrol in spelen. Hij lacht.  Voor komedies ben ik niet in de wieg gelegd. 
+</dcterms:description>
+        <dcterms:extent>word, 715, 1; Blz. 17</dcterms:extent>
+        <dcterms:issued>2012-01-05</dcterms:issued>
+        <rdfs:label xml:lang="nl">HELD  tegen wil en dank; Rudolf van den Berg verfilmt spannende reddingsactie in  Süskind </rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

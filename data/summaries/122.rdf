@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NjRWLURXODEtSkM4Vy1ZM1Y2">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/564V-DW81-JC8W-Y3V6"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=564V-DW81-JC8W-Y3V6&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Wietpas ramp voor toerisme'; Buitenlanders stromen nu toe om laatste zomer 'vrije wiet' mee te maken Gemeente vreest straks problemen op straat</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>AMSTERDAM De invoering van de wietpas, volgend jaar, zal leiden tot een kaalslag onder coffeeshops in de Amsterdamse binnenstad. Dat zegt Jan Goos, voorzitter van de Bond voor Cannabis Detaillisten (BCD).De dreigende invoering van de wietpas op 1 januari zorgt voor een drukke zomer in de Amsterdamse coffeeshops. De komst van de pas was namelijk ook buiten ons land nieuws en zorgt ervoor dat veel Europese wietliefhebbers hun 'laatste kans' te baat komen nemen, blijkt uit een rondgang van deze krant.
+Die pret kan van korte duur blijken te zijn, aldus Goos. "Dit is de doodsteek van het gedoogbeleid." Goos verwacht dat in het centrum de meeste coffeeshops hun deuren zullen moeten sluiten wanneer ze geen wiet aan buitenlanders mogen verkopen.
+Meer dan een kwart van de ruim zes miljoen jaarlijkse buitenlandse bezoekers gaan tijdens hun verblijf langs bij een coffeeshop, blijkt uit cijfers van het Amsterdams Toerisme &amp; Congres Bureau (ATCB). Ook buiten het centrum vrezen coffeeshops voor hun voortbestaan. Uit onderzoek van een coffeeshophouder in Amsterdam-Noord onder zijn klanten blijkt, dat slechts tien procent van de blowers zich na 1 januari wil laten registreren.
+Amsterdam is nu in gesprek met de minister over een uitzonderingspositie.De gemeente vreest grote gevolgen voor de openbare orde als de wiethandel zich naar de straat verplaatst.
+Pagina 8: Laatste maal een joint
+</dcterms:description>
+        <dcterms:extent>word, 231, Voorpagina; Blz. 1</dcterms:extent>
+        <dcterms:issued>2012-07-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Wietpas ramp voor toerisme'; Buitenlanders stromen nu toe om laatste zomer 'vrije wiet' mee te maken Gemeente vreest straks problemen op straat</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

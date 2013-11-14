@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MkQzLUROWDEtRFlSWS1OMFlW">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52D3-DNX1-DYRY-N0YV"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52D3-DNX1-DYRY-N0YV&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Carice  Anna,  of  Barry  Jeroen; Publiek kiest favoriete filmster</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Krijgt Carice van Houten dit jaar een Rembrandt voor De  gelukkige huisvrouw  of wordt het Anna Drijver voor haar rol in Loft ? Naast de prestigieuze Gouden Kalveren, uitgereikt door een jury van vakbroeders uit de filmindustrie, kijken de Nederlandse acteurs jaarlijks reikhalzend uit naar de Rembrandts: juist omdat dit publieksprijzen zijn.
+ Ook minder correcte films kunnen dus winnen , zegt de initiatiefnemer en de grootste Nederlandse filmkenner René Mioch.  Om de simpele reden dat de mensen uit de zaal mogen zeggen wie ze het beste vinden. Publieksklapper New Kids Turbo  is nu bijvoorbeeld genomineerd als beste film. En een film als Gooische Vrouwen  zal misschien nooit een Gouden Kalf winnen. Maar me dunkt dat ze de volgende keer wel voor een Rembrandt in aanmerking komen. 
+Mioch is nuchter:  Als mensen uit de filmindustrie of schrijvers in zo n jury terechtkomen, gaan ze anders kijken. Meer met een kunstbril op, politiek correct. Terwijl filmbezoekers gewoon eerlijk zeggen wie ze leuk vinden. Daar krijg je een andere uitslag door. Dit zijn de Televizier-ringen van de bioscoop. 
+Tussen de vijf actrices die dit jaar zijn genomineerd staan Anna Drijver, Carice van Houten en Eva van der Gucht (Dik Trom ) nu voorop in de peilingen:  Carice is de beroemdste actrice van Nederland. Zij staat natuurlijk in de top drie van waar nu het meest op wordt gestemd. En ze is genomineerd omdat ze helemaal kan verdwijnen in een rol. Ze wordt  haar karakter. 
+ Ze heeft ook in een aantal buitenlandse films gespeeld die de bioscoopzaal niet haalden, maar op dvd werden uitgebracht. Dan hoor je sommige critici alweer brommen:  haar internationale succes gaat zeker niet door . Terwijl dat onzin is. Ze wordt overal gevraagd en bijvoorbeeld in Hollywood wordt nu ook gezegd dat ze zo n heerlijkheid is om op de set te hebben. Ze heeft een ontwapenend soort directe Hollandse humor. Wat ik altijd mooi aan haar vind is ook haar vijftiger-, zestigerjarenlook. Een Nederlandse Bette Davis, Joan Crawford. Ze is geen Monique van de Ven, Renée Soutendijk, geen typisch Nederlandse blondine. 
+Anna Drijver, die eerder al triomfeerde als minnares in Komt een vrouw bij de dokter,  staat nu op de lijst voor de intrigerende film Loft.   Zij heeft zo veel sexappeal, terwijl ze tegelijk voor vrouwen geen bedreiging is. Anna heeft de afgelopen jaren keihard gewerkt. Nu maakt de combinatie van haar uiterlijk, haar stem en haar presentatie haar onweerstaanbaar. Als je Anna tussen mannen laat acteren voel je hoe gevaarlijk ze is. En dan heb je Eva van der Gucht. Dat leuke dikkerdje, dat we ook kennen uit de C1000-reclame. Haar zagen we als de moeder van Dik Trom. Zij heeft dat guitige, ze heeft de lach aan haar kont hangen. De talentvolle Sylvia Hoeks uit Tirza  en Caro Lenssen uit Sint  hebben nog wat fans nodig. 
+René Mioch pleit ook voor Gijs Scholten van Aschat.  Samen met Pierre Bokma vind ik dat de beste acteur van Nederland. In Tirza  speelt hij een man die langzaamaan waanzinnig wordt. Briljant. Maar het is een publieksprijs, dus de mensen zijn de baas. Barry Atsma staat weer in de top drie. Hij is na Komt een vrouw bij de dokter  een echt sekssymbool geworden, ook in Loft . Jeroen van Koningsbrugge is populair. Het publiek houdt van hem, ook door Ik hou van Holland . Verder zijn Thom Hoffman en Theo Maassen genomineerd. 
+De uitreiking van de  Rembrandts is in de Amsterdamse Escape op 28 maart. Stemmen kan tot 21 maart via http://Rembrandts.nl
+</dcterms:description>
+        <dcterms:extent>word, 577, Prive; Blz. 15</dcterms:extent>
+        <dcterms:issued>2011-03-16</dcterms:issued>
+        <rdfs:label xml:lang="nl">Carice  Anna,  of  Barry  Jeroen; Publiek kiest favoriete filmster</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

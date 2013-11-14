@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M0g2LUg2VzEtSkM4Vy1ZM1ZD">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53H6-H6W1-JC8W-Y3VC"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53H6-H6W1-JC8W-Y3VC&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Dinsdag</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Film over ontvoering Toos van der Valk
+Filmproducent San Fu Maltha gaat een film maken over de ontvoering van Toos van der Valk. Dat maakte een woordvoerster van producent Fu Works bekend. In 1982 was Nederland wekenlang in de ban van de geruchtmakende ontvoering van Toos van der Valk, de echtgenote van de in 2009 overleden horecatycoon Gerrit van der Valk. Na het betalen van 12 tot 13 miljoen losgeld (circa 5,5 miljoen euro) kwam Van der Valk vrij. De film wordt in het voorjaar van 2013 opgenomen. Het verhaal vertelt het perspectief van de horecafamilie en de inspecteur die met het onderzoek belast is. Schrijver Carl Joos schrijft het scenario voor de film. Het is nog niet bekend welke acteurs de hoofdrollen gaan spelen. San Fu Matha regisseerde eerder films als Zwartboek, Oorlogswinter en Tirza.
+Waar Heeft de Wereld het over?
+Wereldwijd # Whatch the Throne
+Sinds gisteren is het album Whatch the Throne van rapgrootheden Kanye West en Jay-Z te downloaden. De kleinere muziekwinkels balen dat de plaat voorlopig alleen via iTunes wordt verspreid en vanaf eind augustus exclusief te koop is in de winkels van Best Buy. Ook de Zuid-Afrikaanse zanger Caiphus Semenya is niet blij. West en Jay-Z hebben voor het nummer Murder to Excellence een sample gebruikt uit een liedje dat Semenya ooit opnam met Quincy Jones. 'Een credit krijgen zegt me niks, ze doen me hier geen plezier mee', aldus de zanger tegenover de krant City Press.
+Harry Potter grote winnaar Teen Choice Awards
+Harry Potter heeft op de Teen Choice Awards in Los Angeles maar liefst zes prijzen gewonnen. Zo werd de laatste film uit de reeks, Harry Potter and the Deathly Hallows: Part 2, beloond met de prijs beste film en beste scenario. Hoofdrolspeler Daniel Radcliffe werd favoriete mannelijke filmster en zijn tegenspeelster Emma Watson kreeg de prijs voor favoriete vrouwelijke filmster. Acteur Tom Felton die in de films Draco Malfidus speelt, kreeg de prijs voor beste schurk. Harry Potter versloeg hiermee de laatste film uit de Amerikaanse Twilight reeks, Eclipse.
+'Ik heb doodsbedreigingen gekregen'
+Vertelt de bedenker van de televisieserie Glee, de 45-jarige producent Ryan Murphy, in een interview met entertainmentwebsite Deadline. Murphy: 'Ik denk dat elke keer als je homoseksuelen of minderheden onder de aandacht brengt en je probeert te zeggen dat zij net zo normaal en waardig zijn als anderen, degenen met een kort lontje dat niet leuk vinden'. Glee maakt volgende maand kans op twaalf Emmy Awards.
+Drijf In Bioscoop op eiland Pampus
+Op forteiland Pampus worden komende donderdag, vrijdag en zaterdag voor de vierde keer films getoond. Welke films er draaien, is nog een verrassing. Wel hebben alle films volgens de organisatie een link met water. Vanaf 19.00 uur kan bij het eiland worden aangemeerd, de film begint om 21.45 uur en zal tegen middernacht afgelopen zijn. Kaartjes voor volwassenen kosten 15 euro. Ook mensen die geen eigen boot hebben, kunnen naar de Drijf In Bioscoop.
+steek elke dag wat op
+</dcterms:description>
+        <dcterms:extent>word, 498, V Opening; Blz. 2</dcterms:extent>
+        <dcterms:issued>2011-08-09</dcterms:issued>
+        <rdfs:label xml:lang="nl">Dinsdag</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

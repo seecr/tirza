@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81N0NKLUMxSzEtRFlSWS1OMUNY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/57CJ-C1K1-DYRY-N1CX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=57CJ-C1K1-DYRY-N1CX&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Banden verbeteren; toekomstplannen</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Stoppen met roken, minder eten, meer bewegen. Voor onszelf hebben we alle goede voornemens op een rijtje. En ook voor wat betreft onze huisdieren. Shivani hoopt dat chihuahua Jay  zich niet langer als pitbull gedraagt, Esmeralda gaat op puppycursus met haar herder en Merel hoopt dat het in 2013 toch echt gaat klikken tussen haar hond en de twee katten van haar nieuwe liefde.
+Thuis is Jay lief en gehoorzaam, maar zodra er visite komt of als hij buiten is, verandert de chihuahua in een pitbull.  Opspringen, blaffen, grommen, het liefst wil hij nog bijten ook , vertelt zijn baasje Perdiep Biharie uit Den Haag. Het gedrag, dat Jay al van pup af aan vertoont, begint het Haagse gezin te storen.
+Jay is alles wat de vrouw des huizes zich ooit had voorgesteld van een hond: een gezellig schoothondje dat zo mee de tas in kan.  Ik was altijd bang voor honden, maar toen ik Jay zag, was ik op slag verliefd. Hij heeft me echt geleerd mijn angst te overwinnen. Maar we willen natuurlijk niet dat hij anderen de stuipen op het lijf jaagt. 
+Ze volgen trouw alle programma's van Cesar Millan op de televisie en treden met zijn tips in het achterhoofd streng op tegen Jay. Via de dierenarts hebben ze onlangs de hulp ingeschakeld van dierentrainster Bernice Muntz, die Jay  zijn agressie gaat afleren.  We hebben er alle vertrouwen in. Dit jaar gaat het lukken! 
+Esmeralda gaat in 2013 absoluut met haar herder op puppycursus, Tirza wil  haar jack russell  beter  begrijpen, Raimond heeft zijn baan opgegeven om in januari een hondenschool te beginnen en de 10-jarige Julien gaat vaker met zijn labrador Bikkel trainen, zodat die hem niet meer over straat sleurt als hij hem aan de riem wil uitlaten.
+De  voornemens doen hondengedragstherapeut Marco Starink deugd.  Het is altijd goed te horen dat mensen extra tijd en energie in hun huisdier stoppen om het beste uit de relatie te halen. Want het is  de kunst om het samen fijn te hebben. Een hond vergt nu eenmaal liefde en aandacht. Hij mag nooit verworden tot een meubelstuk. 
+Voor katten geldt misschien wel het omgekeerde.  Ze worden vaak juist te zeer beknot en daar kan probleemgedrag uit voortkomen , zegt Maggie Ruitenberg, verbonden aan het K.A.T. Kattengedrag Advies &amp; Therapie.  Belangrijk is hun instinct te stimuleren. Laat ze bijvoorbeeld zoeken naar eten of stop hun brokjes in een voerbal, plaats krabpalen en zorg voor ligplaatsen waar ze kunnen schuilen. 
+Merel is verliefd tot over haar oren, maar tussen de katten van haar liefje en haar viervoeter botert het niet.  De hond is al tien, de poezen zeven, die horen gewoon bij ons leven. Maar die schatjes zijn nu toch echt wel een probleem als je niets liever dan samen wilt zijn. Wij sjezen wat heen en weer tussen Amsterdam en het Gooi om ze te verzorgen. Maar ook zij zullen hun best moeten doen, desnoods met professionele hulp. We willen natuurlijk niets liever dan met z'n vijven het nieuwe jaar in; op naar de volgende twintig! 
+</dcterms:description>
+        <dcterms:extent>word, 490, 1; Blz. 22</dcterms:extent>
+        <dcterms:issued>2012-12-29</dcterms:issued>
+        <rdfs:label xml:lang="nl">Banden verbeteren; toekomstplannen</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

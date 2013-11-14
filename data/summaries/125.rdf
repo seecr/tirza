@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzNXLTlEOTEtSkM4Vy1ZM0Q0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/573W-9D91-JC8W-Y3D4"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=573W-9D91-JC8W-Y3D4&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Kamp zoekt oplossing voor ruzie postbedrijven </dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>tirza de fockert
+Den haag Minister Kamp van Economische Zaken gaat met PostNL en Sandd om de tafel om tot een oplossing te komen in het conflict over de kosten van de zesdaagse bezorging. Dat beloofde hij gisteren aan de Tweede Kamer.
+PostNL eist dat concurrent Sandd miljoenen euro s meebetaalt aan de kosten die het moet maken om te voldoen aan de wettelijke verplichting zes dagen per week post te bezorgen. Deze verplichting kostte het voormalig staatsbedrijf vorig jaar 107 tot 125 miljoen euro. Volgens PostNL ondermijnt dit de markt, omdat Sandd deze kosten niet hoeft te maken.
+In juli diende PostNL daarom een verzoek in bij toezichthouder Opta om Sandd mee te laten betalen. Omdat Sandd een marktaandeel van 16 procent bezit, komt dit neer op 17 tot 20 miljoen euro. Volgens de Postwet kan dit.
+De PvdA wil dat de claim van tafel gaat, omdat deze de concurrentie op de postmarkt zou schaden. Kamp liet de Tweede Kamer gisteren weten de claim niet tegen te kunnen houden.
+,,De wet is duidelijk,   aldus Kamp. ,,Maar het kan niet de bedoeling zijn om op deze manier Sandd uit de markt te drukken.  De minister hoopt begin 2013 met beide bedrijven een oplossing te vinden.
+Door krimp van de postmarkt lijdt PostNL al jaren verlies op de verplichte zesdaagse bezorging. Om die reden wil het bedrijf graag de maandagbezorging schrappen. Kamp zal hiervoor begin volgend jaar een wetswijziging indienen. Rouwkaarten, medische post en postbus-post zullen wel op maandag bezorgd blijven worden.
+</dcterms:description>
+        <dcterms:extent>word, 248, Algemeen Dagblad - Economie; Blz. 19</dcterms:extent>
+        <dcterms:issued>2012-11-23</dcterms:issued>
+        <rdfs:label xml:lang="nl">Kamp zoekt oplossing voor ruzie postbedrijven </rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

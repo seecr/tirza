@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozMzE0MDk1MzQ=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:331409534"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dcterms:title>Tirza</dcterms:title>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:070084912">
+            <skos:altLabel>Berg, Rudolf van den</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:151336008">
+            <skos:altLabel>Scholten van Aschat, Gijs</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:075153416">
+            <skos:altLabel>Grunberg, Arnon</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>Warner Home Video, Hilversum</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Jörgen Hofmeester vertrekt naar Namibië om zijn dochter te zoeken. Eenmaal daar aangekomen ontspoort Jörgen volledig en verliest zich in drank en vertwijfeling</dcterms:description>
+        <dcterms:extent>1 dvd-video (ca. 100 min.)</dcterms:extent>
+        <dcterms:subject>Nederland</dcterms:subject>
+        <dcterms:isFormatOf rdf:resource="urn:ppn:359003419"/>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

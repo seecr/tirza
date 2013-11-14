@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy83WVNLLUdHMjAtWTlNNi1IMlRC">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/7YSK-GG20-Y9M6-H2TB"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>oogwenk</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>TIRZA
+De openingsfilm van de 30ste editie van het Nederlands Film Festival is de speelfilm 'Tirza' van regisseur Rudolf van den Berg. De hoofdrollen worden vertolkt door Gijs Scholten van Aschat, Sylvia Hoeks, Johanna ter Steege en Keitumetse Matlabo.
+Tirza is de verfilming van de gelijknamige bestseller van Arnon Grunberg en vertelt het verhaal van de gescheiden vader Jörgen Hofmeester (Gijs Scholten van Aschat), die ogenschijnlijk alles onder controle heeft. In werkelijkheid raakt hij juist alle controle kwijt, ook over zijn jongste dochter en oogappel Tirza (Sylvia Hoeks). Een paar dagen nadat Tirza en haar vriendje Choukri zijn vertrokken voor een reis door Namibië, heeft Hofmeester nog niets van hen gehoord. Hij vertrekt naar het Afrikaanse woestijnland en ontdekt wat haar is overkomen. Eerder verfilmde regisseur Rudolf van den Berg de romans 'Zoeken naar Eileen' en 'Bastille' van Leon de Winter en 'De Avonden' van Gerard Reve. Het filmfestival begint op 22 september in de Stadsschouwburg van Utrecht.
+ARABISCHE FILM
+Tot en met zondag zijn in Rotterdam recente speelfilms, korte films en documentaires uit de Arabische wereld te zien op het tiende Arab Film Festival. In elke categorie worden prijzen uitgereikt. Speciale aandacht is er voor de thema's 'Cinema van Immigratie' en 'Kracht van Vrouwen'. Ook zijn er dans- en muziekoptredens. Het programma staat op www.arabfilmfestival.nl.
+Sylvia Hoeks
+</dcterms:description>
+        <dcterms:extent>word, 235, FILM</dcterms:extent>
+        <dcterms:issued>2010-06-24</dcterms:issued>
+        <rdfs:label xml:lang="nl">oogwenk</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

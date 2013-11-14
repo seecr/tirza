@@ -1,0 +1,46 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJpOmlobGlhOjk2MDQ4OA==">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="uri:ihlia:960488"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:dsdp-ihlia"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Women Together/women Apart : Portraits of Lesbian Paris</dcterms:title>
+        <dcterms:creator>Latimer, T.</dcterms:creator>
+        <dcterms:date>2005</dcterms:date>
+        <dcterms:publisher>Rutgers University Press, New Brundwick, NJ</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:eng">
+            <rdfs:label>Engels</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>What does it mean to look like a lesbian? Though it remains impossible to conjure a definitive image that captures the breadth of this highly nuanced term, today at least we are able to consider an array of visual representations that have been put into circulation by lesbians themselves over the last six or seven decades. In the early twentieth century, though, no notion of lesbianism as a coherent social or cultural identity yet existed. In Women Together/Women Apart, Tirza True Latimer explores the revolutionary period between World War I and World War II when lesbian artists working in Paris began to shape the first visual models that gave lesbians a collective sense of identity and allowed them to recognize each other. Flocking to Paris from around the world, artists and performers such as Romaine Brooks, Claude Cahun, Marcel Moore, and Suzy Solidor used portraiture to theorize and visualize a "new breed" of feminine subject. The book focuses on problems of feminine and lesbian self-representation at a time and place where the rights of women to political, professional, economic, domestic, and sexual autonomy had yet to be acknowledged by the law. Under such circumstances, same-sex solidarity and relative independence from men held important political implications. Combining gender theory with visual, cultural, and historical analysis, Latimer draws a vivid picture of the impact of sexual politics on the cultural life of Paris during this key period. The book also illuminates the far-reaching consequences of lesbian portraiture on contemporary constructions of lesbian identity.</dcterms:description>
+        <dcterms:extent>211 p</dcterms:extent>
+        <dcterms:subject>usa</dcterms:subject>
+        <dcterms:subject>Lesbische vrouwen</dcterms:subject>
+        <dcterms:subject>Beeldende kunsten</dcterms:subject>
+        <dcterms:subject>Fotografie</dcterms:subject>
+        <dcterms:subject>Tekenkunst</dcterms:subject>
+        <dcterms:subject>Theater</dcterms:subject>
+        <dcterms:subject>Letteren</dcterms:subject>
+        <dcterms:subject>Beeldvorming</dcterms:subject>
+        <dcterms:subject>Lesbische identiteit</dcterms:subject>
+        <dcterms:subject>Rechtspositie</dcterms:subject>
+        <dcterms:subject>Interbellum</dcterms:subject>
+        <dcterms:subject>Brooks, romaine</dcterms:subject>
+        <dcterms:subject>Cahun, claude</dcterms:subject>
+        <dcterms:subject>Moore, marcel</dcterms:subject>
+        <dcterms:subject>Solidor, suzy</dcterms:subject>
+        <dcterms:subject>Parijs</dcterms:subject>
+        <dcterms:subject>Geschiedenis</dcterms:subject>
+        <dcterms:subject>Homoseksualiteit</dcterms:subject>
+        <dcterms:subject>Lesbische studies</dcterms:subject>
+        <dcterms:subject>Monografieën</dcterms:subject>
+        <dcterms:identifier>0813535956</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

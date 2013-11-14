@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81Mk5ZLVJWQzEtRFlSWS1OMENS">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52NY-RVC1-DYRY-N0CR"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52NY-RVC1-DYRY-N0CR&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Iedereen gauw naar de parel Kunst; BOR BEEKMAN</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Ook bij mooi weer moet het volk naar de bioscoop. Loftuitingen van collega-acteurs worden massaal ingezet. Gij zult aaien!
+'Een parel' Monique van de Ven. 'Iedereen moet naar de film Alle tijd; prachtig!' Halina Reijn. 'Alle tijd overtuigt' - Volkskrant. Dit zijn de lofuitingen waarmee het speelfilmdebuut van Job Gosschalk gisteren nog eens extra onder de aandacht werd gebracht in dagbladadvertenties. Dat is nodig, omdat de bioscoopganger nu plots uitwijkt naar strand en terras. Onder de zon moet Alle tijd vechten om niet te floppen.
+In zo'n geval zet de distributeur zich met extra animo aan het optuigen van filmposter en advertentie; een bloeiende kunstvorm. Waar voorheen een tagline voldeed (die van Alien In space no one can hear you scream is uitgeroepen tot allerbeste ooit, die van Alle tijd luidt: Liefde in voor- en tegenspoed) , of wat sterren en citaten uit recensies werden geplukt, wordt het resterend wit nu opgevuld met complimenten van collega's. Een trucje uit de boekenwereld, waar flaptekst-vullers Kluun en Koch de ene na de andere literaire zuil ontdekken.
+Ook een handige: van de makers van  Een film, zeker een succesvolle film, heeft heel veel makers. Zo laat Gosschalk zichzelf aankondigen als de bedenker van Alles is liefde, een film die toch echt allereerst bedacht is door de bedenker van het Britse Love Actually. Maar goed, je moet het volk eerst de bioscoop ín krijgen, daarna is er tijd voor nuance. Zo boog de filmdistributeur zich deze week ook over de Volkskrant-recensie. 'Vooral in de tweede helft, na die abrupte zwenking, overtuigt Alle tijd', stond er in het goeddeels lovende stukje. Tja. Staat toch wat lullig op zo'n filmposter. Een ingekorte versie - 'overtuigt Alle tijd' - zou feitelijk juist zijn, maar ook cryptisch. Dan maar de woorden omgedraaid, voor het effect: 'Alle tijd overtuigt' Volkskrant. Valt niemand over.
+De filmposter-tendens legt ook extra druk op alle bekende bezoekers van premières, die zich voor de draaiende camera dienen te schikken naar de ongeschreven regel van de Nederlandse filmwereld: gij zult aaien. Toen Antoinette Beumer (Loft) op de première van Tirza brak met die traditie, en na het prijzen van acteurs, muziek en camerawerk, ook zei: 'het heeft een afstandelijkheid waar ik niet van hou', vielen pers en collega's over haar heen. Dat doe je niet.
+Robert Jan Westdijks De Eetclub werd vorig jaar zelfs publiekelijk geschoffeerd door de genodigden een unicum in de Nederlandse filmgeschiedenis. Zelfs Filmfondsintendant Ate de Jong, die de film zelf van financiering voorzag, deed geen moeite om zijn teleurstelling te verbergen. Weinig loyaal wellicht, maar ook wel eens verfrissend.
+Zo vormt de première nu ook een mogelijk bedrijfsrisico. Gosschalk, niet de man om iets aan het toeval over te laten, schreef zijn bekende vriendenkring een handgeschreven uitnodiging voor de première. Sympathiek en helder in boodschap: komen en loven. Gosschalk, gewezen castingkoning, is een man die je te vriend moet houden. Dus, nog een keer, ook voor alle filmposters en advertenties: 'Iedereen moet naar de overtuigende parel Alle tijd' de Volkskrant. Ik beloof zelf ook te gaan, nog dit weekend.
+</dcterms:description>
+        <dcterms:extent>word, 528, V Opening; Blz. 14</dcterms:extent>
+        <dcterms:issued>2011-04-22</dcterms:issued>
+        <rdfs:label xml:lang="nl">Iedereen gauw naar de parel Kunst; BOR BEEKMAN</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

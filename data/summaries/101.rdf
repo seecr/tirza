@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzZELVJXVjEtRFlSWS1OM1A0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/576D-RWV1-DYRY-N3P4"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=576D-RWV1-DYRY-N3P4&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Kleuters geven Tweede Kamer oplossing cadeau </dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT </dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>den haag Tweede Kamerleden ontvingen gisteren een vroeg sinterklaascadeautje. Zeven als pakjes verklede kleuters overhandigden hen een petitie met daarin een `oplossing' voor de geplande bezuinigingen op de kinderopvang.
+Nog meer korten op de branche is onnodig en zelfs schadelijk voor de kwaliteit en de veiligheid van de kinderopvang, stellen vakbonden, ouders en brancheorganisaties in de brandbrief. Ze roepen de Kamer op te zoeken naar een budget-neutrale oplossing. ,,Door de bezuinigingen is het gebruik van kinderopvang fors teruggelopen. Toekomstige uitgaven worden daarom erg overschat,  zegt Catalene Passchier (vice-voorzitter FNV). Volgens Passchier komt door de stapeling van bezuinigingen het `vierogenprincipe', waarbij altijd twee werknemers een groep in de gaten houden, onder druk te staan. De maatregel wordt naar aanleiding van de Amsterdamse zedenzaak vanaf 2013 verplicht bij elke kinderopvang. Keklik Yücel (PvdA) beloofde de petitie goed te bestuderen. ,,Kwalitatief goede kinderopvang vinden wij ontzettend belangrijk. Maar het financiële kader van het regeerakkoord ligt vast.''
+</dcterms:description>
+        <dcterms:extent>word, 184, Algemeen Dagblad - Nieuwsdienst; Blz. 11</dcterms:extent>
+        <dcterms:issued>2012-12-05</dcterms:issued>
+        <rdfs:label xml:lang="nl">Kleuters geven Tweede Kamer oplossing cadeau </rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

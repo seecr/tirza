@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MjBELU5HVzEtSkM4Vy1ZMUJY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/520D-NGW1-JC8W-Y1BX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=520D-NGW1-JC8W-Y1BX&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Tirza ontbreekt op shortlist Oscars Door onze kunstredactie Rotterdam, 20 ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/nrc"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>    Tirza ontbreekt op shortlist Oscars
+Door onze kunstredactie
+Rotterdam, 20 jan. De Nederlandse film Tirza van Rudolf van den Berg staat niet op de shortlist van de Oscar voor beste buitenlandse film. The Academy heeft de lijst  gisteren bekendgemaakt. Kanshebbers zijn het Deense In A Better World, het Mexicaanse Biutiful en het Canadese Libanon-drama Incendies.  Meer historisch drama biedt Spanje (Columbus) en Frankrijk (Algerijnse oorlog), Zuid-Afrika brengt een intiem drama over moeder en dochter, Zweden over twee broers waarvan één autistisch is. Ook het excentrieke Griekse Dogtooth staat op de shortlist en de Japanse thriller Confessions. Het Oscargala is op zondag 27 februari. De laatste Nederlandse film die op de shortlist belandde was in 2002 De Tweeling, in 1997 won Karakter een Oscar.
+Ballonhondje  Koons inzet rechtszaak
+Door onze kunstredactie
+Rotterdam, 20 jan. De postmoderne kunstenaar Jeff Koons is een rechtszaak begonnen tegen een Canadees ontwerpbureau en een Amerikaanse designwinkel. Zij verkopen  boeksteunen  die lijken op Koons kunstwerk Balloon dog, een  3 meter hoge ballonhondsculptuur van roestvrij staal. Imm-living, die de boeksteunen ontwierp, vindt niet dat Koons  auteursrecht kan eisen op alle  kopieën van ballonhondjes. Hun  boekstandaarden zijn van mat beschilderd hars en zijn minder bol dan Koons hondjes. Volgens de New York Times zal een jury moeten oordelen over  algemene kenmerken van ballonhondjes en die  van Koons ontwerp. Koons verloor al drie van de vier rechtszaken  tegen hem voor het gebruiken van andermans kunst in zijn werk.
+</dcterms:description>
+        <dcterms:extent>word, 264, KUNST; Blz. 11</dcterms:extent>
+        <dcterms:issued>2011-01-20</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

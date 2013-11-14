@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NjJYLVhTQzEtRFlSWS1OMVBX">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/562X-XSC1-DYRY-N1PW"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=562X-XSC1-DYRY-N1PW&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Samenwerking AMC en Flevoziekenhuis</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>TIRZA DE FOCKERTAMSTERDAM Het AMC en het Flevoziekenhuis in Almere gaan intensiever samenwerken. Door specialisaties te spreiden, willen de ziekenhuizen de zorg verbeteren en de wachttijden verkorten.
+Sinds gisteren worden patiëntjes van de KNO-afdeling van het AMC in Almere aan hun amandelen geopereerd. Ook wordt gekeken of het Flevoziekenhuis heupoperaties van het AMC over kan nemen.
+Hogere kwaliteit en efficiëntie zijn de belangrijkste redenen voor de samenwerking, zegt Peter Pels van het Flevoziekenhuis. "Je moet operaties vaak doen om ze goed te doen. Bij het AMC draait het om de topklinische zorg, waardoor artsen kleine ingrepen minder vaak doen. Wij hebben als basisziekenhuis meer routine."
+Ook zijn de wachttijden in Almere korter dan bij het AMC. De ziekenhuizen werken al een paar jaar samen op het gebied van chirurgie, traumatologie en radiotherapie. Amsterdamse vrouwen met borstkanker worden sinds 2009 in Almere geholpen.
+Die samenwerking bevalt goed. Volgens Pels vinden patiënten het door de kortere wachttijd geen probleem naar een ander ziekenhuis te moeten. Wel vinden patiënten het belangrijk dat ze niet van de ene naar de andere arts worden gestuurd. Hierover zijn afspraken gemaakt. Bovendien houden patiënten de keus: wie liever niet naar Almere gaat, blijft in het AMC terechtkunnen.
+</dcterms:description>
+        <dcterms:extent>word, 219, Nieuws; Blz. 5</dcterms:extent>
+        <dcterms:issued>2012-07-10</dcterms:issued>
+        <rdfs:label xml:lang="nl">Samenwerking AMC en Flevoziekenhuis</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

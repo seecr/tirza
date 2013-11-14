@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OEJWLUZYSDEtRFlSWS1OMzIz">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58BV-FXH1-DYRY-N323"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58BV-FXH1-DYRY-N323&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>En de  winnaar is ; Libris Literatuurprijs 2013:</dcterms:title>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>AMSTERDAM, maandag Een jaar geleden hing de naam van A.F.Th. van der Heijden al in de lucht en was iedereen het erover eens dat zijn prachtige requiemroman Tonio  de Libris Literatuurprijs moest krijgen. Vanavond wordt de prijs opnieuw uitgereikt, maar ditmaal is er zo'n sterke en gevarieerde shortlist dat het lastig is een favoriet aan te wijzen. Aan gedoodverfde winnaars doen we niet, want de wegen der jury's zijn ondoorgrondelijk.
+Natuurlijk nemen we wel een schot voor de boeg: Christiaan Weijts, die voor het eerst genomineerd is, zou de prijs zomaar eens in de wacht kunnen slepen voor zijn ambitieuze roman Euforie .
+Vanavond neemt de Libris-jury een besluit onder leiding van voorzitter Clairy Polak, voor wie het blijkens het juryrapport niet snel goed is: daarin wordt nogal badinerend gesproken over de grote hoeveelheid zogenaamde 'IKEA'-romans. Wat dat mogen zijn? Volgens de jury een roman bestaande uit een 'bouwpakket' van personages, een groot geheim in het verleden, een verliefdheid, of juist het stuklopen van een relatie. Dat er op basis van die ingrediënten ook prachtige literatuur is verschenen, mag duidelijk zijn. Maar goed, de jury prefereert een 'ambachtelijk meubelstuk' waarin de schrijver uitstijgt boven het 'particuliere verslag'. Dit wetende zou een van de beste boeken van het afgelopen jaar, Vrij man  van Nelleke Noordervliet, niet op de shortlist hebben misstaan.
+Ambachtelijk is zeker Oek de Jongs magnum opus Pier en Oceaan ,  maar het is beslist niet zijn beste boek. Hem de prijs gunnen, zou eerder een beloning zijn voor zijn hele oeuvre, met deze 800 pagina's tellende roman als kroon op zijn werk. Aangezien de Librisprijs geen oeuvreprijs is, zou De Jong hem dan ook niet moeten krijgen.
+Arnon Grunberg sleepte met De man zonder ziekte  zijn vijfde Libris-nominatie in de wacht. Hij won de prijs al eens in 2007 voor zijn roman Tirza . Opvallend is dat De man zonder ziekte  al voor diverse belangrijke literaire prijzen is genomineerd (AKO, De Gouden Boekenuil), maar er nog niet één won. Zou het dan toch nog gaan lukken met deze fenomenale roman? Het is in elk geval zijn strakst gecomponeerde en hij doet zeker niet onder voor Tirza . Maar, gezien het feit dat er geen zegen op Grunbergs laatste rust, denken wij dat deze jury ook niet voor hem gaat.
+Dan Elvis Peeters, pseudoniem voor het Vlaamse schrijversduo Jos Verlooy en Nicole van Bael. Een sterke roman waarin we een dag meemaken in het leven van een oude man met een oorlogsverleden. De jury heeft het over 'superieur schrijverschap', maar is nog veel lovender over Tommy Wieringa's apocalyptische roman Dit zijn de namen . Daar zijn wij het niet helemaal mee eens en werden een beetje misselijk en depressief van het overigens stilistisch prachtige boek. Geef ons maar Joe Speedboot  en Caesarion .
+Wel heel vrolijk werden wij van Esther Gerritsen en haar roman Dorst . Gerritsen heeft een unieke stem in de Nederlandse literatuur met haar fenomenale, licht-absurdistische dialogen. Hoewel we haar de Librisprijs zeer gunnen, vinden we Dors t weliswaar een heel goed, maar helaas niet haar beste boek (neem bijvoorbeeld Superduif  ter vergelijking). We geloven ook niet dat dit het 'ambachtelijke meubelstuk' is waarvoor de jury 50.000 euro over heeft.
+Nee, dan Christiaan Weijts, de auteur die een stevig oeuvre aan het opbouwen is van consistente kwaliteit. Euforie  is rijk, veelzijdig, ambitieus en in alle opzichten geslaagd. Weijts steekt zijn hoofd ook ver uit het raam met zijn bespiegelingen over een verwende generatie en zijn zoektocht naar abstracte waarden. Daar komt bij dat dit het enige boek is waarover vermoedelijk binnen de jury geen controverse heerst. Een onomstreden kanshebber voor de Libris Literatuurprijs 2013 dus. Lees meer over de zes genomineerde boeken in de recensies op deze pagina.
+</dcterms:description>
+        <dcterms:extent>word, 636, 1; Blz. 13</dcterms:extent>
+        <dcterms:issued>2013-05-06</dcterms:issued>
+        <rdfs:label xml:lang="nl">En de  winnaar is ; Libris Literatuurprijs 2013:</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NDZWLTBNRzEtSkM4Vy1ZMU1I">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/546V-0MG1-JC8W-Y1MH"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=546V-0MG1-JC8W-Y1MH&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Volgens overheid is seks op je vijftiende héél normaal</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>CONDOOMCAMPAGNE Jongeren moet niet worden verteld hoe ze een condoom moeten aanbrengen, maar hoe ze relaties moeten onderhouden.
+Neem nou eens een populaire literatuurlijstroman met veel seks erin. Tirza van Arnon Grunberg. Vader Jörgen Hofmeester vindt z'n eigen liefdesleven niet bepaald voorbeeldig hij rotzooit z'n hele leven al wat rond. Maar pijnlijk wordt het pas als hij ziet hoe z'n dochters zich laten consummeren: op een manier waarin geen greintje liefde of vertrouwen te ontdekken valt. En dat is toch juist wat ook de meest 'faalbewuste' ouder voor z'n kinderen wil: dat ze seksualiteit leren kennen en genieten in een vertrouwde, liefdevolle setting.
+Ook jongeren zelf hebben dat ideaal. Uit recent onderzoek blijkt dat jongeren de prettigste seksuele ervaringen hadden binnen een relatie met een vaste partner, die ze vertrouwden en van wie ze hielden. Tegen die achtergrond is het opmerkelijk dat de lopende overheidscampagnes nauwelijks iets te melden hebben over het belang van liefde, vertrouwen en stabiliteit in een relatie. Alsof dat romantische idealen zijn waaraan je als nuchtere overheid de vingers niet mag branden.
+Het ministerie van VWS zit achter de website sense.info, waar jongeren met de cursor kunnen oefenen op sekstestdummies: anatomisch correcte bouwtekeningen van een mannen- en vrouwenlichaam, waarbij een instructrice op montere toon vertelt waar de lekkerste plekjes zitten voor de beste sensaties. Een recente serie televisiespotjes doceert jongeren wat het ideale condoommoment is: voordat je broek uit gaat. En in de verse campagne Hun eerste keer doen 15- en 16-jarige acteurs via een videologboekje fictief verslag van hun eerste seksuele ervaring, die voor sommige van hen overigens al weer even geleden is.
+Als je deze campagnes mag geloven, is seks veilig als je maar een condoom gebruikt en 'nee' kunt zeggen. Veiligheid teruggebracht tot een technische maatregel, weerbaarheid vertaald in een effectieve noodremprocedure. Liefde daarentegen is in de wereld van Hun eerste keer niet meer dan een optie, een soort luxe variant voor gevorderden waarnaar bijvoorbeeld 'die stoere Wesley' (16) op zoek is: 'Hij heeft genoeg seks, maar vindt hij ook de ware liefde, die ene meid waarvan je zegt: Yessss!?'
+Wij denken dat voorlichting over seksuele gezondheid anders moet en kan. Door seksualiteit om te beginnen wat ruimer denkend te beschouwen. Want waarom is die nieuwe condoomcampagne ('Voordat je broek uit gaat') weer zo primitief gefocust op een technisch montagemoment, alsof het om een actie voor winterbandenwisselweken gaat? Uit onderzoek blijkt dat een groot deel van de jongeren die ongewild seks hebben zonder condoom, niet zozeer een probleem hebben met de timing, maar überhaupt niet over condooms durven te beginnen. Niet durven praten over condooms hangt samen met niet durven praten over seks. En niet durven praten over seks heeft te maken met de veiligheid binnen een relatie.
+Een relatie is 'seksueel veilig' als de partners niet alleen lichamelijk rijp zijn, maar ook emotioneel rijp om over seks te praten op een veilig moment, dus als de broeken nog aan zijn.
+Niet alleen 'het condoommoment' vergt de juiste timing, ook het beginnen aan een seksuele relatie is iets waarvoor de tijd rijp moet zijn. Jongeren die later beginnen aan een seksuele relatie kunnen beter hun grenzen aangeven, kunnen beter praten over seksualiteit en vertonen veiliger seksueel gedrag. Hoe jonger iemand aan een seksuele relatie begint, hoe groter de statistische kans op een soa, ongewenste zwangerschap of nare seksuele ervaringen.
+Niet alleen over condooms, ook over seksualiteit moet je praten voordat de broeken uit gaan. Dat kan dus ook jong beginnen; met seksuele voorlichting kun je niet pas aankomen bij jongeren die al vlak voor hun eerste seksuele ervaringen staan. Maar van de huidige overheidscampagnes gaat in woord en beeld de boodschap uit dat je op je vijftiende toch wel dringend aan je eerste seksuele ervaring toe bent. Waarom draait Hun eerste keer geheel rond 15- en 16-jarigen, terwijl nog altijd bijna de helft van de 17-jarigen maagd is? Deze campagne wekt de indruk dat een 'eerste keer' op zekere leeftijd net zo onvermijdelijk en onstuitbaar is als een eerste menstruatie of zaadlozing. En daaroverheen komt nog eens de suggestie dat het heel normaal is om op jonge leeftijd te experimenteren met vrijblijvende, niet-verbindende seks. In die sfeer van vanzelfsprekendheid krijgen de filmpjes een normatief toontje waarvan de overheid zich verre zou moeten houden.
+Jongeren hebben recht op goede, gezonde informatie. Ook over de positieve effecten van wachten met je eerste seksuele contact. Het wordt er met de jaren echt niet minder leuk en lekker op sterker nog: een goede, liefdevol prettige 'eerste keer' draagt bij aan een fijn en gezond seksleven op latere leeftijd. En een realistische overheidscampagne mag best uitgaan van de heel gewone werkelijkheid, namelijk dat de meeste jongeren kiezen voor een vaste relatie vóórdat ze aan seks beginnen. Een overheid die met filmpjes komt met de vraag 'met wie zal ik nu eens gaan zoenen' of 'ik wil seks, maakt niet uit met wie' maakt zich meer dan een beetje belachelijk. Dus, overheid, als je aan seksuele gezondheidszorg doet: leer jongeren praten over seks als de broek nog aan is. Dat is pas veilig.
+ARJET BORGER is adviseur gezondheidszorg en preventie. ESMÉ WIEGMAN is lid van de fractie van de ChristenUnie in de Tweede Kamer.
+In de campagnes is vroege seks net zo onvermijdelijk als menstrueren
+</dcterms:description>
+        <dcterms:extent>word, 919, Opinie en Debat; Blz. 29</dcterms:extent>
+        <dcterms:issued>2011-11-09</dcterms:issued>
+        <rdfs:label xml:lang="nl">Volgens overheid is seks op je vijftiende héél normaal</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,51 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzEwLUtHVDEtSkM4Vy1ZMEg5">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5310-KGT1-JC8W-Y0H9"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5310-KGT1-JC8W-Y0H9&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Niet eerlijk De Argentijnse oud-minister met een verleden van oorlogsmisdaden ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Niet eerlijk
+De Argentijnse oud-minister met een verleden van oorlogsmisdaden staat in het gezelschap van hare majesteit de koningin lachend te zwaaien bij het Concertgebouw in Amsterdam. De Zwitserse Fifa-baas met corrupte achtergrond is, mede dankzij de KNVB, voor vier jaar herkozen. De Nederlandse artsen die patiënten blind, mank, mismaakt en doodziek maakten, zijn op non-actief gezet c.q. ontslagen bij hun ziekenhuis en werken elders.
+De docent Duits uit Gennep die de eindexamens van een aantal van zijn mavoleerlingen verbeterde waardoor hun scores hoger werden, 'het examen was slecht opgesteld en dat vond ik niet eerlijk', is ontslagen en mag nooit meer in het onderwijs werken. Ook niet eerlijk.
+Kristel Nijssen, Amsterdam
+Goed zo, Theodor
+Hierbij spreek ik mijn hoge waardering uit voor de column van Theodor Holman van maandag, waarin hij zijn kritiek uit op de aanwezigheid van de Zorreguieta's in het Concertgebouw. Ik ben blij dat dit als doodnormaal gevonden optreden van dit echtpaar, door hem aan de kaak is gesteld. Het is inderdaad een zware slag in het gezicht voor de nabestaanden van duizenden Argentijnen, gemarteld en verdwenen tijdens het regime waarvoor Jorge Zorreguieta werkte.
+Ik ben blij dat Het Parool er niet voor terugdeinst dit te publiceren.
+Joke Goyert, Amsterdam
+Allemaal aan de drank
+Fantastisch, laten we ons allemaal aan drank, drugs, gamen en andere uitspattingen overgeven. Dan mogen we, ook weer met ons allen, afkicken in de Jellinek Retreat op Curaçao ('Luxueus afkicken voor 16+', Het Parool van woensdag).
+We leren daar hoe we ons moeten voeden, zonnebaden, snorkelen, duiken, golfen, tennissen en hoe te liggen aan het zwembad van het dure resort. En dat alles grotendeels op kosten van de maatschappij.
+Gelukkig moeten de ouders thuisblijven. Tenzij ook zij verslaafd zijn, natuurlijk, dan mogen ze ook naar een luxe resort op een tropisch eiland. Dat alles voor het nobele doel van de werkverschaffing op 'onze' eilanden en voor de bevordering van de economie aldaar. En dat alles met het fiat van minister Piet Hein Donner.
+Als solidair staatsburger ga ik nu een flesje wijn openmaken en zorgen voor de werkverschaffing. Op uw gezondheid, minister Donner!
+Ingeborg Brounts
+Afschot damherten
+Het college van b. en w. van Amsterdam stemt in met het plan van de provincies Noord-en Zuid-Holland een deel van de damherten in de Amsterdamse Waterleidingduinen (AWD) af te schieten. De gemeente denkt zo de overlast tegen te gaan, die ondanks de plaatsing van hekken nog zou toenemen.
+De gemeenteraad heeft tot nu toe gezegd dat geen sprake kan zijn van afschot zolang het gehele gebied niet van een deugdelijke omheining is voorzien. Nog steeds is dit niet het geval. Het gebrek aan medewerking door de gemeenten Bloemendaal en met name Noordwijk speelt hierbij een grote rol.
+De AWD is het enige gebied in de twee provincies waar damherten ongestoord kunnen leven. Jagen zal veel leed en stress onder de kuddes aanrichten, waardoor een deel van de dieren het gebied zal proberen te ontvluchten. De dieren die in het gebied blijven zullen zich sneller voortplanten, zodat afschieten slechts een tijdelijk effect heeft. Ook is de verwachting dat de damherten zich niet meer zo makkelijk laten zien aan het publiek. Dit zal ten koste gaan van de aantrekkingskracht van de AWD, dat met 800.000 bezoekers per jaar van grote economische waarde is voor de regio.
+Het is te hopen dat de gemeenteraad voet bij stuk houdt en op 22 juni tegen het beheerplan stemt.
+Tirza Elias,
+Partij voor de Dieren, Amsterdam
+</dcterms:description>
+        <dcterms:extent>word, 588, Het Laatste Woord; Blz. 31</dcterms:extent>
+        <dcterms:issued>2011-06-03</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

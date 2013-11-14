@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NUpULTE4UDEtRFlSWS1OMTVY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55JT-18P1-DYRY-N15X"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55JT-18P1-DYRY-N15X&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Tonio' is natuurlijk de gedoodverfde winnaar</dcterms:title>
+        <dcterms:creator>Sebastiaan Kort</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Behalve een schrijver zal komende maandag ook een boekverkoper rijker het Amstel Hotel verlaten dan hij binnenkwam. Er wordt namelijk onder boekhandelaren, zo verklapt René Hollaers, al jarenlang een heuse pool georganiseerd aan de tafels van het traditionele diner voorafgaand aan de bekendmaking van de winnaar van de Libris Literatuur Prijs. ,,Vijf euro inleg de man", zegt Hollaers, zelf één van de eigenaren van boekhandel Hollaers &amp; Van Kemenade in Breda. ,,Zo had ik vijf jaar terug bij vertrek 60 euro meer in de portemonnee dan bij binnenkomst, toen ik inzette op Grunbergs Tirza."
+Als ze het maandag kunnen voorspellen, dan kan  het ook een paar dagen eerder. Dus wie wordt het? A.F. Th. van der Heijdens rouwroman Tonio is volgens Hollaers ,,natuurlijk de gedoodverfde winnaar". ,,Het doet het nu al zo ontzettend goed bij een breed publiek, dat moet iets zeggen over de kwaliteit ervan." Maar waar zit het hem nu precies in met Tonio, waar inmiddels volgens uitgeverij De Bezige Bij al 100.000 exemplaren van zijn verkocht? Behalve superlatieven (,,indringend", ,,beklemmend") draagt Hollaers nog een verklaring aan. ,,Ik heb zelf een zoon van 23 die Amsterdam woont, nou, je houdt na het lezen van Tonio je hart vast hoor."
+Dat Tonio van de zes genomineerde boeken de grootste kanshebber is, wordt door de Nederlandse boekhandelaren in veel gevallen als een vanzelfsprekendheid gebracht. Eerst beginnen ze over Tonio, pas daarna noemen ze een boek dat hun persoonlijke voorkeur heeft. Dan komen ook vaak pas de verhalen en anekdotes. Wanneer ze het over Tonio hebben, halen ze eerst even diep adem. Dat doet Ineke Verkaaik van de Goudse boekhandel Verkaaik bijvoorbeeld. Zij acht Van der Heijdens boek over zijn overleden zoon ,,natuurlijk favoriet". Haar verklaring daarvoor is beknopt: ,,Een boek over een gevoelig onderwerp, zonder een tranentrekker te worden."
+Nee, dan Bittere Bloemen van Jeroen Brouwers, Verkaaiks persoonlijke favoriet. ,,Die doet het ook zo goed hier in Gouda." Is Gouda vruchtbare grond voor het oeuvre van Brouwers? ,,Nou, wel sinds ik in 'De boekenplank van Ineke Verkaaik', mijn column in De krant van Gouda, een lans voor Brouwers' boek brak." Is dat een invloedrijke rubriek? ,,Meneer, ze knippen het uit en komen met de knipsels naar de zaak, soms nog van maanden terug."
+De boeken van Brouwers en Van der Heijden zijn volgens Daan van der Valk van de Haarlemse boekhandel H. de Vries ,,meer klassieke literatuur, terwijl iemand als Ivo Victoria vernieuwender is". De shortlist is volgens hem divers, maar een uitgesproken favoriet voor de titel heeft hij dit jaar niet. ,,Dat is nieuw. Ieder jaar zetten we als onafhankelijke boekhandel vol in op een van de genomineerden." Vorig jaar zag dat er met Bonita Avenue van Peter Buwalda, een Haarlemmer, volgens Van der Valk als volgt uit: ,,Er lag een berg van 300 Bonita's. Best imposant. Andere schrijvers die in de winkel langskwamen, keken er met jaloezie naar."
+Rogier Knipscheer van de Venlose boekhandel Koops heeft misschien wel het mooiste verhaal over zijn favoriet. ,,Een paar jaar terug stond Jan van Mersbergen hier in de winkel. Ik waardeerde zijn werk. Maar toen hij me vertelde dat hij van plan was een boek over het Venloos carnaval, de Vastelaovend, te schrijven, was ik ervan overtuigd dat hij zich  zou vertillen. Wat moest een Brabander die al jaren in Amsterdam woont de mensen nu over 'ons' carnaval vertellen?"
+Knipscheer had het mis. ,,Ik heb Naar de overkant van de nacht nog in een Word-bestandje gelezen, Jan mailde het me. Het was hartje zomer. Nadat ik het uit had gelezen reed ik wat beduusd met de auto het centrum van Venlo in. De stad klopte niet meer met mijn belevingswereld van dat moment. Mensen zaten in zomerkleding buiten, maar in mijn hoofd was het carnaval." Van Mersbergen was met vlag en wimpel geslaagd. ,,Venlo heeft er een ambassadeur bij. Mooi dat we ook eens een keer met wat anders geassocieerd worden dan met Wilders."
+Underdog voor de titel: Het bloed in onze aderen van Miquel Bulnes. De titel wordt veel genoemd. ,,Maar dat is wel een beetje een mannenboek", zegt René Hollaers, ,,met veel militair vertoon enzo." Daar moet de lezer, man of vrouw, maar niet te veel voor terugdeinzen. Hollaers: ,,Het doet een beetje aan De schaduw van de wind van Zafón denken, maar Bulnes is beter."
+Of het nu een mannen- of een vrouwenboek wordt maandag, dat maakt voor de verkoop in de Nederlandse boekhandel niet meer uit. Daan van der Valk: ,,Er zijn altijd standaard vijftig mensen die na toekenning van de prijs de winnaar komen kopen."
+Boekhandelaren zijn net mensen. Zo zal het niet verbazen dat Rogier Knipscheer wil dat Jan van Mersbergen wint. ,,Maar anders Ivo Victoria." Want ook zijn boek is goed? ,,Nou, ik heb Victoria als introducee van Jan op het Boekenbal leren kennen. Zó'n leuke vent."
+Uitreiking Libris Prijs
+Maandag 7 mei maakt de voorzitter van de jury, Robbert Dijkgraaf, bekend wie de winnaar is van de Libris Literatuur Prijs 2012. De bekendmaking heeft plaats tijdens een galadiner voor genodigden in het Amstel Hotel in Amsterdam. De winnaar ontvangt 50.000 euro. Eerdere winnaars waren Bernard Dewulf en Yves Petry De bekendmaking is  live te volgen bij Nieuwsuur op Nederland 2.
+</dcterms:description>
+        <dcterms:extent>word, 902, Z &amp; Z</dcterms:extent>
+        <dcterms:issued>2012-05-05</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Tonio' is natuurlijk de gedoodverfde winnaar</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

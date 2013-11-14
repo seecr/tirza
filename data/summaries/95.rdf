@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NUowLVI1NzEtRFlSWS1OMkM3">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55J0-R571-DYRY-N2C7"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55J0-R571-DYRY-N2C7&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>The Scene is de Amsterdamse rockband met poëtische teksten rond ...</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>The Scene is de Amsterdamse rockband met poëtische teksten rond zanger, gitarist, componist en producer Thé Lau. Het is de band van de hits Iedereen is van de wereld en Blauw. De groep mag meer dan dertig jaar bestaan, de band leeft nog altijd voor het podium. The Scene sluit het programma op het hoofdpodium op de Dam af.&amp;nbsp;
+Dam: 22.00-23.00 uur
+Het debuutalbum The marmalade sessions van de formatie van hammondorganist Sven Figee werd genomineerd voor een Edison. Op het tweede album The apple field heeft de band zijn horizon verbreed. Het hammondorgel blijft de verbindende factor tussen de soul, jazz, pop en rhythm-and-blues. Zanger Ivan Peroti maakt op dit album zijn debuut als frontzanger van de band.
+Dam, 18.00-19.00 uur
+Singer-songwriter en Serious Talent Yori Swart won de Amsterdamse Popprijs, de Sena Performers POPnl Award en de Grote Prijs van Nederland. Het nummer By your side van Serious Talent Chagall (foto) werd de titelsong van de film Tirza, de Nederlandse Oscarinzending.
+Yori Swart, Dam: 16.30-17.30 uur
+Chagall, Sena Talent Stage/Beursplein, 17.30-18.00 uur en Comedy Theater, vanaf 22.00 uur
+</dcterms:description>
+        <dcterms:extent>word, 186, Specials; Blz. 7</dcterms:extent>
+        <dcterms:issued>2012-05-01</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

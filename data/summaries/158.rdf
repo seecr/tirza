@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OEJXLVkyRjEtSkM4Vy1ZMDRI">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58BW-Y2F1-JC8W-Y04H"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58BW-Y2F1-JC8W-Y04H&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Oek de Jongs 'Pier en oceaan' Gouden Uil amsterdam. Oek ...</dcterms:title>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description> Oek de Jongs 'Pier en oceaan' Gouden Uil
+amsterdam. Oek de Jong heeft voor zijn roman Pier en oceaan de Gouden Boekenuil 2013 gewonnen, de grootste literaire prijs van Vlaanderen. Zaterdag werd de prijs, een bedrag van 25.000 euro en een sculptuur, uitgereikt in Gent. De ,,eenstemmige" jury noemde De Jongs boek, een veelgeprezen, grote familieroman over het naoorlogse Nederland, ,,een roman die alle zintuigen prikkelt, soms apart en soms tegelijk, geschreven zoals een oude meester schildert". Pier en oceaan werd verkozen boven de andere favoriet, Tommy Wieringa's Dit zijn de namen, die de publieksprijs ontving. Beide romans zijn, net als  De man zonder ziekte van Arnon Grunberg, genomineerd voor zowel de Boekenuil als de Libris Literatuurprijs, die vanavond wordt uitgereikt. De enige keer dat de twee prijzen naar hetzelfde boek gingen, was toen Arnon Grunberg in 2007 won met Tirza. Ondenkbaar is een 'dubbelklapper' voor De Jong dus niet, al staat de Librisprijs bekend als onvoorspelbaar. De uitreiking wordt rechtstreeks uitgezonden door Nieuwsuur. De overige drie genomineerden zijn Christiaan Weijts (Euforie), Elvis Peeters (Dinsdag) en Esther Gerritsen (Dorst).(NRC)
+Publiek woedend om  Tannhäuser als SS'er
+Amsterdam. Op het podium staan gaskamers, de hoofdrollen worden vertolkt door zangers in naziuniformen en het theaterbloed stroomt overvloedig. Een groot deel van het publiek bleek niet gecharmeerd van de enscenering van Richard Wagners Tannhäuser die dit weekeinde in Düsseldorf in première ging. Na een half uur klonk het eerste boegeroep en daarna begonnen bezoekers de zaal te verlaten. Sommigen sloegen met de deuren, zo laat het Duitse weekblad Der Spiegel weten. Op het premièrefeestje na afloop moest  de regisseur, Burkhard Kosminski, beschermd worden tegen een woedende fan. In zijn eerste opera-enscenering onderstreepte Kosminksi het antisemitisme van Wagner door de romantische opera, die handelt over het conflict tussen zinnelijke lust en religieus verstand, te veranderen in een verhaal over schuld en verzoening. ,,Geforceerd" zeggen critici. ,,Schandalig" meent een luidruchtig deel van de bezoekers. ,,Wat heeft dit met Tannhäuser te maken?" vroeg ,,een boze mijnheer"  voor hij de zaal verliet. (NRC)
+</dcterms:description>
+        <dcterms:extent>word, 374, Cultuur; Blz. 17</dcterms:extent>
+        <dcterms:issued>2013-05-06</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

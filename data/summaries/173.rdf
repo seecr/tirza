@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M0ROLTgzMzEtSkM4Vy1ZNDJE">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53DN-8331-JC8W-Y42D"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53DN-8331-JC8W-Y42D&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>MOEILIJKE LIEFDE in de STAL; Theaterfestival Boulevard in Den Bosch</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Een stads meisje dat haar geluk zoekt op het platteland. De locatievoorstelling Kracht  is zoiets als Boer zoekt Vrouw , maar dan zonder Yvonne Jaspers. Twee mensen die uit totaal andere werelden komen, maar toch iets in elkaar herkennen. Ze zoeken steun bij elkaar, maar of ze het geluk bij elkaar vinden, dat is de vraag? Het stuk van Matzer Theaterproducties is te zien tijdens Theaterfestival Boulevard in Den Bosch.
+Het rode pluche is ver te zoeken in de tochtige, halfopen stal net buiten Den Bosch. De mestlucht dringt je neus binnen, terwijl de schuur toch al vijf jaar niet meer in gebruik is. Volgens Kees Hulst kun je de koeien nog goed ruiken, vooral als het net geregend heeft. Dan lopen de gierstraten vol en komt het aroma je tegemoet. Toch haalt de 59-jarige acteur, die vorig jaar nog de prestigieuze toneelprijs de Louis d Or in ontvangst mocht nemen voor zijn rol in Tirza  bij het Nationale Toneel, hier zeker zijn neus niet voor op.  Ik kies voor mensen en het avontuur en ik wilde dolgraag een keer met Wendell Jaspers werken. 
+Hulst speelt in Kracht  de rol van Bert Bollens, een eenvoudige boer die net zijn vrouw heeft verloren. De man verwaarloost zijn bedrijf en zijn dieren. Om zijn zinnen te verzetten bezoekt hij een landbouwtentoonstelling in Amsterdam, waar hij de kunstenares Roos (Jaspers) ontmoet. Ze krijgen een relatie, maar die verloopt allerminst soepel.  Ze proberen allebei uit hun ongeluk weg te komen en denken dat bij elkaar te vinden. Maar haar stadse fratsen hebben in de besloten boerengemeenschap waar hij vandaan komt geen pas. Het gaat over veel dingen, maar vooral ook over kunst en het leven, en de kunst van het leven. 
+Kracht  is een bewerking van de gelijknamige film van Frouke Fokkema uit 1990. Hoewel de acteur zelf niet van het platteland komt, denkt hij dat de situatie voor iedereen wel herkenbaar is.  Dit soort verschillen tussen mensen kom je ook in de stad tegen. Dat geborneerde en burgerlijke heeft vooral met een beperkte geest te maken, niet zozeer met de geografische ligging. 
+Tien keer spelen ze Kracht  slechts, maar er werd wel zeven weken aan gerepeteerd.  Ik heb vaak moeite met langdurige tournees, maar dit is weer de andere kant. Het is een beetje uit balans, maar dat is ook een beetje inherent aan het vak. Soms ben je heel lang met de voorbereidingen van iets bezig en dan gaat een project vervolgens niet door.  Zo liepen eerder dit jaar de repetities van Dracula  van Jakop Ahlbom spaak en kwam Hulst onverwachts midden in het seizoen thuis te zitten. En dat terwijl hij zich enorm had verheugd op dat stuk.  Resultaten in het verleden bieden geen garantie voor succesvolle producties in de toekomst , redeneert hij nuchter.
+De acteur is inmiddels ook bij een wat groter publiek bekend door series als Gooische Vrouwen  en Iedereen is gek op Jack .  Mijn zoon noemt me een bbn er , lacht de acteur.  Een bijna bekende Nederlander , beantwoordt hij de vragende blik. Maar als mensen op hem afstappen omdat ze hem menen te herkennen, dan refereert hij altijd aan een toneelvoorstelling, nooit aan de televisie.
+Theaterfestival Boulevard vindt van 4 t/m 14 augustus plaats op diverse locaties in en rondom Den Bosch. Info: www.festivalboulevard.nl.  Kracht    van  Matzer Theaterproducties staat van 6 t/m 14 augustus op een boerderij in Henriettewaard waar het publiek vanuit Den Bosch met een bus naartoe wordt gebracht.
+</dcterms:description>
+        <dcterms:extent>word, 566, FilmUitgaan; Blz. 17</dcterms:extent>
+        <dcterms:issued>2011-07-28</dcterms:issued>
+        <rdfs:label xml:lang="nl">MOEILIJKE LIEFDE in de STAL; Theaterfestival Boulevard in Den Bosch</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

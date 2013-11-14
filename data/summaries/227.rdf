@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81ODVKLVZZSDEtRFlSWS1OMU02">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/585J-VYH1-DYRY-N1M6"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=585J-VYH1-DYRY-N1M6&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>IJburg zorgt zelf voor bibliotheek</dcterms:title>
+        <dcterms:creator>JOOST ZONNEVELD</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Jip en Janneke in het Latijn, maar ook het informatieve Wat is pornografie
+
+AMSTERDAM - Zolang er geen echte bibliotheek op IJburg is, doen de bewoners het zelf wel. Met die gedachte is de Flexbieb tot stand gekomen, mogelijk als opmaat naar een echte vestiging van de OBA. A.F. Th. van der Heijden, Arnon Grunberg en Carry Slee zijn enkele van de schrijvers van wie het aangezicht op lampen aan de wand in de Flexbieb, op de hoek van de Talbotstraat en het Ed Pelsterpark op IJburg hangt. "En natuurlijk Marcel Proust, mijn persoonlijke favoriet," zegt IJburger en initiatiefnemer Joris Vermeulen. "We doen dit allemaal op vrijwillige basis, maar het moest er niet goedkoop uit zien." 
+
+          
+          En dat lijkt gelukt, ook al zijn de boekenkasten gemaakt van houten planken die op keukentrappen rusten en is het meeste meubilair voor een tweede leven opgelapt. "Er is behoefte aan ontmoetingsplekken en aan een bibliotheek op IJburg, maar met zo'n achttienduizend bewoners zouden we nog te klein zijn voor een vestiging van de OBA. Toen dachten we: we doen het zelf wel." In een bedrijfsruimte van woningcorporatie De Key die al jaren leegstaat, mocht Vermeulen - in het dagelijks leven vertaler - tegen een zacht prijsje een bibliotheek beginnen. Het stadsdeel legde wat geld op tafel. De Flexbieb krijgt een jaar om zich te bewijzen. Kinderen kunnen gratis lid worden, volwassenen betalen een tientje en kunnen in de sfeervolle ruimte ook nog goedkoop een kop koffie drinken en kosteloos gebruikmaken van een internetverbinding. Boeken kopen doet Vermeulen niet. Wel kregen hij en zijn 25 actieve vrijwilligers, die de bibliotheek liefst veertig uur per week open willen houden, er al zo'n drieduizend cadeau. Ze komen van bewoners, maar ook van uitgeverijen die nog wat hadden liggen. "We hadden ons voorbereid op een hoop afdankertjes, maar dat valt heel erg mee. Het gros is tussen de vijf en tien jaar oud." En er zijn ook exemplaren die als welkome verrassing zijn binnengehaald: een boek van Joseph Conrad uit de jaren twintig, werk van Frederik van Eeden en, volgens Vermeulen zeker de moeite waard: exemplaren van Reporting van David Remnick. Ook wil Vermeulen Wat is pornografie niet onvermeld laten, net als Jip en Janneke in het Latijn. De diversiteit, wil hij maar zeggen, is groter dan verwacht, met ook een redelijk aantal Engelstalige boeken en een bescheiden collectie in het Turks. Wat eveneens opvalt, is het aantal reisgidsen. IJburgers zijn blijkbaar reislustige mensen. En ze hebben wel wat met thrillers. Dat leest immers ook wel lekker weg op het strand. Toch moet de jonge doe-het-zelfbibliotheek ook boeken weigeren. Net zoals tijdens Koninginnedag sommige bestsellers of hopeloos geflopte boeken ineens op elk kleedje te vinden zijn, is de aanvoer van het werk van Stieg Larsson en Tommy Wieringa's Caesarion wel erg groot. De collectie die IJburger Johan Bakker nog in huis had, is echter met open armen ontvangen. Het ging om boeken die enkele jaren geleden door bewoners waren gedoneerd voor een vergelijkbaar initiatief: de Boekenkas. Aan Maike Michielsen ligt het niet. Haar kinderen staan al met boeken van muisheld Geronimo Stilton in hun handen voordat zij en haar kroost lid zijn geworden. "Zelf moet ik eerst nog door een stapel boeken op mijn nachtkastje heen, maar voor de kinderen is dit heerlijk dichtbij." Buurtbewoonster Martha Bakker twijfelt nog of ze lid wordt. "Het is een leuk initiatief en om de hoek, maar ik vraag mij af of ik hier alle nieuwe boeken kan vinden. Ik hoop eigenlijk dat op IJburg nog eens een echte bibliotheek komt," zegt ze met Tirza van Grunberg in haar hand. En dat kan op afzienbare tijd zomaar het geval zijn. Stadsdeel Oost is namelijk bezig om een vestiging van de OBA op IJburg financieel rond te krijgen.
+De aanvoer van Larssons en Wieringa's Caesarion is wel erg groot
+</dcterms:description>
+        <dcterms:extent>word, 638, Amsterdam</dcterms:extent>
+        <dcterms:issued>2013-04-11</dcterms:issued>
+        <rdfs:label xml:lang="nl">IJburg zorgt zelf voor bibliotheek</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

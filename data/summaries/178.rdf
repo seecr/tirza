@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MUNILTVYVjEtRFlSWS1OM05G">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/51CH-5XV1-DYRY-N3NF"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Schrijver kan niet zonder school; Literatuurles in teken van Mulisch' dood 'Twee vrouwen' en 'De aanslag' favoriet</dcterms:title>
+        <dcterms:creator>Hanne Obbink</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>alkmaar - ,,Ik lees eigenlijk heel weinig. Maar 'Twee vrouwen' heb ik wel gelezen", zegt Astrid (17). ,,Ik vond het een goed boek, ik heb het met plezier gelezen. Eerst dacht ik dat het over een man en een vrouw ging, maar dat was dus niet zo."
+Klasgenote Renée heeft het boek ook gelezen. Maar ze vond er niets aan. ,,Het is heel dun, je hebt het zo uit. Maar er zit weinig verhaal in. Alleen op het einde gaat er pats boem iemand dood. Verder gebeurt er bijna niets."
+Astrid en Renée zijn leerlingen van klas 6 atheneum aan christelijke scholengemeenschap Jan Arentsz in Alkmaar. Hun les Nederlands stond gisteren volledig in het teken van de dood van Harry Mulisch.
+Leraar Willard Mans heeft een indrukwekkende stapel boeken van Mulisch mee naar school gesleept - onder meer een eerste druk en een paar Tsjechische vertalingen. Hij vertelt erover en leest voor uit 'Siegfried', het boek waarin een schrijver die 'verrekte veel op Mulisch zelf lijkt' dood gaat. ,,Schitterend," zegt Mans als hij het boek weglegt. ,,Ik kan het jullie echt aanraden."
+Een kwart van de klas heeft wel eens iets van Mulisch gelezen. 'Twee vrouwen' is favoriet, maar ook 'De aanslag' blijkt regelmatig gelezen te worden. ,,Ik had gehoord dat dat heel spannend was, en dat er veel lagen in zaten", vertelt Marijn. ,,Maar ik vond het saai. En die lagen, die heb ik niet kunnen vinden." Maar, voegt hij eraan toe, ,,ik zat in de derde toen ik het las, misschien was ik er nog te jong voor."
+Leraar Mans doet z'n best zijn enthousiasme over te brengen. Hij heeft Mulisch' werk de afgelopen dagen al 'tijdloos' horen noemen, maar daar gelooft hij niet in. ,,Toen ik zelf nog op school zat, werd dat ook gezegd van Simon Vestdijk. Dát was een kanon. Maar die is nu volledig weg, die krijgt zelfs in de literaire handboeken tegenwoordig maar een klein stukje." Als scholen hem niet onder de aandacht blijven brengen, kan dat Mulisch ook overkomen, vreest Mans.
+En die leerlingen die niets van Mulisch kennen, wat lezen die dan wél? ,,Nou ja, iedereen leest zo'n beetje dezelfde boeken", zegt een leerling. 'Joe Speedboot' van Tommy Wieringa wordt een paar keer genoemd, net als 'Tirza' (van Arnon Grunberg) en ook 'Een schitterend gebrek' (van Arthur Japin).
+Bas was het meest onder de indruk van 'Het verrotte leven van Floortje Bloem', het boek waarin Yvonne Keuls haar hoofdpersoon aan de drugs verslaafd laat raken en in de prostitutie laat belanden. ,,Die wereld ken je niet, dat vergeet je niet zo snel", zegt Bas. ,,Dat boek had echt diepgang, vond ik."
+</dcterms:description>
+        <dcterms:extent>word, 421, NEDERLAND</dcterms:extent>
+        <dcterms:issued>2010-11-02</dcterms:issued>
+        <rdfs:label xml:lang="nl">Schrijver kan niet zonder school; Literatuurles in teken van Mulisch' dood 'Twee vrouwen' en 'De aanslag' favoriet</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

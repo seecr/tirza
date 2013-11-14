@@ -1,0 +1,64 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NjlSLVM1QjEtSkM4Vy1ZMkRI">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/569R-S5B1-JC8W-Y2DH"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=569R-S5B1-JC8W-Y2DH&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Roze kleurt prima bij de rest op de Dijk 'Als ik hier zou wonen, zou ik elke avond seks hebben' 'Andere mensen durven er niet langs, dat kost ons klanten'</dcterms:title>
+        <dcterms:creator>tekst TIRZA DE FOCKERT en CORRIE VERKERK foto jan van breda</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>'Ze moeten nou eens uitscheiden met dat gezeur, dat geneuzel over homo's op de Dijk." Duidelijke taal van een jarenlange Zeedijkbewoner. "Of iemand nou he, ho, bi of iets anders is. Hier tolereren we iedereen. Wat maakt 't uit of de bakker homo zou zijn. Als ie maar een lekker broodje verkoopt."
+Het (te) roze gehalte van de Zeedijk was deze week weer even een hot item. Aanleiding was het nieuws dat kapper en pruikenmaker John Gravemaker op de Dijk geen nieuwe onderneming mocht beginnen. Want, zou er tegen hem gezegd zijn, de Zeedijk moet geen Gaydijk worden.
+Maar hoe roze is de Zeedijk eigenlijk? De meeste buurtbewoners en ondernemers vinden het allemaal wel meevallen. Van de ophef over de kapper begrijpen ze weinig. "Het zou toch juist een mooie upgrading van de straat zijn? Zo'n kapper uit de Bonnetterie?"
+Ja, homokroegen, daar zijn er onderhand wel genoeg van, vindt een andere Zeedijker. "Het moet geen Reguliers-Chineesstraat worden. Maar waarom zou je een kapper weigeren? Of een winkel, daar merk je toch niets van?"
+Op de Zeedijk kijkt men al jaren niet op van een extravagante nicht meer of minder. In de zogenoemde roze driehoek floreren bars als The Queen's Head, De Engel, De Engel Next Door en De Barderij, waar het op mooie middagen en avonden bomvol zit met bezoekers van spijkerbroektypes tot leermannen.
+Toeristen en vaste klanten vullen op een doordeweekse middag de straat. "Wat zijn hier veel homokroegen," zegt een jonge toerist opgewonden, terwijl hij zijn blikken laat glijden over het volle terras van De Barderij. "Als ik hier zou wonen, had ik elke avond seks!"
+Maar er zijn ook toeristen die ervan schrikken, zegt een Zeedijker: "Omdat het voor sommigen toch wat extreem oogt. Maar of het nou een homo- of heterocafé is, mij maakt het niks uit."
+De Zeedijk, beklemtonen hij en andere bezoekers en bewoners, blijft nog altijd een mix: van gaybars tot bruine kroegen, met daartussen restaurants en winkels.
+En wat maakt een onderneming nou eigenlijk gay? Een bezoeker van het legendarische 't Mandje een favoriet van zowel homo's en lesbo's als hetero's: "Er zitten hier veel zaken die gerund worden door homo's, van de couturier die prachtige damesmode maakt tot aan diverse Thaise restaurants. Ze profileren zich alleen niet zo."
+Bij café In 't Aepjen waar buurtbewoners en toeristen de barkrukken vullen meldde iemand onlangs nog gelezen te hebben dat 'zijn' kroeg bekendstond 'als het homovriendelijkste heterocafé van Europa'. "Prima toch?"
+"Dit is de most swinging place of Amsterdam," vult een ondernemer van om de hoek aan. "Schrijf dat maar op." Hij heeft de Dijk zien veranderen van junkietown naar een straat waar het goed drinken en flaneren is en waar je, zegt hij, als homo niet per se strak in je vel hoeft te zitten.
+"De Reguliersdwarsstraat is meer voor the young and the beautiful," zegt een frequent bezoeker van de roze driehoek. " Hier kunnen we gezellig praten en nog een sigaartje roken."
+Wat Dennis Boutkan, voorzitter van het COC Amsterdam, betreft mag de Zeedijk een nog duidelijker gaykarakter krijgen. "Maar dat is mijn persoonlijke mening. Afgelopen december waren we nog met wethouder Van Es en een aantal homo-organisaties en ondernemers op een congres in Berlijn over rainbow neighbourhoods. De Zeedijk past daar precies in. Dan denk ik niet zozeer aan nog meer kroegen, maar andere gaygerelateerde ondernemingen."
+Zoals de winkel in zwem- en onderbroeken ES Collection. Achter de toonbank hangen veel posters van strakke, gebronsde mannenlichamen. "Maar," zegt de verkoper, "er komen hier ook veel vrouwen die hun vriendjes eens met iets leuks willen verrassen."
+Diana van Laar, uitbater van 't Mandje en voorzitter van de ondernemersvereniging, kan zich wel vinden in een gemêleerde Zeedijk. De commotie over de kapper is haar natuurlijk niet ontgaan. Dat er geen roze ondernemingen bij zouden mogen komen, lijkt haar onzin. "Het is heel simpel. Ik denk dat ik namens de hele ondernemingsvereniging spreek als ik zeg dat wij honderd procent tegen homofobie zijn." Dat de NV Zeedijk zich daaraan opzettelijk schuldig zou maken gelooft ze niet. "Vorig jaar dreigde de Gay Pride op de Zeedijk niet door te gaan. Het kost toch veel geld. Toen is de NV bijgesprongen. Dat mag ook wel gezegd."
+De mengelmoes van de Zeedijk zorgt juist voor extra aanloop.
+"Het is al honderden jaren een straat waar wordt uitgegaan, waar veel kan." Het gaat, benadrukt ze, om kwaliteit en niet om de geaardheid. Een mooie zaak als de roze boekhandel Vrolijk of een erotische kwaliteitswinkel voor vrouwen als Mail &amp; Female zou bijvoorbeeld best passen op de Dijk, vindt ze. "Maar ook iemand die prachtige vazen maakt of verkoopt."
+Eén ding staat voor haar buiten kijf: "De Zeedijk is de leukste straat van heel de wereld." En kapper Gravemaker, die als pruikenmaker ook de extraverte creaties van de drag queens in de buurt maakt, was daarin prima op zijn plek geweest, zegt modeontwerpster Zita Winnubst, die haar eigen zaak op nummer 59 runt. "Zo'n kapsalon trekt allemaal artiesten, het is goed voor de buurt. Nu komt hier voornamelijk kwartjespubliek winkelen, dat liever een goedkoop petje aanschaft, gemaakt door Chinese kinderhandjes, dan een mooie das voor 25 euro."
+Wel wordt de straat meer ontdekt door toeristen die eerder een impulsaankoop doen, zegt ze. "Ik heb laatst nog een jasje van ruim vierhonderd euro opgestuurd naar Georgië. Maar uiteindelijk is dit toch vooral een horecastraat."
+Op de hoek van de Oude Kolk baat André Leinenga alweer een aantal jaren café De Engel en sinds een jaar het daarnaast gelegen De Engel Next Door uit. De zaken gaan goed. De keuze zich op de Zeedijk te vestigen noemt hij 'zijn gelukskoop'. Dat er na al die jaren nog altijd wordt geklaagd over de oploop voor zijn zaken, steekt. Bij de gemeente staat zijn zaak inmiddels op in de top 15 van notoire overlastbezorgers. "Het zijn een paar vaste mensen in de buurt die klagen. Voor de rest is iedereen, ook de politie en zelfs de heteroscene, blij met ons. Er is zelden tot nooit agressie. Het afgelopen weekeinde hadden we de drukste Gay Pride ooit in Amsterdam. Prima sfeer. Er gebeurde niks naars. Iedereen vierde feest en zorgde dat alles onder controle bleef."
+Al een paar jaar terug wist hij het, zegt Leinenga: "De Zeedijk is klaar om de nieuwe gay area van de stad te worden." Hij is ervan overtuigd: als de roze driehoek de deuren zou sluiten, zou dat een aderlating voor de hele straat betekenen.
+Bij de Ierse pub Molly Malone's, één van de naaste buren op de Oudezijds Kolk, ondervinden ze echter wel de nodige hinder van de dagelijkse drukte buiten bij De Engel, zegt een barman. "Het is een flessenhals, bomvol bezoekers. Andere mensen durven er amper langs. Dat kost ons klanten."
+Als er al irritaties zijn over de homo's op de Dijk, dan zijn die over die massa op straat. De uitbaters van De Barderij zijn onlangs met bewoners om tafel gaan zitten om daar samen uit te komen. Want aan rottigheid heeft niemand wat. En ja, men is eruit gekomen. "Hebben we een feest, dan maken we dat ruim op tijd bekend. De buren zijn dan natuurlijk ook uitgenodigd." En de bovenburen moeten natuurlijk ongehinderd door hun eigen voordeur kunnen. Zo is er al pratend altijd wel een oplossing te vinden.
+Zoals het op de Dijk onderling ook wel goed zit met de horecacollegialiteit. Zo vierden de heterohorecazaken Casablanca en café Verhoeff vorig weekeinde uitbundig mee met de Gay Pride.
+Bij Verhoeff staan de roze kaarsen van het feest nog in de vensterbank. De regenboogvlaggen waarmee de hele gevel was versierd, zijn opgeborgen. Bomvol zaten ze, aldus uitbaters Jessica Otto en Barry Heuperman. "En echt niet alleen met homo's hoor, er waren vooral ook veel gezinnen met kinderen," zegt Otto. Nee, ze zouden de Zeedijk geen Gaydijk willen noemen. Het is goed zoals het is. Maar er moeten ook niet al te veel homokroegen bij komen, klinkt het aan de toog. "Dan wordt het hier een nieuwe Reguliersdwarsstraat en gaat het unieke karakter van nu verloren."
+"Je hebt nu een aantal gayzaken dicht op elkaar, met verderop weer heel andere horeca," zegt Merlien Samson, die samen met zus Hillary café De Hartjes om de hoek van de Zeedijk runt. De Gay Pride heeft ook hun geen windeieren gelegd. "Als je mij vraagt, wat heb je liever in de buurt: de Gay Pride of Koninginnedag? Nou, geef ons de Gay Pride maar. Die trekt een goed publiek aan, mensen die van uitgaan houden en iets te verteren hebben."
+"Het is hier leven en laten leven," zegt een ondernemer. "Dat is ons adagium. En hoe relevant is anno 2012 dat onderscheid nou nog tussen homo- en heterogebieden?"
+"Maar van die winkels met leer," wil een bewoner toch nog even kwijt, "die hebben hier liever niet. Laat de jongens zich wat dat betreft maar uitleven in de Warmoesstraat. Daar heb je er al genoeg."
+Wordt de Zeedijk te roze? Deze week laaide de discussie weer op. Zeedijkers zelf: 'Leven en laten leven.'
+'Als ik hier
+zou wonen, zou ik elke avond seks hebben'
+'Andere mensen durven er niet langs, dat kost ons klanten'
+</dcterms:description>
+        <dcterms:extent>word, 1498, Amsterdam; Blz. 18</dcterms:extent>
+        <dcterms:issued>2012-08-11</dcterms:issued>
+        <rdfs:label xml:lang="nl">Roze kleurt prima bij de rest op de Dijk 'Als ik hier zou wonen, zou ik elke avond seks hebben' 'Andere mensen durven er niet langs, dat kost ons klanten'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

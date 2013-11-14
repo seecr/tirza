@@ -1,0 +1,54 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MkM3LTc0UDEtRFlSWS1OMlRH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52C7-74P1-DYRY-N2TG"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52C7-74P1-DYRY-N2TG&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Het middelbare kind huilt</dcterms:title>
+        <dcterms:creator>Rob Schouten</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+De huid wordt minder elastisch, het haar wordt grijs of valt uit, je vraagt je af of je wel alles bereikt hebt wat je wilde, je huwelijk is afgestompt en de dood ligt op de loer. Dante begon er zijn Goddelijke Komedie mee: Nel mezzo del cammin di nostra vita: Op 't midden van de reis die 't mensdom maakt / bevond ik me in een diep en donker woud, / omdat ik 't rechte pad was kwijtgeraakt.
+En een van de beroemdste middeleeuwse liederen bezingt het eveneens: Media vita in morte sumus: Midden in het leven zijn wij in de dood.
+Chronologisch gesproken is de middelbare leeftijd de rijkste periode van de mens, een periode waarin hij zichzelf tegenkomt maar ook zowel achterom als vooruit kan kijken. Wat niet wegneemt dat het vooral de duistere kanten zijn die literaire stof opleveren. Niet voor niets hebben we het over de midlifecrisis en in het Frans over le démon du midi. Crisis en demonen, wat wil een schrijver nog meer?
+Niet de geslaagde ridders en redders, ook niet de Sturm und Drang van een romantische held, maar de (anti)held van middelbare leeftijd is het favoriete personage van veel hedendaagse schrijvers. In Amerika wordt het wel the third age genoemd, je bent jong noch oud, of misschien ben je alles wel tegelijk, nog jong van hart, middelbaar van lichaam en toch ook al bezig met de dood.
+De belangrijkste motieven die een literaire hoofdpersoon van middelbare leeftijd oplevert lijken in elk geval die drie leeftijden te omvatten: het Lolita-complex van de middelbare man die, verliefd op een jeugdig meisje, zich nog even jong voelt; de generatiecrisis, waarin hele vriendenkringen van rond de vijftig zich realiseren dat hun idealen ongemerkt vervlogen zijn; en de vaak autobiografische verhalen waarin de middelbare mens met zijn demente of anderszins aftakelende ouders te stellen krijgt.
+Het Lolita-complex zou je kunnen omschrijven als een verkapte verjongingskuur. De ouder wordende, twijfelende en onrustige man zoekt het levenselixer in de vorm van een prille (meestal mooie) nimf, zo voelt hij zichzelf ook jonger. Sinds Nabokov zijn befaamde, indertijd nog fel omstreden roman 'Lolita' (1955) schreef, is het complex als een besmettelijke ziekte door de literatuur getrokken. Alleen al in de recente Nederlandse literatuur struikel je over de middelbare mannen die voor jonge meisjes vallen.
+Het opmerkelijke is overigens wel dat de hoofdpersonen bij veel van die schrijvers zich van seks onthouden,  alsof  ze de grote Nabokov beslist niet willen imiteren. Het zijn vooral sublimerende Lolita-lijders. Neem 'de weldoener' in P.F. Thomese's gelijknamige roman: helemaal van slag als hij zo'n jong ding in de schoot geworpen krijgt. Ze wijst hem onbewust op iets hogers: ,,Hij klampt zich met zijn gedachten aan haar vast alsof zij het enige is wat hij nog heeft. De enorme behoefte aan overgave, aan verloren gaan, hij zwelgt erin als een drenkeling zonder kant of wal. Opgaan in het universum, dat is wat hij wil."
+Iets soortgelijks overkomt de hoofdpersoon in Siebelinks roman 'Suezkade', een gymnasiumleraar die zich over de anorectische Najoua ontfermt. Nobele redders vinden ze zichzelf, ze houden hun handjes thuis. Ook Jörgen Hofmeister uit Grunbergs 'Tirza' wandelt in de slothoofdstukken kuis met het jonge Namibische meisje door Windhoek. Als hij al een seksuele obsessie heeft, geeft hij er nadrukkelijk niet aan toe. Wat dat aangaat lijkt de literatuur de laatste jaren wel aangeraakt door het maatschappelijke taboe rond pedofilie. Een vorige generatie schrijvers, onder wie bijvoorbeeld L. Wiener, deed er niet zo moeilijk over en liet zijn alter ego's nog rustig met hun sappigste leerlingen naar bed gaan. The times they are a changing.
+Dat de auteurs van het Lolita-complex stuk voor stuk mannen zijn kan niet missen. Dat geldt niet voor de generatieromans waarin de middelbaren collectief hun dromen hebben bijgesteld. In feite is 'Lucifer' van Connie Palmen zo'n roman, babyboomers lopen er moeizaam en vol zelfreflectie rond in de buurt van de vuilnisbakken met hun voormalige idealen.
+Ook Aleid Truijens met 'Vriendendienst' en Louise Fresco met 'De utopisten' schreven romans met mannen en vrouwen die aan een meno- of penopauze lijden. In laatstgenoemde roman  bijvoorbeeld schopt een voormalig milieuactivist het tot staatssecretaris en komt erachter dat regeren nog wat anders is dan protesteren. Hij moet aftreden, haast symbolisch voor die hele generatie voor wie de tijd van aftreden gekomen is.
+Het zijn zedenschetsen waarin de hoofdpersonen nel mezzo del cammin, halverwege dus, hun neus stoten tegen de onbuigzame realiteit en het onmiskenbare failliet van hun eigen jeugd. Eigenlijk is 'Het diner' van Herman Koch ook zo'n geval: maatschappelijk geslaagde ouders worden geconfronteerd met de mislukte opvoeding van hun nazaten en met hun eigen leegheid.
+Kun je in de Lolita-romans nog een zekere activiteit, een opflakkeren van oude energie bespeuren, in de generatieromans zien we de middelbare mens op z'n treurigst en middelmatigst, als iemand wiens leven op een dood spoor zit.
+Heel anders gaat het dan weer toe in de derde categorie boeken, waarin de middelbare mens zich van zijn beste kant kan laten zien, als verzorger. Ik heb het over werk waarin kinderen van demente ouders het woord voeren, autobiografisch of in nauwelijks verhulde fictie. Het is sinds Bernlef met 'Hersenschimmen' het onderwerp literair aansneed, onmiskenbaar een van de populairste genres van de afgelopen jaren geworden, en ook hier zie je  invloed van de maatschappelijke werkelijkheid en media-aandacht die het verschijnsel dementie en alzheimer salonfähig maakte. Literair gesproken is het ook een bijzonder vruchtbaar onderwerp, want het vat de traditioneel grote thema's eenzaamheid, liefde en dood  samen: drie voor de prijs van één.
+Boeken als 'Ik heb Alzheimer' van Stella Braam over haar dementerende vader, en 'Waarom ik moet liegen tegen mijn  demente moeder' van Cyrille Offermans, doen nauwgezet en objectief verslag van de aftakeling en van de impact daarvan op de achterblijvers, terwijl Kees van Kooten in 'Annie' de humoristische kant van dementie (van zijn eigen moeder)  beschreef.
+Iets fictioneler gaat het toe in Voskuils 'De moeder van Nicolien' over de alzheimer van Maarten Konings schoonmoeder. Tom Lanoye beschreef in 'Sprakeloos' hoe zijn moeder na een beroerte haar spraak verliest, Renate Dorrestein kwam met de veelzeggende titel 'Mijn zoon heeft een seksleven en ik lees mijn moeder Roodkapje voor'. Allemaal boeken die de zonen en dochters in beeld brengen, en hun confrontatie met de neergang en eindigheid van het leven.
+De achterflap van Dorresteins roman heeft het niet toevallig over 'de terreur van de zorgen om de tachtigjarige', terreur voor de kinderen wel te verstaan. In zekere zin hoort Nicolaas Matsiers roman 'Gesloten huis', waarin de achtergebleven kinderen het huis van hun gestorven ouders ontruimen ook tot het genre. Niet de bejaarden zijn in deze boeken het lijdend voorwerp, maar de veertigers en vijftigers die de rotzooi moeten opruimen. Met hén worden we geacht ons te identificeren en mee te leven. ,,Welches Kind hätte nicht Grund über seine Eltern zu weinen", citeert Matsier Nietzsche en dat is eigenlijk wat je in deze romans en bloc ziet: het middelbare kind huilt.
+Al met al kunnen we niet om de conclusie heen. Nog niet zo heel lang geleden heette een ongelukkige jeugd de goudmijn voor een schrijver, maar tegenwoordig is die goudmijn de middelbare leeftijd, die een tijd is van late lusten, van gedesillusioneerde gearriveerdheid en van verheven verantwoordelijkheden. Kom daar maar eens om als je gewoon nog jong of al oud bent.
+Rob Schouten  is dichter, en criticus en columnist van deze krant. Binnenkort verschijnen zijn verzamelde gedichten.
+Met Lolita naar
+bed gaan, lijkt
+alweer uit de mode
+</dcterms:description>
+        <dcterms:extent>word, 1345, L&amp;G | boeken</dcterms:extent>
+        <dcterms:issued>2011-03-12</dcterms:issued>
+        <rdfs:label xml:lang="nl">Het middelbare kind huilt</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

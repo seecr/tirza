@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OTRLLTVKTjEtRFlSWS1ONDdW">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/594K-5JN1-DYRY-N47V"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=594K-5JN1-DYRY-N47V&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>`Een nieuwe mokerslag voor mij en mijn ouders' </dcterms:title>
+        <dcterms:creator>CASPAR NABER </dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>HELLEVOETSLUIS/MIDDELBURG De kans dat ooit nog een spoor wordt gevonden van het vermiste Nederlandse schip Warnow is nihil. Dat zeggen de kustwachten van Nederland en Noorwegen. Vier maanden na de verdwijning van het omgebouwde loodsbootje op de Noordzee, is het zoeken gestaakt. Familie en vrienden van de drie Nederlandse bemanningsleden blijven machteloos achter. 
+Nabestaanden kapot van staken zoektocht vermist schip
+De kustwacht spreekt van een `afgehandelde zaak' en gaat ervan uit dat de Warnow met man en muis is vergaan. Zelfs de kans dat ooit nog wrakstukken aanspoelen van het 15 meter lange schip is volgens haar gering, omdat het van staal was en daardoor meteen is gezonken.
+Het slechte nieuws komt keihard aan bij familie en vrienden van opvarenden Peter van Liere (50) uit Middelburg, zijn maat Arnoud Brinkman (47) uit Schiedam en diens vriendin Tirza Smit (30) uit Hellevoetsluis.
+De zus van Van Liere spreekt van `een nieuwe mokerslag' die haar ouders van in de 80 en zijzelf via de media moesten vernemen. ,,Dat viel ons rauw op ons dak. Ik begrijp wel dat de kans heel klein is dat Peter en zijn twee vrienden nog worden gevonden, maar je blijft toch stilletjes hopen,'' zegt de Zeeuwse met een mengeling van woede en verdriet. De verklaring van de kustwacht heeft volgens haar alle hoop de bodem ingeslagen. ,,Wat moet en kun je nog doen,'' klinkt het vertwijfeld.
+Eind juli plaatsten familie en vrienden van de drie vermiste Nederlanders een laatste wanhopige oproep in de media in Noord-Oost Schotland, Noorwegen en op de Shetlandeilanden. Daarin vroegen ze bewoners bij het vinden van scheepsspullen een foto te maken en die ter identificatie op te sturen. De noodkreet bleef zonder resultaat.
+Storm
+De Warnow vertrok op 17 maart uit Schiedam met aan boord acht vrienden, vrijwel allemaal muzikanten die elkaar kenden uit het muziekwereldje. Als een soort `zoute zigeuners' zouden ze via Engeland en Schotland de oversteek maken naar Noorwegen, op zoek naar het Noorderlicht. Vijf opvarenden haakten na een vliegende storm bij de Schotse kust af.
+`Kapitein' Brinkman zette de tocht voort met zijn vriendin en zijn maat. Hun schip werd op 17 april voor het laatst gesignaleerd in de buurt van een Noors olieplatform midden op de Noordzee.
+Dat de drie muzikanten nu definitief zijn opgegeven, is ook een hard gelag voor de bands waarvan ze deel uitmaakten. Tirza Smit was achtergrondzangeres bij reggaeband Don Jow &amp; The Roottones uit Hellevoetsluis. Samen met haar zus Dana. Die is al 4 maanden emotioneel niet in staat om te zingen, zegt drummer Steef Lokken. ,,Wij treden zonder de zussen op, maar worstelen met de gedachte een of twee nieuwe achtergrondzangeressen aan te trekken. Hoe dan ook: we moeten door. Ik ben begonnen aan een afscheidsnummer maar wil dat eigenlijk niet schrijven,'' bekent hij.
+Laarzen
+Peter van Liere en Arnoud Brinkman waren respectievelijk drummer en saxofonist van Crappydog, een Zeeuwse band die `vuilnisbakkenblues' speelt. De verdwijning van het duo slaat een groot gat in de vijfmansformatie die desondanks doorgaat, zegt frontman Erik Vandenberge. ,,Wat moet je anders? Peter en Arnoud zouden het zo gewild hebben. De klompen en zwarte leren laarzen die ze tijdens optredens droegen, staan symbolisch op het podium,'' klinkt het weemoedig. Voor een nummer ter nagedachtenis aan de drummer en saxofonist is het volgens hem te vroeg. ,,Afscheid nemen gaat niet, zolang ze zijn vermist.''
+Van Liere, Brinkman en Smit wilden volgens hem louter symbolisch het Noorderlicht opzoeken. ,,Hun doel was de ultieme vrijheid te ervaren. Dat ze die nu letterlijk hebben gevonden, voelt raar, maar goed tegelijk. Het waren positief ingestelde en avontuurlijke mensen. Dit was hun laatste avontuur,'' zegt de frontman met een brok in zijn keel.
+</dcterms:description>
+        <dcterms:extent>word, 629, Algemeen - Nieuwsdienst; Blz. 8</dcterms:extent>
+        <dcterms:issued>2013-08-16</dcterms:issued>
+        <rdfs:label xml:lang="nl">`Een nieuwe mokerslag voor mij en mijn ouders' </rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

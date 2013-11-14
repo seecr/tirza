@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzcyLU5DVjEtRFlSWS1OMTlE">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5772-NCV1-DYRY-N19D"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5772-NCV1-DYRY-N19D&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Laatste kans voor Metropole</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>DEN HAAG - Maandag valt het besluit over het voorbestaan van het gelauwerde Metropole Orkest, het grote pop- en jazzorkest van de omroep. Dan debatteert de Tweede Kamer over de mediabegroting. 
+
+          
+          Het Metropole Orkest kreeg deze week twee Grammy-nominaties, maar de champagneflessen zijn dicht gebleven, zegt Marc Altink, woordvoerder van het Metropole Orkest. "Als maandag, tijdens het debat over de mediabegroting in de Tweede Kamer, geen politicus opstaat die zegt: 'Het Metropole Orkest mag niet verdwijnen', is het per volgend seizoen echt einde oefening." Natuurlijk is Altink blij met de nominaties voor de prestigieuze muziekprijs, de dertiende en veertiende die het orkest in zijn 67-jarige bestaan ontving. Maar wrang is het wel. Terwijl de buitengewone klasse van het orkest weer eens wordt benadrukt, hangt zijn voortbestaan aan een zijden draadje. Het orkest speelt en speelde (live en bij plaatopnames) met alle denkbare grootheden. Dirigent Vince Mendoza heeft illustere voorgangers in Dolf van der Linden en Rogier van Otterloo. Ruim zestig jaar werd het Metropole Orkest uit deze mediapot gefinancierd, maar in 2011 besloot minister Marja van Bijsterveldt dat het orkest op eigen kracht verder moet. Ze bood het gezelschap eenmalig één miljoen euro als steuntje in de rug, mits er een goed ondernemingsplan werd voorgelegd. Twee keer diende het Metropole Orkest een plan in, twee keer werd het afgewezen als onrealistisch. Altink: "Maar de opdracht was ook onrealistisch. Afgezien van André Rieu houdt geen enkel orkest het hoofd boven water zonder structurele subsidie. En wij worden geacht binnen een jaar compleet zelfstandig te worden. We willen zeker, maar het is nu nog onmogelijk." Er ligt nu een nieuw plan, waarin het roer rigoureus omgaat. De begroting is gehalveerd. Met 3,5 miljoen structurele subsidie redden ze het tot 2017, het eerste jaar dat het Metropole Orkest mee kan dingen naar een subisidie uit de cultuurpot. Altink hoopt dat de Tweede Kamer maandag de deur daarvoor op een kier zet. "Reken maar dat we die nominaties gaan vieren als dat gebeurt."
+'Afgezien van André Rieu houdt geen enkel orkest het hoofd boven water'
+</dcterms:description>
+        <dcterms:extent>word, 359, Kunst En Media; Blz. 35</dcterms:extent>
+        <dcterms:issued>2012-12-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">Laatste kans voor Metropole</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

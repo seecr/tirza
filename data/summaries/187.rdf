@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzIyLUZENzEtSkM4Vy1ZNDRD">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5322-FD71-JC8W-Y44C"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5322-FD71-JC8W-Y44C&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Eindelijk: een Nederlandse roadmovie die echt overtuigt</dcterms:title>
+        <dcterms:creator>Peter de Bruijn</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Rabat.  Regie: Jim Taihuttu, Victor Ponten. Met: Nasdrin Dchar, Marwan Kenzari, Achmed Akkabi.In: 22 bioscopen.
+Dat is even schrikken bij de begintitels. Coproducenten van de Nederlandse roadmovie Rabat zijn dezelfde bedrijven - uitgeverij Lebowski Publishers en muzieklabel Top Notch - die onlangs met nogal onsmakelijk lawaai de debuterende schrijver James Worthy in de markt hebben gezet. De film zou toch niet net zo'n opgeklopte, hijgende hype blijken te zijn?
+Dat valt reuze mee. Rabat is een met minimale middelen gemaakte - en dat verklaart wellicht het bij vlagen nogal gebrekkige geluid - innemende, soms zelfs poëtische film over drie Nederlands-Marrokaanse jongens die een oude taxi naar Rabat moeten rijden. De film is bepaald niet vrij van clichés rond Marrokanen. Daar zijn ze weer: de ijverige student die vooruit wil komen in de wereld (volgens het cliché zijn het eigenlijk vooral de Marokkaanse meisjes die zo leergierig zijn), het kruimelduifje dat niet wil deugen en de jongen die droomt van zijn eigen shoarmazaak. Maar met dank aan deze tweede generatie Marokkanen als filmpersonages is tenminste wel meteen het probleem opgelost dat Nederland eigenlijk te klein is voor een meeslepende roadmovie.
+De filmmakers laten het gelukkig ook niet bij die clichés, waar ze kennelijk toch niet helemaal buiten konden. In de loop van deze opmerkelijk goed geacteerde film krijgende acteurs voldoende momenten om als 'ronde' personages over het voetlicht te treden. Maar wat zou het mooi zijn als de regie en het scenario in Nederland van hetzelfde niveau zouden zijn als de acteurs, die alsmaar beter lijken te worden.
+Hoe dichter bij Marokko, hoe beter Rabat wordt. De brave Nadir (Nasrdin Dchar, bekend als het onfortuinlijke vriendje in Tirza) moet voor zijn vader een taxi naar Rabat rijden, alwaar pa ook meteen een bruid voor hem heeft uitgezocht. Ongevraagd rijden zijn beste vrienden Abdel (Achmed Akkabi) en Zakaria (Marwan Kanzari) met hem mee.
+De drie jongens staan vlak voor de grote stap naar het volwassen leven en het is de vraag of hun vriendschap die overgang zal overleveren. Nadir beseft dat als enige, zijn vrienden houden zichzelf liever nog even voor de gek dat er niks hoeft te veranderen. Ooit smeedden ze samen het plan om een restaurant te openen. Maar Nadir realiseert zich dat daar waarschijnlijk niets van terecht zal komen en wil zijn eigen weg gaan. Ze slapen in goedkope hotels, eten goedkope pizza's in een restaurant van een Turk die zich als een Italiaan voordoet en blijven hangen in Barcelona nadat ze een liftster hebben ontmoet. De eindscène waarin Nadir aan tafel zit met zijn gearrangeerde aanstaande schoonfamilie, is volkomen in tegenspraak met zijn personage tot dan toe, maar blijft wel behoorlijk geestig.
+De film zwenkt nogal. Soms mikt Rabat op de lach, maar even vaak worden er alleen kleine, toevallige ontmoetingen en gesprekken geobserveerd, die onderweg plaatsvinden en waar de film alle tijd voor neemt. Die scènes zijn het mooist. Je kunt in de nogal bruuske zwenkingen van de film een gebrek aan samenhang zien, maar Rabat blijft daardoor aangenaam verrassend en onvoorspelbaar.
+</dcterms:description>
+        <dcterms:extent>word, 523, Cultuur</dcterms:extent>
+        <dcterms:issued>2011-06-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">Eindelijk: een Nederlandse roadmovie die echt overtuigt</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

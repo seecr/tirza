@@ -1,0 +1,52 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzIyLUZENzEtSkM4Vy1ZM1hW">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5322-FD71-JC8W-Y3XV"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5322-FD71-JC8W-Y3XV&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Het is tijd voor een andere generatie filmmakers'</dcterms:title>
+        <dcterms:creator>Lorianne van Gelder</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Kritisch zijn ze. Op de films die in Nederland worden gemaakt, op de 'industrie'. Jim Taihuttu (29) en Victor Ponten (29) van Habbekrats doen het op hun manier. Zij maakten hun eerst lange speelfilm, Rabat, met eigen geld, vrienden die meewerken en een gelaagd, doch toegankelijk script.
+"We zijn op een punt gekomen dat er in Nederland maar twee soorten films te zien zijn: heel lichte dunne commerciële films en anderzijds heel zware artistieke films die door bijna niemand worden gezien," zegt Taihuttu.
+Rabat is anders, zeggen Ponten en Taihuttu, die samen het bedrijf Habbekrats in 2004 oprichtten. De afgelopen zeven jaar maakten ze videoclips, succesvolle reclamecampagnes (onder andere voor Het Parool), korte films en boeken. Rabat is hun eerste avondvullende film.
+Taihuttu: "We zijn niet bewust buiten de fondsen om gegaan, maar we hebben het met eigen geld, sponsors en een lening kunnen financieren. Filmmakers worden echt opgeleid om te leuren met hun idee langs fondsen. Dat schiet niet op. Wij zijn niet per se het antwoord hoor, maar ik heb wel het gevoel dat onze generatie het antwoord kan zijn op het feit dat bijvoorbeeld sinds de jaren zeventig geen enkele Nederlandse film in Cannes in de officiële competitie heeft gedraaid. Dan wordt het eens tijd voor een aantal wissels."
+De makers van de hitfilm New Kids turbo zijn goede vrienden van de twee. "Dat is nou wel een geslaagd voorbeeld. Niemand gaf ze aanvankelijk een stuiver, maar ze maken wel een film die op nummer één staat in Duitsland. Durf die risico's dan te nemen, fondsen! Gaat het anders tot mijn vijftigste duren tot ik de Tirza van die tijd mag maken?" vraagt Taihuttu.
+Dankzij sponsors goede contacten die ze al in hun reclamewerk opdeden en eigen geld maakten ze voor 300.000 euro Rabat, een film die zich afspeelt in vijf verschillende landen. "Het is een film gemaakt voor jongeren door jongeren. We zijn zelf de doelgroep."
+Rabat is een roadmovie over drie jongens in een taxi op weg naar Rabat, Marokko. Nadir (Nasrdin Dchar, bekend van onder andere Tirza) moet de taxi van zijn vader van Amsterdam naar Rabat brengen. Zijn beste vrienden Abdel (Achmed Akkabi, onder meer Sterke verhalen), die in de kebabzaak van zijn oom werkt, en casanova Zakaria (Marwan Kenzari, Toneelgroep Amsterdam en Loft) nodigen zichzelf uit om mee te rijden. Onderweg wordt hun vriendschap op de proef gesteld en komt langzaam de ware toedracht van de reis naar boven.
+Met de drie acteurs, in werkelijkheid ook goed bevriend, maakten ze twee jaar geleden al een eerste filmpje, Wolken #2, zeven minuten lang, een voorzetje naar Rabat. "Het was een project om alvast even af te tasten hoe het zou zijn om met elkaar te werken," zegt Taihuttu.
+In vijf weken maakten ze de film, die speciaal voor de acteurs geschreven is. Ponten en Taihuttu spreken over hun vrienden, niet over hun acteurs. Ze komen allemaal uit dezelfde vriendenclub. Kennen elkaar van feestjes, 'van dingen maken, clips en zo'. "Het scheelt dat je ze kent, we kennen hun verhaal. Het gaat over opgroeien, over Noord-Afrikanen (Kenzari is van Tunesische afkomst), maar het is ook universeel," zegt Taihuttu. "Het gaat ook over tweede generatie immigranten. We hebben te allen tijde in gedachte gehad dat als ze geen Marokkanen zouden zijn, het nog steeds een verhaal zou zijn. Daar moet je secuur in zijn."
+Taihuttu en Ponten kennen die cultuur goed. En ook de problematiek van tweede en derde generatie migranten. Taihuttu: "Ik ben zelf opgegroeid met veel Marokkaanse jongens in Venlo. We zijn al eerder naar Marrakech geweest met een stel rappers. Van tevoren riepen ze steeds 'we gaan naar huis', maar uiteindelijk waren zij net als wij gewoon toeristen. Er zijn maar weinig jongeren die daar nog kunnen leven, omdat ze ook gewoon Nederlands zijn geworden. Bijna alle migranten die naar Nederland zijn gekomen, hebben altijd gedacht dat ze nog terug zouden gaan naar Marokko, ze hebben daar ook huizen gebouwd, maar ze gaan niet terug. Daar zijn een paar mooie boeken over geschreven."
+Taihuttu kent dat immigrantenverleden. Zijn grootvader is van Molukse afkomst. "Je leeft half in een droom dat je nog teruggaat en je kinderen ook meegaan. Als dat dan niet zo blijkt te zijn, kan de teleurstelling groot zijn"
+Na Wolken #2 gingen de mannen om de tafel zitten. "We hadden het al vaker over een roadmovie gehad. De drie acteurs hadden ook altijd al de wens gehad om samen in een film te spelen," zegt Ponten.
+Het filmen ging er 'knulliger' aan toe dan te zien is. De montage is strak, de beelden helder. Veel scènes zijn al rijdend gefilmd, met Nasrdin Dchar achter het stuur. Ponten: "Het grappige was dat Nasrdin nog helemaal geen rijbewijs had. En net voordat de opnames waren begonnen, zakte hij voor de vierde keer voor zijn rijexamen." Ponten lacht: "We moesten de taxi dus trekken met een andere auto, beladen met camera's."
+De jongens in Rabat nemen een liftend Frans meisje mee (een mooie rol van de jonge Française Stéphane Caillard). Dchar praat met haar over The Godfather. Later blijkt The Godfather een leidmotief te zijn in de film. Ponten: "Dat is omdat het natuurlijk één van de beste films is die ooit gemaakt is. Maar het is ook een tof perspectief omdat Nadir The Godfather lieert aan de dingen om hem heen. Als je opgroeit in deze tijd, koppel je veel dingen aan films. Wij zijn een generatie die niet zozeer grote literatuur uit ons hoofd leert of dichters kan quoten, maar dat doet met films en muziek."
+Volgens Taihuttu was dat een mooi voorbeeld om te laten zien hoe verschillend je kunt opgroeien. "Het is iets kleins en herkenbaars maar laat in dit geval zien dat de twee personages weliswaar dezelfde nationaliteit hebben, maar uit totaal andere werelden komen."
+In Rabat komen de drie vrienden ook in een paar nare situaties terecht. Zo worden ze geweigerd bij een club in Barcelona en hardhandig uit hun auto gesleurd door een paar Spaanse agenten. "Als je over dertig jaar zou willen weten hoe het er in deze tijd aan toeging, zou je deze film kunnen laten zien," zegt Taihuttu. "We wilden in elk geval beide kanten van het verhaal tonen, de vriendschap, een leuke roadtrip, maar ook de realiteit. Dat soort dingen gebeurt gewoon."
+Een risico kan zijn dat gewelddadige Marokkaanse jongeren een clichématig beeld oproepen. Dat wilden Taihuttu en Ponten vermijden. "Maar tegelijkertijd wil je wel laten zien hoe het gaat. Die jongens in de film zijn ook geen lieverdjes, ze zijn niet slecht, maar ze hebben ook een ruwe kant. Je ziet ze eerst in hun eigen wereld, maar naarmate ze verder weg van huis zijn, komen ze steeds meer in een soort vrije zone terecht waar hun eigen ideeën en wetten niet meer gelden. Daardoor worden ze ook kwetsbaar. Gaandeweg die reis blijven zij wel wie ze zijn, maar worden ze geconfronteerd met hoe anderen ze zien," legt Taihuttu uit.
+Hoe groot Rabat wordt, durven ze niet te zeggen. Wel hebben Taihuttu en Ponten de marketing al goed in handen hun achtergrond als reclamemakers komt dan van pas. Al weken staan er op YouTube en Facebook de Taxi-sessies, waarin rappers en muzikanten als Lucky Fonz III en The Opposites in de taxi zitten en muziek maken, terwijl Dchar rijdt. Het is een samenwerking met muzieklabel Top Notch, waarmee Habbekrats al vaker werkte, en hiphopblog http://Puna.nl. De filmpjes lopen storm: de meeste werden al meer dan 50.000 keer bekeken. Handig is ook de sponsordeal die ze met Blackberry en Vodafone sloten. Op de Rabat-site staat een spel waarin je in een taxi naar Marokko moet rijden. De hoofdprijs is een Blackberry. Ponten: "Dat komt ook terug op onze visie dat je als maker verantwoordelijk bent voor je eigen budgetten. Als je niet genoeg geld krijgt van een fonds, kun je toch een mooie film maken."
+Rabat, vanaf 9 juni in de bioscoop.
+Rabat is een roadmovie met drie jongens die in een taxi naar Marokko rijden. De makers zijn zonder subsidie gaan filmen, 'maar het is geen dunne commerciële film'. De makers? Habbekrats. 'Filmmakers worden echt opgeleid om te leuren met hun idee langs fondsen. Dat schiet niet op'                               
+</dcterms:description>
+        <dcterms:extent>word, 1345, PS Kunst; Blz. 6</dcterms:extent>
+        <dcterms:issued>2011-06-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Het is tijd voor een andere generatie filmmakers'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,58 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzNYLTJKMjEtSkM4Vy1ZM0JU">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/533X-2J21-JC8W-Y3BT"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=533X-2J21-JC8W-Y3BT&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>GEACHTE REDactie</dcterms:title>
+        <dcterms:creator>Mariken Jongman ,  Groningen kinder- en jeugdboekenschrijfster Albert Huberts , Utrecht Tirza Elias , Amsterdam Theo Zwinderman , Nieuwe Pekela Frits Homan , Hillegom Ruud Hilhorst, Utrecht</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Praatpatroon
+Het stoort me mateloos: ook de cultuursector zelf gaat de laatste tijd helemaal mee in het praatpatroon van het liberaal-rechtse kabinet. Hou daar onmiddellijk mee op, is mijn oproep. Kunstenaars zijn géén ondernemers en hoeven dat ook niet te zijn. Ze zijn namelijk kunstenaar, dat ís al een vak. We vragen Joop van den Ende toch ook niet om op het podium te dansen? Ieder zijn eigen kwaliteiten. En ga ook niet opeens proberen de waarde van kunst economisch aan te tonen, alleen maar omdat deze regering blijkbaar niet in staat is om in andere waarden te denken.
+Verder lijkt iedereen ook in de cultuurwereld zelf het plotseling vrij acceptabel te vinden dat kunstenaars in een verdacht hoekje worden geplaatst, als waren het eigenlijk altijd al uitvreters en handophouders. En dat terwijl er geen sector te vinden is waar mensen bereid zijn zo veel en zo hard te ploeteren voor naar verhouding zulke schamele inkomens.
+Natúúrlijk moet er bezuinigd worden, roept iedereen braaf in koor, er is immers crisis. Maar helaas hoor ik de laatste tijd nooit meer iemand zeggen dat de kunst- en cultuurbranche sowieso al een schijntje ontving van het totaal aan te verdelen gemeenschapsgeld.
+En nu het nieuwste idee: het geld moet alleen nog naar 'de top' van kunst en cultuur. Maar die top wordt echt niet zo maar bereikt! Dit 'bovenkant-denken' is in mijn ogen hetzelfde als zeggen: de top van die berg daar is mooi, maar wat eronder zit is zinloos en kan wel weg.
+Als je als samenleving geen of weinig geld over hebt voor kunst en cultuur, dan is dat een keuze. Laten we de discussie over het belang ervan maar voeren. Maar ga niet doen alsof het de kunstenaars zijn die tekortschieten omdat ze geen ondernemers zijn. Laat je als kunstbeoefenaar niet wegzetten als profiteur en doe niet alsof er een top kan bestaan zonder een brede basis.
+Mariken Jongman, Groningen
+kinder- en jeugdboekenschrijfster
+Glucosestroop
+Ik vind het echt vervelend voor Els Overkamp dat kinderen tegenwoordig bij elke inspanning worden beloond met snoepgoed (Opinie &amp; Debat, 14 juni). Maar eerlijk gezegd zullen al die dikke kinderen me een zorg zijn. Lekker straks weer de pensioenleeftijd naar beneden, denk ik als ik zo'n glimmend bolletje vet zie langskomen.
+Nee, veel erger vind ik het dat voedselproducenten inspelen op de ontstane smaakverandering. Zo wilde ik afgelopen zaterdag verantwoord doen door bij de supermarkt vegetarische boterhamworst te kopen in plaats van de schouderham die ik gewend was. Uit nieuwsgierigheid bestudeerde ik de ingrediëntenlijst, waarop ik tot mijn verbazing glucosestroop aantrof, oftewel suiker. Verbaasd legde ik de worst terug en verving die door de vertrouwde schouderham. Wantrouwig geworden bekeek ik voor het eerst ook daarvan de ingrediëntenopgave en jawel hoor: weer dat woordje glucosestroop. Nooit geweten! Sinds wanneer zit er suiker in (nep)vlees? Ik heb me het hele weekend getroost door mijn boterhammen dik met hagelslag te bestrooien. Daar hoort tenminste suiker in.
+Albert Huberts, Utrecht
+Beschaving
+Nu het ernaar uitziet dat het wetsvoorstel van de Partij voor de Dieren op een Kamermeerderheid kan rekenen, proberen tegenstanders het voorstel in twijfel te trekken. Een verbod op onverdoofd ritueel slachten zou raken aan de vrijheid van godsdienst en aan de keuzevrijheid van het individu. Deze vrijheden houden echter op waar dierenleed begint. Vanuit die gedachte bestaat er in Nederland al jaren een algemeen verbod op onverdoofd slachten, en in veel landen geldt dat ook voor de rituele slacht. Het wetenschappelijk bewijs, dat dieren die zonder verdoving worden geslacht, onnodig extra lijden is overduidelijk. Dat heeft ook staatssecretaris Bleker erkend. Wie hiervan niet overtuigd is, moet nog maar eens naar de beelden kijken.
+Natuurlijk moeten ook de misstanden in de reguliere slachthuizen en in de vee-industrie als geheel worden aangepakt, maar laat dat geen reden zijn om het wetsvoorstel tegen te houden. Goed beschouwd gaat de huidige discussie dan ook niet over de vraag of de godsdienstvrijheid in het geding is, maar om de veel wezenlijker vraag of we als mens bereid zijn om voor het belang van het dier te kiezen. Anders gezegd, of we in staat zijn om verder te kijken dan het eigen belang. Een kwestie van beschaving dus.
+Tirza Elias, Amsterdam
+Smaakpapillen
+Het is zeer ontroerend om te lezen hoe de voorstanders van onverdoofd ritueel slachten over elkaar heen buitelen van dierenliefde: ze willen duidelijk het liefst de dieren doodknuffelen. Daarna eten ze waarschijnlijk een vegetarisch broodje falafel (dat uiteraard in één haal pijnloos is opengesneden), een tractatie voor onverdoofde smaakpapillen!
+Theo Zwinderman, Nieuwe Pekela
+Roer om
+We hebben er weer één: een verongelijkte minister. Nu dus Melanie Schultz, minister van Infrastructuur en Milieu. In de Volkskrant van 14 juni vindt zij dat 'het roer om moet'. Dat betekent voor deze regering 'het schrappen van regels'. Want mevrouw Schultz heeft zelf meegemaakt dat zij liefst 'twee jaar heeft moeten wachten op een vergunning' toen zij het huis dat zij had gekocht in Leiden wilde terugbrengen naar de 'oorspronkelijke situatie'.
+En wat te denken van haar 'eigen ervaring' met de Oostvlietpolder in Leiden. Daar wilde Schultz in haar wethoudersperiode graag een nieuw bedrijfsterrein van maken. Denigrerend zet zij het gebied, waar unieke fauna en flora zijn te vinden, weg als 'een rijksbufferzone van een halve kilometer'. Nu nog zegt zij verbaasd te zijn dat toenmalig minister Pronk kwam kijken of het gebied 'niet te dicht bij volkstuintjes ligt'. Op die dag is bij haar een 'zaadje geplant'. Tja, een minister van Milieu die 'zaadjes plant' in plaats van gewoon zaait. Arm milieu.
+Frits Homan, Hillegom
+Beoordelingsvermogen
+Dat de Grieken er een potje van hebben gemaakt is duidelijk. Maar wat te denken van het beoordelingsvermogen van al die bankiers en pensioenfondshouders die, na eerst flink te hebben geïnvesteerd in 'versneden' hypotheken in de Verenigde Staten, nu ook al een vermogen hebben gespendeerd aan de Griekse staatsschuld. Naar mijn idee is dat pas zorgelijk!
+Ruud Hilhorst, Utrecht
+</dcterms:description>
+        <dcterms:extent>word, 1019, Opinie en Debat; Blz. 31</dcterms:extent>
+        <dcterms:issued>2011-06-17</dcterms:issued>
+        <rdfs:label xml:lang="nl">GEACHTE REDactie</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

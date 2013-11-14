@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozNDU5MDU4OVg=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:34590589X"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>HARTenPAARD; twee liefdesverhalen over meiden in de paardenwereld; 2; Per ongeluk verliefd &amp; Verliefd in het kwadraat</dcterms:title>
+        <dcterms:alternative>Per ongeluk verliefd en Verliefd in het kwadraat</dcterms:alternative>
+        <dcterms:alternative>Per ongeluk verliefd</dcterms:alternative>
+        <dcterms:alternative>Verliefd in het kwadraat</dcterms:alternative>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:075207257">
+            <skos:altLabel>Cramer, Stasia</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>Tadidom, Elim</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Twee verhalen in korte zinnen en gemakkelijke woorden. Tirza (15) rijdt dressuur met Jamella. De merrie reageert erg heftig op een springpaard dat op stal komt. Pamela is verliefd op Tim en op Tom. Ze kan niet kiezen. Vanaf ca. 12 jaar.</dcterms:description>
+        <dcterms:extent>91 p</dcterms:extent>
+        <dcterms:subject>jeugdboeken ; verhalen</dcterms:subject>
+        <dcterms:subject>Kinderboeken, Stripverhalen</dcterms:subject>
+        <dcterms:subject>Leesmethoden</dcterms:subject>
+        <dcterms:subject>Liefdesverhalen</dcterms:subject>
+        <dcterms:subject>Meisjesboeken</dcterms:subject>
+        <dcterms:subject>Paarden</dcterms:subject>
+        <dcterms:subject>Verliefdheid</dcterms:subject>
+        <dcterms:isPartOf rdf:resource="urn:ppn:351232087"/>
+        <dcterms:identifier>9789074430227</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

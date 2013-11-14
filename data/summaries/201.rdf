@@ -1,0 +1,49 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M1hDLTRHNzEtRFlSWS1OMTRN">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53XC-4G71-DYRY-N14M"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53XC-4G71-DYRY-N14M&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>De Nederlandse film is van en voor vrouwen</dcterms:title>
+        <dcterms:creator>Coen van Zwol</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Is de Nederlandse film een vrouwenbastion? Ben je als man kansloos als het gaat om grote, dramatische hoofdrollen? Kijkend naar de Gouden Kalveren die vanavond worden uitgereikt luidt het antwoord: ja en ja.
+Onder mannen wordt daar al jaren over gefluisterd.  Maar soms valt het gewoon te erg op, en 2011 is zo'n jaar. Dinsdagavond bleek aan het Neude in Utrecht, waar de nominaties voor de Gouden Kalveren bekend werden gemaakt: de schaarste aan grote mannenrollen is nijpend.
+Jongetjes mogen in Nederland nog wel kinderfilms dragen, maar komt de baard in de keel dan is het voorbij. Daarom had de jury van het Film Festival dit jaar weinig te kiezen in de categorie 'beste acteur'. Met zo'n dunne spoeling kon ze  niets anders verzinnen dan de norm voor 'hoofdrol' oprekken.
+Zo is voor 'beste acteur' Frank Lammers genomineerd, voortreffelijk als misdadige verzekeringsagent  in De bende van Oss. Maar een hoofdrol? Zo zou Lammers het zelf ook niet noemen. Hij neemt het op tegen Nasrdin Dchar, één van drie Marokkaanse vrienden in roadmovie Rabat, terwijl Joris Smit in Lotus overtuigt als autist - maar knipper met je ogen en je hebt hem gemist. Deze 'hoofdrollen' kun je evengoed bijrollen noemen. Voor bijrollen is voor veredelde figuranten gekozen.
+Al met al herhaalt zich 2009, toen de jury van het Nederlandse Film Festival klaagde dat er te weinig grote mannenrollen waren om 'beste acteurs' te nomineren. Toen stelde men voor om tv-drama maar weer te laten meedingen naar een Gouden Kalf. Beste acteur werd een jongetje: Martijn Lakemeier in Oorlogswinter.
+2010 bleek een uitzondering, met stevige rollen voor Barry Atsma in KVBDD, Dragan Bakema in Hunting en Zn. en Gijs Scholten van Aschat in Tirza. Maar grosso modo geldt nu dat mannen, wanneer ze aan de bak komen, in Nederlandse films altijd in roedels opereren. In ensemblefilms als jolige sportclub of vriendengroepje dat iets mals doet, zoals een loft huren, Maaskantje opblazen, in een oude taxi naar Marokko rijden en Alfred Heineken ontvoeren.
+Voor vrouwen zijn er daarentegen elk jaar volop 'tours de force' in de aanbieding. Naast de drie voor een Gouden Kalf genomineerde actrices - Gaite Jansen (170 Hz), Carice van Houten (Black Butterflies) en Ricky Koole (Sonny Boy) waren er dit jaar ook nog stevige solo's voor, ondermeer, Sylvia Hoeks (De bende van Oss) en Halina Reijn (Isabelle).
+Is de Nederlandse film diepgaand gefeminiseerd? Strijders voor mannenrechten kunnen erop wijzen dat alle belangrijke filminstituten en festivals in handen van vrouwen zijn,  Rotterdam houdt als enige dapper stand met Rutger Wolfson.
+Kunstfilms, bijna louter door vrouwen geregisseerd, gaan ook bijna louter over  diep getroebleerde vrouwen. Dat soort films zijn opnieuw sterk vertegenwoordigd in de strijd om het Gouden Kalf dit jaar voor beste regie, dit jaar een strijd tussen drie vrouwen: Wil Koopman (Gooische Vrouwen), Paula van Oest (Black Butterflies) en Nanouk Leopold (Brownian Movement). Nota bene: voor een Gouden Kalf genomineerde vrouwelijke regisseurs maken al zeker zo'n tien jaar uitsluitend films óver vrouwen.
+Acteur Frank Lammers wil het best erkennen: Harry den Brock is geen hoofdrol, wat een Gouden Kalf overigens niet minder welkom maakt. Mannelijke solo's, zoals recent in de prachtige Vlaamse testosteronfilm Rundskop, komen in Nederland moeilijk van de grond.   ,,Ik denk omdat mannen sowieso weinig drama kijken. Als ze dat doen, zien ze liever een vrouw. Vrouwen kijken graag naar vrouwen in problemen."
+Ook speelt men in de Nederlandse film graag op safe.  Lammers: ,,Iedereen mikt op vrouwendrama, want dat werkte in het verleden. Geen kwaad woord over Carice van Houten, zij is echt de allerbeste, maar De Gelukkige Huisvrouw, Black Butterflies, KVBDD: het is wel allemaal op dezelfde leest geschoeid." Voor alle duidelijkheid: ,,Schrijf op: Frank Lammers is er klaar voor. Klaar voor die grote, dramatische hoofdrol."
+Doreen Boonekamp, als hoofd van het Nederlandse Film Fonds nummer één in de vrouwenclub die het Nederlands filmbeleid bepaalt, zegt dat het fonds niet discrimineert. De scenario's die zij krijgt aangeboden lijden aan een schaarste aan mannenrollen. Boonekamp houdt het op een golfbeweging: ze kan zich de tijd herinneren dat er juist een tekort was aan grote vrouwelijke rollen.
+Maar regisseur Jean van de Velde, ook voorzitter van het Netwerk Scenarioschrijvers, heeft een sombere boodschap voor Nederlandse acteurs. Het is geen trend. Het is fundamenteel.  ,,Mannen zijn geboeid door de hardware van het leven: genrefilms, misdaad. Maar een Nederlandse genrefilm als Lek laten ze links liggen, want in Hollywood is alles beter: meer stunts, meer geld, grote namen. Vrouwen gaan naar drama en houden ook van zaken die van dichtbij komen, vertrouwd zijn."
+Acteurs hoeven van scenarioschrijvers dus weinig te verwachten, behalve als het in Nederland onderontwikkelde genre van de romantische komedie ooit van de grond komt: Daar kan een man prima terecht.
+Dus is de Nederlandse film overwegend voor vrouwen, door vrouwen. Van de Velde weet al veel langer wie zijn boterham belegt. Zelfs zijn voetbalfilm All Stars werd in 1997 'gered' door vrouwen. ,,Tweederde van de bezoekers bleek vrouwelijk, die waren kennelijk nieuwsgierig wat er gebeurde daar in de kleedkamer."
+Willemien van Aalst, directeur van het Nederlandse Film Festival, zit dan met een blijvend probleem: gebrek aan mannelijke hoofdrollen. Ze voelt er niet voor tv-drama mee te laten dingen naar Gouden Kalveren, zoals tot 1992 het geval was. Maar los van de strijd der seksen: de nominaties van 2011 hebben haar wel aan het denken gezet. ,,Als hoofdrol en bijrol niet van elkaar te onderscheiden zijn, moeten producenten de jury misschien  duidelijk maken wat een hoofdrol is en wat een bijrol." Als er dan maar genoeg mannen overschieten voor  beste acteur. Anders wordt het net zo gênant als dit jaar.
+</dcterms:description>
+        <dcterms:extent>word, 1015, Vooraan</dcterms:extent>
+        <dcterms:issued>2011-09-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">De Nederlandse film is van en voor vrouwen</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

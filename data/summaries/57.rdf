@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81N0tILTJKWTEtRFlSWS1OMDNT">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/57KH-2JY1-DYRY-N03S"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=57KH-2JY1-DYRY-N03S&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>pubers versus de klassiekers</dcterms:title>
+        <dcterms:creator>Matthea Westerduin</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Wat zegt de leeslijst middelbare scholieren nog? Marit Bastiaanse (17, 6-vwo van het Zeldenrust Steeland College, Terneuzen) over Grunberg en Kluun. Door Matthea Westerduin
+'Toen Stijn terugging naar zijn vrouw moest ik wel huilen, hoor. Zijn vrouw leed aan kanker en Stijn had steeds zijn toevlucht gezocht bij Anna. Hij ging continu vreemd, maar uiteindelijk overwint de echte liefde. Als ik ziek zou zijn, zou ik ook wel zo'n man willen die voor me zorgt. Welke vrouw wil dat niet?
+'Volgens mijn leraar schrijft Kluun geen echte literatuur. We mochten Kluun alleen lezen in de vierde klas. Komt een vrouw bij de dokter was mijn eerste boek en destijds dacht ik 'wow'. Ik vond dat het boek goed in elkaar zat. Maar nu ik bijvoorbeeld Arnon Grunberg en Harry Mulisch heb gelezen, vind ik alles bij Kluun net te toevallig. Zijn stijl komt nogal popiejopie op me over.
+'Dat het boek actueel en modern is, vind ik goed. Maar Grunberg is ook ac-tueel. Over zijn boeken moet je veel langer nadenken. Nadat twee meisjes in een presentatie over Tirza hadden gezegd dat ze het afgrijselijk vonden, wilde niemand het meer lezen. Ik heb het wel gedaan en vond het zeker wat hebben.
+'Tirza gaat ook over de liefde, maar anders dan je gewend bent. Zonder happy end. De vader in het boek is geobsedeerd door zijn dochter, maar zij probeert afstand van hem te nemen. De enige uitweg die de vader dan ziet, is haar te vermoorden. Als lezer kom je daar pas achter als zijn dochter allang dood is.
+'In het nieuws hoor je wel eens over familiedrama's, maar dan zap je weg. Tirza laat de andere kant zien van een obsessie: op zo'n manier lees je er nooit over. Het boek heeft me niet echt geraakt, maar het bleef veel langer hangen dan Komt een vrouw bij de dokter. 'Zieke vrouw', 'Stijn gaat vreemd' en 'alles komt goed', daar denk ik aan bij Kluun.'
+Kluun: Komt een vrouw bij de dokter. Podium; EUR 10,-. Eerste druk 2003.
+Arnon Grunberg: Tirza. Nijgh &amp; Van Ditmar; EUR 12,50. Eerste druk 2006.
+</dcterms:description>
+        <dcterms:extent>word, 328, Boeken; Blz. 6</dcterms:extent>
+        <dcterms:issued>2013-01-26</dcterms:issued>
+        <rdfs:label xml:lang="nl">pubers versus de klassiekers</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

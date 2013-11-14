@@ -1,0 +1,50 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NVI4LTY5NjEtSkM4Vy1ZNE1D">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55R8-6961-JC8W-Y4MC"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55R8-6961-JC8W-Y4MC&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Een Zwitser kan niets gebeuren; Boekrecensie 'De man zonder ziekte' van Arnon Grunberg</dcterms:title>
+        <dcterms:creator>ROB SCHOUTEN</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>De titel van Arnon Grunbergs jongste roman 'De man zonder ziekte' herinnert aan Musils 'De man zonder eigenschappen', de inhoud aan Kafka's 'Het proces'. Het zegt wel iets dat Grunberg zich nadrukkelijk aan zulke grote voorbeelden spiegelt. Hij lijkt de Nederlandse literatuur inmiddels te zijn ontgroeid. Dat geldt ook voor zijn persoonlijk leven, hij is als reiziger en bezoeker van oorlogsgebieden allang een echte wereldburger geworden, iemand die de veilige haven Nederland achter zich heeft gelaten.
+'De man zonder ziekte' gaat over onze westerse illusie van veiligheid en comfort. Scherp en soms sardonisch zet Grunberg een wereld neer waarin niets meer is wat het lijkt en waar de mens een speelbal is van machten die hij niet beheerst.
+Hét voorbeeld van een land waar die illusie van veiligheid hoogtij viert is natuurlijk Zwitserland: neutraal, schoon, comfortabel. De kerngezonde, keurige, volstrekt onschuldige architect Samarenda Ambani, kortweg Sam, zoon van een Indiër die ooit naar Zwitserland is geëmigreerd, van onveiligheid naar veiligheid zeg maar, is zo'n Zwitser. Zijn paspoort stelt hem gerust dat alles goed komt in de wereld.
+Als Sam uitgenodigd wordt om in Bagdad zijn ontwerp voor een nieuw operahuis te tonen, vertrekt hij dan ook naar Irak. Bij aankomst wordt hij opgevangen door een stel bewakers die zich om zijn veiligheid bekommeren, zonder dat duidelijk wordt of hij ooit zijn opdrachtgever zal ontmoeten, die even later lijkt te zijn overleden. Als hij zonder paspoort bij een checkpoint arriveert, wordt hij als spion gevangengenomen en gemarteld, zijn bewakers pissen over hem heen.
+Natuurlijk beroept hij zich op zijn Zwitserse paspoort en uiteindelijk helpt dat. Ze laten hem vrij. Eind goed al goed, maar niet heus.
+Weer thuis in Zwitserland lijkt Sam weliswaar aan een licht oorlogstrauma te lijden (hij wil dat zijn vriendin over hem heen plast) maar hij laat zich toch weer door het Midden-Oosten lokken. Dit keer roept het kapitalistische Doebai hem om er een bibliotheek annex bunker te bouwen. In alles het tegendeel van Bagdad, lijkt Doebai wel wat op Sams thuisland, met de wolkenkrabbers als equivalent van de Alpen. Maar als hij met drank in zijn auto en ook wat in zijn lijf wordt opgepakt, gaat het opnieuw mis. Ze verdenken hem ervan een agent van de Israëlische geheime dienst te zijn, leggen al zijn verklaringen van onschuld uit als bewijs tegen hem, zetten hem gevangen, geven hem een keurige advocaat maar hij wordt ter dood veroordeeld en geëxecuteerd.
+'De man zonder ziekte' is een exemplarische roman van een haast aforistische helderheid. Anders dan in vorige romans waarin hij hetzelfde thema van veiligheid aansneed, zoals 'De asielzoeker' en 'Tirza', heeft Grunberg dit keer alle overbodige tierlantijnen weggesneden. Steeds kaler is hij gaan schrijven, met steeds minder anekdotische omslag. Steeds onverbloemder demonstreert hij zijn boodschap. Had hij in voornoemde romans nog metaforen nodig om de band tussen daders en slachtoffers te verbeelden, in 'De man zonder ziekte' liggen zijn ideeën vaak open en bloot op tafel. Zoals in deze scène tijdens een feestje tussen Sams beide gevangenschappen in:
+"'En gerechtigheid?' vraagt Martina. 'Bestaat er dan geen gerechtigheid?'
+Sam denkt na. Het klinkt zo ongepast in dit verband, gerechtigheid, hij weet niet wat hij ermee aan moet. Gerechtigheid. Het is iets voor de buitenstaander. Daarmee ontken je de intimiteit die er geweest is tussen dader en slachtoffer, als hij zichzelf even slachtoffer mag noemen. De Irakezen die dachten dat hij een spion was, waren intiem met hem, intiemer dan Nina (Sams vriendin, RS) ooit met hem is geweest."
+Dat Grunberg de schijnbare verlossing na Sams eerste gevangenneming laat volgen door een definitieve ondergang zegt veel over zijn bedoelingen met deze roman. In Kafka's 'Het proces' raakt Josef K. steeds dieper verstrikt in de ondoordringbare beweegredenen van zijn moordenaars die hem onvermijdelijk naar zijn ondergang voeren.
+In 'De man zonder ziekte' glimpt er na de eerste bijna-ondergang van Sam nog de illusie van hoop, veiligheid en rechtvaardigheid, die vervolgens des te wreder de bodem in wordt geslagen. In zekere zin verzwaart Grunberg op die manier het lot van de mens.
+Ook de volgorde van Sams ervaringen is veelzeggend, gemarteld en vrijgelaten in het vuile land, gevangengenomen en geëxecuteerd in het schone land: denk maar niet dat je op de ene plek veiliger bent dan op de andere!
+En dan is er nog Grunbergs mensbeeld. In Kafka's tijd kon men diens werk nog zien als een onheilspellende toekomstfantasie met satirische kantjes, na de Holocaust en andere vermoorde onschuld is dat niet langer mogelijk.
+De naam van deze Indiase Zwitser, Sam, verwijst vanzelf naar het Joodse volk, maar ook zijn houding: haast als een lam wordt hij ter slachting geleid, steeds maar hopend op een hogere rechtvaardigheid, zelfs klinkt er amor fati in zijn stem door als hij zichzelf beschuldigt. Hij belt zijn moeder om haar te zeggen dat hij ter dood is veroordeeld: "Ik heb het ten dele aan mezelf te wijten," zegt Sam. "Ik had een paar stappen vooruit moeten denken."
+Het is een bittere, bijna onmenselijke conclusie die Grunberg voor de zoveelste keer maar koeler en indringender dan voorheen trekt, eentje die onze ideeën omtrent haat en liefde op de proef stelt. Slachtoffer en dader horen onlosmakelijk bij elkaar, de schuldvraag is niet eenduidig te beantwoorden.
+De kwestie is intussen allang niet meer of Grunberg grote en mooie literatuur schrijft maar hoe diep en pijnlijk hij in onze humanistische gemeenplaatsen boort. Na 'De man zonder ziekte' ben ik geneigd te zeggen: dieper dan ooit.
+Arnon Grunberg: De man zonder ziekte. Nijgh &amp; Van Ditmar, Amsterdam; 222 blz, EUR 17,50
+Sam blijft maar hopen op een hogere rechtvaardigheid
+</dcterms:description>
+        <dcterms:extent>word, 964, Letter en Geest; Blz. 30</dcterms:extent>
+        <dcterms:issued>2012-05-26</dcterms:issued>
+        <rdfs:label xml:lang="nl">Een Zwitser kan niets gebeuren; Boekrecensie 'De man zonder ziekte' van Arnon Grunberg</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

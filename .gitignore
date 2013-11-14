@@ -31,3 +31,5 @@ gurobi.log
 *.bak
 *.old
 
+index
+*.swp

@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81N1kzLVJEUzEtRFlSWS1OMDgy">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/57Y3-RDS1-DYRY-N082"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=57Y3-RDS1-DYRY-N082&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Paul Schnabel heeft gisteren bij zijn afscheid als directeur van ...</dcterms:title>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Paul Schnabel heeft gisteren bij zijn afscheid als directeur van het Sociaal en Cultureel Planbureau een hoge koninklijke onderscheiding gekregen. Hij werd door staatssecretaris Martin van Rijn van volksgezondheid, welzijn en sport geridderd in de Orde van de Nederlandse Leeuw. Op de bijeenkomst in het Haagse Lucent Danstheater waren ook prins Willem-Alexander en prinses Máxima aanwezig. Schnabel gaf sinds 1998 leiding aan het adviesorgaan van de regering. Hij vertrekt omdat hij 65 jaar wordt.
+Esther Gerritsen met 'Dorst', Arnon Grunberg met 'De man zonder ziekte', Oek de Jong met 'Pier en oceaan', Elvis Peeters met 'Dinsdag', Tommy Wieringa met 'Dit zijn de namen' en Christiaan Weijts met 'Euforie'. Deze auteurs en boeken zijn geselecteerd als kanshebbers voor het winnen van de twintigste Libris Literatuur Prijs en de bijbehorende 50.000 euro. De jury onder voorzitterschap van Clairy Polak maakte de shortlist gisteren bekend. De Libris Literatuur Prijs is een onderscheiding voor de beste Nederlandstalige roman van het afgelopen jaar. Alle auteurs zijn al eerder genomineerd geweest voor deze literaire prijs, Grunberg zelfs vijf keer. Zijn roman 'Tirza' won in 2007.
+De jury hekelt in haar rapport de vele ingezonden 'Ikea-romans', die zijn geschreven als een "bouwpakket bestaande uit een handvol personages, een groot geheim in het verleden, tegengestelde belangen en loyaliteiten, een verliefdheid hier of juist wroeging en verdriet over een verbroken relatie daar". Dat deed de jury verlangen "naar een robuust, ouderwets, ambachtelijk meubelstuk". De winnaar wordt op 6 mei bekendgemaakt tijdens een rechtstreekse uitzending van 'Nieuwsuur' vanuit het Amstel Hotel.
+Klaas Drupsteen (46) volgt Joris Linssen op als presentator van het succesvolle NCRV-programma 'Hello Goodbye'. Linssen is volgende week donderdag voor het laatst in het programma te zien, Drupsteen komt in het nieuwe seizoen aan de beurt. 'Hello Goodbye' wordt opgenomen op Schiphol, waar gesprekken worden gevoerd met mensen die op iemand wachten of juist iemand uitzwaaien.
+Mike van de Beek is met onmiddellijke ingang gestopt met zijn werkzaamheden voor de evangelisatiestichting Naar House. In een e-mail aan zijn broeders en zusters meldt hij dat hij zich "niet kan verenigen met een bepaalde manier van werken en al helemaal niet met de afhandeling van bepaalde zaken".
+</dcterms:description>
+        <dcterms:extent>word, 393, Vandaag; Blz. 2</dcterms:extent>
+        <dcterms:issued>2013-03-12</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

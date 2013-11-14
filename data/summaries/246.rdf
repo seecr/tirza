@@ -1,0 +1,54 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NjZQLTY4MDEtRFlSWS1OM1Q0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/566P-6801-DYRY-N3T4"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=566P-6801-DYRY-N3T4&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Verbeelden wat een ander schrijft</dcterms:title>
+        <dcterms:creator>Joost van Velzen</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Boeken verkopen zichzelf niet, zeker niet in crisistijd. Daarom doet uiterlijk ertoe. Twee ontwerpers over de kunst van het verleiden. 'De lezer wil helemaal niet verrast worden.'
+Het monotone ontwerp van het Amsterdamse stadsdeel Buitenveldert staat haaks op wat er binnen in één van die blokkendozen gebeurt. Daar, bij Studio Ron van Roon, worden de mooiste boekomslagen gemaakt. Omslagen die iedereen kent. 'Mama Tandoori' van Ernest van der Kwast (de rode peper op de knalgele achtergrond), het cassettebandje uit de Rainbow pocketserie van A.F.Th ('De MovoTapes'), de 'buitenreclameletters' van de romanserie van Michel Houellebecq en de boeken van Arnon Grunberg; allemaal Studio Ron van Roon.
+Al kun je net zo goed zeggen: Huiskamer Ron van Roon. Want dat is wat het is. Geen clean designpaleis, maar stroopwafels op de keukentafel. Sinds de oprichting van de studio in 1990 steunt het bureau behalve op de baas zelf (Montreal, 1953) op compagnon Bart Rouwhorst (Alphen aan den Rijn, 1980) en wisselende stagiaires.
+Ron is net terug uit Istanbul. Een plezierreisje, maar toch ook werk. "Ik heb daar alleen maar typografie gefotografeerd. Overal waar ik ben doe ik inspiratie op." Aan typografie valt er volgens hem in Istanbul weinig te beleven, al stuitte hij daar wél op zijn eerste kennismaking als kind met vormgeving. En nog wel midden op de Bosporus. Van Roon: "Daar voer een enorm cruiseschip, zo'n drijvende plezierflat, met op beide schoorstenen het oude logo van de Holland Amerika Lijn. Als jongetje van acht maakte ik de overtocht van Canada naar Nederland en toen maakte ik voor het eerst kennis met dat logo. Het zit nog steeds op onze hutkoffers."
+Het werk gaat gelukkig altijd door. Achteroverleunen is er niet bij. Kan ook niet in deze tijd. Van Roon: "Ik merk dat uitgevers minder boeken uitgeven. We maken 30 procent minder omslagen per jaar. Het is een spannende tijd."
+De economische druk kan gevolgen hebben voor de ontwerpbranche. Oogt de voorkant van een boek niet 'lekker' genoeg? Dan kan een grote boekwinkelketen de noeste arbeid van het ontwerpteam zomaar afwijzen en komt het omslag linea recta retour. "Dan begint het proces weer opnieuw."
+Een proces dat begint bij de opdracht van de uitgever. Die wil zijn roman zo treffend mogelijk presenteren en bedenkt daar zelf eerst een ontwerper bij. Als de keus op Studio Van Roon valt, gaat Ron eerst op bezoek bij de betreffende uitgeverij. "Dan vraag ik daar net zolang door over dat boek tot bij mij het kwartje valt, tot er een beeld opdoemt. Dat bevragen heb ik van mijn vader geleerd, die journalist was."
+Zijn ouders hebben hem sowieso artistiek en cultureel gevormd. Eenmaal in Europa werd de kleine Ron als kind overal mee naartoe genomen. Hij weet nog precies hoe een boswandeling op de Veluwe toverachtig overging in wat later de beeldentuin van Kröller-Müller bleek te zijn. "Het had iets plechtigs, die beelden, een beetje wat een kerk ook oproept. Ik belandde op de mooiste plekken. Van het geboortehuis van Mozart tot aan het graf van Napoleon. Ik ontdekte zo van huis uit dat ik visueel ben ingesteld. Mijn vertrekpunt is dan ook altijd de beeldende kunst, omdat het de grens opzoekt van de waarneming en omdat je in de beeldende kunst het beste de reacties kunt zien op de moderne tijd."
+Wie denkt dat ontwerpers van literaire boeken automatisch heel belezen mensen zijn, zit ernaast. Studio Ron van Roon bezwijkt weliswaar zowat onder het grote aantal boeken, maar die zijn allemaal op beeld gericht. Design, typografie, grafische vormgeving, fotografie; het is de vorm die de boekenkast domineert. Van Roon: "Wij zijn niet van die lezers. Wij verbeelden wat een ander schrijft."
+Vaak roept een klein deel van die beschrijving al een voorstelling op. Toen Van Roon een korte samenvatting van Arnon Grunberg's 'Tirza' las moest hij al denken aan de bekende vrouwenrug die een cello suggereert, van fotograaf Man Ray. Het is voor die roman ook een cello geworden.
+Arnon Grunberg is volgens Van Roon overigens de enige auteur die hij kent die zélf nog wel eens met een goed idee komt voor een omslag. Zo suggereerde hij voor 'Blauwe maandagen' een beeld van de Franse illustrator Roland Topor. "Precies goed. Dat schrijnende van Topor zit ook in Grunbergs teksten."
+Wie alle omslagen van de studio naast elkaar legt, ziet geen hapklare formule aan zich voorbijtrekken. Daarvoor wijken de covers te veel van elkaar af. Toch, als je erop gaat letten, is er een ongrijpbare herkenbaarheid in al die creaties gelegd. Waardoor je denkt: ah, dat is er vast eentje van Studio Van Roon.
+"Wij zijn niet van het standaard lettertype Garamond, kapitaal, gecentreerd. In eerste instantie proberen we af te wijken, iets anders te doen. Ze willen ons door onze signatuur."
+Dat betekent niet dat er ál te gekke dingen moeten worden gedaan. De consument wil weten waar hij aan toe is als hij in de boekhandel struint. Het omslag mag bovendien nooit een egotrip van de ontwerper worden. Het gaat om het boek. "De lezer wil helemaal niet verrast worden. Ik snap een uitgever wel als hij weer iets in dezelfde stijl wil. We moeten onze rol niet overschatten. De die-hard lezer kan ook wel zonder omslag, die hoeft al die fratsen niet."
+Met streekromans gaat het altijd wel goed, zou je denken. Plattelandsaffaires hebben een tijdloos karakter, dus waarom zouden de boeken van pakweg Gerda van Wageningen de koningin van de streekroman zich iets aantrekken van zoiets vergankelijks als een economische crisis?
+Maar ook de makkelijk verteerbare streekromans verkopen zich niet meer vanzelf en dat slaat terug op de ontwerpers. Illustrator Bas Mazur: "Het is eigenlijk al zo sinds de invoering van de euro. Boeken zijn niet meegegaan met de prijs van een spijkerbroek. Ze zijn te goedkoop, met als gevolg dat ik als ontwerper twee keer zo hard moet werken. Bovendien wordt er veel meer van de illustrator gevraagd. Je moet alles kunnen. Boekomslagen, maar ook ontwerpen in 3D. Die nieuwe ontwikkelingen vind ik wel leuk aan het vak. Samen met de vrijheid die ik heb als freelancer."
+Mazur is specialist in het componeren van boekcovers die passen bij titels als 'Behouden vaart', 'Onrustig hart', 'Voltooid verleden' of 'Zwijgen hoeft niet meer'. Boeken waar nostalgie en romantiek het beeld bepalen. Een trekschuit met een dromerige blondine erboven. Ze moeten herkenbaar zijn. Inwisselbaar bijna. Mazur: "De opdracht is heel duidelijk. Soms zegt een uitgeverij letterlijk: 'Doe maar twee koppen in de lucht met iets eronder'. Het lezerspubliek verwacht niet iets creatiefs en het mag ook niet te veel kosten. Toch zit er wel een ontwikkeling in de omslagen van historische romans. Vroeger zag het er allemaal veel aquarelleriger uit. Nu zijn het vaker foto's. Dat komt omdat het allemaal steeds sneller moet."
+Tijd om de boeken die hij ontwerpt te lezen heeft Mazur dan ook niet. Hij werkt nu al op zaterdag en zondag door. Heel af en toe leest hij wel een stukje. "Ik vind dat ze niet eens zo slecht schrijven. Soms krijg ik ook wel erg weinig informatie over het verhaal. Dan bel ik de uitgever om te vragen of ze niet meer weten dan die paar zinnen in een mailtje. Daar heb je hem ook weer, hoor je ze dan denken. Die wil altijd het naadje van de kous weten."
+Mazur denkt in beelden en het eerste beeld dat hij krijgt is voor hem heel bepalend. Als dat beeld fout is dan duurt het een tijd voordat hij dat weer uit zijn hoofd heeft. "Dan heb je een blonde Hollandse meid op de voorkant gezet en dan blijkt het verhaal te gaan over een donker Indonesisch meisje."
+'Vroeger zag het er aquarelleriger uit'
+'De die-hard lezer kan ook wel zonder omslag'
+Grunberg is volgens Van Roon de enige auteur die zélf nog wel eens met een goed idee komt voor een omslag
+</dcterms:description>
+        <dcterms:extent>word, 1285, Cultuur en Media; Blz. 12</dcterms:extent>
+        <dcterms:issued>2012-07-28</dcterms:issued>
+        <rdfs:label xml:lang="nl">Verbeelden wat een ander schrijft</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

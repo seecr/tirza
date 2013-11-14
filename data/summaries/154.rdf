@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81N1k1LVdCQjEtSkM4Vy1ZMjhT">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/57Y5-WBB1-JC8W-Y28S"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=57Y5-WBB1-JC8W-Y28S&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Zes namen op shortlist Libris</dcterms:title>
+        <dcterms:creator>VAN ONZE KUNSTREDACTIE</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Grunberg voor de vijfde keer genomineerd, Weijts voor de eerste keer
+3 grote namen en 3 outsiders strijden om de prijs
+AMSTERDAM - Op de shortlist van de twintigste Libris Literatuurprijs 2013 staan geen verrassingen. Esther Gerritsen, Arnon Grunberg, Oek de Jong, Elvis Peeters, Christiaan Weijts en Tommy Wieringa strijden om de prijs. 
+
+          
+          Drie grote namen en drie outsiders telt de shortlist. Arnon Grunberg, voor de vijfde keer genomineerd voor de Libris Literatuurprijs - hij won in 2007 met Tirza- maakt kans met De man zonder ziekte (Nijgh &amp; Van Ditmar). Tommy Wieringa, hij won nog nooit een grote prijs, kan winnen met Dit zijn de namen (De Bezige Bij), en Oek de Jong, die ook niet eerder een grote commerciële prijs won, hoopt dat nu wel te doen met zijn vuistdikke Pier en oceaan (Atlas Contact). Tot de outsiders voor de prijs van 50.000 euro behoren Esther Gerritsen met Dorst (De Geus), de Belg Elvis Peeters met Dinsdag (Podium) en Christian Weijts, die vorige maand met Euforie (De Arbeiderspers) nog de BNG Literatuurprijs voor nog niet doorgebroken schrijvers won. Weijts is tevens de enige auteur die nog niet eerder werd genomineerd voor de Libris Literatuurprijs. Alleen de Belg Peter Terrin, die vorig najaar de AKO Literatuurprijs won met zijn roman Post mortem is een opvallende afwezige op de shortlist. De jury van de Librisprijs onder leiding van Clairy Polak deelde ook nog een sneer uit naar de Nederlandstalige schrijvers, ook al kwam zij tot een shortlist van hoge kwaliteit. De jury hekelt het grote aantal boeken dat in de categorie 'Ikearoman' valt. 'Het boek lijkt als het ware geschreven met behulp van een handleiding: een bouwpakket bestaande uit een handvol personages, een groot geheim in het verleden, tegengestelde belangen en loyaliteiten, een verliefdheid hier of juist wroeging en verdriet over een verbroken relatie daar.' De jury verlangde na al die Ikeameubels 'naar een robuust, ouderwets, ambachtelijk meubelstuk'. De winnaar wordt op 6 mei bekendgemaakt in het Amstel Hotel.
+</dcterms:description>
+        <dcterms:extent>word, 336, Kunst En Media; Blz. 21</dcterms:extent>
+        <dcterms:issued>2013-03-12</dcterms:issued>
+        <rdfs:label xml:lang="nl">Zes namen op shortlist Libris</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzlELTdGVzEtSkM4Vy1ZMDE1">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/579D-7FW1-JC8W-Y015"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=579D-7FW1-JC8W-Y015&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Metropole Orkest gered met 7 miljoen </dcterms:title>
+        <dcterms:creator>Tirza de Fockert </dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>den haag Het Metropole Orkest is gered. De regeringspartijen PvdA en VVD kwamen gisteren te elfder ure met een reddingsplan waarmee het orkest tot 2017 kan blijven bestaan. ,,We krijgen eindelijk een eerlijke kans,'' zegt directeur Kok van het orkest. 
+VVD en PvdA vinden op de valreep nog geld
+De Tweede Kamerleden Martijn van Dam (PvdA) en Martijn Huizing (VVD) zagen gisteren kans om in de begroting de benodigde 7 miljoen euro extra te vinden. Hoe het plan er precies uitziet, is nog niet helemaal duidelijk.
+Van Dam: ,,Maar de oplossing is er. We weten zeker dat het niet ten koste gaat van andere orkesten of de omroep.  Morgen zullen ze het kabinet in een Kamermotie opdragen om het internationaal vermaarde muziekgezelschap tot 2017 te behouden. Daarna moet het orkest de competitie aangaan met andere orkesten.
+Maandag leek het doek voor het Metropole Orkest definitief gevallen. Het orkest bestaat sinds 1945, speelt pop, jazz en wereldmuziek en wordt vaak gevraagd voor film- en tv-producties. Minister Bussemaker (Cultuur) en staatssecretaris Dekker (Media) zeiden geen geld over te hebben voor de redding van het Metropole Orkest.
+lastig
+PvdA-Kamerld Van Dam erkent dat het heel lastig was om een potje te vinden. ,,Anders hadden we wel eerder laten weten dat het orkest overeind kan blijven.  Gisteren speelde het orkest in Den Haag in perscentrum Nieuwspoort voor de Kamercommissies van Media en Cultuur. Het was misschien wel het belangrijkste concert dat deze 52 muzikanten ooit hebben gespeeld, constateerde de vaste gastdirigent Jules Buckley na afloop. &gt;&gt;P4
+</dcterms:description>
+        <dcterms:extent>word, 261, Algemeen Dagblad - Nieuwsdienst; Blz. 1</dcterms:extent>
+        <dcterms:issued>2012-12-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">Metropole Orkest gered met 7 miljoen </rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozMzMzNzU3ODU=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:333375785"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Verboden voor ons</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:288843509">
+            <skos:altLabel>Stoffels, Maren</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>Leopold, Amsterdam</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Noord is verboden terrein voor Tirza (ik-figuur) uit Zuid. Als ze in Noord op cursus gaat om een graffitiwedstrijd te winnen, wordt ze door de Noorders gezien. En dan ontmoet ze Noorder Toine. Vanaf ca. 13 jaar.</dcterms:description>
+        <dcterms:extent>137 p</dcterms:extent>
+        <dcterms:subject>Avonturenverhalen</dcterms:subject>
+        <dcterms:subject>jeugdboeken ; verhalen</dcterms:subject>
+        <dcterms:subject>Kinderboeken, Stripverhalen</dcterms:subject>
+        <dcterms:subject>Schoolverhalen</dcterms:subject>
+        <dcterms:subject>Verliefdheid</dcterms:subject>
+        <dcterms:subject>Wedstrijden</dcterms:subject>
+        <dcterms:identifier>9789025858445</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,51 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OEIwLTgwSzEtSkM4Vy1ZNTA2">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58B0-80K1-JC8W-Y506"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58B0-80K1-JC8W-Y506&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Avonturiers in wrakke boot vermist op volle zee </dcterms:title>
+        <dcterms:creator>CASPAR NABER </dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>bodo/schiedam Een Nederlands schip met aan boord drie avonturiers is spoorloos verdwenen op het midden van de Noordzee. Vrienden van de drie mannen, die met een omgebouwd oud bootje naar het noorderlicht wilden varen, maken zich grote zorgen over hun lot. De kustwacht van Noorwegen is met groot materieel op zoek naar het drietal. 
+Engelse kustwacht: er ontbrak van alles aan boord
+Vrienden van de drie Nederlanders alarmeerden zondag de Schotse en Noorse kustwacht. Ze startten een grote zoekactie waarbij legervliegtuigen worden ingezet en helikopters voorzien van speciale sensoren. De Warnow, zoals het bootje van de twee Schiedammers en een Zeeuw heet, werd op 18 april voor het laatst gesignaleerd in het Noorse gedeelte van de Noordzee.
+De voormalige loodsboot voer toen in de buurt van een olieveld net over de Brits-Noorse zeegrens. ,,Het zoeken wordt bemoeilijkt doordat de bestemming van het schip niet bekend is. We weten alleen dat de bemanning het noorderlicht wilde opzoeken. En dat terwijl je dat in deze tijd van het jaar nauwelijks kunt zien,'' zegt een kustwachtwoordvoerder.
+Alle schepen in de buurt, bemanningsleden van boorplatforms en helikopterpiloten die hen van en naar het vasteland vliegen, is volgens hem gevraagd uit te kijken naar het vermiste schip. De Noren zoeken om de 6 uur in hun telefoonnetwerk naar signalen van de iPhone van de kapitein van de Warnow. ,,We hebben collega's in Zweden, Denemarken en Duitsland gevraagd hetzelfde te doen,'' aldus de woordvoerder.
+De kapitein van het vermiste schip is Arnoud Brinkman (46) uit Schiedam. Hij runt een scheepsreparatiebedrijf en voorzag zijn voormalige Duitse loodsboot onder meer van een mast en een groot bruin zeil, afkomstig van een historisch zeilschip. Brinkman bewoont het omgebouwde schip met zijn veel jongere vriendin Tirza Smit, die bij hem is. De andere opvarende is Peter van Liere (50) uit Middelburg. Hij was zanger en drummer bij de Zeeuwse band The Old Firm, die eind vorig jaar stopte.
+Via de muziekwereld kwam de Middelburger in contact met Brinkman, die baritonsaxofoon speelt. Samen vormen ze een gelegenheidsbandje waarbij Smit en haar tweelingzusje Dana zingen. Het bandje telt acht leden.
+Vorige zomer voer de vriendengroep met de Warnow naar Terschelling. Ze traden er op tijdens het Oerol-festival. ,,Bij het kampvuur lanceerde Arnoud het idee om deze zomer met zijn allen naar Noorwegen te zeilen in de hoop een glimp te kunnen opvangen van het noorderlicht,'' zegt de moeder van een van de bandleden.
+Half maart 2013 begonnen de acht aan hun spannende zeereis naar het licht. Ze waren goed voorbereid, zegt de vrouw. ,,Alle moeders hadden eten gekookt waarmee de groep wel 2 maanden vooruit kon, de drinkwatertank van 1500 liter zat vol, er waren zwemvesten voor iedereen en zelfs voor de hond Razzia en genoeg hout voor het kacheltje.''
+De groep was volgens haar nog maar net het zeegat bij Hoek van Holland uitgevaren of de problemen begonnen. ,,De drie vrouwen aan boord werden zeeziek en zouden dat blijven.''
+Een week later ging het serieus mis. Voor de oostkust van Schotland belandde de Warnow in een vliegende storm met windkracht negen en golven van wel 15 meter hoog.
+Tot overmaat van ramp viel de machine van het schip uit en daardoor ook het roer. Via de marifoon vroeg kapitein Brinkman om hulp.
+De Britse reddingsboot rukte uit, raakte zelf in de problemen maar collega's wisten het Nederlandse schip in veiligheid te brengen. Het verbaast de Britten nog steeds dat de Warnow nog zo ver is gekomen. ,,Het schip is allesbehalve zeewaardig. Noodbaken, satelliettelefoon, gps, het ontbreekt allemaal,'' zegt een woordvoerder van het reddingsstation in Whitby.
+Het kostte de Nederlanders 2 weken om de stormschade aan hun schip te repareren. 's Avonds traden de `Crazy Dutch' op in plaatselijke pubs, in ruil voor gratis bier. Het typeert hun levensfilosofie, zegt de moeder van de gitarist. ,,Ze zien het als een uitdaging om goed te leven met weinig geld.''
+Met het schrikbeeld voor ogen van nog veel meer zeeziekte en stormen, besloten vijf van de acht muzikanten de oversteek naar Noorwegen niet te maken. Dat ze sindsdien niets meer hoorden van de noorderlicht-zoekers baarde hen eerst geen zorgen. Brinkman was immers wel vaker een tijdje `uit de lucht'.
+De vijf werden pas ongerust toen ook de vriendin van Brinkman niets van zich liet horen. ,,Tirza zou haar tweelingzusje nooit zo lang in onzekerheid laten zitten,'' zegt de moe-der van de gitarist. Ze vreest het ergste.
+Moeder van opvarende
+`Ze wilden naar Noorwegen om 't noorderlicht
+te gaan zien'
+</dcterms:description>
+        <dcterms:extent>word, 761, Algemeen - Nieuwsdienst; Blz. 8</dcterms:extent>
+        <dcterms:issued>2013-05-02</dcterms:issued>
+        <rdfs:label xml:lang="nl">Avonturiers in wrakke boot vermist op volle zee </rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

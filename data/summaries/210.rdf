@@ -1,0 +1,46 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NEZHLUpGRDEtSkM4Vy1ZM0I5">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54FG-JFD1-JC8W-Y3B9"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54FG-JFD1-JC8W-Y3B9&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Met een Tsjernobylboompje kun je niet meer aankomen'</dcterms:title>
+        <dcterms:creator>Eppo König</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Langs een Zuid-Hollands dijkweggetje staat een overdekt veld Aziatische dennen. Met of zonder ingebouwde verlichting, wit van de kunstsneeuw of gewoon groen. Ze zijn even  rustgevend als echte kerstbomen - alleen de dennengeur ontbreekt.
+Hier bij Edelman in Reeuwijk is Kerstmis    2012 al begonnen. Sinds deze week is in de showroom in een grote kas de collectie voor volgend jaar al te zien. Edelman is de Europese marktleider en levert aan ruim zestig landen, volgens marketingmanager Tirza van der Linden. Ze  verwacht veel van de takloze Fairybell:  zwevende lichtjes in boomvorm. ,,Met wárm ledlicht."
+Verkopers in pak leiden inkopers rond door een winterwonderland. ,,Het gaat om heel veel bomen en heel veel  geld", zegt klant Eric van der Burch van Garden Retail Services. Hij stelt collecties samen voor 250 tuincentra in Nederland en België. ,,Over twee, drie weken weten we hoe de verkoop dit jaar is. "
+De markt voor kunstbomen groeit ieder jaar 10 à 15 procent, schat Van der Burch. Uit cijfers van het Productschap Tuinbouw blijkt dat ruim eenderde van de huishoudens inmiddels een 'nepper' in huis heeft. Tegelijkertijd zouden verreweg de meeste Nederlanders nog altijd een echte boom kopen. ,,Echt is meer leven", zeiden respondenten in de enquête.
+Echte kerstbomen worden iedere winter duurder. Ook dit jaar ziet Henry Nooteboom van kwekerij De Buurte in het Gelderse Oene weer een prijsstijging van ,,5 tot 10 procent". Schaarste, zeggen  kwekers dan. Iedereen wil een echte Deense Nordmann met zijn zachte naalden die niet snel uitvallen.   Jaren terug was er een overschot, nu is het wachten tot de nieuwe aanplant groot  genoeg is om te rooien.
+Over de prijsafspraken van de Deense Kerstboom Kwekers  Associatie hoor je minder vaak. In de zomer van 2010 veroordeelde het  Hooggerechtshof in Kopenhagen de organisatie tot een boete van 500.000 kronen (65.000 euro). ,,Onterecht", zegt oud-manager Kaj Østergaard, die zelf een extra boete van bijna 2.000 euro kreeg,  telefonisch vanuit Denemarken. ,,Ik kan drieduizend kwekers toch niet vertellen wat hun prijzen moeten   zijn."
+Ook de prijzen van kunstbomen zijn gestegen. Maar dat komt vooral omdat ze mooier zijn geworden, zeggen ze bij Edelman. De laatste twee, drie  jaar is de vraag toegenomen naar levensechte bomen: de naturals. ,,Met kerstboompjes waar je doorheen kunt kijken,  de bekende 'Tsjernobylboompjes' ,   kun je niet meer aankomen", zegt Wim de Roo, verkoopmanager in Nederland.
+De levensechte bomen worden in China en Thailand gemaakt met mallen van echte dennen, vertelt productmanager Ron Jansen.  Edelman verkoopt twee types, waarvan de Triumph Tree de bekendste merknaam  is. De naalden op de binnenste takken worden gemaakt van dunne reepjes pvc, de zichtbare takken aan de buitenklant zijn van de kunststof polyetheen die in een mal wordt gegoten. Alle takjes worden handmatig aan takken geregen, die weer aan de stalen stam worden bevestigd. Jansen: ,,Hoe lang ze daar over doen?  Een uur of twee, misschien."
+Een levensechte kunst-Nordmann van 1 meter 80 kost bij een tuincentrum tussen de 200 à 250 euro, schat hij. ,,In vergelijking met de prijs van een echte Nordmann heb je het er in drie, vier  jaar uit. En je krijgt tien jaar garantie. Ook als er een tak breekt."
+De smaak van de Nederlandse en Duitse markt is wat behoudend, vertelt marketingmanager Van der Linden. ,,Hier kopen mensen een gewone boom met gewone ledverlichting. In Zuid-Europese landen mag het allemaal wat gekker. In Spanje en Italië willen ze juist gekleurde en twinkelende lampjes."    Ook Libanon houdt van ,,extravagant", weet verkoopmanager  Robin van Gerven.  ,,Totdat je tandglazuur breekt en je je zonnebril moet opzetten."
+Voor liefhebbers van traditie: van Staatsbosbeheer mag je vanaf vandaag op vijf locaties voor een paar euro zelf een boom uitspitten of omzagen. De boswachter schenkt warme chocolademelk.
+3 miljoen kerstbomen
+In Nederland worden deze maand ongeveer 3 miljoen kerstbomen (echt en kunst) verkocht, schat het Productschap Tuinbouw. Denemarken is de grootste exporteur van kerstbomen in de EU. Van de 'jaaroogst' van ongeveer 10 miljoen bomen gaat 80 procent naar het buitenland, volgens de Deense Kerstboomkwekers  Associatie. De export naar Nederland bedraagt circa 500.000 bomen, de rest komt uit onder meer Duitsland, de Ardennen, Schotland en Bretagne.
+</dcterms:description>
+        <dcterms:extent>word, 763, Economie</dcterms:extent>
+        <dcterms:issued>2011-12-10</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Met een Tsjernobylboompje kun je niet meer aankomen'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

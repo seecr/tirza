@@ -1,0 +1,44 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NUs2LUszMjEtSkM4Vy1ZMDA2">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55K6-K321-JC8W-Y006"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55K6-K321-JC8W-Y006&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Wie wint de Libris Literatuurprijs?</dcterms:title>
+        <dcterms:creator>Jann Ruyters</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/trouw">
+            <rdfs:label>Trouw</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>A.F.Th. van der Heijden zou hem verdienen, maar de gedoodverfde winnaar wint hem zelden of nooit.
+Wordt het 'Tonio' van A.F Th. van der Heijden vanavond, of 'Bittere bloemen' van Jeroen Brouwers? Voorspellen welke roman de Libris Literatuurprijs gaat winnen, is onbegonnen werk, zo is in het verleden gebleken. Met dat een schrijver vooraf wordt genoemd, nemen zijn kansen af. De jury heeft nu al een aantal jaren laten zien een voorkeur te hebben voor die schrijvers die de prijs zelf ook niet zagen aankomen. Hoogst verrast was de Vlaming Yves Petry vorig jaar toen hij de prijs won voor zijn roman 'De maagd Marino'. Het jaar daarvoor won de columnbundel van Bernard Dewulf, terwijl iedereen dacht dat 'Radeloos' van Tom Lanoye bekroond zou worden. In 2006 won K. Schippers toen iedereen zijn geld op Jan Siebelink had gezet. Alleen in 2007 nam een gedoodverfde winnaar de prijs mee naar huis, toen Arnon Grunberg werd bekroond voor 'Tirza'.
+De keuze van een jury hangt af van smaak, van eerdere prijzen, van mededingers, van chemie. Zoals buiten een jury iedereen kan gaan geloven dat Peter Buwalda het beste boek schreef in 2010, zo kan dat ook binnen een jury gebeuren. Maar het omgekeerde kan ook natuurlijk, afhankelijk van de weerbarstigheid van de juryleden.
+Bij het bekend maken van de shortlist van de Libris Literatuurprijs door voorzitter Robbert Dijkgraaf in maart, werd in elk geval wel al duidelijk wie de prijs niet gaat winnen vanavond. 'Lieve Celine' van Hanna Bervoets, het boek dat afgelopen zaterdag wel de Opzij Literatuurprijs won, wordt het in elk geval niet, net zomin als de ook voor die prijs genomineerde boeken van Maartje Wortel, Vonne van der Meer, Hedda Martens en Yolanda Entius. Er staan geen vrouwen op de shortlist dit jaar. Geen schrijfster gaf blijk van de door de jury in haar juryrapport vereiste 'durf, brille en scherpzinnigheid'.
+Wat koos de Libris-jury wel? Een blik op de shortlist leert dat bedachtzaamheid à la Stephan Enters alom geloofde 'Grip' (wel op de longlist) niet echt de voorkeur heeft. De jury viel het meest voor zwelgende mannen met grote gebaren, al is het in het geval van de requiemroman van A.F.Th. van der Heijden wat oneerbiedig om het zo uit te drukken. In de romans van Brouwers, Van der Heijden, en Mersbergen zijn vertellers aan het woord die de grond onder hun voeten dreigen te verliezen, of al verloren hebben, en die hun gedachten, associaties en herinneringen, in een lyrische vloeiende stroom aan het papier toevertrouwen.
+In 'Bittere Bloemen' gaat Jeroen Brouwers vol overgave te keer als de tachtiger Julius Hammer, die al tierend en smalend langzaam wegzinkt in een delirium waar de dood welhaast vanzelfsprekend op zal volgen.
+Jan van Mersbergen trekt je in 'Naar de overkant van de nacht' in al even delirisch proza het carnaval van Venlo binnen, waar een jonge pleegvader tijdelijk verlossing zoekt van de verantwoordelijkheid voor zijn gezin.
+Meer geserreerd, maar even hartstochtelijk, is het werkelijkheidsgetrouwe requiem van Van der Heijden die in het al veel besproken 'Tonio' een aangrijpende hommage brengt aan zijn verongelukte zoon. Een verrassende nominatie, gezien het non-fictieve karakter van dit boek. De jury verdedigt haar keuze echter met de stelling dat de schrijver in de reconstructie van Tonio's laatste uren het verslag naar de fictie trekt.
+Daarnaast koos de jury voor twee dikke historische romans die teruggaan naar het begin van de vorige eeuw. Jan van Loy legt in het gedegen 'Ik, Hollywood' de vroege geschiedenis van de filmstad vast in een volgens de jury 'sprankelende vertelling die nooit geconstrueerd overkomt'. Miquel Bulnes dook in 'Het bloed in onze aderen' in de episode voorafgaand aan de Spaanse burgeroorlog en bracht elementen van oorlogsroman, thrillers, spionageromans en psychologische romans organisch samen in een volgens de jury 'verbluffende, wervelende' roman.
+Een buitenbeentje is de zesde genomineerde, Ivo Victoria, wiens zedenschets over angst en paranoia in een Vlaams provinciestadje door de jury geprezen wordt om zijn beklemmende werking en ingehouden stijl.
+Maar wie gaat er nou winnen vanavond? Als de door Maarten 't Hart geproclameerde wet van de 'frictiefictie' in deze jury opgaat, maakt Van der Heijden de meeste kans. Ervaren literair jurylid 't Hart analyseerde in zijn boek 'Dienstreizen van een thuisblijver' dat wanneer je erg veel romans in korte tijd leest, de fictie zozeer tegen gaat staan, dat alles wat daar maar enigszins van afwijkt direct wordt omarmd. Vandaar die juryrapporten die reppen over 'boeken die schuren' en 'grenzen verleggen'. Het al veel besproken 'Tonio' is op deze shortlist onmiskenbaar het boek dat de lezer het hardst wakker schudt. De enige reden waarom deze prijs de schrijver zou ontgaan, is dat Van der Heijden, zeker sinds hij de AKO-prijs misliep, nu de gedoodverfde winnaar is en de gedoodverfde winnaar wint zelden de Libris Literatuurprijs. Maar dit jaar zou hij hem wel echt verdienen.
+Buitenbeentje is Ivo Victoria, met een zedenschets over angst en paranoia
+</dcterms:description>
+        <dcterms:extent>word, 840, Cultuur en Media; Blz. 11</dcterms:extent>
+        <dcterms:issued>2012-05-07</dcterms:issued>
+        <rdfs:label xml:lang="nl">Wie wint de Libris Literatuurprijs?</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

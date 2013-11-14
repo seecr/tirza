@@ -1,0 +1,80 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M0oyLUNYQzEtRFlSWS1ONEY3">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53J2-CXC1-DYRY-N4F7"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53J2-CXC1-DYRY-N4F7&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Den Haag is niet alleen Den Haag, maar ook het ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Den Haag is niet alleen Den Haag, maar ook het decor van Ocean's Twelve, Tirza en andere films. Hanneke de Klerck kijkt naar belangrijke filmlocaties in deze vijfde aflevering van zes routes door een fraai stuk Nederland, langs alle beroemde Haagse plekken.
+Catherine Zeta-Jones was hier! Den Haag draagt het graag uit: voor Ocean's Twelve (regie Steven Soderbergh, 2004), het vervolg op Ocean's Eleven, met ook George Clooney en Brad Pitt, diende het stadhuis als het hoofdkantoor van Europol.
+Maar het is gemengde trots: de film situeert Europol abusievelijk in Amsterdam. Daar sta je dan als Internationale stad van Vrede en Recht.
+Nee, dat zou nu niet meer gebeuren, zegt Marcel Barendse. Hij is sinds vorig jaar de gemeentelijke filmcoördinator, de man die filmmakers moet verleiden in Den Haag te komen opnemen, bijvoorbeeld door te helpen bij het zoeken naar locaties of het aanvragen van vergunningen. Wie nu filmt in Den Haag en daarvoor door de gemeente geholpen wordt met faciliteiten en subsidiëring, ondertekent een contractje waarin hij belooft de stad 'in al zijn facetten' te laten zien. Zonder dat de stad op de regisseursstoel gaat zitten, benadrukt Barendse.
+Tirza (Rudolf van den Berg, 2010) is zo'n andere film waarbij de Haagse trots in eerste instantie wat vreemds heeft. Speelt Tirza in Den Haag? Wie de film ziet, kan het makkelijk ontgaan: in een flits komen een paar kenmerkende gebouwen voorbij, zoals het Vredespaleis, en ook zie je even het exterieur van een huis aan de Laan van Nieuw Oost-Indië. Maar de rest van de film speelt zich af ín dat huis en in Afrika, waar Jörgen Hofmeester (Gijs Scholten van Aschat) op zoek gaat naar zijn dochter Tirza.
+Toch: in het boek van Arnon Grunberg woonde Hofmeester in Amsterdam-Zuid. Des te groter is de verrassing, zegt Barendse, als de kijkers ineens Den Haag voorbij zien komen. 'En producent San Fu Maltha heeft hier wel vijf ton besteed aan opdrachten voor de lokale economie.' Precies wat Den Haag wil met zijn filmbeleid. Want behalve een vorm van citymarketing, van reclamemaken voor de stad, is het ook een manier om de plaatselijke economie te stimuleren. Want producenten geven geld uit aan hotels, autohuur, catering.
+En ja, ook voor Tirza geldt dat de gemeente van eerdere ervaringen leert, dat er nu strakkere afspraken zouden worden gemaakt, dat gevraagd zou worden Den Haag meer in beeld te brengen. Zoals in Pizzamaffia (Tim Oliehoek, 2011) en Alle Tijd (Job Gosschalk, 2011), waarin de stad bijna een van de personages is.
+Tirza, Pizzamaffia, Alle Tijd, maar ook Het leven uit een dag (Marc de Cloe, 2009), The Tribunal (Hans-Christian Schmid, 2009), Majesteit (Peter de Baan, 2010) en Sonny Boy (Maria Peters, 2011): zeven speelfilms in nog geen drie jaar. Allemaal het resultaat van een zeer actief beleid dat de komende jaren wordt voortgezet met een budget van 150 duizend euro per jaar tot en met 2014.
+En dat Ocean's Twelve uit 2004 geen uitvloeisel is van officieel beleid, dat de film Den Haag niet ruimhartig noemt, ach, dat is geen reden om er niet blij mee te zijn. Het IJspaleis van architect Richard Meier is voor elke Hagenaar (en voor de meeste Nederlanders) onmiddellijk herkenbaar als het Haagse stadhuis, en dat zo'n grote internationale productie de stad heeft uitgekozen om er te filmen is hoe dan ook een reden tot trots. Steven Soderbergh noemen, of George Clooney, helpt natuurlijk ook om andere internationale producenten te interesseren.
+Het stadhuis (gebouwd tussen 1989 en 1995), op Spui 70, vormt het beginpunt van deze wandeling langs een aantal filmlocaties in Den Haag. Het mag officieel beleid zijn Den Haag 'in al zijn facetten' te laten zien, veel films tonen toch ook gewoon en vooral de highlights. Dus gaat een rondje filmlocaties automatisch langs hoogtepunten van Den Haag, met als extraatje huizen in straten waar je anders aan voorbij zou lopen.
+Hakenkruisen
+Van het Haagse stadhuis is vooral de enorme, veertig meter hoge hal interessant. Wie daar staat, ziet onmiddellijk hoe fotogeniek er gehold kan worden door de in de ruimte zwevende gangen die noord- en zuidkant van de etages verbinden, zoals in Ocean's Twelve te zien is.
+Naast het stadhuis ligt de VVV, die over niet al te lange tijd haar eigen filmlocatiewandeling hoopt klaar te hebben. Dan gaat het via Spui en Lange Poten naar het Plein, waar op nummer 24 de Nieuwe of Littéraire Sociëteit De Witte gevestigd is, een neorenaissance gebouw dat voor de film Zwartboek (Paul Verhoeven, 2006) op een zondagochtend werd behangen met banieren met hakenkruisen &amp;mdash; een heftig beeld dat een onplezierige verrassing opleverde voor kerkgangers die bij het verlaten van de dienst ineens in de Tweede Wereldoorlog beland leken. In Zwartboek, over een Joodse onderduikster (Carice van Houten) die in het verzet gaat en ook nog verliefd wordt op een Duitser, was hier het hoofdkantoor van de Duitse Sicherheitsdienst gevestigd.
+Werkpaleis
+Het Binnenhof en de 13de-eeuwse Ridderzaal spelen een rol in verschillende films, zoals Verhoevens Soldaat van Oranje (1977) en Peter Baans Majesteit. Aan de andere kant van het poortje, op het Buitenhof werden scènes gedraaid voor bijvoorbeeld Alle Tijd, waarin Paul de Leeuw een broer speelt die na de dood van zijn ouders over zijn veel jongere zusje (Karin Smulders) moedert.
+Loop via de Kneuterdijk naar het Lange Voorhout (waar ook werd gedraaid voor Alle Tijd), en links via de Heulstraat naar het Noordeinde. Daar staat het werkpaleis van de koningin dat, uiteraard, voorkomt in Majesteit, waarin Carine Crutzen een fictieve Beatrix speelt in de uren voor de Troonrede van 2003, haar eerste sinds het overlijden van prins Claus. Paleis Noordeinde is niet te bezichtigen &amp;mdash; zoals ook de huizen van 'gewone mensen' waarin filmopnamen zijn gemaakt niet van binnen zijn te bekijken. Maar op de website van het Koninklijk Huis http://(koninklijkhuis.nl) staat een virtuele rondleiding.
+In Majesteit verzucht Beatrix, op bezoek bij Mabel Wisse Smit en prins Friso in hun Londense appartement dat het haar heerlijk zou lijken in een flat te wonen. In een flashback suggereert haar voorgangster Wilhelmina, die 's winters in Paleis Noordeinde woonde, iets soortgelijks, als ze tegen een piepjonge Beatrix zegt dat ze wel zou willen onderduiken bij 'een gewoon gezin'.
+Als Wilhelmina (gespeeld door Andrea Domburg) in Soldaat van Oranje terugkeert naar Den Haag, vraagt ze Erik Lanshof (gespeeld door Rutger Hauer en gebaseerd op de verzetsman Erik Hazelhoff Roelzema) of hij tijdens de oorlog niet een bommetje op paleis Noordeinde had kunnen gooien. Ze had er al een hekel aan, maar nu hadden de nazi's het ook nog bezoedeld. Na 1945 heeft ze er niet meer gewoond.
+Volg het Noordeinde via de Zeestraat langs Panorama Mesdag, en ga rechtsaf de Sophialaan in met zijn 64 paardenkastanjes (volgens een bordje in de stoep). De Sophialaan komt uit op Plein 1813. Daar, langs het standbeeld van Willem Frederik, kwamen in Soldaat van Oranje Rutger Hauer en Jeroen Krabbé op motorfietsen de bocht omrijden. Tijdens een luchtalarm, in rokkostuum, om zich op 10 mei 1940 te melden als vrijwilliger in het Nederlandse leger.
+Negentwintig jaar na Soldaat van Oranje liet Paul Verhoeven in Zwartboek de Irene brigade en de Canadese bevrijders over de Javastraat, achter Willem Frederiks beeltenis, Den Haag binnentrekken. Carice van Houten, de hoofdrolspeelster, wordt op dat moment meegenomen door een dokter die ze vertrouwt, naar zijn praktijk in de statige Surinamestraat, een zijstraat van de Javastraat.
+Eenmaal in zijn behandelkamer spuit hij haar in met een dodelijke dosis insuline. Gelukkig heeft ze eerder in de film al uitgelegd hoe een collega revue-artiest met diabetis voor de oorlog regelmatig te veel insuline spoot en daartegen chocolade at, en gelukkig heeft ze een flinke reep Canadese chocolade in haar hand, zodat de kijker begrijpt hoe ze zichzelf heeft gered als ze nog enigszins verdwaasd achter de dokter langs pardoes van het balkonnetje op nummer 39 in de feestvierende menigte stapt en zo ontkomt.
+Sla aan het einde van de Surinamestraat links op de Laan Coppes van Cattenburch, dan rechts de Bankastraat in, die uitloopt op de Kerkhoflaan. Op nummer 12 ligt de sfeervolle gemeentelijke begraafplaats , in 1830 ontworpen door stadsarchitect Zeger Reyers.
+In Alles is liefde, die Amsterdamste van alle Amsterdamse films, wil Michiel Romeyn na jaren zijn ex-vrouw opzoeken en dan blijkt ze overleden. Ongetwijfeld is ze in de film in Amsterdam begraven, maar haar graf zoekt hij op dit Haagse kerkhof. Want in film kan Den Haag in Amsterdam liggen, maar Amsterdam ook in Den Haag.
+De katholieke begraafplaats Sint Petrus Banden (ook uit 1830) aan de Kerkhoflaan 10 is gebruikt in de telefilm De ordening van Pieter Kuijpers, naar de gelijknamige roman van Kees van Beijnum. Daar wordt de oorlogsmisdadiger De Heus Verolmen herdacht, gebaseerd op Meinoud Rost van Tonningen die vlak na de oorlog zelfmoord pleegde en op de gemeentelijke begraafplaats werd begraven. Loop vanaf de r.k. begraafplaats de Kerkhoflaan (later Ary van der Spuyweg) uit naar de Scheveningseweg en neem daar tram 1 naar Scheveningen voor het tweede deel van de wandeling (stap uit bij de halte Badhuiskade, op de Gevers Deynootweg).
+Gewone mensen
+Scheveningen is al net zo'n filmgeniek deel van Den Haag als het centrum. Hier werd ook gefilmd voor Alle Tijd (Haven, Kurhaus, Pier), en er wordt nu voor de KRO een tiendelige politieserie opgenomen. Bureau Seinpost, met Jim Bakkum en Victor Löw in de hoofdrol. De serie is vanaf 4 september op tv. De leerlingen van jeugdtheaterschool Rabarber doen in de serie ervaring op met kleine rollen en edelfiguratie. Het is een manier waarop Den Haag zijn inwoners bij het filmbeleid wil betrekken. Bij Tirza gebeurde het doordat producent San Fu Maltha buurtbewoners vroeg te figureren op het eindexamenfeestje van Tirza. En standaard wordt een aantal kaarten voor premières gereserveerd voor 'gewone' mensen.
+Scheveningen is vooral het terrein van Sonny Boy, de film gebaseerd op het boek van Annejet van der Zijl, die zich op haar beurt weer baseerde op een waargebeurd verhaal. Afgelopen jaar werd het boek verfilmd door Maria Peters. Sonny Boy is de bijnaam van het jongetje dat in 1929 geboren wordt uit de scandaleuze verhouding van een gescheiden moeder van vier kinderen met haar veel jongere Surinaamse kostganger. Het stel slaagt erin een gelukkig bestaan op te bouwen, met een eigen pension. Maar dan breekt de Tweede Wereldoorlog uit, nemen ze Joodse onderduikers in huis en worden ze verraden.
+Via de Seinpostduin (het grote witte appartementencomplex heet residentie Seinpost en speelt een rol in de broeierige film De flat uit 1994 van Ben Verbong) naar de Zeekant, waar Rika en Waldemar Nods, de hoofdpersonen in Sonny Boy, pension Walda uitbaatten.
+Voor de film is gezocht naar de oorspronkelijke locaties. Maar zoals het verhaal moest worden aangepast en ingedikt, moest de werkelijkhied soms wat worden bijgebogen. Het pension was gevestigd op nummer 56, en dat is ook het huisnummer dat in de film is te zien. Maar de opnamen zijn gemaakt op nummer 58 omdat het oorspronkelijke gebouw niet meer bestaat. Later in de film is dat nog een keer zo. Het gezin moest verhuizen omdat de Duitsers het pension hebben ingenomen. Ze kwamen uiteindelijk terecht op de Pijnboomstraat 63, waar de Joodse onderduikers werden verraden &amp;mdash; in Sonny Boy zie je huisnummer 63 naast de deur van Obrechtstraat 2. Het huis aan Zeekant 58 staat nu in de steigers, en ook aan de boulevard wordt gewerkt.
+Ga van de Zeekant terug naar de Gevers Deynootweg. Daar op nummers 32-34-38 was het eerste pension Walda gevestigd (in de werkelijkheid, in de film komt dit gebouw niet voor). Aan de overkant van de straat via de Maaswijkstraat naar de Dirk van Hoogenraadstraat waar Rika en haar kinderen op nummer 134 komen wonen en waar Waldemar bij ze in de kost komt. Ook dat is niet helemaal historisch correct, want Waldemar kwam inwonen op de Azaleastraat, maar het gezin heeft wel hier gewoond. In de film steekt een buurvrouw in een souterrainwoning de bal van Rika's kinderen stuk, en dansen ze in de sneeuw die Waldemar niet kent.
+De Dirk Hoogenraadstraat helemaal uit en via het Circusplein naar het Kurhaus. Vanaf het dak waaiden hakenkruisen &amp;mdash; 65 jaar na de oorlog. Maar ook hier had de gemeente geleerd van het verleden: er stonden bij de opnamen zelfs medewerkers op straat om toeristen te waarschuwen dat er niets aan de hand was. Gewoon. Den Haag filmstad.
+Adressen
+Bij de VVV naast het Stadhuis (Spui 70) kunt u een gratis kaartje halen met het centrum van Den Haag en op de achterzijde Scheveningen. Meer gedetailleerde kaarten zijn daar ook te koop. Deze tocht gaat langs de volgende adressen:
+Den Haag centrum
+Stadhuis, Spui 70 Ocean's Twelve (Steven Soderbergh, 2004)
+Plein 24 Soldaat van Oranje (Paul Verhoeven, 1977)
+Binnenhof en Ridderzaal Soldaat van Oranje, Majesteit (Peter de Baan, 2010)
+Buitenhof Alle Tijd (Job Goschalk, 2011)
+Paleis Noordeinde, Noordeinde 64 Majesteit, Soldaat van Oranje
+Plein 1813 Soldaat van Oranje
+Javastraat Zwartboek (Paul Verhoeven, 2006)
+Surinamestraat 39 Zwartboek
+Algemene begraafplaats, Kerkhoflaan 12 Alles is liefde (Joram Lürsen, 2007)
+R.k. begraafplaats Sint Petrus Banden, Kerkhoflaan 10 De ordening (Pieter Kuijpers, 2003)
+Scheveningen
+Seinpostduin De flat (Ben Verbong, 1994)
+Zeekant 58 Sonny Boy (Maria Peters, 2011)
+Gevers Deynootweg 34-36-38 Sonny Boy
+Dirk van Hoogenraadstraat 134 Sonny Boy
+Kurhaus, Gevers Deynootplein 30 Sonny Boy
+</dcterms:description>
+        <dcterms:extent>word, 2251, Intermezzo; Blz. 16</dcterms:extent>
+        <dcterms:issued>2011-08-13</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

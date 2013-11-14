@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NTFILUNTOTEtRFlSWS1OMFIz">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/551H-CS91-DYRY-N0R3"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=551H-CS91-DYRY-N0R3&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Dochtertje voor Sharon Dijksma</dcterms:title>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Van onze parlementaire redactie  DEN HAAG, donderdag  De PvdA mag dan in een crisis verkeren, het is in de partij niet allemaal kommer en kwel. Het PvdA-Kamerlid Sharon Dijksma beviel gisteren van een gezonde dochter met de naam Tirza.
+Door haar zwangerschap gingen de perikelen goeddeels voorbij aan Dijksma (40), die al een zoon van 8 heeft. Het Kamerlid wordt getipt als burgemeester van Nijmegen.
+Kamerlid Sharon Dijksma
+
+</dcterms:description>
+        <dcterms:extent>word, 70, Binnenland; Blz. 9</dcterms:extent>
+        <dcterms:issued>2012-02-23</dcterms:issued>
+        <rdfs:label xml:lang="nl">Dochtertje voor Sharon Dijksma</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

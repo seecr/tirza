@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NEdULTJERjEtSkM4Vy1ZM0JN">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54GT-2DF1-JC8W-Y3BM"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54GT-2DF1-JC8W-Y3BM&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Een prop die alles opeet; kinderboek</dcterms:title>
+        <dcterms:creator>Simone van Driel</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Anneke Scholtens en Len Munnik: Cadeautje. Leopold, 32 blz, EUR13,95
+Ai, die golf van teleurstelling als je ouders, terwijl jij echt heel graag wilt spelen, zeggen dat ze het te druk hebben. In Cadeautje van Anneke Scholtens en Len Munnik overkomt het Hannah. In haar verpleegstersuniformpje kijkt ze vol verwachting naar haar vader en moeder. Maar vader wijst op de toespraak die hij nog voor het feest van tante Jet moet oefenen, moeder op de jurk die ze voor dat feest moet maken. En dan: teleurstelling die nijd wordt - er moet nú iets kapot!
+Hannah begint subtiel met haar protest. Ze trekt aan het mooie inpakpapier ('Ook voor tante Jet natuurlijk') dat op tafel ligt, 'zodat het op de grond gleed. Net goed, dacht ze. Ze bukte om dat stomme papier dubbel te vouwen. En nog eens en nog eens. Eigen schuld, dikke bult.' Maar als haar fantasie het overneemt en ze er een piepklein cadeautje in ziet, 'misschien net iets té piep', gaat ze op strooptocht en plakt met plakband alles aan elkaar wat ze kan vinden. De ceintuur van een badjas, een teenslipper, lippenstift, scheerkwast, de badeend en de feesthoed voor tante Jet.
+In een heerlijke scène in het vlotte verhaal schrijft Scholtens hoe Hannah het besef dat het toch niet helemaal in orde is wat ze doet, vloeiend met haar fantasie mengt. 'Wat heb je nou gedaan?' fluisterde Hannah tegen Cadeautje. 'Kleine vreetzak! Had je honger ofzo?' En de mengeling van woede en schuldgevoel als ze  hoort dat haar moeder voor háár een feestjurk aan het maken is: 'Ik doe een broek aan!'
+De druk-met-zichzelf-ouders en de emoties van Hannah zijn door Len Munnik in zijn karakteristieke cartoonstijl van scherpe lijnen en heldere kleuren in beeld gebracht; grote, belachelijk druk ogende ouders en een meisje prutsend met het plakband, geïrriteerd en met rode konen.
+Over hele andere cadeautjes gaat het in Jakob Kusdrager van Tirza Beekhuis en Reinier Sonneveld, een aandoenlijk, poëtisch verhaal over een man die kusjes rondbrengt, kusjes verbeeld als hartjes. Van de gewichtheffer in het circus die zijn vrouw mist, van de vrouw die haar oma al een tijd niet heeft bezocht, van de zwerver die zijn kinderen nooit meer ziet. In gedetailleerde tekeningen in zwart, wit en geel volgen we Jakob op zijn route, langs ijsberen, een markt en een oma met krankzinnig veel tuinkabouters op haar gazon. Mooi is de tekening over twee pagina's waarop Jakob overal probeert het kusje te slijten dat een meisje hem gaf om te bezorgen en waarop hij in een stuk of tien verschillende scènes is te zien. Het kusje wil nergens naar toe, behalve naar hem. En dan weet Jakob ook voor wie hij thuis al duizend kusjes in potjes heeft verzameld: 'elke kus hoort bij iemand.'
+Tirza Beekhuis en Reinier Sonneveld: Jakob Kusdrager. Brandaan, 32 blz. EUR12,90
+</dcterms:description>
+        <dcterms:extent>word, 462, Boeken</dcterms:extent>
+        <dcterms:issued>2011-12-16</dcterms:issued>
+        <rdfs:label xml:lang="nl">Een prop die alles opeet; kinderboek</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

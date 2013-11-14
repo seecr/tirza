@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NDZHLTVZWTEtRFlSWS1OMFRD">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/546G-5YY1-DYRY-N0TC"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=546G-5YY1-DYRY-N0TC&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Melancholia aan kop bij 'Europese Oscars' berlijn. Melancholia maakt kans ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description> Melancholia aan kop bij 'Europese Oscars'
+berlijn. Melancholia maakt kans op acht European Film Awards. Het sf-drama van de Deense regisseur Lars von Trier werd onder meer genomineerd voor beste film en beste regisseur. Dat heeft de organisatie zondag bekendgemaakt. De andere nominaties voor beste film zijn het Franse The Artist, het Deense Hævnen, het Finse Le Havre, het Belgisch-Frans-Italiaanse Le Gamin au Vélo en het Britse The King's Speech, de grote winnaar bij de Oscars. Het Nederlandse Tirza zat in de voorselectie, maar haalde niet de laatste zes. Het  Nederlandse De Stand van de Sterren van Leonard Retel Helmrich is genomineerd als beste documentaire. De Nederlands-Belgische film Adem kreeg een nominatie  voor de Discovery Award voor het beste debuut. De 2.500 leden van de European Film Academy gaan nu bepalen wie de winnaars worden. De European Film Awards worden op 3 december in Berlijn uitgereikt. (Novum)
+Festival The Hague Jazz is failliet verklaard
+Rotterdam. The Hague Jazz BV is op 1 november failliet verklaard door de Haagse rechtbank. De organisatie kampte al langer met financiële problemen. Het driedaagse muziekevenement had bij artiesten en leveranciers een slechte naam door zijn betalingsgedrag. In juli stapte directeur Ruud Wijkniet op. The Hague Jazz stond bij de gemeente Den Haag onder verscherpt toezicht. (NRC)
+Tand van John Lennon brengt 19.500 pond op
+Stockport. Een tand van John Lennon heeft 19.500 pond (circa 22.750 euro) opgeleverd op een veiling in het Engelse Stockport. De nieuwe eigenaar is de Canadese tandarts Michael Zuk. ,,Toen ik hoorde dat hij te koop was, moest ik 'm hebben." Zuk wil de tand tentoonstellen in zijn praktijk. Hij schreef eerder een boek over tanden van beroemheden. De in 1980 overleden Lennon gaf de ,,geelbruine tand met een gaatje" in de jaren zestig na een bezoek aan de tandarts cadeau aan zijn huishoudster. (Novum)
+</dcterms:description>
+        <dcterms:extent>word, 316, Cultuur; Blz. 17</dcterms:extent>
+        <dcterms:issued>2011-11-07</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

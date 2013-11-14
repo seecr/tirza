@@ -1,0 +1,47 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NFMwLTA5SjEtRFlSWS1OM0dD">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54S0-09J1-DYRY-N3GC"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54S0-09J1-DYRY-N3GC&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Nuancering maakt indruk</dcterms:title>
+        <dcterms:creator>Pauline Kleijer</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Drama
+JJJJJ
+Süskind
+Regie Rudolf van den Berg.
+Met Jeroen Spitzenberger, Nyncke Beekhuyzen, Karl Markovics, Katja Herbers, Nasrdin Dchar. In 112 zalen.
+De film maakt indruk en legt accenten op een periode die al uitentreuren is behandeld.
+Hij was een joviale, handige zakenman, goed in het sluiten van vriendschappen. Iedereen kon met Walter Süskind door een deur. En juist dat maakte hem zo geschikt voor de dubbelrol die hij tijdens de Tweede Wereldoorlog speelde: Süskind was verzetsheld en collaborateur tegelijk.
+Als medewerker van de Joodse Raad was hij aangesteld als beheerder van de Hollandsche Schouwburg, het gebouw aan de Amsterdamse Plantage Middenlaan waar de Nederlandse Joden werden verzameld voor hun deportatie naar Westerbork en vandaar uit naar de vernietigingskampen.
+Zo werkte Süskind mee aan het doorsluizen van tienduizenden slachtoffers van nazi-Duitsland. Hij leek goed bevriend met bevelhebber Aus der Fünten en de SS'ers die de schouwburg bewaakten. Maar ondertussen wist hij ongeveer duizend mensen te redden: door hen te helpen ontsnappen, de administratie te vervalsen en via het verzet onderduikadressen te regelen.
+Het was levensgevaarlijk werk, waarbij hij vaak duivelse keuzes moest maken. Wie wel, en wie niet? Vooral veel kinderen, ondergebracht in een crèche tegenover de schouwburg, konden dankzij Süskind en zijn medewerkers ontsnappen. Ze werden in juten zakken of rugtassen het gebouw uit gesmokkeld.
+Regisseur Rudolf van den Berg (Tirza, De avonden) weet in zijn film over Süskind goed duidelijk te maken hoe gespleten diens leven was, en door welke dilemma's hij werd gekweld. Het kat- en muisspel tussen Süskind (Jeroen Spitzenberger) en Aus der Fünten (de Oostenrijkse acteur Karl Markovics) behoort dankzij het goede acteerwerk tot de hoogtepunten van de film.
+Minder sterke delen zijn er ook: de dialogen doen vaak geforceerd aan, net als sommige scènes die Süskinds beweegredenen moeten toelichten. Problematisch is ook de verwarrende, wat ondankbare rol die Süskinds vrouw Hanna (Nyncke Beekhuyzen) krijgt toebedeeld in het scenario.
+Dat neemt niet weg dat de film indruk maakt. Süskind overtuigt als historisch drama, en weet weer nieuwe accenten te leggen op een periode die al uitentreuren in films behandeld leek. Ook Van den Bergs kalme stijl heeft impact: door de terughoudende vertelwijze komen de verschrikkingen van de Jodenvervolging nog harder aan.
+Van den Berg plaatst Süskind niet op een voetstuk, maar schetst een genuanceerd beeld van een man die moet schipperen tussen zijn morele principes en zijn overlevingsdrang. Süskind was niet bovenmenselijk dapper of nobel; des te schokkender is het besef dat hij een van de weinigen was die mensen redde.
+Mede dankzij een griezelig efficiënt ambtenarenapparaat kende Nederland van alle West-Europese landen verreweg het hoogste percentage Joodse slachtoffers. Met zijn film wilde Van den Berg verbijstering opwekken over dat gruwelijke feit, en daarin is hij uitstekend geslaagd.
+</dcterms:description>
+        <dcterms:extent>word, 495, V Opening; Blz. 11</dcterms:extent>
+        <dcterms:issued>2012-01-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">Nuancering maakt indruk</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

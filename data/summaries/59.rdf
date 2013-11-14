@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozMDExMjMzMDY=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:301123306"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Naar structurele samenwerking tussen de leerlingenzorg in het basisonderwijs, het speciaal onderwijs en de jeugdzorg; resultaten van de provinciale en grootstedelijke conferenties Leerling &amp; Zorg en onderzoek onder coördinatoren van WSNS-verbanden</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:074724894">
+            <skos:altLabel>Veen, Dolf van</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:241575095">
+            <skos:altLabel>Kuijvenhoven, Tirza</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:073994006">
+            <skos:altLabel>Bogaart, Peter van den</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:date>2004</dcterms:date>
+        <dcterms:publisher>Landelijk Centrum Onderwijs &amp; Jeugdzorg : NIZW, Nederlands Instituut voor Zorg en Welzijn, Utrecht</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:extent>37 p</dcterms:extent>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozMjgyNTg2MVg=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:32825861X"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>→Tírza; ē basílissa tou ēliou; muthistórēma</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:075153416">
+            <skos:altLabel>Gkroúnmpergk, Arnon</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:151242852">
+            <skos:altLabel>Ntaïk-Mpalta, Inō ban</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher>Kastaniōtē⇋, →Athēna</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:gre">
+            <rdfs:label>Grieks, Modern</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:extent>445 p</dcterms:extent>
+        <dcterms:isPartOf rdf:resource="urn:ppn:171003004"/>
+        <dcterms:identifier>9789600350388</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

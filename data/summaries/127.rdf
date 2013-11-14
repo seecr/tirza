@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OEtXLTY2VDEtRFlSWS1OM1Y3">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58KW-66T1-DYRY-N3V7"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58KW-66T1-DYRY-N3V7&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>kort nieuws kunst &amp; media</dcterms:title>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Grunberg trekt voor boek bij zijn moeder in
+Amsterdam - Arnon Grunberg, schrijver van succesvolle romans als Blauwe maandagen, De asielzoeker en Tirza, trekt opnieuw bij zijn moeder in. Grunberg, die altijd een zeer goede band met zijn moeder heeft gehad, wil een boek over haar gaan schrijven. De verhuisdozen zullen in het voorjaar van 2014 worden in- en uitgepakt.
+Brian Wilson werkt aan derde album in drie jaar
+Amsterdam - Voormalig Beach Boy Brian Wilson is de studio ingedoken om zijn elfde studioalbum op te nemen. Als de plaat nog dit jaar verschijnt, zou het zijn derde album in drie jaar zijn. Zo actief is Wilson sinds de jaren zestig niet meer geweest. Voor de gitaarpartijen heeft hij de hulp ingeroepen van ex-Yardbird Jeff Beck.
+Wendy van Dijk terug bij 'Wie ben ik?'
+Amsterdam - Wie ben ik? keert terug bij RTL4 en zal worden gepresenteerd door Wendy van Dijk. De opzet van de spelshow, voor het eerst in 1990 op tv en in 2008 nog kort te zien bij SBS6, is ongewijzigd. Onder anderen Paul de Leeuw zit in het panel. In de oerversie werd het programma gepresenteerd door Caroline Tensen. Van Dijk was toen assistente.
+Kleindochter Picasso verkoopt werken van opa
+PARIJS - Marina Picasso, de kleindochter van Pablo Picasso, heeft op een veiling in Parijs twee schilderijen van haar grootvader verkocht. Het gaat om de doeken Palet en stierenkop en Zittende vrouw. De doeken gingen voor 4,5 miljoen euro van de hand. Met de opbrengst wil Picasso internationale hulpprojecten voor kinderen en jongeren steunen.
+</dcterms:description>
+        <dcterms:extent>word, 252, Kunst En Media</dcterms:extent>
+        <dcterms:issued>2013-06-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">kort nieuws kunst &amp; media</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

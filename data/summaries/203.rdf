@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M1kwLTJCRDEtSkM4Vy1ZMjFU">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53Y0-2BD1-JC8W-Y21T"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53Y0-2BD1-JC8W-Y21T&amp;csi=ID_Onbekend&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'We worden geïnjecteerd met angst'; Interview Nasrdin Dchar, acteur en Gouden Kalf-winnaar</dcterms:title>
+        <dcterms:creator>Bor Beekman</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/vk">
+            <rdfs:label>de Volkskrant</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Hij doorbrak op het Gala van de Nederlandse film de traditie van nietszeggende dankwoorden van winnaars van een Gouden Kalf. Acteur Nasrdin Dchar droeg zijn prijs onder meer op aan de overwinning van angsten. Door Bor Beekman
+Vier keer heeft hij het filmpje van zijn geëmotioneerde speech inmiddels teruggezien, een halve dag na het Gala van de Nederlandse Film, dat afgelopen vrijdagavond live werd uitgezonden bij de VPRO. Nasrdin Dchar (32) won het Gouden Kalf voor beste acteur voor zijn hoofdrol in de roadmovie Rabat, waarin drie vrienden van Arabische komaf van Nederland naar Marokko reizen en elkaar en zichzelf onderweg beter leren kennen. Het dankwoordfilmpje circuleert op Twitter, Facebook en YouTube en roept een vloed aan reacties op. Pauw &amp; Witteman, De Wereld Draait Door alles en iedereen zit achter de acteur aan.
+Dchar zoende Kalf-uitreikster Thekla Reuten vol op de mond, wist z'n tranen nét te bedwingen en droeg zijn Kalf onder meer op aan de overwinning van angsten. 'Die heb ik nogal. En afgezien dat ik die heb, heeft helaas ook Nederland die. We worden tegenwoordig geïnjecteerd met angst.'
+Hij noemde vicepremier Maxime Verhagen (CDA), die afgelopen juni stelde dat angst voor buitenlanders 'begrijpelijk' was. 'Nou meneer Verhagen, en met u ook Geert Wilders, en al die mensen die achter u staan: ik ben een Nederlander, ik ben heel trots op mijn Marokkaanse bloed. Ik ben een moslim, en ik sta hier met een fokking Gouden Kalf in mijn hand!' De zaal genodigden, onder wie Dchars ouders, met tranen in de ogen, sprong op voor de ovatie.
+Dchar, nu: 'Heb ik dat écht gezegd? Zo voelt het: als een roes, onwerkelijk. Ongeveer als de magie van spelen die je soms op het toneel ervaart. Alsof je vliegt.'
+De in Steenbergen (Noord-Brabant) opgegroeide acteur, die al enkele jaren naam maakt als theater- (o.a. de solovoorstelling Oumi) en filmacteur (Tirza), was 'kapot zenuwachtig' nadat hij van de nominatie had vernomen. 'Ik kon twee nachten niet slapen en begon in mijn hoofd te speechen. Als ik won, dan moest ik ook echt iets zeggen, vond ik. Iets uit mijn hart, niet van een briefje.'
+Wat hij zei gaat ook over de film Rabat, benadrukt hij. 'Alles viel samen. Die film gaat over liefde, eerlijkheid en deze tijd. Ik ben klaar met films of tv-programma's die enkel clichés tonen.'
+Zoals meerdere acteurs in zijn omgeving worstelde Dchar in het begin van zijn carrière met het aanbod van stereotype rollen. Ook gaf hij zijn rol in Maria Goos' theatervierluik De Geschiedenis van de Familie Avenier halverwege op omdat zijn personage, Mohammed, plots een dief bleek. Goos trok zich dat aan en schreef samen met Dchar een monoloog over het leven van diens moeder, waarmee de acteur in een veelgeprezen solovoorstelling langs de zalen trok.
+'Zonder dat stuk had ik nooit kunnen zeggen wat ik vrijdag gezegd heb. Dankzij mijn moeder en Maria ben ik ook veel meer over mijzelf te weten gekomen. Ik weet wat angst doet, ik ben nogal hypochondrisch. Bange mensen zijn makkelijk te beïnvloeden, daar wilde ik voor waarschuwen.'
+Met zijn speech doorbrak Dchar ook een jarenlange Utrechtse traditie die voorschrijft dat dankwoorden vooral dienen om ook nog eens die ene vergeten lichtassistent te eren wat nogal saaie televisie oplevert. Een andere winnaar, Peter Paul Muller voor beste mannelijke bijrol (Gooische Vrouwen), viel op door zijn prijs te weigeren. Regisseur Will Koopman nam hem in ontvangst en meldde dat haar acteur had gezegd dat het Kalf naar 'de kinderboerderij' mocht gaan.
+Dchar: 'Dat vond ik zo jammer. Peter Paul is een fantastisch acteur, maar wat nou kinderboerderij? Het zijn de Kalveren, dat is niet niks. Andere acteurs dromen van zo'n prijs.'
+Over de speech van Nanouk Leopold, die het Kalf voor beste scenario en beste regie won, is Dchar wel te spreken. Hij riep de stamelende regisseur vanuit de zaal toe 'gewoon te improviseren'. Leopold, wier bekroonde film Brownian Movement slechts een teleurstellende 2.400 bezoekers trok, bepleitte vervolgens het belang van aandacht voor de minder toegankelijke Nederlandse cinema: 'voor de dingen waar mensen eigenlijk geen zin in hebben, zoals ik'. Dchar: 'Dat zei ze heel goed. Ik had de neiging haar te knuffelen.'
+Behalve in Rabat is Dchar te zien in de Nederlandse mozaïekfilm Lotus, die volgende week in première gaat. Ook speelt hij met het Ro theater het stuk Branden. Maar mensen uit het vak moeten niet denken dat hij te druk is, benadrukt Dchar. 'Dat noemen ze de vloek van het Kalf dat ze je om die reden niet bellen. Luister: ik ben gewoon beschikbaar.'
+</dcterms:description>
+        <dcterms:extent>word, 757, Ten Eerste; Blz. 3</dcterms:extent>
+        <dcterms:issued>2011-10-03</dcterms:issued>
+        <rdfs:label xml:lang="nl">'We worden geïnjecteerd met angst'; Interview Nasrdin Dchar, acteur en Gouden Kalf-winnaar</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

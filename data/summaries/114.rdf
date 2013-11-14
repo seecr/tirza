@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81M0RXLTdERDEtSkM4Vy1ZMTZS">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/53DW-7DD1-JC8W-Y16R"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=53DW-7DD1-JC8W-Y16R&amp;csi=168873&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Circusdier welkom; Zuid laat verbod varen in nieuwe welzijnsnota</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/telegraaf">
+            <rdfs:label>De Telegraaf</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>door Nienke Oort AMSTERDAM   Zuid wil circussen met wilde dieren weer toestaan in het stadsdeel.
+Circus Renz krijgt de primeur en heeft een vergunningaanvraag ingediend. In Zuid wordt een nieuwe dierenwelzijnsnota opgesteld omdat de toenmalige stadsdelen Oud-Zuid en ZuiderAmstel elk over een eigen dierennota beschikten en die nu samengevoegd moeten worden.
+In de conceptnota staat onder meer:  Er is publiekelijk discussie over het gebruik van wilde dieren in circussen. Van diereigen gedrag en omgeving is namelijk geen sprake. Hoe men hier ook over denkt, er is geen juridische grond voor het stadsdeel om vergunningen voor dergelijke evenementen te weigeren. Zolang er op rijksniveau geen besluit wordt genomen over een verbod, zijn de mogelijkheden voor het stadsdeel nihil. 
+Daarmee zegt het stadsdeel geen middelen te hebben om een vergunning aan een circus dat gebruik maakt van wilde dieren te weigeren en dus wordt de vergunning aan Circus Renz hoogstwaarschijnlijk verstrekt.
+Tirza Elias van de Werkgroep Amsterdam:  Er zijn tal van andere manieren om een circus met wilde dieren te weren. Wij zouden graag zien dat Zuid actief circussen uitnodigt waarin geen gebruik wordt gemaakt van wilde dieren. 
+</dcterms:description>
+        <dcterms:extent>word, 201, Amsterdam; Blz. 1</dcterms:extent>
+        <dcterms:issued>2011-07-29</dcterms:issued>
+        <rdfs:label xml:lang="nl">Circusdier welkom; Zuid laat verbod varen in nieuwe welzijnsnota</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

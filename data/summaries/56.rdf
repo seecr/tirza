@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTRYLTJUSjEtSkM4Vy1ZMldH">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/514X-2TJ1-JC8W-Y2WG"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>film</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Tirza
+Verfilming van het boek van Arnon Grunberg. Een man van middelbare leeftijd raakt  alles kwijt: baan, vrouw en ten slotte ook zijn jongste dochter, zijn oogappel, Tirza. Hij reist haar achterna naar Afrika. Zijn gekte is eerst komisch, maar wordt steeds tragischer.
+Regie: Rudolf van den Berg
+Nederlandse regisseur Ludi Boeken maakte film over Duitse boeren die in de Tweede Wereldoorlog joodse onderduikers verstopten. Met eenvoudige, doeltreffende middelen wordt de angst voor ontdekking voelbaar.
+Regie: Ludi Boeken.
+Pratend en zingend kijken de hoofdrolspelers van destijds terug op de paspoortaffaire rond Ayaan Hirsi Ali in 2006. De politica zelf, maar ook Femke Halsema en Rita Verdonk doen mee. Fascinerende, gelaagde, rijke film over de politiek die je twee, drie keer kan zien.
+Regie: Robert Oey.
+Een voormalig zwemkampioen in Tsjaad heeft een baantje als badmeester in een hotel, maar zijn tienerzoon  wordt in zijn plaats benoemd. Als de zoon wordt opgeroepen voor de strijd in de burgeroorlog, doet de vader niks. Verteerd door schuldgevoel gaat hij op zoek. Drama met bijbelse proporties.
+Regie: Mahamat-Saleh Haroun.
+Oscarwinnares Marleen Gorris vertelt het verhaal van van Eugenia Ginzburg, de Russische literatuurdocente die de beproevingen van een Siberisch werkkamp onderging. De film mist het stempel van de regisseur, maar het verhaal is interessant.
+Regie: Marleen Gorris.
+In de tweede film van Anton Corbijn speelt George Clooney een zwijgzame huurmoordenaar. Mooi gefilmd, maar de romantiek van de eenzame cowboy komt niet helemaal uit de verf.
+Regie: Anton Corbijn.
+Nasrdin Dchar en Sylvia Hoeks in Tirza.
+</dcterms:description>
+        <dcterms:extent>word, 282, DEGIDS</dcterms:extent>
+        <dcterms:issued>2010-10-02</dcterms:issued>
+        <rdfs:label xml:lang="nl">film</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

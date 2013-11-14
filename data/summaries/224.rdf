@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzdTLUpLTjEtRFlSWS1ONTRC">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/577S-JKN1-DYRY-N54B"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=577S-JKN1-DYRY-N54B&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Einde Metropole Orkest is nabij</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERT</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Mediabegroting: Staatssecretaris wil geen extra geld uittrekken voor behoud omroeporkest
+
+DEN HAAG - Het laatste uur lijkt voor het Metropole Orkest te hebben geslagen. Staatssecretaris Sander Dekker (Media) wil geen extra geld uittrekken om het populaire omroeporkest te redden. Over twee maanden mogen ze misschien twee Grammy's ophalen in Los Angeles. Maar het zou wel eens het laatste gloriemoment van het veelgeprezen orkest kunnen zijn. 
+
+          
+          "Ik word hier heel verdrietig van," zegt sterdirigent Jaap van Zweden. "Een orkest waarmee Nederland muzikaal gezien in de hoogste regionen opereert, wordt de nek omgedraaid. Je gooit toch niet zo maar even jaren en jaren legendarische historie weg?" Het Metropole Orkest valt onder de mediabegroting. Sinds het vorige kabinet flink is gaan snijden in de publieke omroep is er geen geld meer voor. Pas in 2017 kunnen ze in aanmerking komen voor subsidie uit de Cultuurbegroting, maar het is tot dusver niet gelukt genoeg geld te vinden om zolang te overleven. In 2011 besloot toenmalig minister Marja van Bijsterveldt dat het orkest op eigen kracht verder moest. Ze bood het gezelschap eenmalig één miljoen euro als steuntje in de rug, mits er een goed ondernemingsplan werd voorgelegd. Twee keer diende het Metropole Orkest een plan in, twee keer werd het afgewezen als onrealistisch. "Maar de opdracht was ook onrealistisch. Afgezien van André Rieu houdt geen enkel orkest het hoofd boven water zonder structurele subsidie," zegt woordvoerder Marc Altink wanhopig. In een laatste reddingspoging diende het orkest een nieuw plan in, waarin om een overbruggingssubsidie van 3,5 miljoen per jaar werd gevraagd tot 2017. Maar Dekker (VVD) wil niet praten over extra geld voor het orkest, zei hij in het debat over de mediabegroting. Ook wil hij niet laten onderzoeken wat de culturele waarde is. "Ik constateer dat ook het nieuwe plan heel veel extra geld kost, zonder dat ze op eigen benen komen te staan." Bovendien benadrukte hij dat er ook op de cultuurbegroting geen extra geld te vinden is, een vluchtroute waar het orkest zijn hoop op heeft gevestigd. "Als het Metropole Orkest een subsidie krijgt, valt een ander orkest af. Het is al heel mooi dat we twee orkesten hebben kunnen redden." Het vorige kabinet wilde in eerste instantie het gehele Muziekcentrum van de Omroep (MCO), waar het Metropole Orkest ook onder valt, opheffen. Na protest uit de Kamer bleven uiteindelijk het Radio Filharmonisch Orkest en het Groot Omroep Koor gespaard. "Je moet fundamentele keuzes maken," zegt Dekker. " Hoe spijtig het ook is, ik ben niet bereid het Metropole Orkest verder te financieren." Bij Anton Kok, directeur van het MCO, is de beslissing van de staatssecretaris als een mokerslag aangekomen. "In het buitenland vinden ze dit onbegrijpelijk. In Los Angeles ziet men het Metropole Orkest als één van de pijlers van de Nederlandse muziek. Het voegt iets toe aan de variëteit waar Amerikanen de Nederlandse muziek om waarderen." Dat zit hem volgens Kok in de manier waarop het orkest lichte muziek, pop, jazz en klassiek moeiteloos af kan wisselen. De live-cd die ze met jazzlegende Al Jarreau opnamen kreeg vorige week twee Grammynominaties. In de herfst toerden ze nog met Tori Amos, en met Trijntje Oosterhuis stonden ze wekenlang op nummer 1 in de Nederlandse hitlijsten. Dat gaat na 67 jaar straks allemaal verloren. Verscheidene partijen in de Tweede Kamer probeerden het orkest alsnog te redden. Jasper van Dijk (SP) diende gisteren een motie in. PvdA'er Martijn Van Dam wil kijken of er nog geld is om het orkest te redden, vooral omdat er oorspronkelijk veel meer bezuinigd zou worden. Anton Kok: "De echte deadline komt in zicht. We moeten gaan plannen voor het volgende seizoen, maar we weten niet of we geld hebben om de concerten te spelen. Onze musici zitten al twee jaar in onzekerheid. Zij komen straks allemaal in de WW."
+'Jaren en jaren historie kun je toch niet zo maar even weggooien?'
+</dcterms:description>
+        <dcterms:extent>word, 657, Nieuws; Blz. 6</dcterms:extent>
+        <dcterms:issued>2012-12-11</dcterms:issued>
+        <rdfs:label xml:lang="nl">Einde Metropole Orkest is nabij</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

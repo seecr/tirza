@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MlBXLVBNUjEtSkM4Vy1ZMVZQ">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52PW-PMR1-JC8W-Y1VP"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52PW-PMR1-JC8W-Y1VP&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Bronzen man monument weer gestolen</dcterms:title>
+        <dcterms:creator>Van een verslaggever</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>APELDOORN Het bronzen mannetje van het monument De Dwangarbeider in Apeldoorn is voor een tweede keer gestolen.
+Dat meldt de Stichting Dwangarbeiders Apeldoorn '40-'45 op haar website. Het ontvreemde beeld was een replica, omdat het originele mannetje in 2008 werd gestolen en moest worden vervangen door een kopie.
+Het monument werd onthuld in 2004 voor het gemeentehuis in Apeldoorn en herdenkt de verschrikkingen in de Tweede Wereldoorlog. Het hield de herinnering levend aan de razzia's in Apeldoorn en de behandeling van de dwangarbeiders in kamp Rees in Duitsland.
+Beeldend kunstenaar Tirza Verrips maakte het monument met het dertig centimeter hoge bronzen mannetje.
+
+</dcterms:description>
+        <dcterms:extent>word, 111, Nieuws; Blz. 7</dcterms:extent>
+        <dcterms:issued>2011-04-26</dcterms:issued>
+        <rdfs:label xml:lang="nl">Bronzen man monument weer gestolen</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

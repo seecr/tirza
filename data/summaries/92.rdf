@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NEgxLTE4WTEtRFlSWS1OM0Y0">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54H1-18Y1-DYRY-N3F4"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54H1-18Y1-DYRY-N3F4&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Litho, handingekleurd 37 x 26 cm. (2011), incl. het boek Het geheim van Adderhorst</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>In Adderhorst, een huis in het Drentse Tynaarlo doken in 2005 foto's en brieven op uit de Tweede Wereldoorlog van de Joodse families Kater en Van Dam. Overlevende Lex Kater schreef het kinderboek Het geheim van Adderhorst, met tekeningen van Sam Drukker. Zijn litho Tirza (de oplage is honderd) wordt incl. het boek verkocht bij Kunst voor Kerst, waar ook werk te koop is van o.a. Klaas Gubbels, Armando en Peter Klashorst.
+Kunst voor Kerst bij Grafisch Werkcentrum A'dam (Molukkenstraat 200) 17 en 18 december 11:00-18:00
+EUR 110,-
+
+</dcterms:description>
+        <dcterms:extent>word, 88, Agenda; Blz. 60</dcterms:extent>
+        <dcterms:issued>2011-12-17</dcterms:issued>
+        <rdfs:label xml:lang="nl">Litho, handingekleurd 37 x 26 cm. (2011), incl. het boek Het geheim van Adderhorst</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NEo4LVZKQjEtRFlSWS1OMUcw">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/54J8-VJB1-DYRY-N1G0"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=54J8-VJB1-DYRY-N1G0&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Eens Perenboom, altijd Perenboom; 'Carrière-roman' van Henk van Straten</dcterms:title>
+        <dcterms:creator>Sebastiaan Kort</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Henk van Straten: Salvador. Lebowski, 301 blz.EUR17,50
+Schrijvers trekken in de recente literatuur liever een man van hun sokkel dan dat ze hem erop zetten. De heer op leeftijd, werkzaam als schrijver, hoogleraar op een letterenfaculteit of als redacteur van een literaire uitgeverij, moet toch wel één van de dankbaarste doelwitten van hedendaagse, grote auteurs zijn. In boeken van Coetzee (Disgrace), en Grunberg (Tirza) staat een man centraal die in wezen overschat hoeveel autoriteit de buitenwereld nog toekent aan datgene waardoor hij zelf is gevormd. 'Pap, nu even geen Dostojevski', zegt Tirza in het gelijknamige boek tegen haar vader Jörgen Hofmeester. David Lurie moet in Disgrace zijn post bij de universiteit verlaten wanneer  blijkt dat het instituut geen enkele boodschap heeft aan Lurie's eigen, door de romantiek ingegeven, ethische kader.
+Voor wie het wil zien is dit gegeven van een lid van een oude, laten we zeggen 'literaire' elite, die aan kracht en gezag inboet en via de pen van de schrijver in een draaikolk in de diepte verdwijnt, iets dat met een zekere regelmaat in de moderne literatuur terug te vinden is. En in de meest geslaagde gevallen, zoals in de twee romans hierboven, komt het bij de lezer binnen als een bijl, waarschijnlijk omdat hij of zij zich zo makkelijk identificeert met een representant van die 'literaire' klasse. Het wringt toch als je via nota bene het lezen van een roman gewezen wordt op de vrijwel onbeduidende machtsfactor die de literatuur in de wereld speelt.
+Henk van Stratens Salvador is met het oog op bovenstaande traditie een opmerkelijk boek. Hierin nu eens niet een man die van zijn voetstuk kukelt, maar het, als ware het een realistische roman van Stendhal of Balzac, probeert  te beklimmen. Hendrie Perenboom, want zo heet hij, is een jongen van het volk. Opgegroeid in een Brabantse wijk, waar hij vermoedelijk nog met de cast van de tokkiefilm New Kids heeft geknikkerd, neemt hij al vroeg de foute afslag. Hij belandt op 20-jarige leeftijd in de gevangenis, om daar vervolgens zijn stiel of misschien wel roeping te vinden: het lezen van literatuur. Perenboom ziet zogezegd het licht en raakt ervan overtuigd dat boeken hem kunnen doen uitstijgen boven wat in het begin van de roman de 'proletarische misère' wordt genoemd.
+Eigenlijk walgt hij van zijn simpele afkomst en wil hij zo snel mogelijk hogerop. Het is met de boeken van Coetzee en Grunberg in het achterhoofd dan ook opvallend dat hij in dat proces belezenheid, dat wil zeggen literaire belezenheid, als prioriteit stelt. De keuze om een rechtenstudie te volgen, in feite toch een veel 'bruikbaarder' instrument om de ladder te beklimmen, maakt hij pas daarna. John Fante, Hemingway en vooral de Bijbel en Melville's Moby-Dick - daar investeert Perenboom zijn meeste tijd in.
+Perenboom vordert aanvankelijk gestaag, en dat komen we via flashbacks te weten. Salvador begint namelijk wanneer Hendrie al dertig is, en hij ergens aan de Spaanse kust aankomt, omdat hij net te horen heeft gekregen dat daar een zoon rondloopt die hij  tien jaar eerder in een dronken bui bij een Spaanse heeft verwekt.
+Rondom die ontmoeting met Salvador, zoals de zoon heet, speelt Van Straten de lezer brokjes informatie toe over hoe het Perenboom tijdens zijn tien jaar durende, zelf verkozen Bildungsfase verging. Het laat zich nog het best omschrijven als 'je kan een man uit een achterbuurt halen, maar je kan de achterbuurt niet uit een man halen'. Nooit weet Perenboom volledig met zijn oude gewoontes te breken, en het definitieve breekmoment dient zich aan wanneer een medestudent Perenboom met een terloopse, maar superieure opmerking over Moby Dick te kijk zet.
+Het is maar de vraag of Van Straten met Perenboom heeft willen tonen dat het niet mogelijk is om de proletarische misère te ontstijgen. Maar hij wil wel laten zien dat het offer om in de rangen te klimmen, te groot is. Daar slaagt hij overtuigend in. In het geval van Perenboom kijk je als het ware naar een luchtballon die nooit van de grond komt.  Van Straten heeft Perenbooms afgebroken vlucht weliswaar niet verfijnd opgeschreven, maar hij lijkt toch wel  zijn onderwerp te hebben gevonden. Op de meeste pagina's krijg je het gevoel dat Van Straten iets wezenlijks bloot legt, iets wat hem door menig Nederlandse collega niet kan worden nagedaan. Veel verder dan Jan van Mersbergen, fervent beschrijver van de stroeve man, kom ik niet.
+Superlul, de satirische maar platte roman die dezer dagen ook Van Straten verscheen, is in vergelijking met  Salvador een stuk minder interessant. Het is te hopen, nu we het toch over ontplooiing hebben, dat Van Straten het schreef vóór hij aan Salvador begon.
+</dcterms:description>
+        <dcterms:extent>word, 779, Boeken</dcterms:extent>
+        <dcterms:issued>2011-12-23</dcterms:issued>
+        <rdfs:label xml:lang="nl">Eens Perenboom, altijd Perenboom; 'Carrière-roman' van Henk van Straten</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

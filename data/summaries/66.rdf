@@ -1,0 +1,46 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozMzk4MDU1ODc=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:339805587"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+        <dcterms:title>Stoute voetjes</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:339805536">
+            <skos:altLabel>Bonwill, Ann</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:339805544">
+            <skos:altLabel>Murfin, Teresa</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:contributor>
+          <rdf:Description rdf:about="urn:ppn:068562241">
+            <skos:altLabel>Ris, Ineke</skos:altLabel>
+          </rdf:Description>
+        </dcterms:contributor>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>De Vries-Brouwers, Antwerpen</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Tessa's zusje Tirza kan alles veel beter, zeker op balletles. Dat is niet altijd leuk, maar gelukkig ontdekt Tessa (ik-figuur) dat er ook dingen zijn die zij juist goed kan. Prentenboek met zachtgekleurde illustraties in collagetechniek. Vanaf ca. 4 jaar.</dcterms:description>
+        <dcterms:extent>[26] p</dcterms:extent>
+        <dcterms:subject>Ballet</dcterms:subject>
+        <dcterms:subject>Balletverhalen</dcterms:subject>
+        <dcterms:subject>Kinderboeken, Stripverhalen</dcterms:subject>
+        <dcterms:subject>prentenboeken</dcterms:subject>
+        <dcterms:subject>Zelfvertrouwen</dcterms:subject>
+        <dcterms:identifier>9789059271890</dcterms:identifier>
+        <dcterms:identifier>9789053419465</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

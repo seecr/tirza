@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzgzLTk4TjEtSkM4Vy1ZM0NY">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5383-98N1-JC8W-Y3CX"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5383-98N1-JC8W-Y3CX&amp;csi=263237&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Vlaamse prijs voor Arnon Grunberg</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Gent
+De Nederlandse schrijver Arnon Grunberg krijgt de vijfjaarlijkse prijs voor proza van de Koninklijke Academie voor Nederlandse Taal- en Letterkunde in Gent voor zijn roman Tirza. Dat heeft de jury woensdag bekendgemaakt. De prijs voor de periode 2006-2010, waaraan een bedrag van euro 6250 is verbonden, wordt op 19 oktober in Gent uitgereikt. Volgens de jury heeft Grunberg met zijn 'aangrijpende en confronterende roman' uit 2006 zijn meesterschap en zijn unieke plaats binnen de Nederlandstalige literatuur bevestigd. Grunberg is de tweede laureaat van de vijfjaarlijkse prijs voor proza van de Academie. De eerste prijs voor proza ging in 2006 naar Stefan Brijs. (fd)
+
+</dcterms:description>
+        <dcterms:extent>word, 112, Mensen; Blz. 2</dcterms:extent>
+        <dcterms:issued>2011-07-07</dcterms:issued>
+        <rdfs:label xml:lang="nl">Vlaamse prijs voor Arnon Grunberg</rdfs:label>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

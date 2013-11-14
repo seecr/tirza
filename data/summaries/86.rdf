@@ -1,0 +1,31 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTRHLTRGRjEtRFlSWS1OMTUw">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/514G-4FF1-DYRY-N150"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Nominaties Gouden Kalveren; cinema Jann Ruyters</dcterms:title>
+        <dcterms:creator>Jann Ruyters</dcterms:creator>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Regisseur Mijke de Jong krijgt wellicht revanche, morgen op het Gouden Kalveren Gala in Utrecht. Haar film 'Joy', die in april slechts rond de 2000 bezoekers trok, kreeg van de Kalverenjury maar liefst zeven nominaties, waaronder die voor 'Beste Film'. Een grote verrassing voor De Jong, die bij de bekendmaking dinsdagavond in Utrecht pas laat aanschoof omdat ze zelf dacht 'dat ze er ook zomaar eens buiten kon vallen'.
+Welverdiend overigens die nominaties, want 'Joy' is de beste film uit de recente trilogie over moeilijke meisjes die De Jong maakte (naast 'Joy',  'Het zusje van Katia' en 'Bluebird').  Maar zeven nominaties voor een 'kleine' film als 'Joy' is ook verrassend veel in een jaar met meer goede Nederlandse speelfilms. Naast 'Joy'  zijn 'Tirza' van Rudolf van den Berg en 'RU There' van David Verbeek grote kanshebbers met ieder vijf nominaties.  Overigens trekt de jury anders dan vorig jaar haar voorkeur voor de artistieke film niet door naar de belangrijke categorie 'Beste Film'. Naast 'Joy' is in die categorie 'Lang en gelukkig' van Pieter Kramer genomineerd, maar ook het door de kritiek slecht ontvangen kassucces 'Komt een vrouw bij de dokter' .
+Onder de acteurs minder verrassingen. Gijs Scholten van Aschat is de gedoodverfde winnaar met zijn rol van verstikkende vader in 'Tirza', Barry Atsma werd genomineerd voor zijn rol van ontrouwe man in 'Komt een vrouw bij de dokter' en Dragan Bakema voor zijn rol van gewelddadige echtgenoot in 'Hunting &amp; Zn'. Bij de vrouwen zijn er nominaties voor Carice van Houten als de ongelukkige Lea in 'De gelukkige huisvrouw', voor Maria Kraakman als de anorectische Sandra in 'Hunting &amp; Zn' en voor Samira Maas als de driftige Joy in 'Joy'.
+De jury van de Kring der Nederlandse Filmjournalisten ontfermde zich ondertussen over de grote afwezigen onder de genomineerden. Voor de 'Prijs van de Filmkritiek' nomineerde zij 'Schemer', de thriller van Hanro Smitsman die werd geïnspireerd op de moord op Maja Bradaric. Daarnaast nomineerden de critici de eerste speelfilm over ons koningshuis 'Majesteit' en de documentaire 'De Leugen'.  Ook de Kalverenjury  kan overigens vrijdag nog een speciale juryprijs uitrijken. Het jonge acteursensemble uit 'Schemer' zal vast voor zo'n Kalf in aanmerking komen, maar te hopen valt dat hij wordt uitgereikt aan Robert Oey voor zijn vernieuwende en spraakmakende 'De Leugen'.
+</dcterms:description>
+        <dcterms:extent>word, 395, FILM</dcterms:extent>
+        <dcterms:issued>2010-09-30</dcterms:issued>
+        <rdfs:label xml:lang="nl">Nominaties Gouden Kalveren; cinema Jann Ruyters</rdfs:label>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

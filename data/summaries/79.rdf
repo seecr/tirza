@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81Mkc4LVNDTjEtRFlSWS1OMk1S">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/52G8-SCN1-DYRY-N2MR"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=52G8-SCN1-DYRY-N2MR&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>dvd top 10 Deze week het meest verhuurd bij Movie ...</dcterms:title>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>dvd top 10
+Deze week het meest verhuurd bij Movie Center in Amsterdam
+1. (2) El secreto de sus ojos Juan José Campanella
+2. (1) The social network David Fincher
+3. (5) Io sono l'amore Luca Guadagnino
+4. (4) Another year Mike Leigh
+5. (7) Machete Robert Rodriguez
+6. (3) Haar naam was Sarah (Elle s'appelait Sarah) Gilles Paquet-Brenner
+7. (-) Tirza Rudolf van den Berg
+8. (10) Unstoppable Tony Scott
+9. (6) Eat pray love Ryan Murphy
+10. (-) Mother and child Rodrigo Garcia
+
+</dcterms:description>
+        <dcterms:extent>word, 76, Agenda; Blz. 44</dcterms:extent>
+        <dcterms:issued>2011-03-26</dcterms:issued>
+        <skos:note>BQM_13</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

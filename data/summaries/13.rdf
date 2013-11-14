@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#dXJuOnBwbjozNDI1MjMyNzk=">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="urn:ppn:342523279"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:webggc.oclc.nl"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Sound"/>
+        <dcterms:title>Tirza</dcterms:title>
+        <dcterms:creator>
+          <rdf:Description rdf:about="urn:ppn:075153416">
+            <skos:altLabel>Grunberg, Arnon</skos:altLabel>
+          </rdf:Description>
+        </dcterms:creator>
+        <dcterms:date>2006</dcterms:date>
+        <dcterms:publisher>Dedicon, Grave</dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>Op de avond van het eindexamenfeestje van zijn lievelingsdochter Tirza verliest de wat saaie Jörgen Hofmeester definitief de controle over zijn leven.</dcterms:description>
+        <dcterms:extent>daisy streaming audio (16 uur, 58 minuten) (mannenstem)</dcterms:extent>
+        <dcterms:subject>Vader-dochter relatie</dcterms:subject>
+        <dcterms:isFormatOf rdf:resource="urn:ppn:36207786X"/>
+        <dcterms:identifier>9038827253</dcterms:identifier>
+        <dcterms:identifier>9038827261</dcterms:identifier>
+        <skos:note>BQM_14</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

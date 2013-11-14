@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NVY5LUtDQzEtRFlSWS1ONFhX">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/55V9-KCC1-DYRY-N4XW"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=55V9-KCC1-DYRY-N4XW&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Fietsen jatten in geel hesje</dcterms:title>
+        <dcterms:creator>Tirza de Fockert n Pagina 16: 'Waar kan fiets dan wél staan?'</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>AMSTERDAM Gestoken in gele hesjes knippen dieven sloten open en halen zij fietsen weg met dezelfde aanhangwagens als de handhavers van Stadstoezicht in het centrum van Amsterdam.
+Ze doen dit op plaatsen waar Stadstoezicht eerder stickers op fietsen heeft geplakt met de boodschap dat de eigenaren die moeten weghalen.
+Volgens stadsdeel Centrum is een georganiseerde groep aan het werk. Het stadsdeel bevestigt verhalen van bewoners rond het Raamplein dat vorige maand ten minste honderd fietsen zo zijn gestolen.
+Sinds 19 maart gelden op het Raamplein scherpere regels voor het stallen van fietsen: op officiële 'parkeervoorzieningen' mogen fietsen maximaal zeven dagen staan; en daarbuiten hooguit twee, tot groot ongenoegen van bewoners.
+De diefstallen vielen niet zo op omdat ook echte handhavers fietsen losknippen en verwijderen. Opsporing is ook lastig doordat pas een onderzoek kan worden ingesteld wanneer een 'geknipte' fiets niet in het Fietsdepot blijkt te staan.
+De dieven zouden ook op andere plaatsen in de stad hebben toegeslagen.
+</dcterms:description>
+        <dcterms:extent>word, 173, Amsterdam; Blz. 1</dcterms:extent>
+        <dcterms:issued>2012-06-09</dcterms:issued>
+        <rdfs:label xml:lang="nl">Fietsen jatten in geel hesje</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

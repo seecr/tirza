@@ -1,0 +1,37 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81NzlHLUIyOTEtSkM4Vy1ZNE5Q">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/579G-B291-JC8W-Y4NP"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=579G-B291-JC8W-Y4NP&amp;csi=259062&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Metropole op de valreep gered</dcterms:title>
+        <dcterms:creator>TIRZA DE FOCKERTMARLIES VAN LEEUWEN</dcterms:creator>
+        <dcterms:date>2012</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/parool">
+            <rdfs:label>Het Parool</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>DEN HAAG- Het Metropole Orkest is gered. PvdA en VVD kwamen gisteren te elfder ure met een reddingsplan, waarmee het orkest tot 2017 kan blijven bestaan. "We krijgen eindelijk een eerlijke kans," zegt directeur Anton Kok van het orkest. 
+
+          
+          De Tweede Kamerleden Martijn van Dam (PvdA) en Martijn Huizing (VVD) zagen gisteren kans om in de begroting de benodigde zeven miljoen euro extra te vinden. Hoe het plan er precies uitziet, is nog niet helemaal duidelijk. Van Dam: "Maar de oplossing is er. We weten zeker dat het niet ten koste gaat van andere orkesten of de omroep." Morgen zullen ze het kabinet in een Kamermotie opdragen om het internationaal vermaarde muziekgezelschap tot 2017 te behouden. Daarna moet het orkest de competitie aangaan met andere orkesten. Maandag leek het doek voor het Metropole Orkest definitief te zijn gevallen. Het orkest, dat sinds 1945 bestaat, speelt pop, jazz en wereldmuziek en wordt vaak gevraagd voor film- en tv-producties. Minister Jet Bussemaker van Cultuur en staatssecretaris Sander Dekker van Media zeiden geen geld over te hebben voor de redding van het Metropole Orkest. PvdA-Kamerlid Van Dam erkent dat het heel lastig was om een potje te vinden. "Anders hadden we wel eerder laten weten dat het orkest overeind kan blijven." Gisteren speelde het orkest in perscentrum Nieuwspoort voor de Kamercommissies van media en cultuur en ruim tachtig toehoorders een concert met onder meer Soldaat van Oranje, de funkklassieker Theme from Shaft en de Basement Jaxx-hit Hey you. Het was misschien wel het belangrijkste concert dat deze 52 muzikanten ooit hebben gespeeld, constateerde de vaste gastdirigent Jules Buckley na afloop. "Bij een normaal concert draait het om de muzikale beleving van ons publiek," zei hij. "Vandaag speelden we niet alleen voor onze eigen baan, maar voor het behoud van dit Nederlandse culturele erfgoed." Het Metropole Orkest is enorm opgelucht nu het kan voortbestaan. Hoornist en woordvoerder Pieter Hunfeld: "Ik ben ongelooflijk blij met deze oplossing. We kunnen nu laten zien hoe ondernemend we zijn." Directeur Anton Kok: "De bezuinigingen waren altijd puur op geld gericht, we zijn zonder inhoudelijke argumenten opgeheven. Nu krijgen we eindelijk een eerlijke kans om onze culturele waarde te laten zien." En die is groot, zegt dirigent Jules Buckley: "Andere landen zijn jaloers op wat Nederland met het Metropole Orkest in huis heeft. Laten we ervoor zorgen dat dat zo blijft." Nederlandse artiesten reageren verheugd op de redding van het Metropole Orkest. Gitarist Jan Akkerman, die vorig jaar nog met het Metropole op North Sea Jazz speelde: "Ik blijf het belachelijk vinden dat het zo ver heeft moeten komen. Het leken wel Russische toestanden. Volkomen onnodig, want er is geld genoeg. Laten ze liever stoppen met dat gekloot met Griekenland." Angela Groothuizen was het liefst gistermiddag naar Den Haag gegaan om het Metropole Orkest een hart onder de riem te steken. "Het is dat ik griep onder de leden heb." Zanger Ben Cramer, veelvuldig gastzanger bij het Metropole: "Gelukkig is een ramp voorkomen. Er zou een stuk cultureel erfgoed van jewelste zijn verdwenen, terwijl iedereen intussen toch wel weet dat het Metropole één van de beste orkesten is die er bestaan."
+'We weten zeker dat het niet ten koste gaat van andere orkesten'
+</dcterms:description>
+        <dcterms:extent>word, 552, Kunst En Media; Blz. 21</dcterms:extent>
+        <dcterms:issued>2012-12-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">Metropole op de valreep gered</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

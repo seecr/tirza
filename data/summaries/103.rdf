@@ -1,0 +1,54 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81OE5TLVhLUjEtRFlSWS1ONERD">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/58NS-XKR1-DYRY-N4DC"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=58NS-XKR1-DYRY-N4DC&amp;csi=294298&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Zeemansgraf voor `zoute zigeuners'? </dcterms:title>
+        <dcterms:creator>TOBIAS DEN HARTOG </dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/fd">
+            <rdfs:label>Algemeen Dagblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>MIDDELBURG Met een geïmproviseerd bootje trokken acht Nederlandse vrienden in maart naar Noorwegen om te kijken naar het noorderlicht. Het liep anders. De hippies aan boord haalden hun doel niet, drie van de `zoute zigeuners' zijn al maanden vermist. Hun naasten vrezen het ergste. ,,Als er iets aanspoelt, kunnen we misschien beginnen met rouwen.'' 
+Alle 22.000 inwoners van de Shetlandeilanden kijken naar hen uit. De gezichten van Peter, Tirza en Arnout zijn hen ingeprent door de vrienden van de drie vermiste Nederlanders. Die gingen deze week rond met foto's en flyers. Maar tot dusver is er geen teken van leven geweest. Evenmin een bewijs van hun dood.
+In maart vertrokken ze. Als de `zoute zigeuners'. Acht vrienden zetten met hun verknutselde bootje De Warnow koers naar Noorwegen. Daar wilden ze het noorderlicht gaan bewonderen.
+Families en vrienden zwaaiden de bonte verzameling van muzikanten, anarchisten en andere vrijheidszoekers uit. Maar hun eindbestemming zouden ze nooit halen. Al bij de Engelse kust bleek de Warnow nauwelijks zeewaardig te noemen. Vijf van de reizigers haakten af. Maar Peter van Liere (50), zijn vriendin Tirza Smit en boezemvriend Arnout Brinkman (47) wilden van geen stoppen weten.
+Radar
+Op 17 april verdwenen ze van de radar. Paragnosten fluisterden hun families in dat ze bij de Schotse Shetlandeilanden waren gestrand. Maar de zoektochten deze week leverden niets op. Hooguit weten de inwoners nu dat de Nederlandse vrienden elk moment kunnen aanspoelen. ,,Als er iets aanspoelt, kunnen we misschien beginnen met rouwen,'' zegt Kees Moerland, één van de vrienden van de vermisten.
+Hoe anders was de stemming destijds in maart. Die stoere Arnout had het idee geopperd in de kroeg. Het noorderlicht, dat was het helemaal. Hij wilde ernaartoe varen met zijn geïmproviseerde bootje. Die had immers ook Terschelling gehaald, voor het Oeral-festival. Dus, was het plan: via Engeland en Schotland naar Noorwegen.
+Ze zouden in kroegen en in de straten van kustplaatsen voor de kost muziek maken. Armoede, daar zag niemand tegenop. Bedenk wat een ervaringen ze zouden opdoen. Acht vrienden tegen de elementen. Voor de reis van hun leven.
+Maar die eerste dagen zit het al tegen. Koud vertrokken uit de kust bij Rotterdam, neemt een storm de Warnow in een greep. Zeeziek kruipen ze verder noordelijk, totdat bij Whitby aan de Engelse oostkust de motor het begeeft. En daarna ook nog eens de stuurinstallatie.
+Met de marifoon roepen ze de hulp in van de reddingsboot van Whitby. Die brengt de boot met een moeizame reddingsoperatie naar Middlesbrough. De schade is groot. De drinkwatertank is lek. Hun spullen liggen verspreid aan boord. Het bewijs haalt de plaatselijke krant, de Whitby Gazette. Foto's van de `crazy Dutch' en hun geredde boot.
+De Engelsen kijken op van de Warnow. Het bootje is een verbouwde Duitse loodsboot van 15 meter. Arnout vertimmerde het eigenhandig. Een oude arm van een hijskraan vormt de mast, de zeilen zijn bijeen gesprokkeld. Er is geen noodbaken, geen satelliettelefoon, geen gps aan boord. Navigeren doet kapitein Arnout met z'n iPhone.
+Terugkijkend oordelen scheepskenners dat het gekkenwerk was. Maar destijds? Tja, die Arnout was zo'n handige kerel. Een ervaren zeiler. En ook nog eens scheepsbouwer van beroep. En, zoals echte hippies, wilden de opvarenden niet weten van luxe. Die boot zou het halen, echt, zo overtuigden zij critici.
+Vriend Kees nu: ,,De overtuiging was gewoon heel erg groot.''
+Maar in Middlesbrough is de twijfel aan boord gekomen. De acht vrienden zetten nog koers naar het Schotse Montrose. Maar daar barst de bom. De moraal is verdwenen. Ze besluiten nog naar Stonehaven door te varen, maar het noorderlichtplan laten ze los. Het is te heftig.
+Als ze aankomen in het Schotse Stonehaven, krijgen Arnout, Tirza en Peter toch weer de geest. Ze willen alsnog door naar Noorwegen. Er komt een groepsgesprek. Wie weg wil, mag van boord, klinkt het. Het is een pijnlijk moment. Het team valt uit elkaar. Vijf van de reizigers besluiten te vertrekken.
+Ze dragen hun spullen van boord, maar sluiten nog mooi af. Die nacht wordt er muziek gemaakt en afscheid genomen. Om 4 uur 's nachts stappen ze van boord.
+Arnout, Tirza en Peter trekken verder. De Noorse droom leeft weer. Maar dan verdwijnt de Warnow van de radar. Op 18 april, in het Noorse deel van de Noordzee, worden ze voor het laatst gezien. Alle zoekacties leveren niets op.
+Op aanwijzen van paragnosten trekken vrienden van de drie naar de Shetlandeilanden, waar ze zouden zijn aangespoeld. Het is, weten ze zelf ook, een verkapte wanhoopspoging. De kompanen keerden deze week zonder resultaat huiswaarts.
+Vriend Kees Moerland noemt het `stappen in het proces'. ,,De families, wij als vrienden, we hebben nog sprankjes hoop, maar we moeten ook realistisch zijn.'' Misschien, zegt hij, zijn dit `onderdelen van afscheid nemen'. ,,De kans slinkt dat we hen levend zullen terugvinden.''
+Peter is er de man niet naar om niets van zich te laten horen. Kees: ,,We wilden alles gedaan hebben wat mogelijk was om hen te vinden. Het is een moeilijk proces. Zeker voor de families. Je wilt blijven hopen, zelfs tegen beter weten in. Maar wanneer laat je het definitief los?''
+Toch, zegt hij aarzelend, dringt het rauwe besef door dat het avontuur de `zoute zigeuners' fataal moet zijn geworden.
+Al maanden geen teken van leven van de Warnow
+</dcterms:description>
+        <dcterms:extent>word, 893, Algemeen - Nieuwsdienst; Blz. 13</dcterms:extent>
+        <dcterms:issued>2013-06-17</dcterms:issued>
+        <rdfs:label xml:lang="nl">Zeemansgraf voor `zoute zigeuners'? </rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

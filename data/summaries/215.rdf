@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MTZDLVc2MjEtRFlSWS1ONDkz">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/516C-W621-DYRY-N493"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <dcterms:title>Ouwe bok, jong blaadje; nederlands &amp; vlaams proza Rob Schouten</dcterms:title>
+        <dcterms:date>2010</dcterms:date>
+        <dcterms:publisher rdf:resource="http://data.bibliotheek.nl/lexisnexis/trouw"/>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+P.F. Thomése is een van onze beste schrijvers en een echte vakman. Niet alleen vanwege zijn stijl of zijn pakkende verhalen maar ook omdat hij telkens iets anders uitprobeert. Soms mislukt dat, zoals in 'Izak' uit 2005, maar meestal levert hij iets bijzonders af, zoals in 'Schaduwkind' (2003) over de dood van zijn eigen kind, en 'Wladiwostok' (2007), waarin hij onze snelle mediacultuur hekelde.
+Ook zijn jongste roman 'De weldoener' is een experiment. Thomése draagt het boek op aan zijn overleden collega Louis Ferron, en me dunkt dat hij er iets van die schrijver in heeft willen leggen, van diens befaamde pathetiek, vaudeville, kitsch misschien. Tegelijkertijd lijkt deze roman te reageren op boeken als 'Tirza' van Arnon Grunberg. Ook hier gaat het om de paternalistische passie van een middelbare man voor een pubermeisje.
+Thomése's verhalen lezen vaak als casussen, hij pakt een zaak bij de kop en beent die uit. In 'De weldoener' ontmoeten we de mislukte componist Sierk Wolffensberger, die koordirigent in de stad H. is geworden, teneinde althans zijn eigen werken te kunnen uitvoeren. 'H.'  staat hier voor Haarlem, de stad van Thomése en Ferron; het initiaal laat zien dat het om fictie gaat.
+Aan de vooravond van zo'n uitvoering treft hij in een donkere hoek van de kerk de tiener Beertje aan, dochter van een succesvolle collega, die bezig is met een zelfmoordpoging door een overdosis pillen.
+De weldoener ontfermt zich over het meisje, en verbergt haar op eigen verzoek voor de buitenwereld. Allengs blijkt Beertje toch minder suïcidaal dan je zou denken, en ook minder wanhopig en eenzaam. Zo heeft ze al eens wat met de zoon van Wolffensberger gehad en flirt ze gemakkelijk met Poolse vrachtwagenchauffeurs.
+Wolffensberger, getroffen door een overduidelijke midlifecrisis, rijdt na een hoop heisa -  achterdochtige vragen van zijn echtgenote, een oproep van Beertjes vader op televisie, een hartaanval tijdens een uitvoering -  met zijn jonge vlam naar Zwitserland om een nieuw leven te beginnen, maar in plaats daarvan wacht hem een onzalig einde.
+Dit is dus de zoveelste roman over een oudere man en een jong meisje; je zou kunnen zeggen dat de Nederlandse literatuur de afgelopen jaren lucht geeft aan een collectieve obsessie. Thomése maakt er iets bijzonders van, en hij doet dat door zijn personages op subtiele wijze in hun hemd te zetten. Het zijn allemaal pathetische, dwangmatige gevallen, Wolffensberger met zijn onvervulde heldendromen en verheven ideeën over kunst, Beertje in haar overdreven onvolwassenheid, Beertjes vader met zijn megalomane aandachttrekkerij, Wolffensbergers echtgenote, een Waalse barones die  in een soort schoolfrans spreekt. Het lijdt voor mij weinig twijfel dat Thomèse  in 'De weldoener' enige clichés van de huidige Lolita-hype heeft willen doorprikken.
+Hier, Wolffensbergers gedachtengang: ,,Hij weet niet eens waarom ze zo sterk op hem inwerkt, dit toch betrekkelijk onbekende meisje, maar het is zo. En dat is het enige wat telt. [...] De enorme behoefte aan overgave, aan verloren gaan: hij zwelgt erin als een drenkeling zonder kant of wal. Opgaan in het universum, dat is wat hij wil, één met de sterren, in die kolossale verlatenheid - al is het dan nu bewolkt en reikt zijn blik niet buiten de dampkring." De penopauze, met zijn obligate gesublimeerde lustgevoelens, in optima forma.
+Het feit dat naast de hoofdpersonen een alwetende verteller op deze geschiedenis neerkijkt, draagt verder bij aan het gevoel dat de schrijver zijn lezers op een ironisch afstandje van de gebeurtenissen houdt. Maar tussendoor hoor je toch wat hem werkelijk bezielt,   bijvoorbeeld in deze kritiek: ,,Het eenentwintigste-eeuwse denken daarentegen tuft nog steeds zijn rondjes op het enkelspoor van de binaire begrippen." Juist dat amalgaam van satire en ernst maakt van 'De weldoener'  bijzonder spannende en uitdagende literatuur.
+</dcterms:description>
+        <dcterms:extent>word, 673, BOEKEN</dcterms:extent>
+        <dcterms:issued>2010-10-09</dcterms:issued>
+        <rdfs:label xml:lang="nl">Ouwe bok, jong blaadje; nederlands &amp; vlaams proza Rob Schouten</rdfs:label>
+        <skos:note>BQM_12</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

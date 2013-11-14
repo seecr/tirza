@@ -1,0 +1,89 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81MzhGLUszMDEtSkM4Vy1ZMVgx">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/538F-K301-JC8W-Y1X1"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=538F-K301-JC8W-Y1X1&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Ik weet nu nóg beter hoe ik kan tergen'; Grunberg over zijn recente werk, Afghanistan, DSK, 9/11,  en zijn 'agressieve' brieven van weleer</dcterms:title>
+        <dcterms:creator>Arjen Fortuin</dcterms:creator>
+        <dcterms:date>2011</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Afgelopen jaar verscheen een nieuwe roman, schreef u een dagelijkse krantencolumn, toneel en werd een bundel jeugdbrieven gepubliceerd. Bij de verschijning van 'Huid en haar' schreef deze krant: 'Arnon Grunberg is op de toppen van zijn kunnen'. Vindt u dat zelf ook?
+,,Ik vind het raar om dat over jezelf te zeggen en eerlijk gezegd is de gedachte ook een beetje deprimerend. Het zou betekenen dat het alleen nog maar bergafwaarts zou kunnen gaan, dat ik hooguit hetzelfde niveau nog een tijdje vast zou kunnen houden."
+Maar u bent wel beter geworden.
+,,Ik hoop dat ik beter word en ik denk ook wel dat ik beter word. Maar het is vreemd om een balans op te maken. Elk boek is een project, waarbij je kennis opdoet voor het project daarna. Ze beïnvloeden elkaar. Na Onze oom wilde ik iets lichters schrijven, een komedie. Nu weet ik niet of het gelukt is om een echte komedie van Huid en haar te maken, maar wat je schrijft beïnvloedt je stemming. Ik wilde na Onze oom niet meteen weer een Zuid-Amerikaanse oorlog door."
+Van oorlog terug naar de metafoor over de oorlog.
+Lachend: Ja, tussen verbaal geweld en fysiek geweld zit een groot verschil. Vergeleken met Onze oom ging Huid en haar me licht af. Het was prettig."
+Waarom was 'Onze oom' moeilijk? Voelde u extra verantwoordelijkheid ten opzichte van de vele soldaten die u de afgelopen jaren hebt gesproken? U schrijft met groot respect over het leger, zeker voor uw doen.
+,,Die verantwoordelijkheid voel ik vooral in mijn reportages. Toen ik als journalist in Afghanistan was, hoorde ik hoe een soldaat een been had verloren bij een aanslag. Het been was achtergebleven in vijandig gebied en je gaat geen mensenlevens offeren om een been terug te halen. Toen is besloten om het been te bombarderen. Dat is buiten de pers gehouden, dus ik vond dat ik dat niet zomaar kon opschrijven. In een roman kan het weer wel. Een boek moest niet zo gruwelijk worden dat de lezer zegt: dit wil ik niet meer."
+In één scène in 'Onze oom' wordt een konvooi in een hinderlaag gelokt. Stukjes  lichaam van de slachtoffers worden in plastic tasjes verzameld.
+,,Dat is gruwelijk, maar net als het bombarderen van het been is het een soort verlichting, een komisch effect. Dat betekent niet dat het geen betrekking meer heeft op de werkelijkheid. Je wilt altijd vooral de situatie recht doen."
+'Huid en haar' begint als een komedie, maar daar kreeg de tragedie u uiteindelijk ook te pakken. Roland Oberstein, de econoom die gelooft dat de wereld een samenspel van economische transacties is, gaat ten onder.
+,,Het is niet helemaal de komedie geworden die ik in gedachten had toen ik eraan begon. Een pure komedie is uiteindelijk ook niet interessant. Ik wilde Oberstein niet laten wegkomen met zijn wereldbeeld. Hij wordt vrij zwaar gestraft, je kunt je afvragen of zijn misdaad die straf waard is. Hij wordt gestraft door het noodlot, niet door een rechtbank."
+Wat is zijn misdaad?
+,,Hij kan niet verkroppen dat er ook met hem wordt gespeeld en neemt wraak.  Die wraak  is unlike Oberstein. Hij beschouwt de wereld als een verzameling rationele transacties, maar dat kan hij niet meer. Wat ik aardig vind is dat hij niet ten onder gaat aan zijn wereldbeeld, maar aan het feit dat hij het loslaat. Iets is sterker dan hijzelf, daar geeft hij zich aan over."
+Net als  vrijwel alle hoofdpersonen uit uw romans.
+,,Mensen weten niet waardoor ze geregeerd worden. Dat is voor een roman een heel plausibele aanname. Ik denk dat wij in onze samenleving heel erg doen alsof we weten wat ons drijft, dat hebben we nodig. Een roman kan die illusies onderzoeken.
+,,De fascinatie voor Dominique Strauss-Kahn is niet alleen die voor het seksuele schandaal, het is ook die voor een man die zich niet in de hand heeft. De angst dat je je laat gaan zit in iedereen. Het is bij uitstek een gegeven waartoe je je als romanschrijver aangetrokken voelt."
+In 'Trouw'' schreef Jaap Goedegebuure dat Roland Oberstein een zelfportret is.
+,,De vraag is of dat komt door lezing van het boek of omdat Goedegebuure mij kent. Ik weet niet of dit meer een zelfportret is dan mijn andere boeken."
+Oberstein schrijft de geschiedenis van de economische bubbel, dat is een soort fictie. Hij inventariseert hoe mensen elkaar, en zichzelf, bedriegen. Dat is precies wat u doet in uw romans. Hij werkt zo hard dat hij overweegt tijd voor wanhoop in zijn agenda te zetten.
+,,En hij emailt tijdens het telefoneren. Daar ben ik al heel lang geleden mee opgehouden, het leidt te veel af. Veel van Obersteins problemen ken ik, maar dat geldt voor veel mensen. Hij probeert alles om te rekenen in tijd, de mensen om hem heen begrijpen dat niet, die willen zijn onverdeelde aandacht. Hij probeert alles te organiseren, maar uiteindelijk komt er weinig uit zijn handen."
+Vorige herfst werd er in Utrecht een congres over uw werk gehouden. Daar waren alle sprekers het erover eens dat u steeds ernstiger wordt. Is dat zo, of wordt u alleen maar beter begrepen?
+,,Ik hoop het laatste. Ik denk ook niet dat Huid en haar veel ernstiger is dan bijvoorbeeld De asielzoeker, of zelfs Fantoompijn. Ik ben open over mijn ernst, maar dat is niet iets van de laatste paar jaar."
+In 2001 schreef u twee dagen na 11 september dat de aardappelkroketten nog steeds heerlijk waren in uw favoriete New Yorkse restaurant.
+,,Aardappelpannenkoekjes.  Ik heb geen spijt van dat stuk, het is later opgenomen in de bundel Grunberg rond de wereld. Het vreemde is dat men zei dat ik het wel had mogen schrijven, maar niet zo kort na de aanslagen. Wanneer dan wel? Ik denk dat het krachtige juist is dat ik het toen meteen heb geschreven, juist om de hysterie te neutraliseren, door te laten zien hoe heel dichtbij in de stad ook nog andere dingen gebeuren en dat dat begrijpelijk is. Het was een provocatie. Maar niet omwille van de provocatie, maar omwille van de werkelijkheid."
+Vooral de provocatie werd opgemerkt. Zou u het weer zo doen?
+,,Nu zou ik het anders opschrijven. Ik denk dat ik nog beter weet hoe ik de mensen kan tergen."
+Daarom staat u elke dag op de voorpagina van 'De Volkskrant'. Hoe is het om een opinieleider te zijn?
+,,Het is voor mij interessant omdat ik een ander publiek bereik. Niet alleen omdat De Volkskrant een andere krant is dan NRC Handelsblad, maar vooral omdat de voorpagina ook gelezen wordt door mensen die nooit een roman van mij hebben gelezen, die zich afvragen wie die Anton Grunberg is. Niet dat ik denk dat ik er mijn hele leven mee door moet gaan, trouwens.  Ik ben geen missionaris."
+Helemaal zonder missie is die column ook weer niet. U verdedigde nadrukkelijk het recht op ritueel slachten.
+,,Ik wil een voetnoot plaatsen, daarom heet die column ook zo. Als iedereen op dezelfde manier ergens tegenaan kijkt, probeer ik net een andere invalshoek te nemen. Uit de reacties blijkt dan wat de onderwerpen zijn die Nederlanders echt bezighouden: pedofilie en ritueel slachten."
+Ik hoor zelden iets onaardigs over die column. U wordt nog onze onomstreden, nationale schrijver.
+,,Dat klinkt wel een beetje eng, hè? Het is een rol die je moet willen vervullen. Bij Gerard Reve zag je dat hij zich aan het eind van zijn leven eindeloos ging herhalen: iedereen vond het prachtig. Jan Wolkers, ging, met alle respect, de lieve opa spelen. Bij Mulisch zag je een vergelijkbaar effect."
+Uw archief ligt inmiddels al bij Bijzondere Collecties in Amsterdam.
+,,Ik stuurde al jaren af en toe een doos naar een verzamelaar. Ik houd niet van weggooien, maar mijn ruimte thuis is beperkt. Toen die verzamelaar ging verhuizen heb ik het archief aan de UvA aangeboden. Daar was men er heel blij mee. En zo kan ik het zelf ook raadplegen als ik in Amsterdam ben."
+U werkt aan uw eigen canonisering.
+,,Is dat zo? Die transactie met het archief is voor mij volkomen logisch. Zo klinkt het alsof ik op onwettige wijze literaire status probeer te verwerven. Ik werk wel aan mijn canonisering, maar alleen door boeken te schrijven. Ik doe niets anders, hooguit een enkele keer een voorleesavond. Ook om de uitgever te plezieren en allicht heb ik daar zelf ook commercieel belang bij. Daar speel ik in zekere zin een rol: de schrijver Arnon Grunberg. Op dat soort avondjes springt dan ook zelden echt een vonk over."
+Dit voorjaar verscheen ook 'Brieven aan Esther', een bundel met brieven uit begin jaren negentig.
+,,Er zijn veel mensen met veel brieven van mij uit die tijd. De vrouw aan wie ik die had geschreven is een kleine uitgeverij begonnen en wilde er een boekje van maken. Ik dacht aan een kleine bibliofiele uitgave, zoals er wel meer zijn gemaakt. Ik had niet verwacht dat het zo uitgebreid in de krant zou komen. Als mijn gewone uitgever met dat voorstel was gekomen, had ik het niet gedaan."
+Schaamt u zich voor die brieven?
+,,Ik voelde wel een zeker onbehagen toen ik ze weer las. Ik heb ze ook niet allemaal herlezen. Er zat een bepaald soort agressie in, die ik confronterend vond. Dat was ik kennelijk een beetje vergeten. Aan de andere kant verbaasde ik me over hoe open en ernstig ik was over mijn literaire ambities."
+Veel minder relativerend dan in uw  interviews na het verschijnen van 'Blauwe maandagen'.
+,,Kennelijk had ik begrepen dat het niet hoorde om al te open te zijn over je ambities."
+Dat is ook veranderd. Literair tijdschrift 'Tirade' vroeg onlangs aan een aantal schrijvers om hun eigen necrologie te schrijven. U liet zichzelf de Vredesprijs van de Duitse Boekhandel winnen.
+Grunberg grinnikt: ,,De Nobelprijs ging me net wat ver, maar ik wilde niet weglopen voor de vraag of me er met een grapje vanaf maken. En de Vredesprijs is een mooie prijs."
+Het is vooral een grote internationale prijs. Hoe gaat het eigenlijk in het buitenland? Welk deel van uw inkomen verdient u buiten Nederland?
+,,Ik denk ongeveer tien procent, maar heel precies weet ik het niet. Dat gaat dan om boekenverkoop, maar bijvoorbeeld ook om stukken in Die Zeit, Libération en The New York Times. Ik ben in 24 talen vertaald. Ik weet niet hoe Nederlands of kosmopolitisch mijn werk is. Lees je Tirza anders als je de Van Eeghenstraat niet kent? Ik hoop dat het boek duidelijk maakt waar die straat voor staat. Het aardige van buitenlandse besprekingen is dat het imago dat me hier aankleeft geen rol speelt. In Duitsland word ik vaak vergeleken met Woody Allen, terwijl ik helemaal niet zo veel met hem heb."
+U bent joods, woont in New York en u heeft gevoel voor humor, het ligt voor de hand.
+,,In Duitsland wordt mij bij lezingen op een gegeven moment altijd gevraagd waarom ik goed Duits spreek. Dan vertel ik dat mijn ouders Duits zijn, waarna je iedereen even ziet hoofdrekenen. Vervolgens komt het onderwerp ter sprake - of het wordt juist ontweken."
+In vrijwel al uw romans speelt de Holocaust een rol, maar bijna steeds een bijrol. Je zou je kunnen voorstellen dat u nog eens met een grote historische gettoroman komt.
+,,Dat zou kunnen, maar de kans lijkt me niet groot. Op het moment werk ik aan een novelle."
+'Elk boek is een project waarbij je kennis opdoet voor het project daarna'
+dertien bekroningen
+Sinds zijn debuut is de prijzenkast van Arnon Grunberg (Amsterdam, 1971) snel gevuld geraakt. Voor Blauwe maandagen (1994) kreeg hij de Anton Wachterprijs en het  Gouden Ezelsoor, voor De troost van de slapstick (1998) het Charlotte Köhler Stipendium, voor Fantoompijn  (2000) de AKO Literatuurprijs, voor De geschiedenis van mijn kaalheid (2000, gepubliceerd onder het pseudoniem Marek van der Jagt) opnieuw de Anton Wachterprijs, voor De Mensheid zij geprezen. Lof der zotheid 2001 (2001) de Gouden Uil, voor De asielzoeker (2003) de AKO Literatuurprijs en de Bordewijkprijs, voor Tirza (2006) De Gouden Uil en de Librisprijs.
+In 2009 ontving Grunberg de  Constantijn Huygensprijs voor zijn oeuvre, een jaar later de  Kellendonkprijs. En afgelopen woensdag is hem voor  Tirza de vijfjaarlijkse prijs voor proza van de Belgische Koninklijke Academie voor Nederlandse Taal- en Letterkunde toegekend.
+Zijn romans Gstaad 95-98, De joodse messias, Onze oom en Huid en haar werden werden allemaal genomineerd voor de Gouden Uil, de AKO- of Libris-literatuurprijs.
+</dcterms:description>
+        <dcterms:extent>word, 2121, Boeken</dcterms:extent>
+        <dcterms:issued>2011-07-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Ik weet nu nóg beter hoe ik kan tergen'; Grunberg over zijn recente werk, Afghanistan, DSK, 9/11,  en zijn 'agressieve' brieven van weleer</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

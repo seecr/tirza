@@ -1,0 +1,48 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81N1g5LVZSVDEtRFlSWS1OMDgy">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/57X9-VRT1-DYRY-N082"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=57X9-VRT1-DYRY-N082&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>Wegzinken in  drijfzand</dcterms:title>
+        <dcterms:creator>Arjen Fortuin</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Elf jaar geleden debuteerde Saskia de Coster met een korte roman over de vrouw met de grootste kont ter wereld. Vrije val eindigde met die vrouw, gelukkig op het dek van een schip met haar geliefde, terwijl de meeuwen zich tegoed deden aan dat kolossale achterste. Het was voldoende om de toen 26-jarige faam te bezorgen als groot literair talent met surrealistische trekjes. Haar volgende vier boeken bevestigden De Costers status als schepper van een beklemmende wereld die was opgebouwd uit geniale zinnen, briljante associaties, en vreemde wendingen. Ze schreef onder meer de sublieme novelle Held en werd de knuffelschrijfster voor de grote postmoderne gemeenschap in Vlaanderen. Tegelijk kreeg ze de reputatie dat je als lezer alle zeilen moest bijzetten om in het spoor van De Coster te blijven.
+Nu is er Wij en ik, een roman die doodkalm begint met de trage beschrijving van een villadorp in een bos op een Vlaamse berg. Dit is een plaats waar de orde regeert, het domein van mannen-managers en huisvrouwen achter deuren met twaalf sloten.  Het onverwachte is ondenkbaar. Hier leeft het geld, hier rust het geld. Zelfs de colporteurs melden zich op vaste uren. 'De zwarten beginnen hun praatje met een brede glimlach van melkwitte tanden, onmiddellijk gevolgd door de vriendelijke waarschuwing dat je geen schrik mag hebben, en in één adem prijzen ze de zelfgestencilde boekjes aan met oerverhalen over de ontstaansgeschiedenis van hun Afrikaanse stammen, ten voordele van  hun universitaire opleiding theologie aan een onbekende of onbestaande universiteit in het zuiden van Frankrijk.'
+In deze gemeenschap vol ongelukkige gezinnen die in weerwil van Tolstoj  allemaal  op elkaar lijken, wordt in het voorjaar van 1980 een meisje geboren, Sarah Vandersanden. Haar moeder Mieke is een vrouw  van rijke komaf, haar vader Stefaan is een boerenzoon die zich met niets ontziende ambitie heeft opgewerkt  tot  manager bij een farmaceutisch bedrijf. Maar hij sleept veel leed met zich mee: een verongelukt jonger broertje en een vader die zich verhing. Zijn moeder leeft, maar brengt haar dagen zwijgend door, ('nochtans, ze heeft een mooi aantal schuttingwoorden in het gareel staan').
+Deze ongelukkige oude vrouw wordt door De Coster vastgelegd in een hoofdstuk waarvan de ene zin nog mooier is dan de andere. Uren kan 'moemoe' voor lijk in een stoel  zitten, tot ze reden ziet om uit te vallen tegen de 40-jarige Stefaan als die zijn voeten onvoldoende heeft geveegd: 'Haar kind dat nog leeft, wil ze haar hele leven lang blijven opvoeden.' Wanneer Stefaan haar de eerste foto van haar kleinkind laat zien, barst ze los. Het kind is scheel, ziet geel, heeft een dik voorhoofd en zijn dat geen zes teentjes? 'Ze is niet te stoppen en brengt het hele blote lichaampje in kaart aan de hand van afwijkingen en vervloekingen en misvormingen. Saraahtche - ze spreekt de naam uit alsof ze niest'.
+Maar er is meer dan grootmoederlijke hatelijkheden. Enkele pagina's later zien we de andere kant van de oude vrouw als zij bidt: of de Heer haar niet snel kan halen, zij is zo oud en de kleine Sarah is zo jong. Moemoe zal zich even daarna tegen een boom te pletter rijden.
+Met dit prachtige en gelaagde portret zet De Coster de toon voor de rest van de roman. Ditmaal draait het niet om improvisaties en absurditeiten, maar om een even conventionele als imposante gezinsgeschiedenis. Als in een 19de-eeuwse realistische roman beschrijft ze de zeden en  gewoonten van de hoge burgerij in de provincie, waarbij Mieke Vandersanden overigens  de roekeloosheid mist van die andere verveelde huisvrouw, Emma Bovary.
+Wij en ik is vooral het verhaal van de ondergang van de vader, die  wegzinkt in het drijfzand van een teveel aan verleden en een tekort aan toekomst. Nadat zijn eerste brandende ambitie geblust is, kost het hem steeds meer moeite zich te handhaven op zijn werk, waar hij ook wordt dwarsgezeten door een zekere Berkvens, een oer-intrigant die alle belangrijke promoties heeft gemist en nu vanuit een vakbondsfunctie probeert zijn oude kameraad Stefaan het leven zuur te maken.
+Ook op de rest van het leven heeft Stefaan steeds minder vat: hij trekt zich terug in zijn schuur annex timmerwerkplaats, verwondt zijn vinger en raakt steeds verder van de realiteit verwijderd. Hij luistert veel te veel naar Bob Dylan. Tussen de regels door verwijst De Coster naar Jörgen Hofmeester, de op verwante wijze verkruimelende hoofdpersoon van Arnon Grunbergs Tirza. Dat er een grote destructieve kracht in Stefaan schuilt, wordt steeds duidelijker - het is alleen nog de vraag tegen wie of wat die kracht zich zal richten.
+Stefaans vrouw Mieke heeft haar eigen momenten van paniek, namelijk alle momenten waarop er iets onverwachts voorvalt. Ze wijdt zich fulltime aan het huisvrouwenbestaan inclusief het met een kammetje rechtstrijken van de franje van de tapijten uit haar collectie - tot haar knieën er beurs van zijn. Contact hebben de echtelieden amper, al blijven ze hun onderlinge band zelf als een vorm van liefde interpreteren. De opgroeiende Sarah, intussen, gaat evenzeer haar eigen gang: ze slijt haar dagen met een groepje vriendinnen, richt een meidengroep op (The Lady Dies) en maakt kennis met  genotsmiddelen waarvan het haar moeder koud om het hart wordt.
+Zo is Wij en ik óók een Bildungsroman over Sarah, bij geboorte een onruststookster (dixit haar grootmoeder), maar voor de lezer overduidelijk een kind dat voor de kunsten is geschapen. Tegelijk is het boek een satire op het leeglopende rijkemensenbestaan van Mieke, Stefaan  in de verkaveling.  Simultaan verdwijnen de vanzelfsprekendheden van de hoogste klasse van de Vlaamse samenleving. De huisvrouwen gaan aan het werk. Het oude kasteel verderop wordt het domein van de jongeren: Sarah en haar vrienden hangen er rond,  bevuilen de tapijten en koken knakworst in de keuken.
+Dit is ook het tijdperk waarin het 'ik' zich bevrijdt ten koste van het 'wij'. Sarah, Stefaan en Mieke voelen zich geen van allen op hun gemak in hun beklemmende driemanschap, ze negeren elkaar voornamelijk; niet eens uit kwade wil, maar omdat echt contact grotere nadelen met zich meebrengt. Tegelijk komt tegen het einde van de roman - die besluit met een al te uitgesponnen episode die zich in New York afspeelt - steeds helderder naar voren dat er in het gezin ondanks alles wel degelijk banden werden gesmeed - al toont de liefde zich pas echt in tijden van rouw.
+Na alle ellende eindigt Wij en ik hoopvol. In de slotscène zien we zoals vaker in De Costers romans, twee door de loop van de geschiedenis beschadigde mensen die elkaar gevonden hebben. Ze zijn naar de bovenste verdieping van een flatgebouw geklommen, maar zonder angstaanjagende bijbedoelingen. De vleesetende vogels uit De Costers debuut zijn nergens te bekennen. Want soms sta je alleen maar op het dak om van het uitzicht te genieten.
+Het is ook een satire op het leeglopende rijkemensenbestaan
+Saskia de Coster: Wij en ik. Prometheus, 400 blz. EUR 19,95
+De nieuwe roman van de Vlaamse schrijfster Saskia de Coster (1976)  is een indrukwekkende Bildungsroman en een gezinsgeschiedenis. Net als in haar eerdere boeken blinkt het verhaal uit in zijn schitterende taal.
+</dcterms:description>
+        <dcterms:extent>word, 1221, Boeken</dcterms:extent>
+        <dcterms:issued>2013-03-08</dcterms:issued>
+        <rdfs:label xml:lang="nl">Wegzinken in  drijfzand</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>

@@ -1,0 +1,56 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <oa:Annotation xmlns:oa="http://www.w3.org/ns/oa#" rdf:about="http://data.bibliotheek.nl/nbc/summary#aHR0cDovL2RhdGEuYmlibGlvdGhlZWsubmwvbGV4aXNuZXhpcy81ODc4LUY0WDEtRFlSWS1OM1gy">
+    <oa:annotatedBy rdf:resource="http://bibliotheek.nl/id/bnl"/>
+    <oa:motivatedBy rdf:resource="http://data.bibliotheek.nl/ns/nbc/oa#summarizing"/>
+    <oa:hasTarget rdf:resource="http://data.bibliotheek.nl/lexisnexis/5878-F4X1-DYRY-N3X2"/>
+    <oa:hasBody>
+      <rdf:Description xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+        <dcterms:source rdf:resource="urn:nbc:source:krantenbank"/>
+        <dcterms:type rdf:resource="http://dbpedia.org/resource/Article_(publishing)"/>
+        <rdfs:seeAlso rdf:resource="http://www.lexisnexis.com/nl/business/docview/getDocForCuiReq?lni=5878-F4X1-DYRY-N3X2&amp;csi=259064&amp;oc=00240&amp;perma=true"/>
+        <dcterms:title>'Vertaalde literatuur is inferieur in de VS'</dcterms:title>
+        <dcterms:creator>Sebastiaan Kort</dcterms:creator>
+        <dcterms:date>2013</dcterms:date>
+        <dcterms:publisher>
+          <rdf:Description rdf:about="http://data.bibliotheek.nl/lexisnexis/nrc">
+            <rdfs:label>NRC Handelsblad</rdfs:label>
+          </rdf:Description>
+        </dcterms:publisher>
+        <dcterms:language>
+          <rdf:Description rdf:about="urn:iso:std:iso:639:-2:dut">
+            <rdfs:label>Nederlands</rdfs:label>
+          </rdf:Description>
+        </dcterms:language>
+        <dcterms:description>VOLLEDIGE TEKST:
+Wie begin jaren tachtig in Nederland woonde en iets met zijn vrienden in Amerika wilde delen, kon twee dingen doen: een kaartje schrijven of bellen. Sam Garrett had daar niet genoeg aan. Het was crisis (toen ook al) en de in Amsterdam wonende Amerikaanse journalist probeerde zich via de literatuur het Nederlands meester te maken.
+Op een dag las hij Een dag uit leven van David Windvaantje van Maarten Biesheuvel. ,,Prachtig", zegt Garrett. ,,De sfeer, Biesheuvels stem die zowel treurig als grappig was: het had alles wat ik in literatuur waardeerde. Ik wist zeker dat mijn vrienden in Amerika het ook schitterend zouden vinden. Maar omdat het niet in het Engels was vertaald ben ik het zelf maar gaan doen. Ik ben aan het vertalen geslagen omdat ik wat ik in het Nederlands las met mijn vrienden wilde delen."
+Dertig jaar later ontsluit Garrett (1956) nog steeds Nederlandse en Vlaamse literatuur voor Engelstaligen. Fictie en non-fictie. Onder andere Tim Krabbé, Jan Brokken, David Van Reybrouck, Otto de Kat, Tommy Wieringa, Herman Koch en Arnon Grunberg zijn dankzij Garrett in het Engels te lezen.
+Grunbergs Tirza, afgelopen week uitbundig geprezen in de Los Angeles Times, is Garretts laatst verschenen vertaling, maar hij is nog vol van de avonturen van Kochs The Dinner in zijn geboorteland. ,,Ik schrok wel toen ik die eerste recensie  in  The New York Times las. Ze vond het, hoe zou Bram Moszkowicz het zeggen... abject. Een undigestable read, moreel gezien onverteerbaar. Een kritiek buiten de spelregels om, en eerder een stuk dat je in een kleinere, provinciale krant in de VS zou verwachten. Ik dacht: als dat de teneur wordt staat ons nog wat te wachten. Het zal niet de eerste keer zijn dat een boek of een ander kunstwerk in Amerika doodslaat omdat er een zogenaamd verdorven moraal in te vinden is."
+Onvoorspelbaar
+Maar toen dook The Dinner ineens op in de bestsellerlijst van diezelfde New York Times. Het laat volgens Garrett zien hoe onvoorspelbaar de Amerikaanse lezer is. ,,Er is weinig peil op te trekken. Dat ze verhalen en romans willen waar in elk geval vaart in zit is duidelijk, maar verder? Het is misschien makkelijker om te zeggen wat ze níet willen.
+,,Boeken die over het algemeen moeilijker vallen, zijn boeken waarin geen personage te vinden is met wie de lezer zich kan identificeren. Een held in de zwarte nacht. Men wil licht aan het einde van de tunnel, redemption. Koch biedt dat niet in Het diner, en dat is hem in dat stuk van Maslin dus ook opgebroken. Dat het boek daarna wél aansloeg is opmerkelijk. Ik heb Koch meteen een blije mail gestuurd: niet slecht voor een undigestable read!"
+Garrett vertaalde ook Joe Speedboot van Tommy Wieringa. Hij dacht er een ideaal boek voor de Amerikaanse lezer mee in handen te hebben. Dat bleek tegen te vallen. ,,Vreemd natuurlijk, want er zat vaart en humor genoeg in. Maar je moet weten dat vertaalde boeken, uit welk land ook, in de VS bijna per definitie als inferieur worden gezien. Puur chauvinisme. Natuurlijk is er wel een klein, intellectueel lezersgroepje voor te vinden, maar het grote publiek beschouwt vertaalde literatuur toch als literatuur van het tweede garnituur. Stieg Larsson sloeg aan in Amerika, maar ik vraag me af of men wel doorhad dat hij een Zweed was."
+Van sommige vertalingen weet Garrett van tevoren al dat er geen groot publiek voor warm zal lopen. Van de kort geleden overleden Nanne Tepper vertaalde hij in 1999 De eeuwige jachtvelden (The Happy Hunting-Grounds). ,,Een prachtig project. Ik moest voor de in het Gronings geschreven passages een Amerikaans equivalent vinden. Het werd een dialect uit het noordoosten van de VS, bij Maine en Vermont. Daar wonen veel boeren vissers, en dat zijn net als de Groningers in Teppers boek geen praters. Ze slikken sommige woorden ook een beetje in."
+Hij 'vertaalt zoals hij gebekt is', zoals hij zelf zegt, wat er soms voor kan zorgen dat de woorden van de Amerikaan Garrett voor bijvoorbeeld een Brit niet helemaal te begrijpen zijn. Hij noemt het voorbeeld van de 'watchcap', een in de VS gangbaar woord voor muts, dat men in Groot-Brittannië niet kent.
+Tierelantijntjes
+Een groter vertalersprobleem is het ,,niet kunnen vinden van een stem", zoals Garrett het uitdrukt. ,,Ik ben soms al 30, 40 pagina's op weg wanneer het kwartje valt. Ik ben niet iemand die van tierelantijntjes houdt, maar toch ligt de neiging om passages mooier op te schrijven dan ze zijn altijd op de loer. Dan moet ik mezelf tot de orde roepen en in mijn moerstaal zoeken naar dezelfde toonhoogte. Vertalen is geen woorden omzetten, vertalen is een vorm van acteren waarmee je de lezer een vergelijkbare ervaring geeft als de oorspronkelijke lezer."
+Gelukkig kan hij wanneer hij een stem zoekt een denkbeeldige kast opentrekken. ,,Neem de scène in Tirza waarin Jörgen Hofmeester op zijn werk op een zijspoor wordt gezet. Ik hoefde toen alleen maar even aan mijn zwager te denken, die in de VS vertegenwoordiger is, om me te kunnen voorstellen hoe zo iemand zo'n gesprek voert. En om de stem van Paul Lohman uit Het diner te vinden heb ik talloze gesprekken in restaurants afgeluisterd."
+De toon van Grunberg weet Garrett na vijf boeken steeds makkelijker te vinden. Bij Fantoompijn (Phantom Pain) was dat nog even zoeken. Wie was toch die Robert Mehlman? Na lang dubben wist Garrett het. Mehlman was die oude vriend van hem van de universiteit. Die was ook innemend en charmant en misschien wel een briljante geest. Maar tegelijkertijd kon hij niet tegen kritiek en teleurstellingen. Garrett liep in het park toen hij dit bedacht. Hij ging naar huis en kon aan het werk.
+'Amerikanen willen licht aan het eind van de tunnel'
+Tommy Wieringa: Joe Speedboat
+It's been a warm spring. At school they're praying for me, because I've been out of it for more than two hundred days. I've got bedsores all over my body and a condom catheter taped to my flute. This, the doctor tells my parents, is the phase of the 'coma vigil': I've regained limited receptivity to my surroundings. He says I've started reacting to pain and noise stimuli, and that's good news. Reacting to pain is a definite sign that you're alive.
+Arnon Grunberg: Tirza
+Jörgen Hofmeester is in the kitchen, cutting tuna for the party. With his left hand he clutches the raw fish. He wields the knife the way he learned during the "Make your own sushi and sashimi" course he took with his wife five years ago. Don't exert too much pressure, that's the trick.
+The kitchen door is ajar. The evening is sultry, the way Tirza had hoped. She's been poring over the weather reports for the last few days, as though the success of her party depended on the weather.
+Herman Koch: The Dinner
+The actress looked me over from head to toe before speaking. "Your wife tells me you will be leaving us tomorrow." Her voice had something artificially sweet to it, like the substance in Diet Coke, or the filling they use in diabetic chocolates, which say on the package that they won't make you fat. I looked at Claire, who rolled her eyes slightly, up at the star-studded sky. "And that you're going to Spain, of all places."
+I thought about one of my favorite scenes from Straw Dogs. What would this artificial voice sound like if its owner were to be dragged into a barn by a pair of drunken French bricklayers?
+</dcterms:description>
+        <dcterms:extent>word, 1249, Boeken</dcterms:extent>
+        <dcterms:issued>2013-04-19</dcterms:issued>
+        <rdfs:label xml:lang="nl">'Vertaalde literatuur is inferieur in de VS'</rdfs:label>
+        <skos:note>BQM_15</skos:note>
+      </rdf:Description>
+    </oa:hasBody>
+  </oa:Annotation>
+</rdf:RDF>
