@@ -57,11 +57,10 @@ def addToIndex(lxmlNode):
                 if value in seen:
                     continue
                 seen.add(value)
-                field = Field(fieldName, value, vectorFieldType)
+                field = Field(INDEX_FIELDS.get(fieldName, fieldName), value, vectorFieldType)
                 doc.add(field)
                 doc.add(StringField("uri", uri, Field.Store.YES))
     writer.updateDocument(Term("uri", uri), doc)
-
 
 def read_data():
     datadir = 'data/summaries'
@@ -72,13 +71,18 @@ def read_data():
         addToIndex(lxmlNode)
 
 def read_vectors():
-    for doc in range(0, reader.numDocs()):
+    for doc in xrange(0, reader.numDocs()):
         for fieldName in FIELD_NAMES:
             terms = reader.getTermVector(doc, fieldName)
             if terms:
                 termsEnum = terms.iterator(None)
                 vectors[fieldName][doc] = \
                     set(term.utf8ToString() for term in BytesRefIterator.cast_(termsEnum))
+
+def read_uris():
+    with open("data/uris.csv", "w") as f:
+        for doc in xrange(0, reader.numDocs()):
+            print >> f, "%s;%s" % (doc, reader.document(doc).get("uri"))
 
 vectors = defaultdict(dict)
 matrix = defaultdict(dict)
@@ -100,15 +104,47 @@ def make_matrix():
                             matrix[fieldName][(doc,other)] = d
             
 
-FIELD_NAMES = ['dcterms:title', 'dcterms:subject', 'dcterms:creator', 'dcterms:contributor']
+FIELD_NAMES = ['dcterms:title', 'dcterms:subject', 'dcterms:creator', 'dcterms:contributor', 'dcterms:date', 'dcterms:description', 'dcterms:type']
+INDEX_FIELDS = {
+    'dcterms:contributor': 'dcterms:creator'
+}
 
 read_data()
 
 reader, searcher = open_searcher(writer)
 
 read_vectors()
+read_uris()
 make_matrix()
-print matrix
+#for field, fieldMatrix in matrix.iteritems():
+#    print field, fieldMatrix
+
+
+def aggregateFieldsEqualWeights():
+    aggregatedMatrix = {}
+    for doc in xrange(0, reader.numDocs()):
+        for other in xrange(0, doc):
+            total = 0.0
+            for fieldName in FIELD_NAMES:
+                value = matrix.get(fieldName, {}).get((doc, other))
+                if value:
+                    total += value
+            if total:
+                aggregatedMatrix[(doc, other)] = total / 6
+    return aggregatedMatrix
+
+aggregatedMatrix = aggregateFieldsEqualWeights()
+with open("result.csv", "w") as f:
+    for n in xrange(0, reader.numDocs()):
+        f.write("%s;" % n)
+    f.write("\n")
+    for n in xrange(0, reader.numDocs()):
+        f.write("%s;" % n)
+        for _ in xrange(0, reader.numDocs()):
+            value = aggregatedMatrix.get((n, _), 0)
+            f.write("%s;" % value)
+        f.write("\n")
+
 
 writer.close()
 reader.close()
